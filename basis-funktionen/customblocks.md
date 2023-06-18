@@ -20,4 +20,4 @@ Die CustomBlocks sind auf CurseForge unter dem folgenden Link zu finden: XX LINK
 
 ### CustomBlocks für ältere Versionen
 
-Für die Älteren Versionen stehen die Blöcke nur als Addon im MysteryMod Client zur Verfügung. Dort wird jedoch nur die Version 1.8 weiterhin aktualisiert. Die Versionen 1.16, 1.18 und 1.19 erhalten keine weiteren Updates für die Möbel. Bei Versionen über 1.8 (aber auch in 1.8 möglich) empfehlen wir deshalb, ebenfalls das Fabric-Addon zu benutzen.
+Für die Älteren Versionen stehen die Blöcke nur als Addon im [MysteryMod Client](https://mysterymod.net) zur Verfügung. Dort wird jedoch nur die Version 1.8 weiterhin aktualisiert. Die Versionen 1.16, 1.18 und 1.19 erhalten keine weiteren Updates für die Möbel. Bei Versionen über 1.8 (aber auch in 1.8 möglich) empfehlen wir deshalb, ebenfalls das Fabric-Addon zu benutzen.
