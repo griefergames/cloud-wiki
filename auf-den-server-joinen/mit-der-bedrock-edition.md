@@ -17,4 +17,4 @@ Die Beta-Versionen können in der Regel nicht auf GrieferGames joinen.
 
 ## Probleme mit der Performance / Crash / Join nicht möglich?
 
-Wir vergeben auf dem Standardport automatisch ein Texturenpaket, welches die CustomBlocks von GrieferGames beinhaltet. Solltest du damit Performance-Probleme bekommen, kannst du den alternativen Port <mark style="color:orange;">**19134**</mark> benutzen, welcher diese Blöcke nicht hinzufügt.
+Wir vergeben auf dem Standardport automatisch ein Texturenpaket, welches die [CustomBlocks ](../basis-funktionen/customblocks.md)von GrieferGames beinhaltet. Solltest du damit Performance-Probleme bekommen, kannst du den alternativen Port <mark style="color:orange;">**19134**</mark> benutzen, welcher diese Blöcke nicht hinzufügt.
