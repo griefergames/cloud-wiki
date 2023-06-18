@@ -18,7 +18,9 @@
 
 ## Umfangreiche Features
 
-* [Page 1](umfangreiche-features/page-1.md)
+* [Erfolge / Advancements](umfangreiche-features/erfolge-advancements.md)
+* [Die Händler](umfangreiche-features/die-haendler.md)
+* [Job System](umfangreiche-features/job-system.md)
 
 ## Minigames
 
