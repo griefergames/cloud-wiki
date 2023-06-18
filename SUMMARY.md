@@ -9,6 +9,7 @@
 ## 🔳 Basis Funktionen
 
 * [🌐 Grundbefehle](basis-funktionen/grundbefehle.md)
+* [🅱 CustomBlocks](basis-funktionen/customblocks.md)
 * [ℹ Essentielle Befehle](basis-funktionen/essentielle-befehle/README.md)
   * [Item Signieren](basis-funktionen/essentielle-befehle/item-signieren.md)
 
