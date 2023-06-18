@@ -16,4 +16,4 @@ Das Cloud-Netzwerk hat zusätzlich zu der Standard-Adresse eine Möglichkeit dir
 
 Für die direkte Verbindung ist die Serveradresse: <mark style="color:orange;">**cloud.griefergames.net**</mark>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Verbindungsinformationen Java-Editon Cloud Direktverbindung</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Verbindungsinformationen Java-Editon Cloud Direktverbindung</p></figcaption></figure>
