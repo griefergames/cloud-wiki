@@ -9,6 +9,9 @@
 ## Basis Funktionen
 
 * [🌐 Grundbefehle](basis-funktionen/grundbefehle.md)
+* [🏡 Grundstücke](basis-funktionen/grundstuecke/README.md)
+  * [Hilfe benutzen](basis-funktionen/grundstuecke/hilfe-benutzen.md)
+  * [Flags setzen](basis-funktionen/grundstuecke/flags-setzen.md)
 * [🅱 CustomBlocks](basis-funktionen/customblocks.md)
 * [ℹ Essentielle Befehle](basis-funktionen/essentielle-befehle/README.md)
   * [Item Signieren](basis-funktionen/essentielle-befehle/item-signieren.md)
