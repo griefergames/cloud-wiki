@@ -5,10 +5,13 @@
 * [Auf den Server joinen](auf-den-server-joinen/README.md)
   * [mit der Bedrock-Edition](auf-den-server-joinen/mit-der-bedrock-edition.md)
   * [mit der Java-Edition](auf-den-server-joinen/mit-der-java-edition.md)
+* [Start auf GrieferGames](start-auf-griefergames.md)
 
 ## Basis Funktionen
 
 * [🌐 Grundbefehle](basis-funktionen/grundbefehle.md)
+* [🚧 Resourcen-Paket](basis-funktionen/resourcen-paket.md)
+* [🌳 Die Farmwelten](basis-funktionen/die-farmwelten.md)
 * [🏡 Grundstücke](basis-funktionen/grundstuecke/README.md)
   * [Hilfe benutzen](basis-funktionen/grundstuecke/hilfe-benutzen.md)
   * [Flags setzen](basis-funktionen/grundstuecke/flags-setzen.md)
@@ -16,11 +19,14 @@
 * [ℹ Essentielle Befehle](basis-funktionen/essentielle-befehle/README.md)
   * [Item Signieren](basis-funktionen/essentielle-befehle/item-signieren.md)
 
-## Umfangreiche Features
+## Features / Systeme
 
-* [Erfolge / Advancements](umfangreiche-features/erfolge-advancements.md)
-* [Die Händler](umfangreiche-features/die-haendler.md)
-* [Job System](umfangreiche-features/job-system.md)
+* [Mentoren-Programm](features-systeme/mentoren-programm.md)
+* [Adventure System](features-systeme/adventure-system.md)
+* [Job System](features-systeme/job-system.md)
+* [Die Händler](features-systeme/die-haendler.md)
+* [Erfolge / Advancements](features-systeme/erfolge-advancements.md)
+* [Case Opening](features-systeme/case-opening.md)
 
 ## Minigames
 
