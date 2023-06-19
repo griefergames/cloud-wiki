@@ -36,3 +36,7 @@ Wir wollen möglichst wenig in eure eigenen Texturen eingreifen und beschränken
 * Einzelne Änderungen von Spezial-Item-Optiken zur Hervorhebung
 
 Wir wollen es jederzeit ermöglichen, dass weiterhin eigene Texturenpakete verwendet werden können, um die Optik der Blöcke oder Items zu verändern. Wir beschränken uns dort auf die spezifischen Server-Ansichten & -Items.
+
+## Beispiele an Inhalten
+
+![](<../.gitbook/assets/image (10).png>)![](<../.gitbook/assets/image (6).png>)![](<../.gitbook/assets/image (14).png>)![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (16).png>)

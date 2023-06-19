@@ -23,7 +23,7 @@ Das Netzwerk ist eine Cloud. Wir haben bei diesem Netzwerk auf eine andere Techn
 
 ### Die Struktur
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Netzwerk-Struktur der Citybuilds</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Netzwerk-Struktur der Citybuilds</p></figcaption></figure>
 
 Der Citybuild- oder auch Plot-Bereich des Netzwerks ist in ein Raster gegliedert. Dieses Raster sind je eigene Regionen mit einem eigenen Namen. In der Mitte befindet sich der zentrale Spawn 100-100.&#x20;
 
@@ -33,7 +33,7 @@ Wird also einmal der Platz knapp oder anhand der Spielerzahl stoßen die vorhand
 
 #### Farm-Server
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>Netzwerk-Struktur der Farm-Server</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>Netzwerk-Struktur der Farm-Server</p></figcaption></figure>
 
 Etwas anders sind die Farm--Server aufgestellt.
 
