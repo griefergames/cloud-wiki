@@ -4,7 +4,7 @@ description: Informationen zu den Farmwelten der Cloud
 
 # 🌳 Die Farmwelten
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Spawn der Farmwelten</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Spawn der Farmwelten</p></figcaption></figure>
 
 Das Cloud-Netzwerk hat mehrere Farmwelten, welche komplett eigenständige Welten sind. Die Server unterscheiden sich in Anordnung der Biome, Strukturen und Elemente, kurz gesagt, jede Welt hat ihre eigenen Seeds.
 
@@ -22,7 +22,7 @@ Ab dem **Griefer-Rang** kann unter `/farm` auch der gewünschte Farm-Server gew�
 
 Um zu erkennen in welcher Farmwelt man sich befindet, ist in der Tabliste über den Spielern die aktuelle Region angezeigt.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Anzeige der Region in der Tabliste</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Anzeige der Region in der Tabliste</p></figcaption></figure>
 
 ## Spawn & Spawn-Protection
 
