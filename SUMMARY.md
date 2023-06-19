@@ -10,7 +10,7 @@
 ## Basis Funktionen
 
 * [🌐 Grundbefehle](basis-funktionen/grundbefehle.md)
-* [🚧 Resourcen-Paket](basis-funktionen/resourcen-paket.md)
+* [🚧 Ressourcen-Paket](basis-funktionen/ressourcen-paket.md)
 * [🌳 Die Farmwelten](basis-funktionen/die-farmwelten.md)
 * [🏡 Grundstücke](basis-funktionen/grundstuecke/README.md)
   * [Hilfe benutzen](basis-funktionen/grundstuecke/hilfe-benutzen.md)

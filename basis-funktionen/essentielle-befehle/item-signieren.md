@@ -12,7 +12,7 @@ Dieser Befehl steht dir ab dem **Titan-Rang** zur Verfügung.
 
 * Um ein Item zu signieren, muss dieses in der Hand gehalten werden. Dann kann mit dem Befehl `/sign <Nachricht>` eine Signatur hinzugefügt werden.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Beispiel-Signierung eines Items</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Beispiel-Signierung eines Items</p></figcaption></figure>
 
 * Jedes Item kann immer nur eine Signatur besitzen und diese kann nur vom Besitzer mit `/unsign` wieder entfernt werden.
 * Wenn du gerne färbig signieren willst, kannst du die Minecraft Farbcodes verwenden. Hierfür muss vor dem jeweiligen Wort oder Buchstaben folgendes stehen: &\<Farbcode>TEXT.&#x20;
