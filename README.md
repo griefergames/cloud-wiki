@@ -4,7 +4,7 @@ description: Herzlich Willkommen im GrieferGames Cloud Wiki
 
 # Startseite
 
-## ![](<.gitbook/assets/image (12).png>)
+## ![](<.gitbook/assets/image (16).png>)
 
 ## Über Griefergames
 
