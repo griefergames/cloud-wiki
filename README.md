@@ -4,7 +4,7 @@ description: Herzlich Willkommen im GrieferGames Cloud Wiki
 
 # Startseite
 
-## ![](<.gitbook/assets/image (16).png>)
+## ![](<.gitbook/assets/image (14).png>)
 
 ## Über Griefergames
 
@@ -22,4 +22,11 @@ Wenn du uns helfen möchtest das Wiki weiter zu füllen, kannst du uns Fehler od
 
 Um eine komplette Seite für das Wiki zu erstellen, erstelle die Seite mit Informationen, Bildern etc. in einem Google-Dokument (Doc) und sende uns diesen Link zu. Wir können die Wiki-Seite dann aus deinem Dokument importieren und schon ist die Seite verfügbar.
 
-Wir zeigen uns bei kompletten Seiten und aufwändigen Informationen natürlich erkenntlich. Mehr dazu findest du in unserer News: XXXX NEWS LINK XXXX
+Wir zeigen uns bei kompletten Seiten und aufwändigen Informationen natürlich erkenntlich. Mehr dazu findest du in unserer News: [https://forum.griefergames.de/news/view/358-cloud-neues-wiki-community-projekt/](https://forum.griefergames.de/news/view/358-cloud-neues-wiki-community-projekt/)
+
+Einreichen von Informationen kannst du hier:
+
+* [Feedback-Bereich Cloud](https://forum.griefergames.de/forum/board/299-feedback-cloud-netzwerk-vorschl%C3%A4ge-ideen/)
+* [GrieferGames Discord](https://discord.gg/abge) (Im Ticket-System)
+* [Ticket-System](https://ticket.griefergames.de)
+
