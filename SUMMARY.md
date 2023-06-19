@@ -18,15 +18,14 @@
 * [🅱 CustomBlocks](basis-funktionen/customblocks.md)
 * [ℹ Essentielle Befehle](basis-funktionen/essentielle-befehle/README.md)
   * [Item Signieren](basis-funktionen/essentielle-befehle/item-signieren.md)
-
-## Features / Systeme
-
-* [Mentoren-Programm](features-systeme/mentoren-programm.md)
-* [Adventure System](features-systeme/adventure-system.md)
-* [Job System](features-systeme/job-system.md)
-* [Die Händler](features-systeme/die-haendler.md)
-* [Erfolge / Advancements](features-systeme/erfolge-advancements.md)
-* [Case Opening](features-systeme/case-opening.md)
+* [❤ Features](basis-funktionen/features/README.md)
+  * [Mentoren-Programm](basis-funktionen/features/mentoren-programm.md)
+  * [Adventure System](basis-funktionen/features/adventure-system.md)
+  * [Job System](basis-funktionen/features/job-system.md)
+  * [Die Händler](basis-funktionen/features/die-haendler.md)
+  * [Erfolge / Advancements](basis-funktionen/features/erfolge-advancements.md)
+  * [Case Opening](basis-funktionen/features/case-opening.md)
+  * [Tricher-System](basis-funktionen/features/tricher-system.md)
 
 ## Minigames
 
