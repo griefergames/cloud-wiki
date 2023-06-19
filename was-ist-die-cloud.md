@@ -11,6 +11,10 @@ Die **Cloud** ist das Netzwerk von GrieferGames, welches auf der neusten Minecra
 
 ## Warum heißt das Netzwerk Cloud?
 
+{% hint style="info" %}
+Die aktuelle Server-Version der Cloud ist die: **1.19.2**
+{% endhint %}
+
 Zu Beginn des Netzwerks hieß das Netzwerk **1.16-Netzwerk**. Dieses wurde durch das Update zur Minecraft-Version 1.19 zum **1.19-Netzwerk**. Da dort immer wieder Verwirrungen der Namen auftauchten durch die Umstellung, haben wir den Internen Namen _**Cloud-Netzwerk**_ oder _**GGCloud**_ dann auch für die Namensgebung verwendet und haben somit nun einen versionsunabhängigen Namen für das Netzwerk.
 
 ## Warum Cloud?
@@ -19,7 +23,7 @@ Das Netzwerk ist eine Cloud. Wir haben bei diesem Netzwerk auf eine andere Techn
 
 ### Die Struktur
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Netzwerk-Struktur der Citybuilds</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Netzwerk-Struktur der Citybuilds</p></figcaption></figure>
 
 Der Citybuild- oder auch Plot-Bereich des Netzwerks ist in ein Raster gegliedert. Dieses Raster sind je eigene Regionen mit einem eigenen Namen. In der Mitte befindet sich der zentrale Spawn 100-100.&#x20;
 
@@ -60,4 +64,3 @@ Während diese Anzeige zu sehen ist, wird die entsprechende Region im Hintergrun
 * Der Server musste auf Resourcen der Cloud warten und konnte deshalb erst später anfangen zu starten
 
 In diesen Fällen reicht es in der Regel aus, mit etwas Geduld den gewünschten Befehl erneut auszuführen. Das Problem sollte sich in der Regel innerhalb von 10 Minuten automatisch lösen. Dauert es mal länger, meldet dieses gerne auf dem GrieferGames Discord, dann können wir das prüfen und ggf. manuell reagieren.
-

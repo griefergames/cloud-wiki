@@ -12,4 +12,4 @@ Viele Einstellungen und Optionen können für das Grundstück auch im Hilfe-Men�
 
 Im Hilfe-Menü könnt ihr das Biom einfach per Menü-Klick wechseln und seht dabei auch, welche Biome euch zur Verfügung stehen.
 
-![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (5).png>)
+![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (5).png>)
