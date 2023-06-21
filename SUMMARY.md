@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Startseite](README.md)
-* [1.8 Wiki (Link ausstehend)](https://wiki.griefergames.live)
+* [1.8 Wiki](https://wiki.griefergames.net)
 * [Was ist die Cloud?](was-ist-die-cloud.md)
 * [Auf den Server joinen](auf-den-server-joinen/README.md)
   * [mit der Bedrock-Edition](auf-den-server-joinen/mit-der-bedrock-edition.md)
@@ -36,3 +36,8 @@
   * [TNT-Run](minigames/karten-erstellen/tnt-run.md)
   * [Lasertag](minigames/karten-erstellen/lasertag.md)
   * [Elytra-Flug](minigames/karten-erstellen/elytra-flug.md)
+
+## Hilfreiche Links
+
+* [GrieferGames Forum](https://forum.griefergames.de)
+* [GrieferWert - Preisübersicht](https://wert.griefergames.de)
