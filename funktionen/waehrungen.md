@@ -23,8 +23,8 @@ Für Adventure Coins musst du tägliche Aufgaben beim [Adventurer ](features/adv
 Es gibt aktuell 3 Aufgaben:
 
 * tägliche Aufgabe <mark style="color:orange;">**1 Adventure Coin**</mark> (Reset um 0:00 Uhr)
-* wöchentliche Aufagbe <mark style="color:orange;">**5 Adventure Coins**</mark> (Reset am Montag um 0:00 Uhr)
-* monatliche Aufgabe <mark style="color:orange;">**12 Adventure Coins**</mark> (Reset am 1. des Monats um 0:00 Uhr)
+* wöchentliche Aufagbe <mark style="color:orange;">**6 Adventure Coins**</mark> (Reset am Montag um 0:00 Uhr)
+* monatliche Aufgabe <mark style="color:orange;">**14 Adventure Coins**</mark> (Reset am 1. des Monats um 0:00 Uhr)
 
 ## Kristalle
 
