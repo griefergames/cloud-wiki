@@ -22,7 +22,7 @@ Ab dem **Griefer-Rang** kann unter `/farm` auch der gewünschte Farm-Server gew�
 
 Um zu erkennen in welcher Farmwelt man sich befindet, ist in der Tabliste über den Spielern die aktuelle Region angezeigt.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Anzeige der Region in der Tabliste</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Anzeige der Region in der Tabliste</p></figcaption></figure>
 
 ## Spawn & Spawn-Protection
 
