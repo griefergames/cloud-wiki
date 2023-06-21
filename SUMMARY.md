@@ -4,8 +4,8 @@
 * [1.8 Wiki](https://wiki.griefergames.net)
 * [Was ist die Cloud?](was-ist-die-cloud.md)
 * [Auf den Server joinen](auf-den-server-joinen/README.md)
-  * [mit der Bedrock-Edition](auf-den-server-joinen/mit-der-bedrock-edition.md)
   * [mit der Java-Edition](auf-den-server-joinen/mit-der-java-edition.md)
+  * [mit der Bedrock-Edition](auf-den-server-joinen/mit-der-bedrock-edition.md)
 * [Start auf GrieferGames](start-auf-griefergames.md)
 
 ## Funktionen
