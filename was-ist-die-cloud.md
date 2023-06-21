@@ -55,7 +55,7 @@ Wer nach einem Neustart oder in den Morgenstunden auf dem Server ist, kennt dies
 
 XXX BILD - REGION WIRD GELADEN XXX
 
-Da nicht jede Citybuild-Region dauerhaft benötigt wird, sind nur die Regionen aktiv, die auch gerade gebraucht wird. Ist kein Spieler dieser Region online und möchte auch niemand dort auf ein Grundstück, kann diese Region offline bleiben, bis diese gebraucht wird.&#x20;
+Da nicht jede Citybuild-Region dauerhaft benötigt wird, sind nur die Regionen aktiv, die auch gerade gebraucht werden. Ist kein Spieler dieser Region online und möchte auch niemand dort auf ein Grundstück, kann diese Region offline bleiben, bis diese gebraucht wird.&#x20;
 
 Während diese Anzeige zu sehen ist, wird die entsprechende Region im Hintergrund gestartet und ihr werdet nach Abschluss dort hin teleportiert. Teilweise kann es jedoch vorkommen, dass die Nachricht erscheint, dass die Region mit Fehlern gestartet ist. Das kann unter anderem folgende Gründe haben:
 
