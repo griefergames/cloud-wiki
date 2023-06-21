@@ -18,7 +18,7 @@ Zum Start erhältst du nach Abschluss des [Mentoren-Programms](features/mentoren
 
 [<mark style="color:red;">**Accountgebunden**</mark>](#user-content-fn-2)[^2] Eine "farmbare" spielerbezogene Währung
 
-Für Adventure Coins musst du tägliche Aufgaben beim Adventurer erledigen. Für den Abschluss der Aufgaben wirst du mit Adventure Coins belohnt, welche du bei verschiedenen NPC-Händlern ausgeben kannst (hauptsächlich dem Amin-Shop).
+Für Adventure Coins musst du tägliche Aufgaben beim [Adventurer ](features/adventure-system.md)erledigen. Für den Abschluss der Aufgaben wirst du mit Adventure Coins belohnt, welche du bei verschiedenen [NPC-Händlern](features/die-haendler.md) ausgeben kannst (hauptsächlich dem Amin-Shop).
 
 Es gibt aktuell 3 Aufgaben:
 
