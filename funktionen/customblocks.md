@@ -12,7 +12,7 @@ Anders als bei anderen individuellen Blöcken ist es auf GrieferGames nicht verp
 
 Die Nutzung der Blöcke ist somit freiwillig, wir empfehlen aber natürlich das passende Addon herunterzuladen.
 
-## <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> CustomBlocks als Fabric Mod
+## <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> CustomBlocks als Fabric Mod
 
 Ab der Version 1.20 stehen die CustomBlocks als Fabric Mod zur Verfügung. Diese könnt ihr in den Client eurer Wahl hinzufügen und seid nicht mehr auf den MysteryMod Client angewiesen.
 

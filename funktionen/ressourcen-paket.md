@@ -39,4 +39,4 @@ Wir wollen es jederzeit ermöglichen, dass weiterhin eigene Texturenpakete verwe
 
 ## Beispiele an Inhalten
 
-![](<../.gitbook/assets/image (24).png>)![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (7).png>)![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (24).png>)![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (7).png>)![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (8).png>)

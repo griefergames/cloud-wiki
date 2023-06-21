@@ -22,7 +22,7 @@ Ab dem **Griefer-Rang** kann unter `/farm` auch der gewünschte Farm-Server gew�
 
 Um zu erkennen in welcher Farmwelt man sich befindet, ist in der Tabliste über den Spielern die aktuelle Region angezeigt.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Anzeige der Region in der Tabliste</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Anzeige der Region in der Tabliste</p></figcaption></figure>
 
 ## Spawn & Spawn-Protection
 
@@ -36,14 +36,29 @@ In der Overworld kann man einfach von der Plattform springen und erhält den Eff
 
 Sobald man außerhalb des Spawn-Bereichs landet, wird der Effekt **Langsamer Fall** wieder entfernt.
 
+#### Änderungen
+
+* Die AI der Villager ist reduziert
+* Die Bevölkerung in Dörfern ist begrenzt
+
 ### Nether
 
 Im Nether ist der Spawn Bereich genauso groß wie die Spawn-Plattform. Somit kann am Ende der Plattform abgebaut und platziert werden, um sich von dort in den Nether zu bewegen.
 
 Es befindet sich hier ebenfalls ein Nether-Portal, um in die Overworld zurück zu gelangen.
 
+#### Änderungen
+
+* Die Netherdecke ist nicht betretbar
+
 ### Das End
 
 Der End-Spawn befindet sich in der Mitte der Hauptinsel des Ends. Auch hier erhält man den Effekt Langsamer Fall, jedoch muss man sich dort einige hundert Blöcke weit bauen, um in das sog. erweiterte End zu gelangen. Damit man das nicht machen muss, stehen an zwei Ecken End-Gateways zur Verfügung, welche den Spieler in das erweiterte End teleportieren.
 
 An einer anderen Ecke befindet sich ein kleines 1-Block-Endportal, mit dem man zurück in die Overworld gelangen kann.
+
+#### Änderungen
+
+* Die Droprate der Shulker-Schalen ist reduzierter als im Singleplayer
+* Die AI der Shulker ist angepasst (keine Teleportation)
+* Der Enderdrache ist nicht vorhanden
