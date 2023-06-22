@@ -4,7 +4,7 @@ description: Informationen zu den Farmwelten der Cloud
 
 # 🌳 Die Farmwelten
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Spawn der Farmwelten</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Spawn der Farmwelten</p></figcaption></figure>
 
 Das Cloud-Netzwerk hat mehrere Farmwelten, welche komplett eigenständige Welten sind. Die Server unterscheiden sich in Anordnung der Biome, Strukturen und Elemente, kurz gesagt, jede Welt hat ihre eigenen Seeds.
 
@@ -26,7 +26,7 @@ Um zu erkennen in welcher Farmwelt man sich befindet, ist in der Tabliste über 
 
 ## Spawn & Spawn-Protection
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 Jede Farmwelt hat in allen Dimensionen einen eigenen Spawn. Dieser ist durch eine Spawn-Protection geschützt, in welcher keine Blöcke platziert oder abgebaut werden können.&#x20;
 

@@ -6,7 +6,7 @@ description: Aufträge von Spielern für Spieler
 
 Am Spawn befindet sich der Jobs-NPC, bei welchem ihr Aufträge aufgeben oder abgeben könnt.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Im Job System haben Spieler die Möglichkeit Standarditems zum Ankauf als Auftrag anzubieten. Die Aufträge können dann von allen Spielern stackweise beliefert werden. Dabei erhaltet ihr [Ingame $](../waehrungen.md) in der Höhe, wie der Spieler bereit ist dafür zu bezahlen.
 
@@ -14,7 +14,7 @@ Im Job System haben Spieler die Möglichkeit Standarditems zum Ankauf als Auftra
 
 Wenn ihr den NPC ansprecht erhaltet ihr die Übersicht der offenen Aufträge und für welche Preise diese beim Job-System angekauft werden.
 
-<img src="../../.gitbook/assets/image (10).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (24).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (11).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (25).png" alt="" data-size="original">
 
 Wenn ihr mit die Maus über ein Item haltet, ist die Information zu sehen, für welchen Preis ihr ein Stack des Items abgeben könnt. Klickt ihr auf dieses Item, liefert ihr alle vollen Stacks dieses Materials aus eurem Inventar für den höchsten Preis ab und euch wird das Geld auf euer Konto gutgeschrieben.
 
@@ -30,9 +30,9 @@ Wenn ihr ein neues Angebot erstellen wollt, um Items anzukaufen, klickt im Menü
 
 Dort seht ihr eine Übersicht über eure aktuell eingestellten Aufträge. Mehr zu den vorhandenen Aufträgen im Bereich [Items abholen / Angebot verwalten](job-system.md#items-abholen-angebot-verwalten).
 
-Klickt nun auf **Neuen Auftrag erstellen** <img src="../../.gitbook/assets/image (31).png" alt="" data-size="line">.
+Klickt nun auf **Neuen Auftrag erstellen** <img src="../../.gitbook/assets/image (32).png" alt="" data-size="line">.
 
-![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (19).png>)
 
 Wählt als erstes ein Item aus eurem Inventar, welches ihr ankaufen möchtet.\
 Klickt dafür auf das Item in eurem Inventar und es wird oben im Bereich **Item wählen** angezeigt.
@@ -49,7 +49,7 @@ Der Preis muss über 1$ pro Stack liegen, ansonsten kann das Angebot nicht erste
 
 Wählt danach die Anzahl der Stacks, die ihr ankaufen wollt. Dafür stehen folgende Optionen zur Verfügung:
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 * 1 Stack&#x20;
 * 1 Kiste
