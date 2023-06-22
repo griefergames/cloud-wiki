@@ -1,6 +1,6 @@
 # 🚧 Ressourcen-Paket
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Auf dem Cloud-Netzwerk bieten wir ein **Server-Ressource-Paket** an, mit dem wir dem Spiel, vor allem in Menüs, eine schönere Optik verpassen. Wir wollen damit die optische Qualität der vielen Menüs und UIs verbessern und ein rundes Konzept der neuen interaktiven Funktionen bieten.
 
@@ -18,7 +18,7 @@ Diese Einstellung befindet sich in der Multiplayer-Serverliste eures Clients.
 2. Klickt dann unten auf **Bearbeiten**
 3. unter der Server-Adresse mit etwas Abstand befindet sich die Option **Server-Ressourcenpakete**
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Die folgenden Auswahloptionen gibt es an dieser Stelle:
 
@@ -39,4 +39,4 @@ Wir wollen es jederzeit ermöglichen, dass weiterhin eigene Texturenpakete verwe
 
 ## Beispiele an Inhalten
 
-![](<../.gitbook/assets/image (24).png>)![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (7).png>)![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (25).png>)![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (8).png>)![](<../.gitbook/assets/image (22).png>)![](<../.gitbook/assets/image (9).png>)
