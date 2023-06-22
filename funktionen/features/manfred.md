@@ -14,7 +14,7 @@ description: Der fahrende Händler auf GrieferGames
 * **Beruf:** Fahrender Händler
 * **Eigenschaften:** Kauft eine Vielzahl von Gegenständen von Spielern, Preise variieren
 * **Standort:** Erscheint zufällig auf Spieler-Grundstücken, wenn mindestens ein Spieler anwesend ist, in der Nähe des Grundstück-Mittelpunkts (/p middle)
-* **Spawn-Zeitplan:** Erscheint immer zu den Stunden 16/36/56, also alle 20 Minuten
+* **Spawn-Zeitplan:** Erscheint immer zu jeder Stunde um 16/36/56, also alle 20 Minuten
 
 ### Wer ist Manni? <a href="#_g7infb6ia24y" id="_g7infb6ia24y"></a>
 
