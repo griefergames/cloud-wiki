@@ -1,16 +1,8 @@
 # Manni
 
-
-
 ![](../../.gitbook/assets/0.png)
 
 **Manni**, auch bekannt als Manfred, ist ein einzigartiger NPC-Händler in GrieferGames.
-
-![](../../.gitbook/assets/1.png)
-
-
-
-### &#x20;<a href="#_bjpjxd8pjrkc" id="_bjpjxd8pjrkc"></a>
 
 ### Steckbrief <a href="#_oqtxuw48zj8q" id="_oqtxuw48zj8q"></a>
 
@@ -33,8 +25,6 @@ Manni erscheint zufällig auf den Grundstücken der Spieler. Er erscheint nur, w
 {% hint style="info" %}
 Manfred erscheint **nicht** auf Grundstücken, auf welchen alle Spieler verboten sind. (/p deny \*)
 {% endhint %}
-
-### &#x20;<a href="#_ob5d6dq2hfh7" id="_ob5d6dq2hfh7"></a>
 
 ### Handeln mit Manni <a href="#_bk8xssv8mqre" id="_bk8xssv8mqre"></a>
 

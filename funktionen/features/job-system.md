@@ -14,7 +14,7 @@ Im Job System haben Spieler die Möglichkeit Standarditems zum Ankauf als Auftra
 
 Wenn ihr den NPC ansprecht erhaltet ihr die Übersicht der offenen Aufträge und für welche Preise diese beim Job-System angekauft werden.
 
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (22).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (8).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (22).png" alt="" data-size="original">
 
 Wenn ihr mit die Maus über ein Item haltet, ist die Information zu sehen, für welchen Preis ihr ein Stack des Items abgeben könnt. Klickt ihr auf dieses Item, liefert ihr alle vollen Stacks dieses Materials aus eurem Inventar für den höchsten Preis ab und euch wird das Geld auf euer Konto gutgeschrieben.
 
@@ -32,7 +32,7 @@ Dort seht ihr eine Übersicht über eure aktuell eingestellten Aufträge. Mehr z
 
 Klickt nun auf **Neuen Auftrag erstellen** <img src="../../.gitbook/assets/image (30).png" alt="" data-size="line">.
 
-![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (18).png>)
+![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (17).png>)
 
 Wählt als erstes ein Item aus eurem Inventar, welches ihr ankaufen möchtet.\
 Klickt dafür auf das Item in eurem Inventar und es wird oben im Bereich **Item wählen** angezeigt.
