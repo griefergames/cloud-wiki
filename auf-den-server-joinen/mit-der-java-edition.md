@@ -4,7 +4,7 @@ Um mit der Java-Version auf GrieferGames zu joinen, muss der Server in der Serve
 
 Die Serveradresse lautet: <mark style="color:orange;">**griefergames.net**</mark>
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>Verbindungsinformationen Java-Edition</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Verbindungsinformationen Java-Edition</p></figcaption></figure>
 
 ## Direkte Verbindung auf das Cloud-Netzwerk
 

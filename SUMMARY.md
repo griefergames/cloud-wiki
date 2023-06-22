@@ -28,7 +28,7 @@
   * [Erfolge / Advancements](funktionen/features/erfolge-advancements.md)
   * [Case Opening](funktionen/features/case-opening.md)
   * [Tricher-System](funktionen/features/tricher-system.md)
-  * [Manni](funktionen/features/manni.md)
+  * [Manfred](funktionen/features/manfred.md)
 
 ## Minigames
 

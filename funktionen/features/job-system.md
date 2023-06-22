@@ -32,7 +32,7 @@ Dort seht ihr eine Übersicht über eure aktuell eingestellten Aufträge. Mehr z
 
 Klickt nun auf **Neuen Auftrag erstellen** <img src="../../.gitbook/assets/image (30).png" alt="" data-size="line">.
 
-![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (17).png>)
+![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (18).png>)
 
 Wählt als erstes ein Item aus eurem Inventar, welches ihr ankaufen möchtet.\
 Klickt dafür auf das Item in eurem Inventar und es wird oben im Bereich **Item wählen** angezeigt.
