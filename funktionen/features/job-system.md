@@ -14,7 +14,7 @@ Im Job System haben Spieler die Möglichkeit Standarditems zum Ankauf als Auftra
 
 Wenn ihr den NPC ansprecht erhaltet ihr die Übersicht der offenen Aufträge und für welche Preise diese beim Job-System angekauft werden.
 
-<img src="../../.gitbook/assets/image (8).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (12).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (13).png" alt="" data-size="original">
 
 Wenn ihr mit die Maus über ein Item haltet, ist die Information zu sehen, für welchen Preis ihr ein Stack des Items abgeben könnt. Klickt ihr auf dieses Item, liefert ihr alle vollen Stacks dieses Materials aus eurem Inventar für den höchsten Preis ab und euch wird das Geld auf euer Konto gutgeschrieben.
 

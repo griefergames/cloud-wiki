@@ -16,9 +16,11 @@ In einem unbegrenzten Speicher können bis zu 2.147.483.647 Einheiten eines Item
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-Achtung: Der unbegrenzte Speicher verhält sich zunächst wie ein normales Fass. So können grundsätzlich auch Items in die verfügbaren Slots gelegt werden, für die der zusätzliche Speicher nicht geeignet ist. Befindet sich auf einem der Slots ein nicht kompatibles Item, steht die Funktion des zusätzlichen Speichers nicht zur Verfügung.
-
 {% hint style="info" %}
+Achtung: Der unbegrenzte Speicher verhält sich zunächst wie ein normales Fass. So können grundsätzlich auch Items in die verfügbaren Slots gelegt werden, für die der zusätzliche Speicher nicht geeignet ist. Befindet sich auf einem der Slots ein nicht kompatibles Item, steht die Funktion des zusätzlichen Speichers nicht zur Verfügung.
+{% endhint %}
+
+{% hint style="warning" %}
 Achtung: Werden Items mit zusätzlichen Eigenschaften (Signierungen, Verzauberungen, o.ä.) in den zusätzlichen Speicher gelegt, verlieren diese Ihre Eigenschaft.
 {% endhint %}
 
@@ -38,10 +40,10 @@ Der Gegenstand oben in der Mitte bestimmt endgültig, den zu lagernden Gegenstan
 
 ![](../../.gitbook/assets/4.png)
 
-Die Herstellung des unbegrenzten Speichers ist mit den CustomBlock Kisten möglich. Dies ermöglicht zum Beispiel eine abwechslungsreiche Dekoration von Lagersystemen. Für Spieler, die keine CustomBlocks nutzen, werden die unbegrenzten Speicher als Fässer dargestellt.
+Die Herstellung des unbegrenzten Speichers ist mit den [CustomBlock](../customblocks.md) Kisten möglich. Dies ermöglicht zum Beispiel eine abwechslungsreiche Dekoration von Lagersystemen. Für Spieler, die keine [CustomBlocks](../customblocks.md) nutzen, werden die unbegrenzten Speicher als Fässer dargestellt.
 
 {% hint style="info" %}
-Stellt ihr den unbegrenzten Speicher mit Kisten der custom Blocks her, dann könnt ihr diese auch seperat mit der Use-Flag freigeben
+Stellt ihr den unbegrenzten Speicher mit Kisten der [custom Blocks](../customblocks.md) her, dann könnt ihr diese auch seperat mit der Use-Flag freigeben
 {% endhint %}
 
 ### Verfügbare Items <a href="#_6dwmq4tc4iw5" id="_6dwmq4tc4iw5"></a>
