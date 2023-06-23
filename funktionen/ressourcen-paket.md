@@ -1,6 +1,6 @@
 # 🚧 Ressourcen-Paket
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Auf dem Cloud-Netzwerk bieten wir ein **Server-Ressource-Paket** an, mit dem wir dem Spiel, vor allem in Menüs, eine schönere Optik verpassen. Wir wollen damit die optische Qualität der vielen Menüs und UIs verbessern und ein rundes Konzept der neuen interaktiven Funktionen bieten.
 
@@ -39,4 +39,4 @@ Wir wollen es jederzeit ermöglichen, dass weiterhin eigene Texturenpakete verwe
 
 ## Beispiele an Inhalten
 
-![](<../.gitbook/assets/image (26).png>)![](<../.gitbook/assets/image (5).png>)![](<../.gitbook/assets/image (9).png>)![](<../.gitbook/assets/image (23).png>)![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (26).png>)![](<../.gitbook/assets/image (5).png>)![](<../.gitbook/assets/image (9).png>)![](<../.gitbook/assets/image (23).png>)![](<../.gitbook/assets/image (10).png>)

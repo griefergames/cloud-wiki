@@ -4,7 +4,7 @@ description: Informationen zu den Farmwelten der Cloud
 
 # 🌳 Die Farmwelten
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Spawn der Farmwelten</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Spawn der Farmwelten</p></figcaption></figure>
 
 Das Cloud-Netzwerk hat mehrere Farmwelten, welche komplett eigenständige Welten sind. Die Server unterscheiden sich in Anordnung der Biome, Strukturen und Elemente, kurz gesagt, jede Welt hat ihre eigenen Seeds.
 
