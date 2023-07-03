@@ -14,7 +14,7 @@ Hauptsächlich kannst du dir $ auf dem Server verdienen, indem du mit anderen Sp
 
 Zum Start erhältst du nach Abschluss des [Mentoren-Programms](../features/mentoren-programm.md) ein wenig Startgeld, in dem du [Erfolge / Advancements](../features/erfolge-advancements.md) abschließt.
 
-[**Weitere Informationen zur Nutzung**](./#ingame-money-usd)
+[**Weitere Informationen zur Nutzung**](ingame-money-usd.md)
 
 ## Adventure Coins
 
