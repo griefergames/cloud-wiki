@@ -22,10 +22,8 @@ _**Info:** Klammern müssen weggelassen werden!_
 
 Folgende Befehle verwalten dein Geld auf dem Konto.
 
-*   `/money` - Zeigt deinen Kontostand an.\
-    Dein Kontostand kann auch im Scoreboard abgelesen werden.
-
-    \{% hint style="info" %\} Der Kontostand kann auch im Scoreboard abgelesen werden. \{% endhint %\}
+* `/money` - Zeigt deinen Kontostand an.\
+  Dein Kontostand kann auch im Scoreboard abgelesen werden.
 * `/moneylog` - Zeigt deine letzten Transaktionen an, einschließlich Datum, Herkunft, Geldmenge und Grund.
 * `/pay <Spieleranzahl> <Geldmenge> [Grund]`\` - Sendet dem angegebenen Spieler die angegebene Menge an Geld. Optional kann ein Grund hinzugefügt werden.\
   **Beispiel:** `/pay CosmoHDx 200` _um CosmoHDx 200$ zu zahlen_

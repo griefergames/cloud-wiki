@@ -4,11 +4,11 @@ Im Case Opening können zufällige Gewinne gezogen werden. Es gibt verschiedene 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Case Opening am Spawn</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Case Opening am Spawn</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="348"><figcaption><p>Kistenübersicht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="348"><figcaption><p>Kistenübersicht</p></figcaption></figure>
 
 </div>
 
@@ -56,7 +56,7 @@ Das Case-Opening Inventar listet unter dem Titel die einzelnen Kisten-Typen auf:
 
 Durch das Hovern über eine der Kisten kannst du ablesen, wie viele Kisten du von dieser Sorte besitzst:
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 Durch einen **Rechtsklick** auf einen Kistentyp öffnet man diese Kiste.\
 Durch einen **Linksklick** auf einen Kistentyp kann man sich den Kisteninhalt ansehen.
@@ -65,7 +65,7 @@ Durch einen **Linksklick** auf einen Kistentyp kann man sich den Kisteninhalt an
 
 Um die Anzahl an Kristallen, die in deinem Besitz sind, anzuzeigen musst du mit deiner Maus über den blauen Kristall in der Mitte des Menüs fahren, um folgenden Hinweis zu sehen:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Kisten-Besitz ansehen
 
@@ -83,7 +83,7 @@ Bei einem **gleichzeitigem** Kauf von einer größeren Anzahl an Kisten gibt es 
 
 Um Kisten zu Kaufen musst du das Menü `Kisten Kaufen` durch einen Klick auf die Kiste mit einem Dollar-Zeichen rechts neben dem Kristall öffnen:
 
-<img src="../../.gitbook/assets/image (20).png" alt="" data-size="original">![](<../../.gitbook/assets/image (5).png>)
+<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">![](<../../.gitbook/assets/image (8).png>)
 
 Hier kann man auswählen, welche Kiste man kaufen möchte. Am Ende muss der Kauf noch einmal bestätigt werden.
 
