@@ -2,6 +2,16 @@
 
 Im Case Opening können zufällige Gewinne gezogen werden. Es gibt verschiedene Kisten, welche verschiedene Gewinne beinhalten und über unterschiedliche Wege erhalten werden können.
 
+<div>
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Case Opening am Spawn</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="348"><figcaption><p>Kistenübersicht</p></figcaption></figure>
+
+</div>
+
 ### Der Case Opening Block
 
 Das Case Opening lässt sich an allen Spawns durch folgende Blöcke mit Partikeln erkennen und durch einen Rechtsklick auf den Block öffnen. Aus dem Case Opening können zusätzlich eigene Case Opening Blöcke gewonnen werden, welche auf dem eigenen Grundstück platziert werden können.
@@ -46,12 +56,16 @@ Das Case-Opening Inventar listet unter dem Titel die einzelnen Kisten-Typen auf:
 
 Durch das Hovern über eine der Kisten kannst du ablesen, wie viele Kisten du von dieser Sorte besitzst:
 
+![](<../../.gitbook/assets/image (32).png>)
+
 Durch einen **Rechtsklick** auf einen Kistentyp öffnet man diese Kiste.\
 Durch einen **Linksklick** auf einen Kistentyp kann man sich den Kisteninhalt ansehen.
 
 ### Kristall-Guthaben ansehen
 
 Um die Anzahl an Kristallen, die in deinem Besitz sind, anzuzeigen musst du mit deiner Maus über den blauen Kristall in der Mitte des Menüs fahren, um folgenden Hinweis zu sehen:
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Kisten-Besitz ansehen
 
@@ -68,6 +82,8 @@ Bei einem **gleichzeitigem** Kauf von einer größeren Anzahl an Kisten gibt es 
 {% endhint %}
 
 Um Kisten zu Kaufen musst du das Menü `Kisten Kaufen` durch einen Klick auf die Kiste mit einem Dollar-Zeichen rechts neben dem Kristall öffnen:
+
+<img src="../../.gitbook/assets/image (20).png" alt="" data-size="original">![](<../../.gitbook/assets/image (5).png>)
 
 Hier kann man auswählen, welche Kiste man kaufen möchte. Am Ende muss der Kauf noch einmal bestätigt werden.
 

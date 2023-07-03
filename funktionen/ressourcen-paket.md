@@ -18,7 +18,7 @@ Diese Einstellung befindet sich in der Multiplayer-Serverliste eures Clients.
 2. Klickt dann unten auf **Bearbeiten**
 3. unter der Server-Adresse mit etwas Abstand befindet sich die Option **Server-Ressourcenpakete**
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 Die folgenden Auswahloptionen gibt es an dieser Stelle:
 
@@ -39,4 +39,4 @@ Wir wollen es jederzeit ermöglichen, dass weiterhin eigene Texturenpakete verwe
 
 ## Beispiele an Inhalten
 
-![](<../.gitbook/assets/image (34).png>)![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (11).png>)![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (34).png>)![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (11).png>)![](<../.gitbook/assets/image (8) (1).png>)
