@@ -4,7 +4,7 @@ description: tägliche, wöchentliche, monatliche Aufgaben für Adventure-Coins
 
 # Adventure System
 
-Am Spawn befinden sich zwei NPCs. Bei dem Adventurer NPC können die Aufgaben abgeholt werden, während man beim [Amin-Shop](die-haendler.md) einen Shop zum ausgeben der [Adventure Coins](../waehrungen.md) hat.
+Am Spawn befinden sich zwei NPCs. Bei dem Adventurer NPC können die Aufgaben abgeholt werden, während man beim [Amin-Shop](die-haendler.md) einen Shop zum ausgeben der [Adventure Coins](../waehrungen/) hat.
 
 ![](<../../.gitbook/assets/0 (2).png>)
 
@@ -16,7 +16,7 @@ Die Aufgaben, die ihr bei dem Adventurer bekommt, unterscheiden sich zuerst einm
 
 ![](<../../.gitbook/assets/1 (2).png>)
 
-Um eine Aufgabe anzunehmen, klicke auf die gewünschte Aufgabe. Danach erfülle die geforderte Aufgabe und klicke erneut auf die Aufgabe um die [Adventure-Coins](../waehrungen.md) abzuholen.
+Um eine Aufgabe anzunehmen, klicke auf die gewünschte Aufgabe. Danach erfülle die geforderte Aufgabe und klicke erneut auf die Aufgabe um die [Adventure-Coins](../waehrungen/) abzuholen.
 
 {% hint style="info" %}
 Achte immer darauf, ob die Aufgabe wirklich angenommen ist. Auch für Monster-Töten-Aufgaben, muss die Aufgabe angenommen werden, bevor diese zählt.

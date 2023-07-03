@@ -8,7 +8,7 @@ Am Spawn befindet sich der Jobs-NPC, bei welchem ihr Aufträge aufgeben oder abg
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-Im Job System haben Spieler die Möglichkeit Standarditems zum Ankauf als Auftrag anzubieten. Die Aufträge können dann von allen Spielern stackweise beliefert werden. Dabei erhaltet ihr [Ingame $](../waehrungen.md) in der Höhe, wie der Spieler bereit ist dafür zu bezahlen.
+Im Job System haben Spieler die Möglichkeit Standarditems zum Ankauf als Auftrag anzubieten. Die Aufträge können dann von allen Spielern stackweise beliefert werden. Dabei erhaltet ihr [Ingame $](../waehrungen/) in der Höhe, wie der Spieler bereit ist dafür zu bezahlen.
 
 ## Aufträge beliefern & Geld verdienen
 
