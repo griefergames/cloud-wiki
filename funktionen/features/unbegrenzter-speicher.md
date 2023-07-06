@@ -6,7 +6,7 @@ description: Das (fast) unendliche Lager auf GrieferGames
 
 Im Cloud Netzwerk wurden Unbegrenzte Speicher eingeführt, um eine Alternative für die auf dem 1.8-Netzwerk verfügbaren Möglichkeit der Komprimierung zu bieten.
 
-![](<../../.gitbook/assets/0 (1).png>)
+![](<../../.gitbook/assets/0 (1) (1).png>)
 
 ### Funktion <a href="#_gj91v33yf85t" id="_gj91v33yf85t"></a>
 
