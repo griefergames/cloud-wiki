@@ -12,7 +12,7 @@ Die **Cloud** ist das Netzwerk von GrieferGames, welches auf der neusten Minecra
 ## Warum heißt das Netzwerk Cloud?
 
 {% hint style="info" %}
-Die aktuelle Server-Version der Cloud ist die: **1.19.2**
+Die aktuelle Server-Version der Cloud ist die: **1.20.1**
 {% endhint %}
 
 Zu Beginn des Netzwerks hieß das Netzwerk **1.16-Netzwerk**. Dieses wurde durch das Update zur Minecraft-Version 1.19 zum **1.19-Netzwerk**. Da dort immer wieder Verwirrungen der Namen auftauchten durch die Umstellung, haben wir den Internen Namen _**Cloud-Netzwerk**_ oder _**GGCloud**_ dann auch für die Namensgebung verwendet und haben somit nun einen versionsunabhängigen Namen für das Netzwerk.
