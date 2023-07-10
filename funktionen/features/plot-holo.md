@@ -2,7 +2,7 @@
 description: Hologramme für das eigene Grundstück
 ---
 
-# Plot-Holo´s
+# Plot-Holo
 
 ![](../../.gitbook/assets/0.png)
 
@@ -20,7 +20,7 @@ Hier hat man die Möglichkeit das Hologramm zu verschieben, falls es doch nicht 
 Ab dem Ultra-Rang kann man das Hologramm farbig gestalten. Außerdem kann man ab Ultra eine zweite Zeile, ab Griefer eine dritte Zeile und ab Supreme eine vierte Zeile nutzen.
 {% endhint %}
 
-Mit dem Befehl /plotholo öffnet sich eine Übersicht, welche alle Hologramme auf eurem Grundstück oder dem Grundstück, auf dem ihr Rechte habt, anzeigt. Hier gibt es eine Information über den aktuellen Text der ersten Zeile, sowie auch der Koordinaten.
+Mit dem Befehl `/plotholo` öffnet sich eine Übersicht, welche alle Hologramme auf eurem Grundstück oder dem Grundstück, auf dem ihr Rechte habt, anzeigt. Hier gibt es eine Information über den aktuellen Text der ersten Zeile, sowie auch der Koordinaten.
 
 ![](<../../.gitbook/assets/3 (1).png>)
 

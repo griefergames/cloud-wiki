@@ -31,7 +31,7 @@
   * [Tricher-System](funktionen/features/tricher-system.md)
   * [Manfred](funktionen/features/manfred.md)
   * [Unbegrenzter Speicher](funktionen/features/unbegrenzter-speicher.md)
-  * [Plot-Holo´s](funktionen/features/plot-holo-s.md)
+  * [Plot-Holo](funktionen/features/plot-holo.md)
 
 ## Minigames
 
