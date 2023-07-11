@@ -56,7 +56,7 @@ Das Case-Opening Inventar listet unter dem Titel die einzelnen Kisten-Typen auf:
 
 Durch das Hovern über eine der Kisten kannst du ablesen, wie viele Kisten du von dieser Sorte besitzst:
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (3).png>)
 
 Durch einen **Rechtsklick** auf einen Kistentyp öffnet man diese Kiste.\
 Durch einen **Linksklick** auf einen Kistentyp kann man sich den Kisteninhalt ansehen.
