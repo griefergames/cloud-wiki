@@ -4,9 +4,9 @@ description: tägliche, wöchentliche, monatliche Aufgaben für Adventure-Coins
 
 # Adventure System
 
-Am Spawn befinden sich zwei NPCs. Bei dem Adventurer NPC können die Aufgaben abgeholt werden, während man beim [Amin-Shop](die-haendler.md) einen Shop zum ausgeben der [Adventure Coins](../waehrungen/) hat.
+Am Spawn befinden sich zwei NPCs. Bei dem Adventurer NPC können die Aufgaben abgeholt werden, während man beim [Amin-Shop](broken-reference) einen Shop zum ausgeben der [Adventure Coins](../waehrungen/) hat.
 
-![](<../../.gitbook/assets/0 (2).png>)
+![](<../../.gitbook/assets/0 (2) (1).png>)
 
 Durch das Erledigen der Aufgaben erhältst du Adventure-Coins, die ihr im Amin-Shop gegen Items tauschen könnt.&#x20;
 
@@ -14,7 +14,7 @@ Durch das Erledigen der Aufgaben erhältst du Adventure-Coins, die ihr im Amin-S
 
 Die Aufgaben, die ihr bei dem Adventurer bekommt, unterscheiden sich zuerst einmal in tägliche, wöchentliche und monatliche Aufgaben. Diese werden immer gegen Ende des Tages/Woche/Monat zurückgesetzt.
 
-![](<../../.gitbook/assets/1 (2).png>)
+![](<../../.gitbook/assets/1 (2) (1).png>)
 
 Um eine Aufgabe anzunehmen, klicke auf die gewünschte Aufgabe. Danach erfülle die geforderte Aufgabe und klicke erneut auf die Aufgabe um die [Adventure-Coins](../waehrungen/) abzuholen.
 
@@ -54,6 +54,6 @@ Zusätzlich besteht die Chance MysteryMod-Cosmetics oder Kristalle zu erhalten.
 
 ### **Amin-Shop**
 
-Beim Amin-Shop kann man für Adventure-Coins Items kaufen. Diese Items im Shop wechseln täglich durch. Mehr zu den Händlern unter [Die Händler](die-haendler.md).
+Beim Amin-Shop kann man für Adventure-Coins Items kaufen. Diese Items im Shop wechseln täglich durch. Mehr zu den Händlern unter [Die Händler](die-handler.md).
 
 ![](<../../.gitbook/assets/2 (1).png>)

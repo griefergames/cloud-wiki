@@ -25,7 +25,7 @@
   * [Mentoren-Programm](funktionen/features/mentoren-programm.md)
   * [Adventure System](funktionen/features/adventure-system.md)
   * [Job System](funktionen/features/job-system.md)
-  * [Die Händler](funktionen/features/die-haendler.md)
+  * [Die Handler](funktionen/features/die-handler.md)
   * [Erfolge / Advancements](funktionen/features/erfolge-advancements.md)
   * [Case Opening](funktionen/features/case-opening.md)
   * [Tricher-System](funktionen/features/tricher-system.md)
