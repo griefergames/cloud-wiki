@@ -4,11 +4,11 @@ Im Case Opening können zufällige Gewinne gezogen werden. Es gibt verschiedene 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt="" width="375"><figcaption><p>Case Opening am Spawn</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (2).png" alt="" width="375"><figcaption><p>Case Opening am Spawn</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="348"><figcaption><p>Kistenübersicht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt="" width="348"><figcaption><p>Kistenübersicht</p></figcaption></figure>
 
 </div>
 

@@ -50,11 +50,9 @@ Für die meisten Spiele kann ein Vorab-Spawnpunkt gesetzt werden. An diesem Punk
 
 Durch das Platzieren von Sicherheitskameras in der Map können Zuschauer-Punkte gesetzt werden. Als Zuschauer eines Minigames kann man sich zwischen den Kameras hin und her bewegen, um dem Spiel beizuwohnen.
 
-## Plot-Map erstellen
+## Plot-Map-Menü
 
-Wenn nun das Plot gebaut ist, kann dieses über das Plot-Map-Menü in `/minigames` eingereicht werden.
-
-Klicke dafür im Hauptmenü der Minigames auf <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> **Plot-Maps**, um zur Übersicht deiner Maps zu gelangen. In der Liste findest du deine erstellten Maps und deren Status. Hier werden auch fehlende Markierungen oder Probleme mit deiner Map angezeigt.
+Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> **Plot-Maps**. In der Liste findest du deine erstellten Maps und deren Status. Hier werden auch fehlende Markierungen oder Probleme mit deiner Map angezeigt.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Plot-Map-Informationen</p></figcaption></figure>
 
@@ -63,3 +61,30 @@ Klicke dafür im Hauptmenü der Minigames auf <img src="../../.gitbook/assets/im
 * <mark style="color:red;">**Fehler:**</mark> Hier werden Fehler der Map angezeigt, welche beim Generieren der Map festgestellt wurden. Beispiel: <img src="../../.gitbook/assets/image (38).png" alt="" data-size="line">
 * **Community-Map:** Zeigt an, ob deine Map als Community-Map für alle verfügbar ist bzw. wie der Status deiner Einsendung ist.
 
+### Neue Map einreichen / Map aktualisieren
+
+Um eine neue Map einzureichen oder eine eingereichte Map zu aktualisieren, drücke im Plot-Map-Menü auf <img src="../../.gitbook/assets/image (32).png" alt="" data-size="line"> **Neue Map erstellen**.
+
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Ansicht Neue Map erstellen</p></figcaption></figure>
+
+Wähle dort als erstes das Spiel aus, indem du auf das Spiel-Icon klickst. Beim Klick wird zum nächsten Spiel umgeschaltet. Im zweiten Slot wird die Information zur Grundstücksgröße angezeigt. Der Dritte gibt an, ob die Karte erstellt werden kann oder nicht.
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Fehlermeldung beim Plot erstellen</p></figcaption></figure>
+
+Kannst du die Karte erstellen, wird die Anzeige grün und mit einem Klick auf den grünen Knopf wird die Erstellung bestätigt.
+
+<figure><img src="../../.gitbook/assets/image (39).png" alt="" width="281"><figcaption><p>Button zum Grundstück als Map erstellen</p></figcaption></figure>
+
+Danach kopiert das Minigame-System dein Plot, welches durch zwei Chatausgaben angezeigt wird:
+
+<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="372"><figcaption><p>Chatausgabe Map erstellen</p></figcaption></figure>
+
+Sobald die Minigame-Map erstellt wurde, beginnt das System im Hintergrund zu arbeiten und die Map vorzubereiten. Der Status kann dann im Plot-Map-Menü verfolgt werden.
+
+{% hint style="danger" %}
+**Achtung:** Es kann zu jedem Grundstück nur eine Karte pro Minigame existieren. Die Karten werden anhand der Plot-ID identifiziert und somit kann die Karte auch nach dem ersten Einreichen durch "Map neu erstellen" aktualisiert werden.
+{% endhint %}
+
+{% hint style="info" %}
+Die Verbindung zwischen Plot und Minigame-Map wird bei erfolgreich angenommenen Community-Maps aufgehoben. Ist eine Map als Community-Map angenommen, kann diese nicht mehr vom Ersteller bearbeitet werden. _Das Plot kann dann jedoch erneut verwendet werden._
+{% endhint %}
