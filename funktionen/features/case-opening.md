@@ -4,7 +4,7 @@ Im Case Opening können zufällige Gewinne gezogen werden. Es gibt verschiedene 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Case Opening am Spawn</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt="" width="375"><figcaption><p>Case Opening am Spawn</p></figcaption></figure>
 
  
 
@@ -83,7 +83,7 @@ Bei einem **gleichzeitigem** Kauf von einer größeren Anzahl an Kisten gibt es 
 
 Um Kisten zu Kaufen musst du das Menü `Kisten Kaufen` durch einen Klick auf die Kiste mit einem Dollar-Zeichen rechts neben dem Kristall öffnen:
 
-<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">![](<../../.gitbook/assets/image (8).png>)
+<img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="original">![](<../../.gitbook/assets/image (8).png>)
 
 Hier kann man auswählen, welche Kiste man kaufen möchte. Am Ende muss der Kauf noch einmal bestätigt werden.
 
