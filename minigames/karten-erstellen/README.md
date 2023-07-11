@@ -52,7 +52,7 @@ Durch das Platzieren von Sicherheitskameras in der Map können Zuschauer-Punkte 
 
 ## Plot-Map-Menü
 
-Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> **Plot-Maps**. In der Liste findest du deine erstellten Maps und deren Status. Hier werden auch fehlende Markierungen oder Probleme mit deiner Map angezeigt.
+Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="../../.gitbook/assets/image (25).png" alt="" data-size="line"> **Plot-Maps**. In der Liste findest du deine erstellten Maps und deren Status. Hier werden auch fehlende Markierungen oder Probleme mit deiner Map angezeigt.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Plot-Map-Informationen</p></figcaption></figure>
 
@@ -65,7 +65,7 @@ Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="
 
 Um eine neue Map einzureichen oder eine eingereichte Map zu aktualisieren, drücke im Plot-Map-Menü auf <img src="../../.gitbook/assets/image (32).png" alt="" data-size="line"> **Neue Map erstellen**.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Ansicht Neue Map erstellen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Ansicht Neue Map erstellen</p></figcaption></figure>
 
 Wähle dort als erstes das Spiel aus, indem du auf das Spiel-Icon klickst. Beim Klick wird zum nächsten Spiel umgeschaltet. Im zweiten Slot wird die Information zur Grundstücksgröße angezeigt. Der Dritte gibt an, ob die Karte erstellt werden kann oder nicht.
 
@@ -88,3 +88,29 @@ Sobald die Minigame-Map erstellt wurde, beginnt das System im Hintergrund zu arb
 {% hint style="info" %}
 Die Verbindung zwischen Plot und Minigame-Map wird bei erfolgreich angenommenen Community-Maps aufgehoben. Ist eine Map als Community-Map angenommen, kann diese nicht mehr vom Ersteller bearbeitet werden. _Das Plot kann dann jedoch erneut verwendet werden._
 {% endhint %}
+
+### Informationen der Map bearbeiten
+
+Um Informationen deiner Map, wie z.B. den Namen zu Bearbeiten, klicke im Plot-Map-Menü auf die gewünschte Map.
+
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Map-Einstellungen</p></figcaption></figure>
+
+* **Namensschild:** Namen der Karte bearbeiten
+* **Game-Icon:** Info zum gewählten Spiel (kann nicht geändert werden)
+* **Map-Icon:** Zeigt das Icon der Plot-Map (kann über Auswahl eines Items im Inventar geändert werden)
+* **Kartentisch:** Community-Map-Status bzw. Einreichen als Community-Map
+* **Barrier:** Karte löschen
+
+### Als Community-Map einreichen
+
+Möchtest du eine Karte als Community-Map einreichen, damit die Karte von allen gespielt werden kann und auch in öffentlichen Lobbys zur Verfügung steht, klicke auf den Kartentisch in den Map-Einstellungen. Damit wird die Karte eingereicht.
+
+#### Ablauf der Community-Maps
+
+1. Einreichen der Karte durch den Erbauer
+2. Testen der Karte durch z.B. Streamer, Teammitglieder o.ä.
+3. Annehmen der Karte als Community Map durch das Minigame-Team
+   1. Sollte die Map nicht passend sein, kann diese an dieser Stelle auch abgelehnt werden.
+
+Sobald die Karte als Community-Map angenommen ist, kann diese nicht mehr aktualisiert werden. Der Name des Erbauers bleibt aber weiterhin in der Map sichtbar.
+

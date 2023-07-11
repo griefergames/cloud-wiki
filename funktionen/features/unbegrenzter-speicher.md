@@ -16,7 +16,7 @@ Eine Verwendung mit Trichtern ist normal möglich. Hierbei werden die ersten 26 
 
 Die Menge wird im Titel unter “Storage:” angezeigt. Diese aktualisiert sich erst, wenn das Lager ein weiteres Mal geöffnet wird. Die Darstellung erfolgt ab 10.000 Items in auf volle tausend Items abgerundeten Beträgen. Items aus dem zusätzlichen Lager können per Trichter entnommen werden, oder rutschen in das verfügbare Interface nach, sobald man Items aus dem Lager “shiftet”, oder dieses aktualisiert, indem man ein Item aus seiner Hand in das Lager legt.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
