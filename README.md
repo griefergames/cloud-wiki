@@ -27,6 +27,6 @@ Wir zeigen uns bei kompletten Seiten und aufwändigen Informationen natürlich e
 Informationen kannst du hier einreichen:
 
 * [Feedback-Bereich Cloud](https://forum.griefergames.de/forum/board/299-feedback-cloud-netzwerk-vorschl%C3%A4ge-ideen/)
-* [GrieferGames Discord](https://discord.gg/abge) (im dort existierenden Ticket-System)
+* [GrieferGames Discord](https://discord.griefergames.net) (im dort existierenden Ticket-System)
 * [Web-Ticket-System](https://ticket.griefergames.de)
 

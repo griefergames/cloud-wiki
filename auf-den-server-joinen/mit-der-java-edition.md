@@ -12,7 +12,7 @@ Die Serveradresse lautet: <mark style="color:orange;">**griefergames.net**</mark
 Die direkte Verbindung auf das Cloud-Netzwerk steht dir erst ab dem **Premium-Rang** zur Verfügung. Dieses gilt auch für den geschenkten Premium-Rang von einem Supreme-Spieler.
 {% endhint %}
 
-Das Cloud-Netzwerk hat zusätzlich zu der Standard-Adresse eine Möglichkeit direkt auf das Netzwerk zu verbinden. Diese Möglichkeit erlaubt es ebenfalls, gleichzeitig auf dem 1.8-Netzwerk und dem Cloud-Netzwerk aktiv zu sein.
+Das Cloud-Netzwerk hat zusätzlich zu der Standard-Adresse eine Möglichkeit, direkt auf das Netzwerk zu verbinden. Diese Möglichkeit erlaubt es ebenfalls, gleichzeitig auf dem 1.8 Netzwerk und dem Cloud-Netzwerk aktiv zu sein.
 
 Für die direkte Verbindung ist die Serveradresse: <mark style="color:orange;">**cloud.griefergames.net**</mark>
 
