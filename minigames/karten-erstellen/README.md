@@ -22,12 +22,7 @@ Bevor man also startet zu bauen, sollte man sich Informieren, welche Plot-Größ
 
 <figure><img src="../../.gitbook/assets/javaw_rgKx0bWbGs.gif" alt=""><figcaption><p>Menüführung zur Plot-Größe</p></figcaption></figure>
 
-| Minigame    | Min. Plot-Größe | Max. Plot-Größe |
-| ----------- | --------------- | --------------- |
-| Lasertag    | 1               | 9               |
-| TNT-Run     | 1               | 9               |
-| Elytra-Flug | 1               | 16              |
-| Escape      | 1               | 16              |
+<table><thead><tr><th>Minigame</th><th data-type="number">Min. Plot-Größe</th><th data-type="number">Max. Plot-Größe</th></tr></thead><tbody><tr><td>Lasertag</td><td>1</td><td>9</td></tr><tr><td>TNT-Run</td><td>1</td><td>9</td></tr><tr><td>Elytra-Flug</td><td>1</td><td>16</td></tr><tr><td>Escape</td><td>1</td><td>16</td></tr></tbody></table>
 
 Informationen zur Plot-Größe befinden sich ebenfalls im Menü, um eine neue Map zu erstellen.
 
