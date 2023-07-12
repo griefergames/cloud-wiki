@@ -6,7 +6,7 @@ description: Herzlich Willkommen im GrieferGames Cloud Wiki
 
 ## ![](<.gitbook/assets/image (36).png>)
 
-## Über Griefergames
+## Über GrieferGames
 
 GrieferGames ist ein Citybuild Server aus dem deutschen Raum. Es werden zwei verschiedene Minecraft Versionen angeboten. Zum einen das 1.8-Netzwerk, welches bereits seit mehr als 5 Jahren existiert und ein neues Cloud-Netzwerk.
 
