@@ -39,6 +39,7 @@
 * [🗺 Karten erstellen](minigames/karten-erstellen/README.md)
   * [TNT-Run](minigames/karten-erstellen/tnt-run.md)
   * [Elytra-Flug](minigames/karten-erstellen/elytra-flug.md)
+  * [Escape](minigames/karten-erstellen/escape.md)
 
 ## Hilfreiche Links
 

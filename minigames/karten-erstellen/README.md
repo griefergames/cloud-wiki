@@ -9,7 +9,7 @@ Jeder Spieler hat die Möglichkeit seine eigenen Minigame-Karten zu erstellen, z
 <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Im Folgenden finden sich die allgemeinen Informationen und eine Anleitung zum Erstellen von Plot-Maps. Für spielbezogene Anforderungen und Infos sollte die entsprechende Seite des Spiels besucht werden.
+Im Folgenden finden sich die allgemeinen Informationen und eine Anleitung zum Erstellen von Plot-Maps. Für spielbezogene Anforderungen und Infos sollte die entsprechende Seite des Spiels besucht werden. Ist keine Seite des Spiels vorhanden, sind gesonderten Anforderungen zusätzlich zu den Allgemeinen zu beachten.
 {% endhint %}
 
 ## Die Vorbereitung
@@ -20,9 +20,16 @@ Um eine neue Karte für ein Minigame zu erstellen, sollte man sich zuerst inform
 
 Bevor man also startet zu bauen, sollte man sich Informieren, welche Plot-Größe für das Minigame möglich bzw. benötigt ist. Diese kann je nach Minigame variieren.
 
-Informationen zur Plot-Größe befinden sich in der Unterseite des Minigames oder im Menü, um eine neue Map zu erstellen.
-
 <figure><img src="../../.gitbook/assets/javaw_rgKx0bWbGs.gif" alt=""><figcaption><p>Menüführung zur Plot-Größe</p></figcaption></figure>
+
+| Minigame    | Min. Plot-Größe | Max. Plot-Größe |
+| ----------- | --------------- | --------------- |
+| Lasertag    | 1               | 9               |
+| TNT-Run     | 1               | 9               |
+| Elytra-Flug | 1               | 16              |
+| Escape      | 1               | 16              |
+
+Informationen zur Plot-Größe befinden sich ebenfalls im Menü, um eine neue Map zu erstellen.
 
 ## Minigame-Markierungen
 
