@@ -69,7 +69,7 @@ Um eine neue Map einzureichen oder eine eingereichte Map zu aktualisieren, drüc
 
 Wähle dort als erstes das Spiel aus, indem du auf das Spiel-Icon klickst. Beim Klick wird zum nächsten Spiel umgeschaltet. Im zweiten Slot wird die Information zur Grundstücksgröße angezeigt. Der Dritte gibt an, ob die Karte erstellt werden kann oder nicht.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Fehlermeldung beim Plot erstellen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Fehlermeldung beim Plot erstellen</p></figcaption></figure>
 
 Kannst du die Karte erstellen, wird die Anzeige grün und mit einem Klick auf den grünen Knopf wird die Erstellung bestätigt.
 

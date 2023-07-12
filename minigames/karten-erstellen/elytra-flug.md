@@ -4,7 +4,7 @@ Die Karten für Elytra-Flug sind etwas anspruchsvoller als andere Maps.
 
 ## Spawn-Positionen
 
-Bei der Platzierung der Spawn-Positionen durch <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> Spender sollte darauf geachtet werden, dass genug Abstand zum Start eingehalten wird. Beim Start des Spiels erhalten alle Spieler einen Boost nach oben und müssen zum Starten der Runde durch das Start/Ziel fliegen.
+Bei der Platzierung der Spawn-Positionen durch <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **Spender** sollte darauf geachtet werden, dass genug Abstand zum Start eingehalten wird. Beim Start des Spiels erhalten alle Spieler einen Boost nach oben und müssen zum Starten der Runde durch das Start/Ziel fliegen.
 
 ## Start / Ziel festlegen
 
@@ -18,7 +18,7 @@ Bei der Platzierung der Spawn-Positionen durch <img src="../../.gitbook/assets/i
 
 </div>
 
-Der Start bzw. das Ziel wird in Elytra-Flug durch zwei <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> Redstone-Blöcke markiert. Der Bereich zwischen den Blöcken ist der gezählte Bereich. Das Start/Ziel muss auch zum Start der ersten Runde durchflogen werden.
+Der Start bzw. das Ziel wird in Elytra-Flug durch zwei <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> **Redstone-Blöcke** markiert. Der Bereich zwischen den Blöcken ist der gezählte Bereich. Das Start/Ziel muss auch zum Start der ersten Runde durchflogen werden.
 
 ## Checkpoins festlegen
 
@@ -34,4 +34,4 @@ Der Start bzw. das Ziel wird in Elytra-Flug durch zwei <img src="../../.gitbook/
 
 Wichtig für den Elytra-Flug sind die Checkpoints. Jede Map braucht mindestens <mark style="color:orange;">**8 Checkpoints**</mark>, um gespielt werden zu können.
 
-Ein Checkpoint besteht aus einer Kiste in der Mitte des Checkpoins und einem Kreis aus Goldblöcken. Der maximale Abstand eines Goldblocks zu der Kiste in der Mitte darf dabei **7 Blöcke** betragen.&#x20;
+Ein Checkpoint besteht aus einer <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">**Kiste** in der Mitte des Checkpoins und einem Kreis aus <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line">**Goldblöcken**. Der maximale Abstand eines Goldblocks zu der Kiste in der Mitte darf dabei **7 Blöcke** betragen.&#x20;
