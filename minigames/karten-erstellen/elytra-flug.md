@@ -18,7 +18,7 @@ Bei der Platzierung der Spawn-Positionen durch <img src="../../.gitbook/assets/i
 
 </div>
 
-Der Start bzw. das Ziel wird in Elytra-Flug durch zwei <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> **Redstone-Blöcke** markiert. Der Bereich zwischen den Blöcken ist der gezählte Bereich. Das Start/Ziel muss auch zum Start der ersten Runde durchflogen werden.
+Der Start bzw. das Ziel wird in Elytra-Flug durch zwei <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> **Redstone-Blöcke** markiert. Der Bereich **zwischen** den Blöcken ist der gezählte Bereich. Das Start/Ziel muss auch zum Start der ersten Runde durchflogen werden.
 
 ## Checkpoins festlegen
 
