@@ -1,2 +1,0 @@
-# Erfolge / Advancements
-

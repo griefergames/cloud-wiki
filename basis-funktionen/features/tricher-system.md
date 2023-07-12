@@ -1,2 +1,0 @@
-# Tricher-System
-
