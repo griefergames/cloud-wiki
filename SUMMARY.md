@@ -38,7 +38,6 @@
 * [🤖 Übersicht](minigames/uebersicht.md)
 * [🗺 Karten erstellen](minigames/karten-erstellen/README.md)
   * [TNT-Run](minigames/karten-erstellen/tnt-run.md)
-  * [Lasertag](minigames/karten-erstellen/lasertag.md)
   * [Elytra-Flug](minigames/karten-erstellen/elytra-flug.md)
 
 ## Hilfreiche Links
