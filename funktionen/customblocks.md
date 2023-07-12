@@ -1,25 +1,23 @@
 ---
-description: Individuelle Blöcke durch MysteryMod CustomBlocks.
+description: Individuelle Blöcke durch MysteryMod CustomBlocks
 ---
 
 # 🅱 CustomBlocks
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>CustomBlocks Kücheneinrichtung (Beispiel)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Beispielbild CustomBlocks Kücheneinrichtung</p></figcaption></figure>
 
-Auf GrieferGames gibt es eigene Blöcke, welche durch einen Mod zur Verfügung gestellt werden. Es stehen dort diverse verschiedene neue Blöcke und Dekorationen zur Verfügung.&#x20;
+Auf GrieferGames gibt es eigene Blöcke, welche durch eine Mod zur Verfügung gestellt werden. Es stehen dort diverse verschiedene neue Blöcke und Dekorationen zur Verfügung.
 
-Anders als bei anderen individuellen Blöcken ist es auf GrieferGames nicht verpflichtend, die dazugehörige Client-Mod installiert zu haben. Ist der Client-Mod nicht installiert, werden die neuen Blöcke durch Ersatzblöcke ersetzt und so wird es ermöglicht auch mit Vanilla Minecraft auf GrieferGames weiterhin zu spielen.
+Anders als bei anderen individuellen Blöcken ist es auf GrieferGames nicht verpflichtend, die dazugehörige Client-Mod installiert zu haben. Ist die Client-Mod nicht installiert, werden die neuen Blöcke durch Ersatzblöcke ersetzt und so wird es ermöglicht, auch mit Vanilla-Minecraft auf GrieferGames weiterhin zu spielen.
 
-Die Nutzung der Blöcke ist somit freiwillig, wir empfehlen aber natürlich das passende Addon herunterzuladen.
+Die Nutzung der Blöcke ist somit freiwillig, wir empfehlen jedoch natürlich die Erweiterung zu installieren.
 
-## <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> CustomBlocks als Fabric Mod
+## <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> CustomBlocks als Fabric-Mod
 
-Ab der Version 1.20 stehen die CustomBlocks als Fabric Mod zur Verfügung. Diese könnt ihr in den Client eurer Wahl hinzufügen und seid nicht mehr auf den MysteryMod Client angewiesen.
+Ab der Version 1.20 stehen die CustomBlocks als Mod auf Basis von Fabric zur Verfügung. Diese könnt ihr in den Client eurer Wahl hinzufügen und seid nicht mehr auf den MysteryMod Client angewiesen.
 
-Die CustomBlocks sind auf CurseForge unter dem folgenden Link zu finden: [CurseForge Link](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks)
-
-
+Die Fabric-Mod "CustomBlocks" ist auf [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks) zu finden.
 
 ### CustomBlocks für ältere Versionen
 
-Für die Älteren Versionen stehen die Blöcke nur als Addon im [MysteryMod Client](https://mysterymod.net) zur Verfügung. Dort wird jedoch nur die Version 1.8 weiterhin aktualisiert. Die Versionen 1.16, 1.18 und 1.19 erhalten keine weiteren Updates für die Möbel. Bei Versionen über 1.8 (aber auch in 1.8 möglich) empfehlen wir deshalb, ebenfalls das Fabric-Addon zu benutzen.
+Für die älteren Versionen stehen die Blöcke nur als Addon im [MysteryMod Client](https://mysterymod.net) zur Verfügung. Dort wird jedoch nur die Version 1.8 weiterhin aktualisiert. Die Versionen 1.16, 1.18 und 1.19 erhalten keine weiteren Updates für die Möbel. Bei Versionen **über** 1.8 (aber auch in 1.8 möglich) empfehlen wir deshalb, ebenfalls das Fabric-Addon zu benutzen.
