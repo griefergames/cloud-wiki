@@ -4,7 +4,7 @@ Die Karten für Elytra-Flug sind etwas anspruchsvoller als andere Maps.
 
 ## Spawn-Positionen
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="375"><figcaption><p>Abstand Spawn-Positionen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="375"><figcaption><p>Abstand Spawn-Positionen</p></figcaption></figure>
 
 Bei der Platzierung der Spawn-Positionen durch <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> **Spender** sollte darauf geachtet werden, dass genug Abstand zum Start eingehalten wird. Beim Start des Spiels erhalten alle Spieler einen Boost nach oben und müssen zum Starten der Runde durch das Start/Ziel fliegen.
 
@@ -30,10 +30,10 @@ Der Start bzw. das Ziel wird in Elytra-Flug durch zwei <img src="../../.gitbook/
 
  
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption><p>Abstand Kiste &#x26; Goldblöcke</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption><p>Abstand Kiste &#x26; Goldblöcke</p></figcaption></figure>
 
 </div>
 
 Wichtig für den Elytra-Flug sind die Checkpoints. Jede Map braucht mindestens <mark style="color:orange;">**8 Checkpoints**</mark>, um gespielt werden zu können.
 
-Ein Checkpoint besteht aus einer <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">**Kiste** in der Mitte des Checkpoins und einem Kreis aus <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line">**Goldblöcken**. Der maximale Abstand eines Goldblocks zu der Kiste in der Mitte darf dabei **7 Blöcke** betragen.&#x20;
+Ein Checkpoint besteht aus einer <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line">**Kiste** in der Mitte des Checkpoins und einem Kreis aus <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line">**Goldblöcken**. Der maximale Abstand eines Goldblocks zu der Kiste in der Mitte darf dabei **7 Blöcke** betragen.&#x20;

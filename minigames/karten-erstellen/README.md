@@ -6,7 +6,7 @@ description: Eigene Minigame Maps auf GrieferGames
 
 Jeder Spieler hat die Möglichkeit seine eigenen Minigame-Karten zu erstellen, zu spielen und sogar für alle Spieler einzureichen.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Im Folgenden finden sich die allgemeinen Informationen und eine Anleitung zum Erstellen von Plot-Maps. Für spielbezogene Anforderungen und Infos sollte die entsprechende Seite des Spiels besucht werden. Ist keine Seite des Spiels vorhanden, sind gesonderten Anforderungen zusätzlich zu den Allgemeinen zu beachten.
@@ -56,7 +56,7 @@ Durch das Platzieren von Sicherheitskameras in der Map können Zuschauer-Punkte 
 
 Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="../../.gitbook/assets/image (25).png" alt="" data-size="line"> **Plot-Maps**. In der Liste findest du deine erstellten Maps und deren Status. Hier werden auch fehlende Markierungen oder Probleme mit deiner Map angezeigt.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Plot-Map-Informationen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Plot-Map-Informationen</p></figcaption></figure>
 
 * **Bereit:** Gibt an, ob die Map spielbereit ist. Ist eine Map nicht spielbereit, wird diese ggf. noch vorbereitet oder enthält Fehler.
 * **Bewertung:** Hier ist die Zusammenfassung deiner Map-Bewertungen zusehen, wenn die Map bereits bewertet wurde.

@@ -6,7 +6,7 @@ Auf GrieferGames kannst du ebenfalls mit der Bedrock-Version spielen. Du spielst
 
 Um dich auf den Server zu verbinden, musst du einen neuen Multiplayer-Server hinzufügen. Die Serveradresse ist <mark style="color:orange;">**griefergames.net**</mark> und der Port ist <mark style="color:orange;">**19132**</mark> (Standardport).
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Verbindungsinformationen Bedrock-Version</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption><p>Verbindungsinformationen Bedrock-Version</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:red;">**Achtung:**</mark> Da GrieferGames die Bedrock-Version über eine Schnittstelle anbindet, brauchen wir bei jedem neuen Update deines Spiels einen Moment, um diese Änderungen umzusetzen. \
