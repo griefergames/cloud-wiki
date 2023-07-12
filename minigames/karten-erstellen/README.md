@@ -46,7 +46,7 @@ Wenn mehrere Spawn-Punkte gesetzt werden können, wird meist anhand der Spawn-An
 
 Für die meisten Spiele kann ein Vorab-Spawnpunkt gesetzt werden. An diesem Punkt spawnen die Spieler beim joinen auf den Server und warten dort auf den Start des Spiels. **Die Ausrichtung der Werfer gibt dabei die Blickrichtung der Spieler beim Spawn an.**
 
-### <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> Sicherheitskamera
+### <img src="../../.gitbook/assets/image (9) (2).png" alt="" data-size="line"> Sicherheitskamera
 
 Durch das Platzieren von Sicherheitskameras in der Map können Zuschauer-Punkte gesetzt werden. Als Zuschauer eines Minigames kann man sich zwischen den Kameras hin und her bewegen, um dem Spiel beizuwohnen.
 
@@ -58,14 +58,14 @@ Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="
 
 * **Bereit:** Gibt an, ob die Map spielbereit ist. Ist eine Map nicht spielbereit, wird diese ggf. noch vorbereitet oder enthält Fehler.
 * **Bewertung:** Hier ist die Zusammenfassung deiner Map-Bewertungen zusehen, wenn die Map bereits bewertet wurde.
-* <mark style="color:red;">**Fehler:**</mark> Hier werden Fehler der Map angezeigt, welche beim Generieren der Map festgestellt wurden. Beispiel: <img src="../../.gitbook/assets/image (38).png" alt="" data-size="line">
+* <mark style="color:red;">**Fehler:**</mark> Hier werden Fehler der Map angezeigt, welche beim Generieren der Map festgestellt wurden. Beispiel: <img src="../../.gitbook/assets/image (38) (1).png" alt="" data-size="line">
 * **Community-Map:** Zeigt an, ob deine Map als Community-Map für alle verfügbar ist bzw. wie der Status deiner Einsendung ist.
 
 ### Neue Map einreichen / Map aktualisieren
 
 Um eine neue Map einzureichen oder eine eingereichte Map zu aktualisieren, drücke im Plot-Map-Menü auf <img src="../../.gitbook/assets/image (32).png" alt="" data-size="line"> **Neue Map erstellen**.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Ansicht Neue Map erstellen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (2).png" alt=""><figcaption><p>Ansicht Neue Map erstellen</p></figcaption></figure>
 
 Wähle dort als erstes das Spiel aus, indem du auf das Spiel-Icon klickst. Beim Klick wird zum nächsten Spiel umgeschaltet. Im zweiten Slot wird die Information zur Grundstücksgröße angezeigt. Der Dritte gibt an, ob die Karte erstellt werden kann oder nicht.
 
@@ -73,7 +73,7 @@ Wähle dort als erstes das Spiel aus, indem du auf das Spiel-Icon klickst. Beim 
 
 Kannst du die Karte erstellen, wird die Anzeige grün und mit einem Klick auf den grünen Knopf wird die Erstellung bestätigt.
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt="" width="281"><figcaption><p>Button zum Grundstück als Map erstellen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39) (1).png" alt="" width="281"><figcaption><p>Button zum Grundstück als Map erstellen</p></figcaption></figure>
 
 Danach kopiert das Minigame-System dein Plot, welches durch zwei Chatausgaben angezeigt wird:
 
