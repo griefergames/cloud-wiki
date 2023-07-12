@@ -4,9 +4,9 @@ Die Karten für Elytra-Flug sind etwas anspruchsvoller als andere Maps.
 
 ## Spawn-Positionen
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Abstand Spawn-Positionen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="375"><figcaption><p>Abstand Spawn-Positionen</p></figcaption></figure>
 
-Bei der Platzierung der Spawn-Positionen durch <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **Spender** sollte darauf geachtet werden, dass genug Abstand zum Start eingehalten wird. Beim Start des Spiels erhalten alle Spieler einen Boost nach oben und müssen zum Starten der Runde durch das Start/Ziel fliegen.
+Bei der Platzierung der Spawn-Positionen durch <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> **Spender** sollte darauf geachtet werden, dass genug Abstand zum Start eingehalten wird. Beim Start des Spiels erhalten alle Spieler einen Boost nach oben und müssen zum Starten der Runde durch das Start/Ziel fliegen.
 
 ## Start / Ziel festlegen
 

@@ -34,7 +34,7 @@ Für ein Minigame werden ein paar Informationen benötigt, wie z.B. wo sollen di
 
 Diese Punkte werden bei den Minigames mit Blöcken markiert, welche im späteren Verlauf durch das System ersetzt werden.
 
-### <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **Spender (Dropper)**
+### <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> **Spender (Dropper)**
 
 Mit Spendern werden die Spawn-Punkte für die Spieler markiert. Je nach Minigame ist ein Spawnpunkt erforderlich oder eine Vielzahl an Spawn-Punkten. **Die Ausrichtung der Spender gibt dabei die Blickrichtung der Spieler beim Spawn an.**
 
@@ -42,7 +42,7 @@ Mit Spendern werden die Spawn-Punkte für die Spieler markiert. Je nach Minigame
 Wenn mehrere Spawn-Punkte gesetzt werden können, wird meist anhand der Spawn-Anzahl die **mögliche Spielerzahl** der Map berechnet.
 {% endhint %}
 
-### <img src="../../.gitbook/assets/image (3) (2) (1).png" alt="" data-size="line"> Werfer (Dispenser)
+### <img src="../../.gitbook/assets/image (3) (2).png" alt="" data-size="line"> Werfer (Dispenser)
 
 Für die meisten Spiele kann ein Vorab-Spawnpunkt gesetzt werden. An diesem Punkt spawnen die Spieler beim joinen auf den Server und warten dort auf den Start des Spiels. **Die Ausrichtung der Werfer gibt dabei die Blickrichtung der Spieler beim Spawn an.**
 
@@ -52,9 +52,9 @@ Durch das Platzieren von Sicherheitskameras in der Map können Zuschauer-Punkte 
 
 ## Plot-Map-Menü
 
-Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="../../.gitbook/assets/image (25) (1).png" alt="" data-size="line"> **Plot-Maps**. In der Liste findest du deine erstellten Maps und deren Status. Hier werden auch fehlende Markierungen oder Probleme mit deiner Map angezeigt.
+Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="../../.gitbook/assets/image (25).png" alt="" data-size="line"> **Plot-Maps**. In der Liste findest du deine erstellten Maps und deren Status. Hier werden auch fehlende Markierungen oder Probleme mit deiner Map angezeigt.
 
-<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Plot-Map-Informationen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Plot-Map-Informationen</p></figcaption></figure>
 
 * **Bereit:** Gibt an, ob die Map spielbereit ist. Ist eine Map nicht spielbereit, wird diese ggf. noch vorbereitet oder enthält Fehler.
 * **Bewertung:** Hier ist die Zusammenfassung deiner Map-Bewertungen zusehen, wenn die Map bereits bewertet wurde.
