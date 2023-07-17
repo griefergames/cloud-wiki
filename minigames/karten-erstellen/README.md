@@ -95,7 +95,7 @@ Die Verbindung zwischen Plot und Minigame-Map wird bei erfolgreich angenommenen 
 
 Um Informationen deiner Map, wie z.B. den Namen zu Bearbeiten, klicke im Plot-Map-Menü auf die gewünschte Map.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Map-Einstellungen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (2).png" alt=""><figcaption><p>Map-Einstellungen</p></figcaption></figure>
 
 * **Namensschild:** Namen der Karte bearbeiten
 * **Game-Icon:** Info zum gewählten Spiel (kann nicht geändert werden)
