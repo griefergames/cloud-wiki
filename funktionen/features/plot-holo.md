@@ -8,7 +8,7 @@ description: Hologramme für das eigene Grundstück
 
 Um ein Hologramm auf dem eigenem Grundstück zu erstellen, benötigt man ein Plot-Holo Item:
 
-![](../../.gitbook/assets/1.png)
+![](<../../.gitbook/assets/1 (2).png>)
 
 Hält man das Item nun in der Hand und nutzt einen Rechtsklick, wird man gefragt, ob man das Item wirklich benutzen möchte. Bestätigt man die Nutzung, erhält man folgende Übersicht:
 

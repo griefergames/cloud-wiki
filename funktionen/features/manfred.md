@@ -4,7 +4,7 @@ description: Der fahrende Händler auf GrieferGames
 
 # Manfred
 
-![](<../../.gitbook/assets/0 (1).png>)
+![](<../../.gitbook/assets/0 (1) (2).png>)
 
 **Manni**, auch bekannt als Manfred, ist ein einzigartiger NPC-Händler in GrieferGames.
 

@@ -18,7 +18,7 @@ Wann das nächste Mal ein Angebot verfügbar sein wird, kann also nur schwer vor
 
 Beim Wand-Händler können Wand-Effekte gekauft werden, die ihr auf eure Plots anwenden könnt, um die Plot Wände auf euren Plots zu ändern. Die Wand-Effekte kosten unterschiedlich viel und die verschiedenen Wände wechseln täglich.
 
-![Wand-Händler Shop](<../../.gitbook/assets/1 (2).png>)
+![Wand-Händler Shop](<../../.gitbook/assets/1 (2) (1).png>)
 
 ## **Rand-Händler**
 
@@ -30,7 +30,7 @@ Beim Rand-Händler können Rand-Effekte gekauft werden, die ihr auf eure Plots a
 
 Beim Angler-Shop NPC könnt ihr die **ICTUS aqua 3000** Angel für 20 [Adventure-Coins](adventure-system.md) kaufen. Diese wird für Angelevents benötigt, um die Items angeln zu können.
 
-![Angler-Shop-Ansicht](<../../.gitbook/assets/3 (2).png>)
+![Angler-Shop-Ansicht](<../../.gitbook/assets/3 (2) (1).png>)
 
 ### Dauerhafte Belohnungen
 
