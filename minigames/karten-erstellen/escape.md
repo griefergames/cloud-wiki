@@ -115,6 +115,7 @@ Die folgenden Trigger stehen zur Verfügung:
 | \[KILL]     | Beim Töten eines Monsters <img src="../../.gitbook/assets/image (26).png" alt="" data-size="line"><img src="../../.gitbook/assets/image (22).png" alt="" data-size="line">                  | Getöteter [Mob-Typ](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html) | --                                                                             |
 | \[REDSTONE] | Wird durch ein Redstone-Signal ausgelöst                                                                                                                                                    | _<mark style="color:green;">(optional)</mark>_ Benötigte Redstone-Power                         | --                                                                             |
 | \[VARIABLE] | Wenn eine Variable durch die <mark style="color:purple;">**SETVARIABLE**</mark><mark style="color:purple;">-Action</mark> geändert wird.                                                    | Variablen-Name                                                                                  | _<mark style="color:green;">(optional)</mark>_ Erforderlicher Wert             |
+| \[USETIPP]  | Wenn ein Tipp genutzt wird.                                                                                                                                                                 | Tipp-Tag                                                                                        | --                                                                             |
 
 {% hint style="warning" %}
 Das **Argument 3** (letzte Zeile) gibt bei allen Triggern an, wie oft der Trigger ausgelöst werden darf. Es kann auch `%player%` verwendet werden, dann kann der Trigger so oft ausgeführt werden, wie Spieler in der Lobby sind.\
@@ -148,9 +149,40 @@ Die folgenden Aktionen stehen zur Verfügung:
 | \[MOB]           | Spawned einen Mob / Mobs                                                                                                                                                                                                              | <p>1: <a href="https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html">Mob-Typ</a><br>2: relative Koordinaten<br>3: <em><mark style="color:green;">(optional)</mark></em> Menge</p>                                                                                          |
 | \[SETVARIABLE]   | Setzt eine Variable für die Nutzung des <mark style="color:orange;">**VARIABLE**</mark><mark style="color:orange;">-Triggers</mark>                                                                                                   | <p>1: Variablen-Name<br>2: Wert oder Wertänderung (+10 / -10)</p>                                                                                                                                                                                                                                |
 | \[SOUND]         | Spielt einen Sound ab                                                                                                                                                                                                                 | <p>1: <a href="https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html">Sound</a><br>2: <em><mark style="color:green;">(optional)</mark></em> relative Koordinaten<br>3: <em><mark style="color:green;">(optional)</mark></em> Lautstärke (1-10)</p>                                      |
+| \[TIPP]          | Fügt einen verfügbaren Tipp dem Spiel hinzu.                                                                                                                                                                                          | <p>1: Tipp-Tag<br>2: relative Koordinaten zu einer Kiste, die Tipp-Items enthält<br>3: <em><mark style="color:green;">(optional)</mark></em> Verzögerung in Sekunden, bis der Tipp verfügbar ist</p>                                                                                             |
+| \[CANCELTIPP]    | Entfernt einen verfügbaren Tipp wieder.                                                                                                                                                                                               | 1: Tipp-Tag                                                                                                                                                                                                                                                                                      |
 
 {% hint style="info" %}
 Argumente die **Koordinaten** angeben, müssen immer **relativ zur Position des Befehlsblocks** angegeben werden und nicht in Citybuild-Coordinaten. Dieses gilt für X-, Y- und Z-Achse.\
 \
 **Beispiel:** _Ist die gewünschte X-Koordinate auf dem CB 254 und der Befehlsblock befindet sich auf CB-X-Koordinate 200 ist der einzutragende Wert 54._
+{% endhint %}
+
+## Das Tipp-System
+
+In schwierigen Situationen ist manchmal ein Tipp sehr wertvoll, um ein Rätsel zu lösen oder den nächsten Schritt zu erkennen.
+
+Über die Trigger gibt es die Möglichkeit Tipps in das Spiel einfließen zu lassen.&#x20;
+
+### Einen Tipp erstellen
+
+Um einen Tipp zu erstellen, benötigt es lediglich einen Command mit der Aktion <mark style="color:purple;">\[TIPP]</mark>. Dort wird eine Kiste in relativen Koordinaten angegeben. Den Inhalt dieser Kiste erhält der Spieler, wenn der den Tipp mit dem Befehl `/tipp` abruft.&#x20;
+
+{% hint style="info" %}
+Die Kiste wird beim Abrufen des Tipps geleert. \
+_Es ist also möglich eine im Rätsel verwendete Kiste zu verwenden._
+{% endhint %}
+
+{% hint style="success" %}
+Es können alle Arten von "Kisten" verwendet werden. Dieses gilt auch für Trichter etc.
+{% endhint %}
+
+### Hintergrund-Infos zum Tipp-System
+
+Es gibt immer nur einen verfügbaren Tipp. Der letzte Tipp, welcher aktiviert wurde (sowohl direkt, als auch mit Verzögerung) ist für die Spieler verfügbar.
+
+Wurde der Tipp verwendet, ist kein Tipp verfügbar, bis die Verzögerung eines Tipps abläuft oder ein weiterer Tipp aktiviert wird.
+
+{% hint style="info" %}
+**Tipp-Tipp:** Über den Trigger <mark style="color:orange;">\[USETIPP]</mark> können Tipp-Ketten erstellt werden, welche nur beim Verwenden des vorherigen Tipps ausgelöst werden.
 {% endhint %}
