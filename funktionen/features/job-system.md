@@ -26,13 +26,13 @@ Um Informationen zu den Ankäufern zu erhalten könnt ihr Rechtsklick auf ein It
 
 ## Neues Angebot einstellen
 
-Wenn ihr ein neues Angebot erstellen wollt, um Items anzukaufen, klickt im Menü der Jobbörse auf den Knopf **Meine Aufträge** <img src="../../.gitbook/assets/image (23) (1).png" alt="" data-size="line">.
+Wenn ihr ein neues Angebot erstellen wollt, um Items anzukaufen, klickt im Menü der Jobbörse auf den Knopf **Meine Aufträge** <img src="../../.gitbook/assets/image (23) (1) (1).png" alt="" data-size="line">.
 
 Dort seht ihr eine Übersicht über eure aktuell eingestellten Aufträge. Mehr zu den vorhandenen Aufträgen im Bereich [Items abholen / Angebot verwalten](job-system.md#items-abholen-angebot-verwalten).
 
 Klickt nun auf **Neuen Auftrag erstellen** <img src="../../.gitbook/assets/image (18).png" alt="" data-size="line">.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 Wählt als erstes ein Item aus eurem Inventar, welches ihr ankaufen möchtet.\
 Klickt dafür auf das Item in eurem Inventar und es wird oben im Bereich **Item wählen** angezeigt.

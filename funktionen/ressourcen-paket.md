@@ -39,4 +39,4 @@ Wir wollen es jederzeit ermöglichen, dass weiterhin eigene Ressourcenpakete ver
 
 ## Beispiele an Inhalten
 
-![](<../.gitbook/assets/image (34) (1).png>)![](<../.gitbook/assets/image (4) (1).png>)![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (11) (1).png>)![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (34) (1).png>) ![](<../.gitbook/assets/image (4) (1).png>) ![](<../.gitbook/assets/image (21).png>) ![](<../.gitbook/assets/image (11) (1) (1).png>) ![](<../.gitbook/assets/image (8) (1).png>)

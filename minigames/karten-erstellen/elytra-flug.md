@@ -4,9 +4,9 @@ Die Karten für Elytra-Flug sind etwas anspruchsvoller als andere Maps.
 
 ## Spawn-Positionen
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="375"><figcaption><p>Abstand Spawn-Positionen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt="" width="375"><figcaption><p>Abstand Spawn-Positionen</p></figcaption></figure>
 
-Bei der Platzierung der Spawn-Positionen durch <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> **Spender** sollte darauf geachtet werden, dass genug Abstand zum Start eingehalten wird. Beim Start des Spiels erhalten alle Spieler einen Boost nach oben und müssen zum Starten der Runde durch das Start/Ziel fliegen.
+Bei der Platzierung der Spawn-Positionen durch <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> **Spender** sollte darauf geachtet werden, dass genug Abstand zum Start eingehalten wird. Beim Start des Spiels erhalten alle Spieler einen Boost nach oben und müssen zum Starten der Runde durch das Start/Ziel fliegen.
 
 ## Start / Ziel festlegen
 
@@ -30,7 +30,7 @@ Der Start bzw. das Ziel wird in Elytra-Flug durch zwei <img src="../../.gitbook/
 
  
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption><p>Abstand Kiste &#x26; Goldblöcke</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt="" width="375"><figcaption><p>Abstand Kiste &#x26; Goldblöcke</p></figcaption></figure>
 
 </div>
 

@@ -36,7 +36,7 @@ Für ein Minigame werden ein paar Informationen benötigt, wie z.B. wo sollen di
 
 Diese Punkte werden bei den Minigames mit Blöcken markiert, welche im späteren Verlauf durch das System ersetzt werden.
 
-### <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> **Spender (Dropper)**
+### <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> **Spender (Dropper)**
 
 Mit Spendern werden die Spawn-Punkte für die Spieler markiert. Je nach Minigame ist ein Spawnpunkt erforderlich oder eine Vielzahl an Spawn-Punkten. **Die Ausrichtung der Spender gibt dabei die Blickrichtung der Spieler beim Spawn an.**
 

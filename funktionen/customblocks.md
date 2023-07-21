@@ -4,7 +4,7 @@ description: Individuelle Blöcke durch MysteryMod CustomBlocks
 
 # 🅱 CustomBlocks
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Beispielbild CustomBlocks Kücheneinrichtung</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption><p>Beispielbild CustomBlocks Kücheneinrichtung</p></figcaption></figure>
 
 Auf GrieferGames gibt es eigene Blöcke, welche durch eine Mod zur Verfügung gestellt werden. Es stehen dort diverse verschiedene neue Blöcke und Dekorationen zur Verfügung.
 

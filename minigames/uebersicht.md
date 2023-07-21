@@ -12,7 +12,7 @@ In der unteren Reihe befinden sich die folgenden Buttons:
 
 * <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> **Letzte Spiele**\
   Hier werden die letzten gespielten Spiele angezeigt _(das Öffnen dieser Ansicht dauert ggf. ein paar Sekunden)_.
-* <img src="../.gitbook/assets/image (12).png" alt="" data-size="line"> **Private Lobby**\
+* <img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> **Private Lobby**\
   Öffnet den Bereich für private Lobbys.
 * <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> **Plot-Maps**\
   Öffnet den Bereich für [Plot-Maps](karten-erstellen/) _(nur auf Citybuild-Regionen verfügbar)_.
@@ -39,7 +39,7 @@ Diese Minigames sind auch in privaten Lobbys nur während der Zeit verfügbar, w
 
 In der Minigame-Lobby stehen verschiedene Aktionen zur Verfügung:
 
-* <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> **Spieler**\
+* <img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> **Spieler**\
   Hier können die Spieler der Lobby angezeigt werden _(in privaten Runden können hier Spieler aus der Lobby geworfen werden)_.
 * <img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> **Karte / Map**\
   Hier kann für eine Map abgestimmt werden _(in privaten Runden kann der Besitzer der Lobby hier eine Karte auswählen)_.
@@ -51,5 +51,5 @@ In der Minigame-Lobby stehen verschiedene Aktionen zur Verfügung:
   Während in der Lobby gewartet wird, kann man das Fenster schließen – man bleibt weiterhin in der Lobby _(das Fenster kann auch wie gewohnt geschlossen werden)_.
 * <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> **Lobby-Broadcast**\
   Einige Spieler wie beispielsweise Streamer oder Teammitglieder haben die Möglichkeit, hier im Chat die Lobby zu bewerben.
-* <img src="../.gitbook/assets/image (23).png" alt="" data-size="line"> **Rundenstart**\
+* <img src="../.gitbook/assets/image (23) (1).png" alt="" data-size="line"> **Rundenstart**\
   Mit diesem Knopf kann die Runde gestartet werden. Dieses ist nur in privaten Lobbys möglich, da dort das Spiel nicht automatisch startet. In öffentlichen Runden startet das Spiel automatisch.\\
