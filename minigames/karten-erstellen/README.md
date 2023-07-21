@@ -36,7 +36,7 @@ Für ein Minigame werden ein paar Informationen benötigt, wie z.B. wo sollen di
 
 Diese Punkte werden bei den Minigames mit Blöcken markiert, welche im späteren Verlauf durch das System ersetzt werden.
 
-### <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> **Spender (Dropper)**
+### <img src="../../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> **Spender (Dropper)**
 
 Mit Spendern werden die Spawn-Punkte für die Spieler markiert. Je nach Minigame ist ein Spawnpunkt erforderlich oder eine Vielzahl an Spawn-Punkten. **Die Ausrichtung der Spender gibt dabei die Blickrichtung der Spieler beim Spawn an.**
 
@@ -56,7 +56,7 @@ Durch das Platzieren von Sicherheitskameras in der Map können Zuschauer-Punkte 
 
 Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="../../.gitbook/assets/image (25).png" alt="" data-size="line"> **Plot-Maps**. In der Liste findest du deine erstellten Maps und deren Status. Hier werden auch fehlende Markierungen oder Probleme mit deiner Map angezeigt.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Plot-Map-Informationen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Plot-Map-Informationen</p></figcaption></figure>
 
 * **Bereit:** Gibt an, ob die Map spielbereit ist. Ist eine Map nicht spielbereit, wird diese ggf. noch vorbereitet oder enthält Fehler.
 * **Bewertung:** Hier ist die Zusammenfassung deiner Map-Bewertungen zusehen, wenn die Map bereits bewertet wurde.
@@ -75,7 +75,7 @@ Wähle dort als erstes das Spiel aus, indem du auf das Spiel-Icon klickst. Beim 
 
 Kannst du die Karte erstellen, wird die Anzeige grün und mit einem Klick auf den grünen Knopf wird die Erstellung bestätigt.
 
-<figure><img src="../../.gitbook/assets/image (39) (1).png" alt="" width="281"><figcaption><p>Button zum Grundstück als Map erstellen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39) (1) (1).png" alt="" width="281"><figcaption><p>Button zum Grundstück als Map erstellen</p></figcaption></figure>
 
 Danach kopiert das Minigame-System dein Plot, welches durch zwei Chatausgaben angezeigt wird:
 
@@ -95,7 +95,7 @@ Die Verbindung zwischen Plot und Minigame-Map wird bei erfolgreich angenommenen 
 
 Um Informationen deiner Map, wie z.B. den Namen zu Bearbeiten, klicke im Plot-Map-Menü auf die gewünschte Map.
 
-<figure><img src="../../.gitbook/assets/image (26) (2).png" alt=""><figcaption><p>Map-Einstellungen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (2) (1).png" alt=""><figcaption><p>Map-Einstellungen</p></figcaption></figure>
 
 * **Namensschild:** Namen der Karte bearbeiten
 * **Game-Icon:** Info zum gewählten Spiel (kann nicht geändert werden)

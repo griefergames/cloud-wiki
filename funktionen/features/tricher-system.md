@@ -26,7 +26,7 @@ Dieses Menü bietet verschiedene Einstellungsoptionen, welche im Folgenden erlä
 
 ### Item-Anzahl einstellen
 
-Mit dem Button <img src="../../.gitbook/assets/image (23).png" alt="" data-size="line">kann die <mark style="color:orange;">Anzahl der transportierten Items</mark> festgelegt werden.\
+Mit dem Button <img src="../../.gitbook/assets/image (23) (1).png" alt="" data-size="line">kann die <mark style="color:orange;">Anzahl der transportierten Items</mark> festgelegt werden.\
 **Standardeinstellung:** 12 Items
 
 Folgende Optionen stehen zur Verfügung:
@@ -41,9 +41,122 @@ Es wird immer nur ein Stack gleichzeitig bewegt. Hat ein Stack weniger Items, al
 
 ### Force Fast Tick
 
-Mit der <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line"> <mark style="color:orange;">Force Fast Tick</mark> Option ist es Möglich die Tick-Geschwindigkeit auf den Standard zurück zu setzen (siehe [Trichter-Tick](tricher-system.md#trichter-tick)). Diese Möglichkeit wird für manche Redstone-Schaltungen benötigt, welche sich nicht anders realisieren lassen. Der Großteil der Schaltungen lässt sich jedoch so umbauen, dass diese auch auf GrieferGames funktionieren.
+Mit der <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> <mark style="color:orange;">Force Fast Tick</mark> Option ist es Möglich die Tick-Geschwindigkeit auf den Standard zurück zu setzen (siehe [Trichter-Tick](tricher-system.md#trichter-tick)). Diese Möglichkeit wird für manche Redstone-Schaltungen benötigt, welche sich nicht anders realisieren lassen. Der Großteil der Schaltungen lässt sich jedoch so umbauen, dass diese auch auf GrieferGames funktionieren.
 
 {% hint style="warning" %}
 Diese Option steht nur der Administration zur Verfügung oder bei aktivierter `hopper-fast-tick`-Flag auf dem Grundstück. Diese Flag wird in seltenen Ausnahmefällen vergeben und kann über das Ticket-System beantragt werden.
 {% endhint %}
 
+### Sammelradius
+
+Über die Einstellungsoptionen <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> kann der Sammelradius eingestellt werden. Der Sammelradius beeinflusst den Umkreis aus dem ein herumliegendes Item von dem Trichter eingesammelt wird.
+
+Der maximale Sammelradius beträgt <mark style="color:orange;">**15 Blöcke**</mark> und ist zusätzlich durch die <mark style="color:orange;">**Plot-Grenze begrenzt**</mark>.
+
+### Verbundener Trichter
+
+Über die <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> <mark style="color:orange;">**Trichter Verbindung**</mark> kann das Ziel des Trichters direkt ausgewählt werden. Das Ziel kann sich in einem Bereich von <mark style="color:orange;">**30 Blöcken**</mark> gewählt werden.
+
+{% hint style="info" %}
+Trichter können mit allen Blöcken verbunden werden, welche ein Inventar haben. Die Verbindung ist mit allen Blöcken möglich, in die ein Trichter auch standardmäßig weiterleiten kann.
+{% endhint %}
+
+Um einen Trichter zu verbinden, klicke auf <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> und anschließend mit leerer Hand mit rechtsklick auf den Block, welcher verbunden werden soll.
+
+Beim Klick auf den selben Trichter und wenn die Entfernung zu groß wird, wird der Verbindungs-Modus beendet.
+
+### Mehrfach-Verbindungen
+
+Über die <img src="../../.gitbook/assets/image (29).png" alt="" data-size="line"> <mark style="color:orange;">**Mehrfachverbindungen**</mark> können mehrere Endpunkte anhand von Materialien für den Trichter festgelegt werden.
+
+#### Übersicht über bestehende Verbindungen
+
+<figure><img src="../../.gitbook/assets/image (23).png" alt="" width="176"><figcaption><p>Übersichtsseite</p></figcaption></figure>
+
+In dieser Ansicht sind die bereits eingerichteten Verbindungen zu sehen. Pro Material kann ein Endpunkt als Ziel existieren. Mit einem Klick auf das Material, kann der Endpunkt entfernt werden.
+
+Mit einem Klick auf <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line"> <mark style="color:orange;">**Verbindungsmodus starten**</mark> kann der Verbindungsmodus für Multi-Verbindungen gestartet werden.
+
+### Endpunkte hinzufügen / Verbindungs-Modus
+
+Sobald der Verbindungs-Modus aktiv ist, können neue Verbindungen hinzugefügt werden, indem man mit dem gewünschten Material in der Hand auf einen möglichen Endpunkt (siehe Verbundener Trichter) klickt.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+Die Verbindung wird dann hinzugefügt, welches im Chat bestätigt wird und das nächste Material kann hinterlegt werden.
+
+Der Verbindungs-Modus wird durch Sneaken beendet.
+
+### Item-Filter
+
+Mit dem Trichter-System ist es ebenfalls möglich, die Items zu filtern, welche in den Trichter aufgenommen werden sollen.
+
+{% hint style="info" %}
+Die Filter bestimmen, welche Items ein Trichter "einsaugt" oder aus anderen Inventaren entnimmt. Legt man Items direkt in den Trichter, werden die Filter nicht berücksichtigt.
+{% endhint %}
+
+Die folgenden Filter-Optionen lassen sich ebenfalls miteinander kombinieren.
+
+Die Filter können mit einem Shift-Klick auf das <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> Filter-Icon entfernt werden. Das Icon wechselt je nach gefiltertem Material.
+
+#### Material-Filter
+
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Beispiel Material-Filter auf Grasblock</p></figcaption></figure>
+
+Um ein Material für den Trichter zu filtern, kann das Material im Hauptmenü aus dem eigenen Inventar ausgewählt werden. Das gefilterte Material ist dann an der Stelle des <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> zu sehen.
+
+Mit dem Klick auf das gefilterte Material oder <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> öffnet sich das Filter-Menü mit den folgenden Optionen.
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Filter-Übersicht</p></figcaption></figure>
+
+#### Verzauberungs-Filter
+
+Mit einem Klick auf den <img src="../../.gitbook/assets/image (34).png" alt="" data-size="line"> <mark style="color:orange;">**Verzauberungs-Filter**</mark> aktiviert sich der Verzauberungsfilter. Bei einem weiteren Klick öffnet sich das Menü mit den filterbaren Verzauberungen.
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Übersichtsseite Verzauberungen</p></figcaption></figure>
+
+In dieser Ansicht können nun die Verzauberungen angewählt werden, welche auf dem Item vorhanden sein müssen. Mit **Rechtsklick** wird die gewünschte Verzauberungsstufe erhöht, mit einem **Linksklickt** verringert. Mit einem **Shift-Klick** wird die Verzauberung aus dem Filter entfernt.
+
+{% hint style="warning" %}
+Werden mehrere Verzauberungen gewählt, müssen alle Verzauberungen auf dem Item vorhanden sein. Es muss auch die entsprechende Stufe der Verzauberung vorhanden sein.
+{% endhint %}
+
+Zusätzlich zu dem Verzauberungsfilter steht mit dem <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> unter dem <img src="../../.gitbook/assets/image (34).png" alt="" data-size="line"> der Filter "keine Verzauberung" zur Verfügung.
+
+#### Effekt-Filter
+
+Mit einem Klick auf den <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**Effekt-Filter**</mark> aktiviert sich der Effekt-Filter. Bei einem weiteren Klick öffnet sich das Menü mit den filterbaren Effekten.
+
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Übersichtsseite Effekte</p></figcaption></figure>
+
+In dieser Ansicht können nun die Effekte angewählt werden, welche auf dem Item vorhanden sein müssen. Mit dem Anklicken des Effekts wird der Filter aktiviert oder deaktiviert.
+
+{% hint style="warning" %}
+Werden mehrere Effekte gewählt, müssen alle Effekte auf dem Item vorhanden sein.
+{% endhint %}
+
+Zusätzlich zu dem Effekt-Filter steht mit dem <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> unter dem <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> der Filter "keine Effekte" zur Verfügung.
+
+#### Signierungs-Filter
+
+Mit einem Klick auf den <img src="../../.gitbook/assets/image (24).png" alt="" data-size="line"> <mark style="color:orange;">**Signierungs-Filter**</mark> aktiviert sich der Signierungsfilter. Bei einem weiteren Klick öffnet sich das Menü für die Einstellung der Signierung.
+
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Einstellungsmenü Signierung</p></figcaption></figure>
+
+Die folgenden Optionen der Signierung können eingestellt werden:
+
+* <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line">**Signierung von:** Filtert welcher Spieler die Signierung erstellt haben muss
+* <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">**Signierung am:** Filtert an welchem Datum die Signierung erstellt wurde
+* <img src="../../.gitbook/assets/image (22).png" alt="" data-size="line">**Signierung:** Filtert den Text der Signierung
+
+{% hint style="info" %}
+Der Text der Signierung muss die eingestellten Zeichen / den eingestellten Text nur enthalten und nicht vollständig entsprechen.
+{% endhint %}
+
+#### Beschreibungs-Filter
+
+(comming soon..) Aktuell auf der Cloud durch die Internationalisierten Beschreibungen nicht möglich.
+
+#### Namens-Filter
+
+(comming soon..) Aktuell auf der Cloud durch die Internationalisierten Namen nicht eindeutig.

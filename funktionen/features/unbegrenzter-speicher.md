@@ -32,7 +32,7 @@ Die Menge wird im Titel unter “Storage:” angezeigt. Diese aktualisiert sich 
 
 Das Rezept zur Herstellung eines unbegrenzten Speichers benötigt 4 Truhen, 2 Netheritbarren, 1 Enderauge, 1 Fass (oder CustomBlock Kiste - siehe “Aussehen”) und das zu lagernde Item.
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Crafting-Rezept</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption><p>Crafting-Rezept</p></figcaption></figure>
 
 {% hint style="info" %}
 Der Gegenstand oben in der Mitte bestimmt den zu lagernden Gegenstand.

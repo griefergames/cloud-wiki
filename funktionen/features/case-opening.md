@@ -1,4 +1,4 @@
-# Case Opening
+# Case-Opening
 
 Im Case Opening können zufällige Gewinne gezogen werden. Es gibt verschiedene Kisten, welche verschiedene Gewinne beinhalten und über unterschiedliche Wege erhalten werden können.
 
@@ -65,7 +65,7 @@ Durch einen **Linksklick** auf einen Kistentyp kann man sich den Kisteninhalt an
 
 Um die Anzahl an Kristallen, die in deinem Besitz sind, anzuzeigen musst du mit deiner Maus über den blauen Kristall in der Mitte des Menüs fahren, um folgenden Hinweis zu sehen:
 
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Kisten-Besitz ansehen
 
@@ -83,7 +83,7 @@ Bei einem **gleichzeitigem** Kauf von einer größeren Anzahl an Kisten gibt es 
 
 Um Kisten zu Kaufen musst du das Menü `Kisten Kaufen` durch einen Klick auf die Kiste mit einem Dollar-Zeichen rechts neben dem Kristall öffnen:
 
-<img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="original">![](<../../.gitbook/assets/image (8) (2).png>)
+<img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="original">![](<../../.gitbook/assets/image (8) (2) (1).png>)
 
 Hier kann man auswählen, welche Kiste man kaufen möchte. Am Ende muss der Kauf noch einmal bestätigt werden.
 
