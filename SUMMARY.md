@@ -10,17 +10,18 @@
 
 ## Funktionen
 
-* [🌐 Grundbefehle](funktionen/grundbefehle.md)
+* [ℹ Grundbefehle](funktionen/grundbefehle/README.md)
+  * [Signieren von Items](funktionen/grundbefehle/item-signieren.md)
+  * [Chatlog](funktionen/grundbefehle/chatlog.md)
 * [🚧 Ressourcenpaket](funktionen/ressourcen-paket.md)
 * [🌳 Die Farmwelten](funktionen/die-farmwelten.md)
 * [🏡 Grundstücke](funktionen/grundstuecke/README.md)
   * [Hilfe benutzen](funktionen/grundstuecke/hilfe-benutzen.md)
+  * [Mergen](funktionen/grundstuecke/mergen.md)
   * [Flags setzen](funktionen/grundstuecke/flags-setzen.md)
 * [💰 Währungen](funktionen/waehrungen/README.md)
   * [In-Game-Geld $](funktionen/waehrungen/ingame-money-usd.md)
 * [🅱 CustomBlocks](funktionen/customblocks.md)
-* [ℹ Essentielle Befehle](funktionen/essentielle-befehle/README.md)
-  * [Signieren von Items](funktionen/essentielle-befehle/item-signieren.md)
 * [❤ Features](funktionen/features/README.md)
   * [Mentorenprogramm](funktionen/features/mentoren-programm.md)
   * [Adventure-System](funktionen/features/adventure-system.md)
@@ -32,6 +33,7 @@
   * [Manfred](funktionen/features/manfred.md)
   * [Unbegrenzter Speicher](funktionen/features/unbegrenzter-speicher.md)
   * [Plot-Holo](funktionen/features/plot-holo.md)
+  * [Chaträume](funktionen/features/chatraeume.md)
 
 ## Minigames
 
