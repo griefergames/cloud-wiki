@@ -87,6 +87,12 @@ Die Verbindung wird dann hinzugefügt, welches im Chat bestätigt wird und das n
 
 Der Verbindungs-Modus wird durch Sneaken beendet.
 
+### Optische Anzeige
+
+Mit einem Klick auf <img src="../../.gitbook/assets/image (34).png" alt="" data-size="line"> <mark style="color:orange;">**Optische Anzeige**</mark> werden die Verbindungen und der Sammelradius des Trichters mit Partikeln angezeigt.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption><p>Optische Anzeige</p></figcaption></figure>
+
 ### Item-Filter
 
 Mit dem Trichter-System ist es ebenfalls möglich, die Items zu filtern, welche in den Trichter aufgenommen werden sollen.
@@ -111,7 +117,7 @@ Mit dem Klick auf das gefilterte Material oder <img src="../../.gitbook/assets/i
 
 #### Verzauberungs-Filter
 
-Mit einem Klick auf den <img src="../../.gitbook/assets/image (34).png" alt="" data-size="line"> <mark style="color:orange;">**Verzauberungs-Filter**</mark> aktiviert sich der Verzauberungsfilter. Bei einem weiteren Klick öffnet sich das Menü mit den filterbaren Verzauberungen.
+Mit einem Klick auf den <img src="../../.gitbook/assets/image (34) (1).png" alt="" data-size="line"> <mark style="color:orange;">**Verzauberungs-Filter**</mark> aktiviert sich der Verzauberungsfilter. Bei einem weiteren Klick öffnet sich das Menü mit den filterbaren Verzauberungen.
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Übersichtsseite Verzauberungen</p></figcaption></figure>
 
@@ -121,11 +127,11 @@ In dieser Ansicht können nun die Verzauberungen angewählt werden, welche auf d
 Werden mehrere Verzauberungen gewählt, müssen alle Verzauberungen auf dem Item vorhanden sein. Es muss auch die entsprechende Stufe der Verzauberung vorhanden sein.
 {% endhint %}
 
-Zusätzlich zu dem Verzauberungsfilter steht mit dem <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> unter dem <img src="../../.gitbook/assets/image (34).png" alt="" data-size="line"> der Filter "keine Verzauberung" zur Verfügung.
+Zusätzlich zu dem Verzauberungsfilter steht mit dem <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> unter dem <img src="../../.gitbook/assets/image (34) (1).png" alt="" data-size="line"> der Filter "keine Verzauberung" zur Verfügung.
 
 #### Effekt-Filter
 
-Mit einem Klick auf den <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**Effekt-Filter**</mark> aktiviert sich der Effekt-Filter. Bei einem weiteren Klick öffnet sich das Menü mit den filterbaren Effekten.
+Mit einem Klick auf den <img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> <mark style="color:orange;">**Effekt-Filter**</mark> aktiviert sich der Effekt-Filter. Bei einem weiteren Klick öffnet sich das Menü mit den filterbaren Effekten.
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Übersichtsseite Effekte</p></figcaption></figure>
 
@@ -135,7 +141,7 @@ In dieser Ansicht können nun die Effekte angewählt werden, welche auf dem Item
 Werden mehrere Effekte gewählt, müssen alle Effekte auf dem Item vorhanden sein.
 {% endhint %}
 
-Zusätzlich zu dem Effekt-Filter steht mit dem <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> unter dem <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> der Filter "keine Effekte" zur Verfügung.
+Zusätzlich zu dem Effekt-Filter steht mit dem <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> unter dem <img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> der Filter "keine Effekte" zur Verfügung.
 
 #### Signierungs-Filter
 

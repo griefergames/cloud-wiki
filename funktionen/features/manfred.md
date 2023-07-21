@@ -36,7 +36,7 @@ Manfred erscheint **nicht** auf Grundstücken, auf welchen alle Spieler verboten
 
 Jeder Spieler, der sich auf dem Grundstück befindet, wenn Manni erscheint, kann mit ihm handeln. Spieler haben die Wahl, einzelne Gegenstände, komplette Stacks oder ihr gesamtes Inventar zu verkaufen. Manni kauft so lange, bis sein Geld ausgegeben ist.
 
-<figure><img src="../../.gitbook/assets/image (6) (2) (1).png" alt="" width="174"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2) (1) (1).png" alt="" width="174"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Wichtig:** Beachten Sie, dass die Preise, die Manni anbietet, nicht immer die besten sind. Alle Spieler auf dem Grundstück können mit Manni handeln.

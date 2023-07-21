@@ -35,7 +35,7 @@ Diese Minigames sind auch in privaten Lobbys nur während der Zeit verfügbar, w
 
 ## Minigame-Lobby
 
-<figure><img src="../.gitbook/assets/image (34) (1).png" alt="" width="261"><figcaption><p>Ansicht einer Minigame-Lobby</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34) (1) (1).png" alt="" width="261"><figcaption><p>Ansicht einer Minigame-Lobby</p></figcaption></figure>
 
 In der Minigame-Lobby stehen verschiedene Aktionen zur Verfügung:
 
@@ -43,13 +43,13 @@ In der Minigame-Lobby stehen verschiedene Aktionen zur Verfügung:
   Hier können die Spieler der Lobby angezeigt werden _(in privaten Runden können hier Spieler aus der Lobby geworfen werden)_.
 * <img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> **Karte / Map**\
   Hier kann für eine Map abgestimmt werden _(in privaten Runden kann der Besitzer der Lobby hier eine Karte auswählen)_.
-* <img src="../.gitbook/assets/image (7) (1) (1).png" alt="" data-size="line"> **Einstellungen**\
+* <img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line"> **Einstellungen**\
   Hier können Spieleinstellungen für die Lobby vorgenommen werden. Die Einstellungen können nur in privaten Lobbys angepasst werden.
 * <img src="../.gitbook/assets/image (22) (1) (1).png" alt="" data-size="line"> **Lobby verlassen**\
   Über diesen Knopf kannst du die Lobby verlassen. In einer privaten Lobby wird die Lobby geschlossen, wenn der Besitzer die Lobby verlässt.
 * <img src="../.gitbook/assets/image (24) (1).png" alt="" data-size="line"> **Fenster schließen**\
   Während in der Lobby gewartet wird, kann man das Fenster schließen – man bleibt weiterhin in der Lobby _(das Fenster kann auch wie gewohnt geschlossen werden)_.
-* <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> **Lobby-Broadcast**\
+* <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> **Lobby-Broadcast**\
   Einige Spieler wie beispielsweise Streamer oder Teammitglieder haben die Möglichkeit, hier im Chat die Lobby zu bewerben.
 * <img src="../.gitbook/assets/image (23) (1) (1).png" alt="" data-size="line"> **Rundenstart**\
   Mit diesem Knopf kann die Runde gestartet werden. Dieses ist nur in privaten Lobbys möglich, da dort das Spiel nicht automatisch startet. In öffentlichen Runden startet das Spiel automatisch.\\

@@ -6,7 +6,7 @@ description: Eigene Minigame Maps auf GrieferGames
 
 Jeder Spieler hat die Möglichkeit seine eigenen Minigame-Karten zu erstellen, zu spielen und sogar für alle Spieler einzureichen.
 
-<figure><img src="../../.gitbook/assets/image (6) (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Im Folgenden finden sich die allgemeinen Informationen und eine Anleitung zum Erstellen von Plot-Maps. Für spielbezogene Anforderungen und Infos sollte die entsprechende Seite des Spiels besucht werden. Ist keine Seite des Spiels vorhanden, sind gesonderten Anforderungen zusätzlich zu den Allgemeinen zu beachten.
