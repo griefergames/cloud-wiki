@@ -4,7 +4,7 @@ description: Hologramme für das eigene Grundstück
 
 # Plot-Holo
 
-![](../../.gitbook/assets/0.png)
+![](<../../.gitbook/assets/0 (1).png>)
 
 Um ein Hologramm auf dem eigenem Grundstück zu erstellen, benötigt man ein Plot-Holo Item:
 

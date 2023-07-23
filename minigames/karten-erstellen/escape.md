@@ -29,7 +29,7 @@ Im Adventure Mode ist ein Spieler eingeschränkt in dem, was er machen kann. All
 
 Bei Blöcken oder Items sagt der NBT-Tag, worauf diese platziert werden können.
 
-![Beispiel einer Spitzhacke zum Abbauen](<../../.gitbook/assets/0 (1).png>) ![Beispiel eines Blocks zum Platzieren](../../.gitbook/assets/1.png)
+![Beispiel einer Spitzhacke zum Abbauen](<../../.gitbook/assets/0 (1) (2).png>) ![Beispiel eines Blocks zum Platzieren](../../.gitbook/assets/1.png)
 
 Interagieren ist im Adventure Mode möglich. Somit können Türen, Falltüren, Knöpfe, Kisten usw. einfach verwendet werden. Dies ermöglicht auch das Einschalten einer Redstone Anlage. Zusätzlich steht dem Spieler auch die Crafting-Funktion, um Items zu erstellen, zur Verfügung.
 

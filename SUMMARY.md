@@ -42,6 +42,7 @@
   * [TNT-Run](minigames/karten-erstellen/tnt-run.md)
   * [Elytra-Flug](minigames/karten-erstellen/elytra-flug.md)
   * [Escape](minigames/karten-erstellen/escape.md)
+  * [Color Battle](minigames/karten-erstellen/color-battle.md)
 
 ## Hilfreiche Links
 
