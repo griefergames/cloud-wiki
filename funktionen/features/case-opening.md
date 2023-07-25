@@ -83,7 +83,7 @@ Bei einem **gleichzeitigem** Kauf von einer größeren Anzahl an Kisten gibt es 
 
 Um Kisten zu Kaufen musst du das Menü `Kisten Kaufen` durch einen Klick auf die Kiste mit einem Dollar-Zeichen rechts neben dem Kristall öffnen:
 
-<img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="original">![](<../../.gitbook/assets/image (8) (2) (1).png>)
+<img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="original">![](<../../.gitbook/assets/image (8) (2) (1) (1).png>)
 
 Hier kann man auswählen, welche Kiste man kaufen möchte. Am Ende muss der Kauf noch einmal bestätigt werden.
 

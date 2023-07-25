@@ -151,7 +151,7 @@ Mit einem Klick auf den <img src="../../.gitbook/assets/image (24).png" alt="" d
 
 Die folgenden Optionen der Signierung können eingestellt werden:
 
-* <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line">**Signierung von:** Filtert welcher Spieler die Signierung erstellt haben muss
+* <img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line">**Signierung von:** Filtert welcher Spieler die Signierung erstellt haben muss
 * <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">**Signierung am:** Filtert an welchem Datum die Signierung erstellt wurde
 * <img src="../../.gitbook/assets/image (22).png" alt="" data-size="line">**Signierung:** Filtert den Text der Signierung
 
