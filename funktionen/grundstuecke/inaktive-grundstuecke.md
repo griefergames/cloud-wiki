@@ -31,7 +31,7 @@ In dieser Ansicht, werden dir die Details die für oder gegen einen Antrag sprec
 
 Je nach dem, ob die angezeigte Information einen Antrag ermöglicht oder nicht ermöglicht, wird in der Info folgendes angezeigt:
 
-![](<../../.gitbook/assets/image (27).png>)![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (27).png>)![](<../../.gitbook/assets/image (29) (3).png>)
 
 Wenn der Antrag möglich ist, wird unten Rechts ein <img src="../../.gitbook/assets/image (26).png" alt="" data-size="line"> **Schild** angezeigt. Ist der Antrag nicht möglich wird eine <img src="../../.gitbook/assets/image (24).png" alt="" data-size="line"> **Barriere** angezeigt.
 

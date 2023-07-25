@@ -1,6 +1,5 @@
 ---
 description: Herzlich Willkommen im GrieferGames Cloud Wiki
-layout: landing
 ---
 
 # Startseite

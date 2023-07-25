@@ -38,3 +38,8 @@ Das Farmen von Pigman über die Nether-Portale ist auf der Cloud grundsätzlich 
 
 Weitere Informationen zur Pigman-Farm gibt es auf der Unterseite [Pigman-Farmen](pigman-farmen.md).
 
+## Änderungen in Farmwelten
+
+* Die Nether-Decke kann nicht betreten werden
+* Der Enderdrache ist nicht vorhanden
+* Die Villager-Bevölkerung ist limitiert

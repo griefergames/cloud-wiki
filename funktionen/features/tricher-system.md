@@ -67,7 +67,7 @@ Beim Klick auf den selben Trichter und wenn die Entfernung zu groß wird, wird d
 
 ### Mehrfach-Verbindungen
 
-Über die <img src="../../.gitbook/assets/image (29) (3).png" alt="" data-size="line"> <mark style="color:orange;">**Mehrfachverbindungen**</mark> können mehrere Endpunkte anhand von Materialien für den Trichter festgelegt werden.
+Über die <img src="../../.gitbook/assets/image (29) (3) (1).png" alt="" data-size="line"> <mark style="color:orange;">**Mehrfachverbindungen**</mark> können mehrere Endpunkte anhand von Materialien für den Trichter festgelegt werden.
 
 #### Übersicht über bestehende Verbindungen
 

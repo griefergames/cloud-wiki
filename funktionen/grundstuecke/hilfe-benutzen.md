@@ -16,4 +16,4 @@ Im Hilfe-Menü könnt ihr das Biom einfach per Menü-Klick wechseln und seht dab
 
 <figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Beispielbild zum Ändern des Bioms auf "Dichter Wald"</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Beispielbild zum Ändern des Bioms auf "Kleine Endinseln"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Beispielbild zum Ändern des Bioms auf "Kleine Endinseln"</p></figcaption></figure>
