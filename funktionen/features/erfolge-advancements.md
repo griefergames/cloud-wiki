@@ -6,7 +6,7 @@ description: Angepasste Erfolge auf GrieferGames
 
 Jeder Spieler hat in der Standardansicht der Erfolge (_Standardtastenbelegung:_ **L**) statt der Standarderfolge von Minecraft, eigene Erfolge des GrieferGames Cloud Netzwerks.
 
-<figure><img src="../../.gitbook/assets/image (22) (1) (1) (1).png" alt=""><figcaption><p>Erfolge auf dem Cloud Netzwerk</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1) (1) (1) (1).png" alt=""><figcaption><p>Erfolge auf dem Cloud Netzwerk</p></figcaption></figure>
 
 Die Erfolge unterteilen sich aktuell in vier verschiedene Seiten:
 

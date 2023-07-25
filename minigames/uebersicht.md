@@ -10,9 +10,9 @@ Auf dem Server kann das Minigames-Menü mit `/minigame` aufgerufen werden. Im ob
 
 In der unteren Reihe befinden sich die folgenden Buttons:
 
-* <img src="../.gitbook/assets/image (13) (1).png" alt="" data-size="line"> **Letzte Spiele**\
+* <img src="../.gitbook/assets/image (13) (1) (1).png" alt="" data-size="line"> **Letzte Spiele**\
   Hier werden die letzten gespielten Spiele angezeigt _(das Öffnen dieser Ansicht dauert ggf. ein paar Sekunden)_.
-* <img src="../.gitbook/assets/image (12) (1) (1).png" alt="" data-size="line"> **Private Lobby**\
+* <img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt="" data-size="line"> **Private Lobby**\
   Öffnet den Bereich für private Lobbys.
 * <img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> **Plot-Maps**\
   Öffnet den Bereich für [Plot-Maps](karten-erstellen/) _(nur auf Citybuild-Regionen verfügbar)_.
@@ -50,7 +50,7 @@ In der Minigame-Lobby stehen verschiedene Aktionen zur Verfügung:
   Hier kann für eine Map abgestimmt werden _(in privaten Runden kann der Besitzer der Lobby hier eine Karte auswählen)_.
 * <img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line"> **Einstellungen**\
   Hier können Spieleinstellungen für die Lobby vorgenommen werden. Die Einstellungen können nur in privaten Lobbys angepasst werden.
-* <img src="../.gitbook/assets/image (22) (1) (1).png" alt="" data-size="line"> **Lobby verlassen**\
+* <img src="../.gitbook/assets/image (22) (1) (1) (1).png" alt="" data-size="line"> **Lobby verlassen**\
   Über diesen Knopf kannst du die Lobby verlassen. In einer privaten Lobby wird die Lobby geschlossen, wenn der Besitzer die Lobby verlässt.
 * <img src="../.gitbook/assets/image (24) (1) (1).png" alt="" data-size="line"> **Fenster schließen**\
   Während in der Lobby gewartet wird, kann man das Fenster schließen – man bleibt weiterhin in der Lobby _(das Fenster kann auch wie gewohnt geschlossen werden)_.

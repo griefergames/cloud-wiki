@@ -41,7 +41,7 @@ Es wird immer nur ein Stack gleichzeitig bewegt. Hat ein Stack weniger Items, al
 
 ### Force Fast Tick
 
-Mit der <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> <mark style="color:orange;">Force Fast Tick</mark> Option ist es Möglich die Tick-Geschwindigkeit auf den Standard zurück zu setzen (siehe [Trichter-Tick](tricher-system.md#trichter-tick)). Diese Möglichkeit wird für manche Redstone-Schaltungen benötigt, welche sich nicht anders realisieren lassen. Der Großteil der Schaltungen lässt sich jedoch so umbauen, dass diese auch auf GrieferGames funktionieren.
+Mit der <img src="../../.gitbook/assets/image (12) (1) (1).png" alt="" data-size="line"> <mark style="color:orange;">Force Fast Tick</mark> Option ist es Möglich die Tick-Geschwindigkeit auf den Standard zurück zu setzen (siehe [Trichter-Tick](tricher-system.md#trichter-tick)). Diese Möglichkeit wird für manche Redstone-Schaltungen benötigt, welche sich nicht anders realisieren lassen. Der Großteil der Schaltungen lässt sich jedoch so umbauen, dass diese auch auf GrieferGames funktionieren.
 
 {% hint style="warning" %}
 Diese Option steht nur der Administration zur Verfügung oder bei aktivierter `hopper-fast-tick`-Flag auf dem Grundstück. Diese Flag wird in seltenen Ausnahmefällen vergeben und kann über das Ticket-System beantragt werden.
@@ -71,11 +71,11 @@ Beim Klick auf den selben Trichter und wenn die Entfernung zu groß wird, wird d
 
 #### Übersicht über bestehende Verbindungen
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt="" width="176"><figcaption><p>Übersichtsseite</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (2).png" alt="" width="176"><figcaption><p>Übersichtsseite</p></figcaption></figure>
 
 In dieser Ansicht sind die bereits eingerichteten Verbindungen zu sehen. Pro Material kann ein Endpunkt als Ziel existieren. Mit einem Klick auf das Material, kann der Endpunkt entfernt werden.
 
-Mit einem Klick auf <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line"> <mark style="color:orange;">**Verbindungsmodus starten**</mark> kann der Verbindungsmodus für Multi-Verbindungen gestartet werden.
+Mit einem Klick auf <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> <mark style="color:orange;">**Verbindungsmodus starten**</mark> kann der Verbindungsmodus für Multi-Verbindungen gestartet werden.
 
 ### Endpunkte hinzufügen / Verbindungs-Modus
 
@@ -107,7 +107,7 @@ Die Filter können mit einem Shift-Klick auf das <img src="../../.gitbook/assets
 
 #### Material-Filter
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Beispiel Material-Filter auf Grasblock</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (3).png" alt=""><figcaption><p>Beispiel Material-Filter auf Grasblock</p></figcaption></figure>
 
 Um ein Material für den Trichter zu filtern, kann das Material im Hauptmenü aus dem eigenen Inventar ausgewählt werden. Das gefilterte Material ist dann an der Stelle des <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> zu sehen.
 
@@ -119,7 +119,7 @@ Mit dem Klick auf das gefilterte Material oder <img src="../../.gitbook/assets/i
 
 Mit einem Klick auf den <img src="../../.gitbook/assets/image (34) (1).png" alt="" data-size="line"> <mark style="color:orange;">**Verzauberungs-Filter**</mark> aktiviert sich der Verzauberungsfilter. Bei einem weiteren Klick öffnet sich das Menü mit den filterbaren Verzauberungen.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Übersichtsseite Verzauberungen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Übersichtsseite Verzauberungen</p></figcaption></figure>
 
 In dieser Ansicht können nun die Verzauberungen angewählt werden, welche auf dem Item vorhanden sein müssen. Mit **Rechtsklick** wird die gewünschte Verzauberungsstufe erhöht, mit einem **Linksklickt** verringert. Mit einem **Shift-Klick** wird die Verzauberung aus dem Filter entfernt.
 
@@ -145,7 +145,7 @@ Zusätzlich zu dem Effekt-Filter steht mit dem <img src="../../.gitbook/assets/i
 
 #### Signierungs-Filter
 
-Mit einem Klick auf den <img src="../../.gitbook/assets/image (24) (1).png" alt="" data-size="line"> <mark style="color:orange;">**Signierungs-Filter**</mark> aktiviert sich der Signierungsfilter. Bei einem weiteren Klick öffnet sich das Menü für die Einstellung der Signierung.
+Mit einem Klick auf den <img src="../../.gitbook/assets/image (24) (1) (2).png" alt="" data-size="line"> <mark style="color:orange;">**Signierungs-Filter**</mark> aktiviert sich der Signierungsfilter. Bei einem weiteren Klick öffnet sich das Menü für die Einstellung der Signierung.
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Einstellungsmenü Signierung</p></figcaption></figure>
 
@@ -153,7 +153,7 @@ Die folgenden Optionen der Signierung können eingestellt werden:
 
 * <img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line">**Signierung von:** Filtert welcher Spieler die Signierung erstellt haben muss
 * <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">**Signierung am:** Filtert an welchem Datum die Signierung erstellt wurde
-* <img src="../../.gitbook/assets/image (22).png" alt="" data-size="line">**Signierung:** Filtert den Text der Signierung
+* <img src="../../.gitbook/assets/image (22) (1).png" alt="" data-size="line">**Signierung:** Filtert den Text der Signierung
 
 {% hint style="info" %}
 Der Text der Signierung muss die eingestellten Zeichen / den eingestellten Text nur enthalten und nicht vollständig entsprechen.

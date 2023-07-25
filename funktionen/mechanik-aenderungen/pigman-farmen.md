@@ -14,7 +14,7 @@ Die Änderung verbindet die für die Farmen verwendeten Schildkröteneier mit ei
 
 Sobald der Pigman das Schildkröten-Ei anvisiert, wird dieser auf den Seelenanker teleportiert, welcher sich unter dem Ei befindet. Der Abstand ist dabei egal und es können sogar Blöcke dazwischen gebaut sein. Es müssen lediglich 2 Blöcke über dem Seelenanker frei bleiben.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="375"><figcaption><p>Beispiel Seelenanker unter Schildkröteneiern</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt="" width="375"><figcaption><p>Beispiel Seelenanker unter Schildkröteneiern</p></figcaption></figure>
 
 Auf diesem Block haben die Pigman dann keine AI mehr, keine Gravitation und werden sich dort nicht von der Stelle weg bewegen. Limitiert werden die Pigman nur durch z. B. die Mob-Cap des Grundstücks oder durch den Mob-Remover, der diese entfernt.
 
