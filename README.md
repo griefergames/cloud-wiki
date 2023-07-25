@@ -1,5 +1,6 @@
 ---
 description: Herzlich Willkommen im GrieferGames Cloud Wiki
+layout: landing
 ---
 
 # Startseite
@@ -29,4 +30,3 @@ Informationen kannst du hier einreichen:
 * [Feedback-Bereich Cloud](https://forum.griefergames.de/forum/board/299-feedback-cloud-netzwerk-vorschl%C3%A4ge-ideen/)
 * [GrieferGames Discord](https://discord.griefergames.net) (im dort existierenden Ticket-System)
 * [Web-Ticket-System](https://ticket.griefergames.de)
-
