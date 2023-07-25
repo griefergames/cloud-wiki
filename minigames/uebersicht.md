@@ -33,6 +33,11 @@ Das Minigame der Woche ist eine Rotation an verschiedenen Minigames, welche sonn
 Diese Minigames sind auch in privaten Lobbys nur während der Zeit verfügbar, wenn dieses Spiel als **Minigame der Woche** aktiv ist.
 {% endhint %}
 
+Die folgenden Minispiele befinden sich aktuell im Minigame der Woche Pool:
+
+* Elytra-Flug
+* Color Battle
+
 ## Minigame-Lobby
 
 <figure><img src="../.gitbook/assets/image (34) (1) (1).png" alt="" width="261"><figcaption><p>Ansicht einer Minigame-Lobby</p></figcaption></figure>
