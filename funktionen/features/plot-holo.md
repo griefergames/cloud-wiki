@@ -2,7 +2,7 @@
 description: Hologramme für das eigene Grundstück
 ---
 
-# Plot-Holo
+# Hologramme
 
 ![](<../../.gitbook/assets/0 (1).png>)
 

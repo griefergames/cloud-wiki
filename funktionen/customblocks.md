@@ -4,7 +4,7 @@ description: Individuelle Blöcke durch MysteryMod CustomBlocks
 
 # 🅱 CustomBlocks
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Beispielbild CustomBlocks Kücheneinrichtung</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption><p>Beispielbild CustomBlocks Kücheneinrichtung</p></figcaption></figure>
 
 Auf GrieferGames gibt es eigene Blöcke, welche durch eine Mod zur Verfügung gestellt werden. Es stehen dort diverse verschiedene neue Blöcke und Dekorationen zur Verfügung.
 
@@ -12,7 +12,7 @@ Anders als bei anderen individuellen Blöcken ist es auf GrieferGames nicht verp
 
 Die Nutzung der Blöcke ist somit freiwillig, wir empfehlen jedoch natürlich die Erweiterung zu installieren.
 
-## <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> CustomBlocks als Fabric-Mod
+## <img src="../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> CustomBlocks als Fabric-Mod
 
 Ab der Version 1.20 stehen die CustomBlocks als Mod auf Basis von Fabric zur Verfügung. Diese könnt ihr in den Client eurer Wahl hinzufügen und seid nicht mehr auf den MysteryMod Client angewiesen.
 

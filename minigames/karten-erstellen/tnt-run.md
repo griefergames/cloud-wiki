@@ -8,7 +8,7 @@ Für eine TNT-Run Map wird nur ein [Spawn-Punkt](./#spender-dropper) benötigt. 
 
 ## Die TNT-Schichten
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>TNT-Schicht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt="" width="375"><figcaption><p>TNT-Schicht</p></figcaption></figure>
 
 Die verschiedenen Ebenen werden anhand der platzierten <img src="../../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">**TNT-Blöcke**</mark> erkannt. Es wird mindestens **eine TNT-Ebene** benötigt, nach oben sind keine Grenzen gesetzt.
 

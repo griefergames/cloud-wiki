@@ -19,7 +19,7 @@
   * [Hilfe benutzen](funktionen/grundstuecke/hilfe-benutzen.md)
   * [Mergen](funktionen/grundstuecke/mergen.md)
   * [Flags setzen](funktionen/grundstuecke/flags-setzen.md)
-  * [Hologramme](funktionen/grundstuecke/plot-holo.md)
+  * [Hologramme](funktionen/features/plot-holo.md)
   * [Inaktive Grundstücke](funktionen/grundstuecke/inaktive-grundstuecke.md)
 * [💰 Währungen](funktionen/waehrungen/README.md)
   * [In-Game-Geld $](funktionen/waehrungen/ingame-money-usd.md)

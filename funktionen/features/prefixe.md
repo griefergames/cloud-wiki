@@ -6,15 +6,15 @@ Mit Prefixen hat jeder Spieler die Möglichkeit seinen Namen in der Tabliste und
 
 Mit dem Befehl /prefix kann das Prefix-Menü geöffnet werden, welches die möglichen Prefixe auf der Cloud anzeigt.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Menü der Prefixe (Startseite Verlaufs-Prefixe)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Menü der Prefixe (Startseite Verlaufs-Prefixe)</p></figcaption></figure>
 
 Jeder Prefix, der im eigenen Besitz ist, wird verzaubert dargestellt. Mit einem Klick auf den Prefix kann man diesen aktivieren und wenige Sekunden später ändert sich der Prefix in der Tabliste.
 
 {% hint style="info" %}
-Um seinen Rang-Prefix zurück zu erhalten, kann der Prefix mit dem Klick auf <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> **Prefix zurücksetzen** zurückgesetzt werden.
+Um seinen Rang-Prefix zurück zu erhalten, kann der Prefix mit dem Klick auf <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> **Prefix zurücksetzen** zurückgesetzt werden.
 {% endhint %}
 
-Mit den Buttons <img src="../../.gitbook/assets/image (23).png" alt="" data-size="line"> und <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line"> kann zwischen den verschiedenen Prefix-Seiten gewechselt werden. Die folgenden Prefix-Seiten / -Arten sind aktuell verfügbar:
+Mit den Buttons <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> und <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> kann zwischen den verschiedenen Prefix-Seiten gewechselt werden. Die folgenden Prefix-Seiten / -Arten sind aktuell verfügbar:
 
 * **Verlaufs-Prefixe**\
   Erzeugen einen Verlauf zwischen zwei verschiedenen Farben.
@@ -29,17 +29,17 @@ Die Prefixe gibt es über verschiedene Systeme auf der Cloud. Die Prefixe könne
 
 ## Prefix-Invertierer für Verlaufs-Prefixe
 
-Im Case-Opening gibt es den <img src="../../.gitbook/assets/image (22).png" alt="" data-size="line"> **Prefix-Invertierer**. Dieser bietet die Möglichkeit einen vorhandenen Farbverlauf als umgekehrten / invertierten Verlauf freizuschalten.
+Im Case-Opening gibt es den <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line"> **Prefix-Invertierer**. Dieser bietet die Möglichkeit einen vorhandenen Farbverlauf als umgekehrten / invertierten Verlauf freizuschalten.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Item-Beschreibung Prefix-Invertierer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Item-Beschreibung Prefix-Invertierer</p></figcaption></figure>
 
 Um einen Prefix-Invertierer zu verwenden, muss im `/prefix` Menü der gewünschte Farbverlauf angeklickt werden. Dann öffnet sich immer das Invertierer-Menü, mit dem man zwischen den beiden Verlaufsrichtungen wählen kann.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Invertierer-Menü (Blauer Farbverlauf)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Invertierer-Menü (Blauer Farbverlauf)</p></figcaption></figure>
 
 Mit einem Klick auf den rechten Slot kann der invertierte Prefix verwendet werden oder mit entsprechendem Prefix-Invertierer im Inventar freigeschaltet werden, wenn dieser noch nicht verfügbar ist.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Anzeige invertierter Verlauf (freigeschaltet)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Anzeige invertierter Verlauf (freigeschaltet)</p></figcaption></figure>
 
 {% hint style="danger" %}
 Um einen Prefix invertieren zu können, muss der Prefix im Besitz des Spielers sein!
