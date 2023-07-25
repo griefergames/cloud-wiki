@@ -145,7 +145,7 @@ Zusätzlich zu dem Effekt-Filter steht mit dem <img src="../../.gitbook/assets/i
 
 #### Signierungs-Filter
 
-Mit einem Klick auf den <img src="../../.gitbook/assets/image (24).png" alt="" data-size="line"> <mark style="color:orange;">**Signierungs-Filter**</mark> aktiviert sich der Signierungsfilter. Bei einem weiteren Klick öffnet sich das Menü für die Einstellung der Signierung.
+Mit einem Klick auf den <img src="../../.gitbook/assets/image (24) (1).png" alt="" data-size="line"> <mark style="color:orange;">**Signierungs-Filter**</mark> aktiviert sich der Signierungsfilter. Bei einem weiteren Klick öffnet sich das Menü für die Einstellung der Signierung.
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Einstellungsmenü Signierung</p></figcaption></figure>
 

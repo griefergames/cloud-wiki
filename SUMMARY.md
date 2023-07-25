@@ -34,6 +34,8 @@
   * [Unbegrenzter Speicher](funktionen/features/unbegrenzter-speicher.md)
   * [Plot-Holo](funktionen/features/plot-holo.md)
   * [Chaträume](funktionen/features/chatraeume.md)
+* [🦾 Mechanik-Änderungen](funktionen/mechanik-aenderungen/README.md)
+  * [Pigman-Farmen](funktionen/mechanik-aenderungen/pigman-farmen.md)
 
 ## Minigames
 

@@ -27,7 +27,7 @@ In der oberen Reihe befinden sich die Minigames, die durchgehend verfügbar sind
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Das Minigame der Woche ist eine Rotation an verschiedenen Minigames, welche sonntags wechseln und dann für je eine Woche verfügbar sind. Nach der Woche kommt in der Regel ein anderes Minigame.
+Das Minigame der Woche ist eine Rotation an verschiedenen Minigames, welche sonntags wechseln und dann für je eine Woche verfügbar sind. Nach der Woche kommt in der Regel ein anderes Minigame.&#x20;
 
 {% hint style="info" %}
 Diese Minigames sind auch in privaten Lobbys nur während der Zeit verfügbar, wenn dieses Spiel als **Minigame der Woche** aktiv ist.
@@ -52,7 +52,7 @@ In der Minigame-Lobby stehen verschiedene Aktionen zur Verfügung:
   Hier können Spieleinstellungen für die Lobby vorgenommen werden. Die Einstellungen können nur in privaten Lobbys angepasst werden.
 * <img src="../.gitbook/assets/image (22) (1) (1).png" alt="" data-size="line"> **Lobby verlassen**\
   Über diesen Knopf kannst du die Lobby verlassen. In einer privaten Lobby wird die Lobby geschlossen, wenn der Besitzer die Lobby verlässt.
-* <img src="../.gitbook/assets/image (24) (1).png" alt="" data-size="line"> **Fenster schließen**\
+* <img src="../.gitbook/assets/image (24) (1) (1).png" alt="" data-size="line"> **Fenster schließen**\
   Während in der Lobby gewartet wird, kann man das Fenster schließen – man bleibt weiterhin in der Lobby _(das Fenster kann auch wie gewohnt geschlossen werden)_.
 * <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> **Lobby-Broadcast**\
   Einige Spieler wie beispielsweise Streamer oder Teammitglieder haben die Möglichkeit, hier im Chat die Lobby zu bewerben.
