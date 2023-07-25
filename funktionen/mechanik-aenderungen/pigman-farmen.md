@@ -22,7 +22,9 @@ Auf diesem Block haben die Pigman dann keine AI mehr, keine Gravitation und werd
 Es ist nicht möglich die Pigman von dem Seelenanker herunter zu bewegen, da dieses einer der Hauptgrüne für Lags und Probleme der Farmen ist.
 {% endhint %}
 
-
+{% hint style="danger" %}
+Wird kein Schildkrötenei beim Spawn aus dem Portal anvisiert oder ist unter dem Schildkrötenei kein Seelenanker platziert, werden die Pigman entfernt.
+{% endhint %}
 
 {% embed url="https://youtu.be/NCjRkmiGuYE" %}
 Short von Abgegrieft zu Pigman-Farmen
