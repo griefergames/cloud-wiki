@@ -36,6 +36,7 @@
   * [Unbegrenzter Speicher](funktionen/features/unbegrenzter-speicher.md)
   * [Chaträume](funktionen/features/chatraeume.md)
   * [Prefixe](funktionen/features/prefixe.md)
+  * [Perks](funktionen/features/perks.md)
 * [🦾 Mechanik-Änderungen](funktionen/mechanik-aenderungen/README.md)
   * [Pigman-Farmen](funktionen/mechanik-aenderungen/pigman-farmen.md)
 
