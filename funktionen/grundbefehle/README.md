@@ -18,9 +18,7 @@ Befehle im Bezug auf deine Grundstücke findest du im Bereich [Grundstücke](../
 
 Um dir Positionen zu speichern, zu denen zu zurückkehren kannst, kannst du dir sog. Homes setzen. Je nach Rang oder Bonus-Homes hast du eine unterschiedliche Anzahl an Homes zur Verfügung.
 
-
-
-<table><thead><tr><th width="179">Befehl</th><th>Beschreibung</th></tr></thead><tbody><tr><td>/homes</td><td>Zeigt die Liste deiner Homes an</td></tr><tr><td>/home <mark style="color:purple;">Name</mark></td><td>Teleportiert dich zu deinem gespeicherten Home mit dem angegebenen Namen.</td></tr><tr><td>/sethome <mark style="color:purple;">Name</mark></td><td>Speichert ein neues Home mit diesem Namen an deiner aktuellen Position.</td></tr><tr><td>/delhome <mark style="color:purple;">Name</mark></td><td>Löscht die gespeicherte Position mit diesem Namen</td></tr></tbody></table>
+<table><thead><tr><th width="179">Befehl</th><th>Beschreibung</th></tr></thead><tbody><tr><td>/homes</td><td>Zeigt die Liste deiner Homes an</td></tr><tr><td>/home <mark style="color:purple;">Name</mark></td><td>Teleportiert dich zu deinem gespeicherten Home mit dem angegebenen Namen.</td></tr><tr><td>/sethome <mark style="color:purple;">Name</mark></td><td>Speichert ein neues Home mit diesem Namen an deiner aktuellen Position. Wenn bereits ein Home mit dem Namen existiert, wird es überschrieben.</td></tr><tr><td>/delhome <mark style="color:purple;">Name</mark></td><td>Löscht die gespeicherte Position mit diesem Namen</td></tr></tbody></table>
 
 {% hint style="info" %}
 Bei einem Farmwelt-Reset (siehe [Die Farmwelten](../die-farmwelten.md)) werden alle deine Homes in Farmwelten gelöscht.
