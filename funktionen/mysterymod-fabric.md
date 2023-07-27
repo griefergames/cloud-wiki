@@ -6,7 +6,7 @@ description: >-
 
 # 🦝 MysteryMod Fabric
 
-![MysteryMod Cosmetics auf GrieferGames](../.gitbook/assets/0.png)
+<figure><img src="../.gitbook/assets/2023-07-27_16.17.06.png" alt=""><figcaption><p>MysteryMod Cosmetics auf GrieferGames</p></figcaption></figure>
 
 ### Was ist Mystery Mod
 
@@ -66,6 +66,6 @@ Um Shader verwenden zu können, benötigt ihr “[Sodium](https://modrinth.com/m
 OptiFine bietet sich leider nicht als Shader-Loader an, da es dort erhebliche Rendering-Probleme gibt.
 {% endhint %}
 
-Wenn ihr euren Account wechseln, dafür aber nicht das Spiel neustarten wollt, ist die Mod In-Game [Account Switcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher) genau das richtige für euch.
+Wenn ihr euren Account wechseln, dafür aber nicht das Spiel neustarten wollt, ist die Mod [In-Game Account Switcher ](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher)genau das richtige für euch.
 
 Eine sehr beliebte Funktion von MysteryMod war auch das “Kartenvorschau” Feature. Diese bekommt ihr durch die Mod “[Map Tooltip](https://www.curseforge.com/minecraft/mc-mods/map-tooltip)” zurück.

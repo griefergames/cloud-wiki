@@ -12,7 +12,7 @@ Für eine Color Battle Map wird nur ein Spawn-Punkt benötigt. Die Spieler start
 
 ### **Die Spielfläche** <a href="#_saesnaj1w8mq" id="_saesnaj1w8mq"></a>
 
-<figure><img src="../../.gitbook/assets/0 (3).png" alt=""><figcaption><p>Übersicht der Color Battle Spielfläche</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0.png" alt=""><figcaption><p>Übersicht der Color Battle Spielfläche</p></figcaption></figure>
 
 Die Spielfläche wird durch zwei <img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> **Redstoneblöcke** markiert. Diese geben die Fläche an, wo sich später das Muster für das Spiel automatisch setzt. Entsprechend müssen diese in die Gegenüberliegenden Ecken platziert werden und die Spielfläche muss ausreichend groß sein.
 

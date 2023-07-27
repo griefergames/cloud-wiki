@@ -6,7 +6,7 @@ description: Händler NPCs auf GrieferGames
 
 Am Spawn vom Server befinden sich einige NPCs darunter auch Händler, welche verschiedene Waren für verschiedene Währungen verkaufen.
 
-![Der NPC-Bereich am Spawn](<../../.gitbook/assets/0 (2).png>)
+![Der NPC-Bereich am Spawn](<../../.gitbook/assets/0 (2) (2).png>)
 
 ## **Das Daily-Shop-System**
 
