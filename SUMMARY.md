@@ -23,6 +23,7 @@
   * [Inaktive Grundstücke](funktionen/grundstuecke/inaktive-grundstuecke.md)
 * [💰 Währungen](funktionen/waehrungen/README.md)
   * [In-Game-Geld $](funktionen/waehrungen/ingame-money-usd.md)
+* [🦝 MysteryMod Fabric](funktionen/mysterymod-fabric.md)
 * [🅱 CustomBlocks](funktionen/customblocks.md)
 * [❤ Features](funktionen/features/README.md)
   * [Mentorenprogramm](funktionen/features/mentoren-programm.md)
