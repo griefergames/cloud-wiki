@@ -31,7 +31,7 @@ Die Nutzung dieser Mod ist selbstverständlich freiwillig. Ihr könnt mit jedem 
 
 
 {% hint style="success" %}
-Hier zum Download: https://mysterymod.net/download
+[Hier gehts zum Download](https://mysterymod.net/download)
 {% endhint %}
 
 {% hint style="info" %}
