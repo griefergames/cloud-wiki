@@ -26,12 +26,21 @@ Achte immer darauf, ob die Aufgabe wirklich angenommen ist. Auch für Monster-T�
 
 Es gibt aktuell drei verschiedene Arten von Aufgaben
 
-* **Abbau-Aufgaben**\
-  Du erhältst ein Tool, mit dem du eine bestimmte Anzahl eines Blockes abbauen musst. Beim Abbauen mit diesem Tool, wird der Block zerstört. _(Das Tool kann nur von dir und nur für den bestimmten Block verwendet werden)_
-* **Liefer-Aufgaben**\
-  Mit einem weiteren Klick auf die Aufgabe, lieferst du alle Items des gewünschten Materials in deinem Inventar an den Adventurer. Sobald die volle Menge geliefert ist, ist die Aufgabe abgeschlossen.
-* **Monster-Töten-Aufgaben**\
-  Du erhältst die Aufgabe eine bestimmte Anzahl eines Mobs zu töten. Für diese Aufgabe erhältst du kein Schwert. Sobald die Aufgabe erledigt ist, wird dir dieses im Chat angezeigt und du kannst zum Adventurer zurückkehren.
+
+
+{% tabs %}
+{% tab title="Abbau-Aufgaben" %}
+Du erhältst ein Tool, mit dem du eine bestimmte Anzahl eines Blockes abbauen musst. Beim Abbauen mit diesem Tool, wird der Block zerstört. _(Das Tool kann nur von dir und nur für den bestimmten Block verwendet werden)_
+{% endtab %}
+
+{% tab title="Liefer-Aufgaben" %}
+Mit einem weiteren Klick auf die Aufgabe, lieferst du alle Items des gewünschten Materials in deinem Inventar an den Adventurer. Sobald die volle Menge geliefert ist, ist die Aufgabe abgeschlossen.
+{% endtab %}
+
+{% tab title="Monster-Töten-Aufgaben" %}
+Du erhältst die Aufgabe eine bestimmte Anzahl eines Mobs zu töten. Für diese Aufgabe erhältst du kein Schwert. Sobald die Aufgabe erledigt ist, wird dir dieses im Chat angezeigt und du kannst zum Adventurer zurückkehren.
+{% endtab %}
+{% endtabs %}
 
 Die Dauer der Aufgaben hängt unter anderem davon ab, ob du passende Items bereits im Lager hast, ein Home in einem Biom hast oder auch Glück hast, diese Items in der [Farmwelt ](../die-farmwelten.md)zu finden.
 
