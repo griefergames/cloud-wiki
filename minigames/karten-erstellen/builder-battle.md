@@ -18,7 +18,7 @@ Für Builder Battle muss eine Spielfläche gebaut werden. Beim Generieren der Ma
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption><p>Übersicht der Builder Battle Spielfläche</p></figcaption></figure>
 
-Die Spielfläche wird durch zwei <img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> **Redstoneblöcke** markiert. Diese geben den Bereich an, indem der Spieler bauen kann.
+Die Spielfläche wird durch zwei <img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> **Redstoneblöcke** markiert. Diese geben den Bereich an, indem der Spieler bauen kann. Bedenkt beim Markieren der Fläche, dass der 2. <img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> **Redstoneblock** auch die Höhe der verfügbaren Fläche angeben muss.
 
 {% hint style="warning" %}
 Achtung: Eure Map sollte eine Decke haben und abgeschlossen sein, da die Spieler sonst ihre Gegner besuchen können, um die Wörter vorab zu erkunden.
