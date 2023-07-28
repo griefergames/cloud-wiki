@@ -49,6 +49,7 @@
   * [Elytra-Flug](minigames/karten-erstellen/elytra-flug.md)
   * [Escape](minigames/karten-erstellen/escape.md)
   * [Color Battle](minigames/karten-erstellen/color-battle.md)
+  * [Builder Battle](minigames/karten-erstellen/builder-battle.md)
 
 ## Hilfreiche Links
 
