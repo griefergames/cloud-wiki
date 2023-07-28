@@ -1,5 +1,5 @@
 ---
-description: Bau um die Wette
+description: Baue um die Wette
 ---
 
 # Builder Battle
