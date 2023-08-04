@@ -57,7 +57,7 @@ Danach ladet ihr euch [MysteryMod Fabric](https://mysterymod.net/download) über
 Den .minecraft-Ordner könnt ihr ganz einfach erreichen, indem ihr den Windows-Explorer öffnet und oben in der Leiste %appdata% eingebt. Anschließend müsst ihr auf das Verzeichnis .minecraft klicken und schon seid ihr im Installationsverzeichnis von Minecraft, in welchem auch der “mods”-Ordner liegt.
 {% endhint %}
 
-Zusätzlich wird die Mod “[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)” benötigt. Diese gehört auch in den .minecraft Ordner.
+Zusätzlich wird die Mod “[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)” benötigt. Diese gehört auch in den .minecraft\mods Ordner.
 
 Sind diese Schritte getan, könnt ihr einfach wie gewohnt den Minecraft-Launcher öffnen, dort die Fabric-Installation auswählen und das Spiel starten.
 
