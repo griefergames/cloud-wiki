@@ -40,6 +40,7 @@
   * [Perks](funktionen/features/perks.md)
 * [🦾 Mechanik-Änderungen](funktionen/mechanik-aenderungen/README.md)
   * [Pigman-Farmen](funktionen/mechanik-aenderungen/pigman-farmen.md)
+  * [Bergungskompass](funktionen/mechanik-aenderungen/bergungskompass.md)
 
 ## Minigames
 

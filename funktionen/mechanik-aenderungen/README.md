@@ -10,7 +10,13 @@ description: >-
 
 Die Trichter-Ticks / -Geschwindigkeiten sind auf GrieferGames angepasst. Mehr dazu ist in unserer umfassenden Änderung des [Trichter-Systems](../features/tricher-system.md) zu finden.&#x20;
 
+## Bergungskompass
+
+Der Bergungskompass wurde an das Cloud-Netzwerk angepasst. Siehe [Bergungskompass](bergungskompass.md).
+
 ## Shulker-Änderungen
+
+
 
 ### Drop-Rate
 
