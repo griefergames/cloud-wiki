@@ -32,7 +32,7 @@
   * [Die Handler](funktionen/features/die-handler.md)
   * [Erfolge / Advancements](funktionen/features/erfolge-advancements.md)
   * [Case-Opening](funktionen/features/case-opening.md)
-  * [Tricher-System](funktionen/features/tricher-system.md)
+  * [Trichter-System](funktionen/features/tricher-system.md)
   * [Manfred](funktionen/features/manfred.md)
   * [Unbegrenzter Speicher](funktionen/features/unbegrenzter-speicher.md)
   * [Chaträume](funktionen/features/chatraeume.md)
