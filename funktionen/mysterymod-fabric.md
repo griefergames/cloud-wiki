@@ -33,7 +33,7 @@ Die Nutzung dieser Mod ist selbstverständlich freiwillig. Ihr könnt mit jedem 
 
 
 {% hint style="success" %}
-[Hier gehts zum Download](https://mysterymod.net/download)
+[Hier gehts zum Download](https://mysterymod.net/downloadmainpage1-20-1/)
 {% endhint %}
 
 {% hint style="info" %}
@@ -48,16 +48,16 @@ Die Fabric-Version von MysteryMod ist etwas anders als die 1.8-Version. Sie ist 
 
 ### Anleitung zur Installation:
 
-Um MysteryMod Fabric verwenden zu können, müsst ihr vorher [Fabric](https://fabricmc.net/use/installer/) installieren  - ihr ladet die Datei herunter, führt sie aus und drückt dann auf den Button “Install”. Sobald dieser Schritt erledigt ist, habt ihr schonmal eine funktionierende Fabric-Instanz in eurem Minecraft-Launcher laufen.\
+Um MysteryMod Fabric verwenden zu können, müsst ihr vorher [Fabric](https://fabricmc.net/use/installer/) installieren. Das macht ihr, indem ihr die Datei herunterlädt, sie ausführt, anschließend die 1.20.1 auswählt und ihr abschließend auf den Button “Install” klickt. Sobald dieser Schritt erledigt ist, habt ihr schonmal eine funktionierende Fabric-Instanz in eurem Minecraft-Launcher laufen.\
 
 
-Danach ladet ihr euch [MysteryMod Fabric](https://mysterymod.net/download) über den “Install Fabric 1.20.1”-Button herunter. Diese Datei müsst ihr nicht ausführen, sondern sie muss in den mods-Ordner bei .minecraft gezogen werden.
+Danach lädt ihr euch [MysteryMod Fabric](https://mysterymod.net/downloadmainpage1-20-1/) über den “Install Fabric 1.20.1”-Button herunter. Diese Datei müsst ihr nicht ausführen, sondern muss in den mods-Ordner bei .minecraft gezogen werden.
 
 {% hint style="info" %}
 Den .minecraft-Ordner könnt ihr ganz einfach erreichen, indem ihr den Windows-Explorer öffnet und oben in der Leiste %appdata% eingebt. Anschließend müsst ihr auf das Verzeichnis .minecraft klicken und schon seid ihr im Installationsverzeichnis von Minecraft, in welchem auch der “mods”-Ordner liegt.
 {% endhint %}
 
-Zusätzlich wird die Mod “[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)” benötigt. Diese gehört auch in den `.minecraft\mods` Ordner.
+Zusätzlich wird die 1.20.1 Version der Mod “[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/4777229)” benötigt. Diese gehört auch in den `.minecraft\mods` Ordner.
 
 Sind diese Schritte getan, könnt ihr einfach wie gewohnt den Minecraft-Launcher öffnen, dort die Fabric-Installation auswählen und das Spiel starten.
 
