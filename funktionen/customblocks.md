@@ -22,6 +22,6 @@ Die Fabric-Mod "CustomBlocks" ist auf [CurseForge](https://www.curseforge.com/mi
 
 Für die 1.8 Version stehen die Blöcke nur als Möbel-Addon im [MysteryMod Client](https://mysterymod.net/downloadmainpage1-8-9/) zur Verfügung.  
 
-## Discord für Hilfe
+## Ihr braucht Hilfe?
 
-Solltet ihr beispielsweise Probleme bei der Installation von CustomBlocks haben, könnt ihr den Discord von MysteryMod über den folgenden Link beitreten und dort nach Hilfe fragen: https://discord.gg/RXq56TTPYE
+Solltet ihr beispielsweise Probleme oder generelle Fragen zu der Installation von CustomBlocks haben, könnt ihr den Discord von MysteryMod über den folgenden Link beitreten und dort nach Hilfe fragen: [https://discord.gg/RXq56TTPYE](https://discord.gg/RXq56TTPYE)
