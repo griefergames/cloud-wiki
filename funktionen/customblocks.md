@@ -26,10 +26,6 @@ Für die 1.8 Version stehen die Blöcke nur als Möbel-Addon im [MysteryMod Clie
 
 Sollte die Installation über den MysteryMod-Client nicht korrekt funktionieren, kannst du die Möbel-Version hier herunterladen: [https://github.com/griefergames/customblocks-download/tree/master/1.8.9](https://github.com/griefergames/customblocks-download/tree/master/1.8.9)
 
-## Ihr braucht Hilfe?
-
-Solltet ihr beispielsweise Probleme oder generelle Fragen zu der Installation von CustomBlocks haben, könnt ihr den Discord von MysteryMod über den folgenden Link beitreten und dort nach Hilfe fragen: [https://discord.gg/RXq56TTPYE](https://discord.gg/RXq56TTPYE)
-
 ## Installationsanleitungen
 
 Download für die _**Fabric-API**_: [https://github.com/griefergames/customblocks-download/](https://github.com/griefergames/customblocks-download/tree/master/1.20.1) oder [https://www.curseforge.com/minecraft/mc-mods/fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
@@ -59,3 +55,8 @@ Für die Installation ohne LabyMod wird der **Fabric Loader** benötigt. Solltes
 4. Ziehe in diesen Ordner die **MysteryBlocks-Date**i und die **Fabric-API**, falls diese noch nicht vorhanden ist.
 5. Starte dein Spiel neu und du solltest die Blöcke nun sehen.
 
+
+
+## Ihr braucht Hilfe?
+
+Solltet ihr beispielsweise Probleme oder generelle Fragen zu der Installation von CustomBlocks haben, könnt ihr den Discord von MysteryMod über den folgenden Link beitreten und dort nach Hilfe fragen: [https://discord.gg/RXq56TTPYE](https://discord.gg/RXq56TTPYE)
