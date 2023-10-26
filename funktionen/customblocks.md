@@ -12,6 +12,12 @@ Anders als bei anderen individuellen Blöcken ist es auf GrieferGames nicht verp
 
 Die Nutzung der Blöcke ist somit freiwillig, wir empfehlen jedoch natürlich die Erweiterung zu installieren.
 
+### CustomBlocks für ältere Versionen
+
+Für die 1.8 Version stehen die Blöcke nur als Möbel-Addon im [MysteryMod Client](https://mysterymod.net/downloadmainpage1-8-9/) zur Verfügung.
+
+Sollte die Installation über den MysteryMod-Client nicht korrekt funktionieren, kannst du die Möbel-Version hier herunterladen: [https://github.com/griefergames/customblocks-download/tree/master/1.8.9](https://github.com/griefergames/customblocks-download/tree/master/1.8.9)
+
 ## <img src="../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> CustomBlocks als Fabric-Mod
 
 Ab der Version 1.20 stehen die CustomBlocks als Mod auf Basis von Fabric zur Verfügung. Diese könnt ihr in den Client eurer Wahl hinzufügen und seid nicht mehr auf den MysteryMod Client angewiesen.
@@ -19,12 +25,6 @@ Ab der Version 1.20 stehen die CustomBlocks als Mod auf Basis von Fabric zur Ver
 Die Fabric-Mod "CustomBlocks" ist auf [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks) zu finden.
 
 Sollte die Fabric-Mod nicht verfügbar sein, kann diese ebenfalls hier heruntergeladen werden: [https://github.com/griefergames/customblocks-download/tree/master/1.20.1](https://github.com/griefergames/customblocks-download/tree/master/1.20.1)
-
-### CustomBlocks für ältere Versionen
-
-Für die 1.8 Version stehen die Blöcke nur als Möbel-Addon im [MysteryMod Client](https://mysterymod.net/downloadmainpage1-8-9/) zur Verfügung.
-
-Sollte die Installation über den MysteryMod-Client nicht korrekt funktionieren, kannst du die Möbel-Version hier herunterladen: [https://github.com/griefergames/customblocks-download/tree/master/1.8.9](https://github.com/griefergames/customblocks-download/tree/master/1.8.9)
 
 ## Installationsanleitungen
 
