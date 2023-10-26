@@ -34,6 +34,11 @@ Download für die _**Fabric-API**_: [https://github.com/griefergames/customblock
 
 Mit LabyMod 4 ist es ebenfalls möglich die CustomBlocks zu verwenden. Für die Installation wird das LabyMod-Addon **Fabric Loader** benötigt.
 
+{% hint style="warning" %}
+**Achtung:** Fabric Loader ist nicht mit Optifine kompatibel. Das Optifine Addon muss entfernt werden, wenn man den Fabric Loader aus dem Store installieren will.\
+Als Alternative bietet sich dann Sodium & Iris statt Optifine an.
+{% endhint %}
+
 1. Installiere das Addon **Fabric Loader** aus dem LabyMod Store ![](../.gitbook/assets/image.png)
 2. Starte dein Spiel einmal neu, um sicher zu sein, dass die Ordner angelegt werden
 3. Gehe in den Ordner `%appdata%/.minecraft` und dort in den Ordner `LabyMod\labymod-neo\fabric\1.20.1\mods`
