@@ -12,7 +12,7 @@ Mit dem `/checkplot`-System ist es möglich inaktive Grundstücke zu beantragen.
 
 Um ein Grundstück zu Beantragen stelle dich auf das Grundstück und gib `/checkplot` ein. Dann öffnet sich eine Übersicht des aktuellen Grundstücks.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Checkplot-Ansicht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Checkplot-Ansicht</p></figcaption></figure>
 
 {% hint style="info" %}
 Wenn ein Grundstück nicht betreten werden kann, stelle dich neben das Grundstück und gib dort `/checkplot` ein.

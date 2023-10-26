@@ -2,7 +2,7 @@
 description: Trichter neu verbunden
 ---
 
-# Tricher-System
+# Trichter-System
 
 Auf GrieferGames wurden die Funktionen der Trichter erweitert und damit entstehen viele neue Möglichkeiten und auch Verbesserungen.
 
@@ -71,7 +71,7 @@ Beim Klick auf den selben Trichter und wenn die Entfernung zu groß wird, wird d
 
 #### Übersicht über bestehende Verbindungen
 
-<figure><img src="../../.gitbook/assets/image (23) (1).png" alt="" width="176"><figcaption><p>Übersichtsseite</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1) (2).png" alt="" width="176"><figcaption><p>Übersichtsseite</p></figcaption></figure>
 
 In dieser Ansicht sind die bereits eingerichteten Verbindungen zu sehen. Pro Material kann ein Endpunkt als Ziel existieren. Mit einem Klick auf das Material, kann der Endpunkt entfernt werden.
 

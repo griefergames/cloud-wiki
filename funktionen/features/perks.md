@@ -6,7 +6,7 @@ description: Spielunterstützungen für dich
 
 Mit Perks hast du die Möglichkeit Effekte und kleine Funktionen für dich zu aktivieren, die dich beim Spielen unterstützen.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Perk-Menü</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Perk-Menü</p></figcaption></figure>
 
 Um das Hauptmenü zu öffnen, kannst du `/perks` eingeben, oder du öffnest das Perks-Menü über das `/?` Hilfemenü.
 
@@ -14,7 +14,7 @@ Um das Hauptmenü zu öffnen, kannst du `/perks` eingeben, oder du öffnest das 
 
 Im Hauptmenü findest du eine Übersich über die existierenden Perks. Wenn du mit der Maus über ein Perk hältst, werden dir die Informationen zum Perk angezeigt, die verbleibende Laufzeit deines Perks und ob du das Perk aktuell aktiviert oder deaktiviert hast.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Perk-Beschreibung (Plot-Fliegen)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Perk-Beschreibung (Plot-Fliegen)</p></figcaption></figure>
 
 ### Perks einlösen / erhalten
 
