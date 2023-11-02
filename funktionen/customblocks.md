@@ -14,9 +14,7 @@ Die Nutzung der Blöcke ist somit freiwillig, wir empfehlen jedoch natürlich di
 
 ### CustomBlocks für ältere Versionen
 
-Für die 1.8 Version stehen die Blöcke nur als Möbel-Addon im [MysteryMod Client](https://mysterymod.net/downloadmainpage1-8-9/) zur Verfügung.
-
-Sollte die Installation über den MysteryMod-Client nicht korrekt funktionieren, kannst du die Möbel-Version hier herunterladen: [https://github.com/griefergames/customblocks-download/tree/master/1.8.9](https://github.com/griefergames/customblocks-download/tree/master/1.8.9)
+Die CustomBlocks für ältere Minecraft Versionen findest du im [1.8 Wiki](https://wiki.griefergames.net/).
 
 ## <img src="../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> CustomBlocks als Fabric-Mod
 
@@ -33,6 +31,14 @@ Download für die _**Fabric-API**_: [https://github.com/griefergames/customblock
 ### LabyMod 4
 
 Mit LabyMod 4 ist es ebenfalls möglich die CustomBlocks zu verwenden. Für die Installation wird das LabyMod-Addon **Fabric Loader** benötigt.
+
+#### Option 1 - Installation via GrieferGames Addon
+
+Lade dir das **GrieferGames CustomBlocks** Addon herunter.\
+Dieses Installiert, falls nicht vorhanden, den Fabric Loader und fügt die CustomBlocks inkl. der Fabric-API deinem LabyMod hinzu und aktualisiert diese automatisch.\
+![](<../.gitbook/assets/image (43).png>)
+
+#### Option 2 - Manuelle Installation
 
 {% hint style="warning" %}
 **Achtung:** Fabric Loader ist nicht mit Optifine kompatibel. Das Optifine Addon muss entfernt werden, wenn man den Fabric Loader aus dem Store installieren will.\
