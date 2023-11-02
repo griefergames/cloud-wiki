@@ -24,13 +24,18 @@ Die Fabric-Mod "CustomBlocks" ist auf [CurseForge](https://www.curseforge.com/mi
 
 Sollte die Fabric-Mod nicht verfügbar sein, kann diese ebenfalls hier heruntergeladen werden: [https://github.com/griefergames/customblocks-download/tree/master/1.20.1](https://github.com/griefergames/customblocks-download/tree/master/1.20.1)
 
-## Installationsanleitungen
-
 Download für die _**Fabric-API**_: [https://github.com/griefergames/customblocks-download/](https://github.com/griefergames/customblocks-download/tree/master/1.20.1) oder [https://www.curseforge.com/minecraft/mc-mods/fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+
+## Installationsanleitungen
 
 ### LabyMod 4
 
 Mit LabyMod 4 ist es ebenfalls möglich die CustomBlocks zu verwenden. Für die Installation wird das LabyMod-Addon **Fabric Loader** benötigt.
+
+{% hint style="warning" %}
+**Achtung:** Fabric Loader ist nicht mit Optifine kompatibel. Das Optifine Addon muss entfernt werden, wenn man den Fabric Loader aus dem Store installieren will.\
+Als Alternative bietet sich dann Sodium & Iris statt Optifine an.
+{% endhint %}
 
 #### Option 1 - Installation via GrieferGames Addon
 
@@ -39,11 +44,6 @@ Dieses Installiert, falls nicht vorhanden, den Fabric Loader und fügt die Custo
 ![](<../.gitbook/assets/image (43).png>)
 
 #### Option 2 - Manuelle Installation
-
-{% hint style="warning" %}
-**Achtung:** Fabric Loader ist nicht mit Optifine kompatibel. Das Optifine Addon muss entfernt werden, wenn man den Fabric Loader aus dem Store installieren will.\
-Als Alternative bietet sich dann Sodium & Iris statt Optifine an.
-{% endhint %}
 
 1. Installiere das Addon **Fabric Loader** aus dem LabyMod Store ![](../.gitbook/assets/image.png)
 2. Starte dein Spiel einmal neu, um sicher zu sein, dass die Ordner angelegt werden
