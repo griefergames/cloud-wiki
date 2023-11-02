@@ -14,7 +14,7 @@ Die Nutzung der Blöcke ist somit freiwillig, wir empfehlen jedoch natürlich di
 
 ### CustomBlocks für ältere Versionen
 
-Die CustomBlocks für ältere Minecraft Versionen findest du im [1.8 Wiki](https://wiki.griefergames.net/).
+Die CustomBlocks für ältere Minecraft Versionen findest du im [1.8 Wiki](https://wiki.griefergames.net/grundlagen/customblocks).
 
 ## <img src="../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> CustomBlocks als Fabric-Mod
 
