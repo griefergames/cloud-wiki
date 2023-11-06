@@ -2,7 +2,7 @@
 description: Händler NPCs auf GrieferGames
 ---
 
-# Die Handler
+# Die Händler
 
 Am Spawn vom Server befinden sich einige NPCs darunter auch Händler, welche verschiedene Waren für verschiedene Währungen verkaufen.
 
