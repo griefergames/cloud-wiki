@@ -70,4 +70,4 @@ Für die Installation ohne LabyMod wird der **Fabric Loader** benötigt. Solltes
 
 ## Ihr braucht Hilfe?
 
-Solltet ihr beispielsweise Probleme oder generelle Fragen zu der Installation von CustomBlocks haben, könnt ihr den Discord von MysteryMod über den folgenden Link beitreten und dort nach Hilfe fragen: [https://discord.gg/RXq56TTPYE](https://discord.gg/RXq56TTPYE)
+Solltet ihr beispielsweise Probleme oder generelle Fragen zu der Installation von CustomBlocks haben, könnt ihr den Discord von GrieferGames über den folgenden Link beitreten und dort nach Hilfe fragen: [https://discord.griefergames.net/](https://discord.griefergames.net/)
