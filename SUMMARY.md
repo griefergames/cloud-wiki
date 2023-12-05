@@ -46,6 +46,7 @@
 
 * [🤖 Übersicht](minigames/uebersicht.md)
 * [🗺 Karten erstellen](minigames/karten-erstellen/README.md)
+  * [Schneeballschlacht](minigames/karten-erstellen/schneeballschlacht.md)
   * [TNT-Run](minigames/karten-erstellen/tnt-run.md)
   * [Elytra-Flug](minigames/karten-erstellen/elytra-flug.md)
   * [Escape](minigames/karten-erstellen/escape.md)
