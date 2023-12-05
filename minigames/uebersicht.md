@@ -36,7 +36,8 @@ Diese Minigames sind auch in privaten Lobbys nur während der Zeit verfügbar, w
 Die folgenden Minispiele befinden sich aktuell im Minigame der Woche Pool:
 
 * Elytra-Flug
-* Color Battle
+* TNT-Dodgeball
+* Schneeballschlacht
 
 ## Minigame-Lobby
 
