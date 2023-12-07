@@ -38,6 +38,7 @@
   * [Chaträume](funktionen/features/chatraeume.md)
   * [Prefixe](funktionen/features/prefixe.md)
   * [Perks](funktionen/features/perks.md)
+  * [Plot NPC](funktionen/features/plot-npc.md)
 * [🦾 Mechanik-Änderungen](funktionen/mechanik-aenderungen/README.md)
   * [Pigman-Farmen](funktionen/mechanik-aenderungen/pigman-farmen.md)
   * [Bergungskompass](funktionen/mechanik-aenderungen/bergungskompass.md)
