@@ -56,5 +56,8 @@
 
 ## Hilfreiche Links
 
+* [GrieferGames Shop](https://store.griefergames.net)
 * [GrieferGames Forum](https://forum.griefergames.de)
+* [GrieferGames Ticket-System](https://ticket.griefergames.de)
+* [GrieferGames Auth](https://auth.griefergames.de)
 * [GrieferWert - Preisübersicht](https://wert.griefergames.de)
