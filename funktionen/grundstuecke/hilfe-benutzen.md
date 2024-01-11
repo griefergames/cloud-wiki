@@ -1,7 +1,7 @@
 ---
 description: >-
   In der Hilfe (Befehl `/?`) befinden sich viele praktische Tools für das
-  Grundstück
+  Grundstück.
 ---
 
 # Hilfe benutzen
@@ -12,7 +12,7 @@ Viele Einstellungen und Optionen können für das Grundstück auch im Hilfe-Men�
 
 ## Biom wechseln
 
-Im Hilfe-Menü könnt ihr das Biom einfach per Menü-Klick wechseln und seht dabei auch, welche Biome euch zur Verfügung stehen.
+Im Hilfe-Menü kannst du das Biom einfach per Menü-Klick wechseln und du siehst dabei auch, welche Biome dir zur Verfügung stehen.
 
 <figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Beispielbild zum Ändern des Bioms auf "Dichter Wald"</p></figcaption></figure>
 

@@ -1,14 +1,14 @@
 ---
-description: Das bunte Farbenspiel
+description: Das bunte Farbenspiel.
 ---
 
 # Color Battle
 
-Das Ziel des Spieles ist es möglichst viele Runden auf der richtigen Farbe zu überstehen. Auf der Spielfläche werden Muster und Formen&#x20;
+Das Ziel des Spiels ist es, möglichst viele Runden auf der richtigen Farbe zu überstehen. Auf der Spielfläche werden rundenbasiert zufällige Muster und Formen generiert.
 
 ### **Spawn-Punkte** <a href="#_hbw6285ps3ye" id="_hbw6285ps3ye"></a>
 
-Für eine Color Battle Map wird nur ein Spawn-Punkt benötigt. Die Spieler starten gemeinsam an einem Spawn-Punkt und werden nicht verteilt. Ebenfalls kann ein Pre-Spawn gesetzt werden, an dem die Spieler vor Beginn des Spieles starten.
+Für eine Color Battle-Map wird nur **ein** Spawn-Punkt benötigt. Die Spieler starten gemeinsam an einem Spawn-Punkt und werden nicht verteilt. Ebenfalls kann ein Pre-Spawn gesetzt werden, an dem die Spieler vor Beginn des Spieles starten.
 
 ### **Die Spielfläche** <a href="#_saesnaj1w8mq" id="_saesnaj1w8mq"></a>
 

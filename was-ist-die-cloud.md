@@ -27,9 +27,9 @@ Das Netzwerk ist eine Cloud. Wir haben bei diesem Netzwerk auf eine andere Techn
 
 Der Citybuild- oder auch Plot-Bereich des Netzwerks ist in ein Raster gegliedert. Dieses Raster sind je eigene Regionen mit einem eigenen Namen. In der Mitte befindet sich der zentrale Spawn 100-100.
 
-Jede Region umfasst 200x200 Grundstücke und ca. eine Fläche von 10.000x10.000 Blöcken. Jede Region ist dabei ein eigener kleiner Minecraft-Server, der in den Grundfunktionen des Spiels eigenständig arbeitet. Jedoch ist jeder Server entsprechend der Koordinaten nebeneinander, sodass jede Koordinate auf dem Netzwerk nur einmal existiert.
+Jede Region umfasst 200x200 Grundstücke und ca. eine Fläche von 10.000 x 10.000 Blöcken. Jede Region ist dabei ein eigener kleiner Minecraft-Server, der in den Grundfunktionen des Spiels eigenständig arbeitet. Jedoch ist jeder Server entsprechend der Koordinaten nebeneinander, sodass jede Koordinate auf dem Netzwerk nur einmal existiert.
 
-Wird also einmal der Platz knapp oder anhand der Spielerzahl stoßen die vorhandenen Regionen an ihre Grenzen, werden in einem Ring-Muster weitere Server um die bestehenden Server herum freigegeben. Somit kann hier auch kurzfristig neuer Platz geschaffen werden, ohne einen neuen Citybuild zu eröffnen, in dem an einer Stelle 200x200 Grundstücke erweitert werden.
+Wird also einmal der Platz knapp oder anhand der Spielerzahl stoßen die vorhandenen Regionen an ihre Grenzen, werden in einem Ring-Muster weitere Server um die bestehenden Server herum freigegeben. Somit kann hier auch kurzfristig neuer Platz geschaffen werden, ohne einen neuen Citybuild zu eröffnen, in dem an einer Stelle 200 x 200 Grundstücke erweitert werden.
 
 #### Farm-Server
 
@@ -51,9 +51,7 @@ Des Weiteren haben die Citybuild-Server noch die Besonderheit, dass diese untere
 
 ### Vorbereitung der Region
 
-Wer nach einem Neustart oder in den Morgenstunden auf dem Server ist, kennt diese Anzeige:
-
-XXX BILD - REGION WIRD GELADEN XXX
+Wer nach einem Neustart oder in den Morgenstunden auf dem Server ist, kennt diese eine Anzeige, dass die Region geladen wird.
 
 Da nicht jede Citybuild-Region dauerhaft benötigt wird, sind nur die Regionen aktiv, die auch gerade gebraucht werden. Ist kein Spieler dieser Region online und möchte auch niemand dort auf ein Grundstück, kann diese Region offline bleiben, bis diese gebraucht wird.
 

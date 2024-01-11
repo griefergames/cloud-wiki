@@ -1,14 +1,14 @@
 ---
-description: Baue um die Wette
+description: Baue um die Wette!
 ---
 
 # Builder Battle
 
-Das Ziel des Spiels ist es, dass die anderen Spieler möglichst schnell das Bauwerkt erraten.
+Das Ziel des Spiels ist es, dass die anderen Spieler möglichst schnell das vom jeweiligen Spieler der Runde erbaute Bauwerk erraten. Das Bauwerk wird als Wort automatisch am Rundenanfang vorgegeben.
 
 ### **Spawn-Punkte** <a href="#_hbw6285ps3ye" id="_hbw6285ps3ye"></a>
 
-Für eine Builder Battle Map wird nur ein Spawn-Punkt benötigt. Pre-Spawn-Punkte werden nicht benötigt.
+Für eine Builder Battle-Map wird nur **ein** Spawn-Punkt benötigt. Pre-Spawn-Punkte werden nicht benötigt.
 
 {% hint style="info" %}
 Für Builder Battle muss eine Spielfläche gebaut werden. Beim Generieren der Map wird diese dann für 10 Spieler kopiert.
@@ -16,10 +16,10 @@ Für Builder Battle muss eine Spielfläche gebaut werden. Beim Generieren der Ma
 
 ### **Die Spielfläche** <a href="#_saesnaj1w8mq" id="_saesnaj1w8mq"></a>
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption><p>Übersicht der Builder Battle Spielfläche</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption><p>Übersicht der Builder Battle-Spielfläche</p></figcaption></figure>
 
-Die Spielfläche wird durch zwei <img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> **Redstoneblöcke** markiert. Diese geben den Bereich an, indem der Spieler bauen kann. Bedenkt beim Markieren der Fläche, dass der 2. <img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> **Redstoneblock** auch die Höhe der verfügbaren Fläche angeben muss.
+Die Spielfläche wird durch zwei <img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> **Redstoneblöcke** markiert. Diese geben den Bereich an, in dem der Spieler bauen kann. Bedenke beim Markieren der Fläche, dass der 2. <img src="../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> **Redstoneblock** auch die Höhe der verfügbaren Fläche angeben muss.
 
 {% hint style="warning" %}
-Achtung: Eure Map sollte eine Decke haben und abgeschlossen sein, da die Spieler sonst ihre Gegner besuchen können, um die Wörter vorab zu erkunden.
+**Achtung:** Deine Map sollte eine Decke haben und abgeschlossen sein, da die Spieler sonst ihre Gegner besuchen können, um die Wörter vorab zu erkunden.
 {% endhint %}

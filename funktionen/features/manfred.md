@@ -6,14 +6,14 @@ description: Der fahrende Händler auf GrieferGames
 
 ![](<../../.gitbook/assets/0 (1) (2) (1).png>)
 
-**Manni**, auch bekannt als Manfred, ist ein einzigartiger NPC-Händler in GrieferGames.
+**Manni**, auch bekannt als Manfred, ist ein einzigartiger NPC-Händler auf der GrieferGames Cloud.
 
 ### Steckbrief <a href="#_oqtxuw48zj8q" id="_oqtxuw48zj8q"></a>
 
 * **Name:** Manni (auch bekannt als Manfred)
 * **Beruf:** Fahrender Händler
 * **Eigenschaften:** Kauft eine Vielzahl von Gegenständen von Spielern, Preise variieren
-* **Standort:** Erscheint zufällig auf Spieler-Grundstücken, wenn mindestens ein Spieler anwesend ist, in der Nähe des Grundstück-Mittelpunkts (/p middle)
+* **Standort:** Erscheint zufällig auf Grundstücken von Spielern, wenn mindestens ein Spieler anwesend ist, in der Nähe des Grundstück-Mittelpunkts (`/p middle`)
 * **Spawn-Zeitplan:** Erscheint immer zu jeder Stunde um 16/36/56, also alle 20 Minuten
 
 ### Wer ist Manni? <a href="#_g7infb6ia24y" id="_g7infb6ia24y"></a>
@@ -24,12 +24,12 @@ Manni kauft eine Vielzahl von Gegenständen von Spielern, aber immer nur einen b
 
 ### Wo finde ich Manni? <a href="#_v36evw95vtfq" id="_v36evw95vtfq"></a>
 
-Manni erscheint zufällig auf den Grundstücken der Spieler. Er erscheint nur, wenn mindestens ein Spieler auf dem Grundstück anwesend ist. Bei seiner Ankunft benachrichtigt er die anwesenden Spieler. Er erscheint in der Nähe des Mittelpunkts des Grundstücks (/p middle).
+Manni erscheint zufällig auf den Grundstücken der Spieler. Er erscheint nur, wenn mindestens ein Spieler auf dem Grundstück anwesend ist. Bei seiner Ankunft benachrichtigt er die anwesenden Spieler. Er erscheint in der Nähe des Mittelpunkts des Grundstücks (`/p middle`).
 
 **Wichtig:** Manni folgt einem festen Spawn-Zeitplan. Er erscheint immer zu den Stunden 16/36/56, also alle 20 Minuten. Kurz nach dem Erscheinen des Mob-Removers wird er gelöscht.
 
 {% hint style="info" %}
-Manfred erscheint **nicht** auf Grundstücken, auf welchen alle Spieler verboten sind. (/p deny \*)
+Manfred erscheint **nicht** auf Grundstücken, auf welchen alle Spieler verboten sind. (`/p deny *`)
 {% endhint %}
 
 ### Handeln mit Manni <a href="#_bk8xssv8mqre" id="_bk8xssv8mqre"></a>

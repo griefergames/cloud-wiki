@@ -12,7 +12,7 @@ Die Plot-NPCs können auf dem eigenen Grundstück platziert werden und werden da
 
 Bei einigen "Berufen" möchte man den Zugriff ja auch für Spieler ermöglichen. Der Plot-NPC ist ohne weitere Einstellung von allen Spielern nutzbar, welche Rechte auf dem Grundstück haben. Möchte man den NPC auch für andere Spieler freigeben, so muss die Flag `npc-interaction` auf `true` gesetzt werden.
 
-## NPC Einstellungen
+## NPC-Einstellungen
 
 Um den NPC einzustellen, kann der NPC beim Ducken mit Rechtsklick angeklickt werden. Dann öffnet sich das Einstellungsfenster. Ebenfalls ist es möglich mit `/plotnpc` eine Übersicht der auf dem Plot befindlichen NPCs zu öffnen und die Einstellungen darüber zu öffnen.
 
