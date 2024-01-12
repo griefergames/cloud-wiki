@@ -1,44 +1,44 @@
 ---
-description: Eigene Minigame Maps auf GrieferGames
+description: Eigene MiniGame-Maps auf GrieferGames
 ---
 
 # 🗺 Karten erstellen
 
-Jeder Spieler hat die Möglichkeit seine eigenen Minigame-Karten zu erstellen, zu spielen und sogar für alle Spieler einzureichen.
+Jeder Spieler hat die Möglichkeit, seine eigenen MiniGame-Maps zu erstellen, zu spielen und sogar für alle Spieler einzureichen.
 
 <figure><img src="../../.gitbook/assets/image (6) (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Im Folgenden finden sich die allgemeinen Informationen und eine Anleitung zum Erstellen von Plot-Maps. Für spielbezogene Anforderungen und Infos sollte die entsprechende Seite des Spiels besucht werden. Ist keine Seite des Spiels vorhanden, sind gesonderten Anforderungen zusätzlich zu den Allgemeinen zu beachten.
+Im Folgenden finden sich die allgemeinen Informationen und eine Anleitung zum Erstellen von Plot-Maps. Für spielbezogene Anforderungen und Infos sollte die entsprechende Seite des Spiels besucht werden. Ist keine Seite des Spiels vorhanden, sind gesonderte Anforderungen zusätzlich zu den allgemeinen zu beachten.
 {% endhint %}
 
 ## Die Vorbereitung
 
-Um eine neue Karte für ein Minigame zu erstellen, sollte man sich zuerst informieren, welche Anforderungen die Minigame-Maps haben. Wir versuchen die Anforderungen immer so gering und so einfach wie möglich zu halten.
+Um eine neue Map für ein MiniGame zu erstellen, solltest du dich zuerst informieren, welche Anforderungen die MiniGame-Maps haben. Wir versuchen die Anforderungen immer so gering und so einfach wie möglich zu halten.
 
-### Größe des Plots
+### Größe des Grundstücks
 
-Bevor man also startet zu bauen, sollte man sich Informieren, welche Plot-Größe für das Minigame möglich bzw. benötigt ist. Diese kann je nach Minigame variieren.
+Bevor du also mit dem Bau der Map startest, solltest du dich informieren, welche Plot-Größe für das MiniGame möglich bzw. benötigt ist. Diese kann je nach MiniGame variieren.
 
 <figure><img src="../../.gitbook/assets/javaw_rgKx0bWbGs.gif" alt=""><figcaption><p>Menüführung zur Plot-Größe</p></figcaption></figure>
 
-<table><thead><tr><th>Minigame</th><th data-type="number">Min. Plot-Größe</th><th data-type="number">Max. Plot-Größe</th></tr></thead><tbody><tr><td>Lasertag</td><td>1</td><td>9</td></tr><tr><td>TNT-Run</td><td>1</td><td>9</td></tr><tr><td>Elytra-Flug</td><td>1</td><td>16</td></tr><tr><td>Escape</td><td>1</td><td>16</td></tr><tr><td>Color Battle</td><td>1</td><td>9</td></tr><tr><td>Builder Battle</td><td>1</td><td>4</td></tr><tr><td>TNT-Dodgeball</td><td>2</td><td>9</td></tr><tr><td>Mobarena</td><td>2</td><td>9</td></tr><tr><td>Schneeballschlacht</td><td>1</td><td>9</td></tr></tbody></table>
+<table><thead><tr><th>MiniGame</th><th data-type="number">Min. Plot-Größe</th><th data-type="number">Max. Plot-Größe</th></tr></thead><tbody><tr><td>Lasertag</td><td>1</td><td>9</td></tr><tr><td>TNT-Run</td><td>1</td><td>9</td></tr><tr><td>Elytra-Flug</td><td>1</td><td>16</td></tr><tr><td>Escape</td><td>1</td><td>16</td></tr><tr><td>Color Battle</td><td>1</td><td>9</td></tr><tr><td>Builder Battle</td><td>1</td><td>4</td></tr><tr><td>TNT-Dodgeball</td><td>2</td><td>9</td></tr><tr><td>Mobarena</td><td>2</td><td>9</td></tr><tr><td>Schneeballschlacht</td><td>1</td><td>9</td></tr></tbody></table>
 
 Informationen zur Plot-Größe befinden sich ebenfalls im Menü, um eine neue Map zu erstellen.
 
-## Minigame-Markierungen
+## MiniGame-Markierungen
 
 {% hint style="warning" %}
-Jedes Minigame kann zusätzlich zu den Standardmarkierungen noch Weitere besitzen.
+Jedes MiniGame kann zusätzlich zu den Standardmarkierungen noch weitere besitzen.
 {% endhint %}
 
-Für ein Minigame werden ein paar Informationen benötigt, wie z.B. wo sollen die Spieler spawnen, gibt es einen Bereich "vor dem Spiel" und gibt es Bezugspunkte für das Spiel selbst.&#x20;
+Für ein MiniGame werden ein paar Informationen benötigt, wie zum Beispiel wo die Spieler spawnen sollen, ob es einen Bereich "vor dem Spiel" gibt und es Bezugspunkte für das Spiel selbst gibt.
 
-Diese Punkte werden bei den Minigames mit Blöcken markiert, welche im späteren Verlauf durch das System ersetzt werden.
+Diese Punkte werden bei den MiniGames mit Blöcken markiert, welche im späteren Verlauf durch das System ersetzt werden.
 
 ### <img src="../../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> **Spender (Dropper)**
 
-Mit Spendern werden die Spawn-Punkte für die Spieler markiert. Je nach Minigame ist ein Spawnpunkt erforderlich oder eine Vielzahl an Spawn-Punkten. **Die Ausrichtung der Spender gibt dabei die Blickrichtung der Spieler beim Spawn an.**
+Mit Spendern werden die Spawn-Punkte für die Spieler markiert. Je nach MiniGame ist ein Spawn-Punkt erforderlich oder eine Vielzahl an Spawn-Punkten. **Die Ausrichtung der Spender gibt dabei die Blickrichtung der Spieler beim Spawn an.**
 
 {% hint style="warning" %}
 Wenn mehrere Spawn-Punkte gesetzt werden können, wird meist anhand der Spawn-Anzahl die **mögliche Spielerzahl** der Map berechnet.
@@ -46,11 +46,11 @@ Wenn mehrere Spawn-Punkte gesetzt werden können, wird meist anhand der Spawn-An
 
 ### <img src="../../.gitbook/assets/image (3) (2).png" alt="" data-size="line"> Werfer (Dispenser)
 
-Für die meisten Spiele kann ein Vorab-Spawnpunkt gesetzt werden. An diesem Punkt spawnen die Spieler beim joinen auf den Server und warten dort auf den Start des Spiels. **Die Ausrichtung der Werfer gibt dabei die Blickrichtung der Spieler beim Spawn an.**
+Für die meisten Spiele kann ein Vorab-Spawnpunkt gesetzt werden. An diesem Punkt spawnen die Spieler beim Betreten auf den Server und warten dort auf den Start des Spiels. **Die Ausrichtung der Werfer gibt dabei die Blickrichtung der Spieler beim Spawn an.**
 
 ### <img src="../../.gitbook/assets/image (9) (2).png" alt="" data-size="line"> Sicherheitskamera
 
-Durch das Platzieren von Sicherheitskameras in der Map können Zuschauer-Punkte gesetzt werden. Als Zuschauer eines Minigames kann man sich zwischen den Kameras hin und her bewegen, um dem Spiel beizuwohnen.
+Durch das Platzieren von Sicherheitskameras in der Map können Zuschauerpunkte gesetzt werden. Als Zuschauer eines MiniGames kann man sich zwischen den Kameras hin und her bewegen, um dem Spiel beizuwohnen.
 
 ## Plot-Map-Menü
 
@@ -67,52 +67,51 @@ Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="
 
 Um eine neue Map einzureichen oder eine eingereichte Map zu aktualisieren, drücke im Plot-Map-Menü auf <img src="../../.gitbook/assets/image (32).png" alt="" data-size="line"> **Neue Map erstellen**.
 
-<figure><img src="../../.gitbook/assets/image (20) (2).png" alt=""><figcaption><p>Ansicht Neue Map erstellen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (2).png" alt=""><figcaption><p>Ansicht "Neue Map erstellen"</p></figcaption></figure>
 
-Wähle dort als erstes das Spiel aus, indem du auf das Spiel-Icon klickst. Beim Klick wird zum nächsten Spiel umgeschaltet. Im zweiten Slot wird die Information zur Grundstücksgröße angezeigt. Der Dritte gibt an, ob die Karte erstellt werden kann oder nicht.
+Wähle dort zuerst das Spiel aus, indem du auf das Spiel-Icon klickst. Beim Klick wird zum nächsten Spiel umgeschaltet. Im zweiten Slot wird die Information zur Grundstücksgröße angezeigt. Der Dritte gibt an, ob die Map erstellt werden kann oder nicht.
 
-<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Fehlermeldung beim Plot erstellen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Fehlermeldung beim Erstellen des Grundstücks</p></figcaption></figure>
 
-Kannst du die Karte erstellen, wird die Anzeige grün und mit einem Klick auf den grünen Knopf wird die Erstellung bestätigt.
+Kannst du die Map erstellen, wird die Anzeige grün und mit einem Klick auf den grünen Knopf wird die Erstellung bestätigt.
 
-<figure><img src="../../.gitbook/assets/image (39) (1) (1).png" alt="" width="281"><figcaption><p>Button zum Grundstück als Map erstellen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39) (1) (1).png" alt="" width="281"><figcaption><p>Button zum Erstellen des Grundstücks als Map</p></figcaption></figure>
 
-Danach kopiert das Minigame-System dein Plot, welches durch zwei Chatausgaben angezeigt wird:
+Danach kopiert das MiniGame-System dein Grundstück, welches durch zwei Chatausgaben angezeigt wird:
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="372"><figcaption><p>Chatausgabe Map erstellen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="372"><figcaption><p>Chatausgabe "Map erstellen"</p></figcaption></figure>
 
-Sobald die Minigame-Map erstellt wurde, beginnt das System im Hintergrund zu arbeiten und die Map vorzubereiten. Der Status kann dann im Plot-Map-Menü verfolgt werden.
+Sobald die MiniGame-Map erstellt wurde, beginnt das System im Hintergrund zu arbeiten und die Map vorzubereiten. Der Status kann dann im Plot-Map-Menü verfolgt werden.
 
 {% hint style="danger" %}
-**Achtung:** Es kann zu jedem Grundstück nur eine Karte pro Minigame existieren. Die Karten werden anhand der Plot-ID identifiziert und somit kann die Karte auch nach dem ersten Einreichen durch "Map neu erstellen" aktualisiert werden.
+**Achtung:** Es kann zu jedem Grundstück nur eine Map pro MiniGame existieren. Die Map wird anhand der Plot-ID identifiziert und somit kann die Map auch nach dem ersten Einreichen durch "Map neu erstellen" aktualisiert werden.
 {% endhint %}
 
 {% hint style="info" %}
-Die Verbindung zwischen Plot und Minigame-Map wird bei erfolgreich angenommenen Community-Maps aufgehoben. Ist eine Map als Community-Map angenommen, kann diese nicht mehr vom Ersteller bearbeitet werden. _Das Plot kann dann jedoch erneut verwendet werden._
+Die Verbindung zwischen Grundstück und MiniGame-Map wird bei erfolgreich angenommenen Community-Maps aufgehoben. Ist eine Map als Community-Map angenommen, kann diese nicht mehr vom Ersteller bearbeitet werden. _Das Grundstück kann dann jedoch erneut verwendet werden._
 {% endhint %}
 
 ### Informationen der Map bearbeiten
 
-Um Informationen deiner Map, wie z.B. den Namen zu Bearbeiten, klicke im Plot-Map-Menü auf die gewünschte Map.
+Um Informationen deiner Map, wie zum Beispiel den Namen zu bearbeiten, klicke im Plot-Map-Menü auf die gewünschte Map.
 
 <figure><img src="../../.gitbook/assets/image (26) (2) (1).png" alt=""><figcaption><p>Map-Einstellungen</p></figcaption></figure>
 
-* **Namensschild:** Namen der Karte bearbeiten
+* **Namensschild:** Namen der Map bearbeiten
 * **Game-Icon:** Info zum gewählten Spiel (kann nicht geändert werden)
-* **Map-Icon:** Zeigt das Icon der Plot-Map (kann über Auswahl eines Items im Inventar geändert werden)
+* **Map-Icon:** Zeigt das Icon der Plot-Map an (kann über Auswahl eines Items im Inventar geändert werden)
 * **Kartentisch:** Community-Map-Status bzw. Einreichen als Community-Map
-* **Barrier:** Karte löschen
+* **Barriere:** Map löschen
 
 ### Als Community-Map einreichen
 
-Möchtest du eine Karte als Community-Map einreichen, damit die Karte von allen gespielt werden kann und auch in öffentlichen Lobbys zur Verfügung steht, klicke auf den Kartentisch in den Map-Einstellungen. Damit wird die Karte eingereicht.
+Möchtest du eine Map als Community-Map einreichen, damit die Map von allen gespielt werden kann und auch in öffentlichen Lobbys zur Verfügung steht, klicke auf den Kartentisch in den Map-Einstellungen. Damit wird die Map eingereicht.
 
 #### Ablauf der Community-Maps
 
-1. Einreichen der Karte durch den Erbauer
-2. Testen der Karte durch z.B. Streamer, Teammitglieder o.ä.
-3. Annehmen der Karte als Community Map durch das Minigame-Team
-   1. Sollte die Map nicht passend sein, kann diese an dieser Stelle auch abgelehnt werden.
+1. Einreichen der Map durch den Erbauer
+2. Testen der Map durch zum Beispiel Streamer, Teammitglieder o. Ä.
+3. Annehmen der Map als Community-Map durch das MiniGame-Team (sollte die Map nicht passend sein, kann sie an dieser Stelle auch abgelehnt werden)
 
-Sobald die Karte als Community-Map angenommen ist, kann diese nicht mehr aktualisiert werden. Der Name des Erbauers bleibt aber weiterhin in der Map sichtbar.
+Sobald die Map als Community-Map angenommen ist, kann diese nicht mehr aktualisiert werden. Der Name des Erbauers bleibt jedoch weiterhin in der Map sichtbar.
 
