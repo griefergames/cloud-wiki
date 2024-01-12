@@ -24,7 +24,7 @@ Beim Rand-Händler können Rand-Effekte gekauft werden, die du auf deinen Grunds
 
 ## Angler-Shop
 
-Beim Angler-Shop-NPC kannst du die **ICTUS aqua 3000** Angel für 20 [Adventure-Coins](adventure-system.md) kaufen. Diese wird für Angel-Events benötigt, um besondere Items angeln zu können.
+Beim Angler-Shop-NPC kannst du die **ICTUS aqua 3000** Angel für 20 [Adventure Coins](adventure-system.md) kaufen. Diese wird für Angel-Events benötigt, um besondere Items angeln zu können.
 
 ![Angler-Shop-Ansicht](<../../.gitbook/assets/3 (2) (1).png>)
 

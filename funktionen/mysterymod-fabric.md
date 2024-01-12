@@ -16,19 +16,19 @@ MysteryMod ist die Partner-Mod von GrieferGames. Sie fügt einige Cosmetics & Em
 
 \- Möbel ([CustomBlocks](customblocks.md))
 
-\- Modifiziertes Chat-System (Chat-Filter, Auto-Text, Chat-Kategorien,...)
+\- Modifiziertes Chat-System (Chat-Filter, Auto-Text, Chat-Kategorien usw.)
 
-\- In-game-GUI (Anzeige von FPS, Ping, Koordinaten,...)
+\- In-Game-GUI (Anzeige von FPS, Ping, Koordinaten usw.)
 
-\- Integration des ScammerRadars & der Trusted MM Liste (optionale Features)
+\- Integration des ScammerRadars & der Trusted-MM-Liste (optionale Features)
 
-\- Fake Money Check
+\- Fake-Money-Check
 
 \- TeamSpeak-Integration
 
 \- ToggleSneak & ToggleSprint
 
-Die Nutzung dieser Mod ist selbstverständlich freiwillig. Ihr könnt mit jedem beliebigen (erlaubten) Client auf GrieferGames spielen.
+Die Nutzung dieser Mod ist selbstverständlich freiwillig. Du kannst mit jedem beliebigen (erlaubten) Client auf GrieferGames spielen.
 
 
 
@@ -37,48 +37,46 @@ Die Nutzung dieser Mod ist selbstverständlich freiwillig. Ihr könnt mit jedem 
 {% endhint %}
 
 {% hint style="info" %}
-Solltet weitere Hilfe benötigt werden, kann sich gerne auf dem [MysteryMod-Discord](https://discord.gg/RXq56TTPYE) gemeldet werden.&#x20;
+Solltest du weitere Hilfe benötigen, kannst du dich gerne auf dem [Discord](https://discord.griefergames.net) melden.
 {% endhint %}
 
 
 
 ### MysteryMod als Fabric-Mod
 
-Die Fabric-Version von MysteryMod ist etwas anders als die 1.8-Version. Sie ist darauf ausgelegt, mit möglichst vielen anderen Fabric-Mods kompatibel zu sein und hat eine bessere Performance & Start-Up-Time.
+Die Fabric-Version von MysteryMod ist etwas anders als die 1.8 Version. Sie ist darauf ausgelegt, mit möglichst vielen anderen Fabric-Mods kompatibel zu sein und hat eine bessere Performance & Start-up-Time.
 
 ### Anleitung zur Installation:
 
-Um MysteryMod Fabric verwenden zu können, müsst ihr vorher [Fabric](https://fabricmc.net/use/installer/) installieren. Das macht ihr, indem ihr die Datei herunterlädt, sie ausführt, anschließend die 1.20.1 auswählt und ihr abschließend auf den Button “Install” klickt. Sobald dieser Schritt erledigt ist, habt ihr schonmal eine funktionierende Fabric-Instanz in eurem Minecraft-Launcher laufen.\
+Um MysteryMod Fabric verwenden zu können, musst du vorher [Fabric](https://fabricmc.net/use/installer/) installieren. Das machst du, indem du die Datei herunterlädst, sie ausführst, anschließend die 1.20.1 auswählst und du abschließend auf den Button “Install” klickst. Sobald dieser Schritt erledigt ist, hast du schon mal eine funktionierende Fabric-Instanz in deinem Minecraft-Launcher laufen.\
 
 
-Danach lädt ihr euch [MysteryMod Fabric](https://mysterymod.net/downloadmainpage1-20-1/) über den “Install Fabric 1.20.1”-Button herunter. Diese Datei müsst ihr nicht ausführen, sondern muss in den mods-Ordner bei .minecraft gezogen werden.
+Danach lädst du dir [MysteryMod Fabric](https://mysterymod.net/downloadmainpage1-20-1/) über den “Install Fabric 1.20.1” Button herunter. Diese Datei musst du nicht ausführen, sondern in den **mods** Ordner bei **.minecraft** gezogen werden.
 
 {% hint style="info" %}
-Den .minecraft-Ordner könnt ihr ganz einfach erreichen, indem ihr den Windows-Explorer öffnet und oben in der Leiste %appdata% eingebt. Anschließend müsst ihr auf das Verzeichnis .minecraft klicken und schon seid ihr im Installationsverzeichnis von Minecraft, in welchem auch der “mods”-Ordner liegt.
+Den **.minecraft**-Ordner kannst du ganz einfach erreichen, indem du den Windows Explorer öffnest und oben in der Leiste `%appdata%` eingibst. Anschließend musst du auf das Verzeichnis **.minecraft** klicken und schon bist du im Installationsverzeichnis von Minecraft, in welchem auch der **mods** Ordner liegt.
 {% endhint %}
 
 Zusätzlich wird die 1.20.1 Version der Mod “[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/4777229)” benötigt. Diese gehört auch in den `.minecraft\mods` Ordner.
 
-Sind diese Schritte getan, könnt ihr einfach wie gewohnt den Minecraft-Launcher öffnen, dort die Fabric-Installation auswählen und das Spiel starten.
+Sind diese Schritte getan, kannst du einfach wie gewohnt den Minecraft Launcher öffnen, dort die Fabric-Installation auswählen und das Spiel starten.
 
-### Unsere Mod-Empfehlungen:
+### Unsere Mod-Empfehlungen
 
-Um ingame eine vereinfachte Übersicht über eure installierten Mods zu haben, empfehlen wir euch die Mod “[Mod Menu](https://modrinth.com/mod/modmenu)” .&#x20;
+Um In-Game eine vereinfachte Übersicht über deine installierten Mods zu haben, empfehlen wir dir die Mod “[Mod Menu](https://modrinth.com/mod/modmenu)”.
 
-Für einen OptiFine-Ähnlichen Boost eurer Performance, empfehlen wir euch “[Sodium](https://modrinth.com/mod/sodium)”. Um Shader verwenden zu können, benötigt ihr ebenfalls “[Sodium](https://modrinth.com/mod/sodium)”, sowie “[Iris Shaders](https://modrinth.com/mod/iris)”.&#x20;
+Für einen OptiFine-ähnlichen Boost deiner Performance, empfehlen wir dir “[Sodium](https://modrinth.com/mod/sodium)”. Um Shader verwenden zu können, benötigst du ebenfalls “[Sodium](https://modrinth.com/mod/sodium)” sowie “[Iris Shaders](https://modrinth.com/mod/iris)”.
 
 {% hint style="danger" %}
 OptiFine bietet sich leider nicht als Shader-Loader an, da es dort erhebliche Rendering-Probleme gibt.
 {% endhint %}
 
-Ihr habt nun auch die Möglichkeit, Litematica in Kombination mit MysteryMod zu verwenden. Dazu müsst ihr [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)  & die Mod-Bibliothek [MaLiLib ](https://www.curseforge.com/minecraft/mc-mods/malilib)herunterladen.
+Du hast nun auch die Möglichkeit, Litematica in Kombination mit MysteryMod zu verwenden. Dazu musst du [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) & die Mod-Bibliothek [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) herunterladen.
 
-Wenn ihr euren Account wechseln, dafür aber nicht das Spiel neustarten wollt, ist die Mod [In-Game Account Switcher ](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher)genau das richtige für euch.
+Wenn du deinen Account wechselst, dafür aber nicht das Spiel neustarten möchtest, ist die Mod [In-Game Account Switcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher) genau das Richtige für dich.
 
-Eine sehr beliebte Funktion von MysteryMod war auch das “Kartenvorschau” Feature. Diese bekommt ihr durch die Mod “[Map Tooltip](https://www.curseforge.com/minecraft/mc-mods/map-tooltip)” zurück.
+Eine sehr beliebte Funktion von MysteryMod war auch das Kartenvorschau-Feature. Diese bekommst du durch die Mod [Map Tooltip](https://www.curseforge.com/minecraft/mc-mods/map-tooltip) zurück.
 
-Falls ihr Fulbright verwenden wollt, empfehlen wir euch die Mod “[Boosted Brightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness)”&#x20;
+Falls du Fullbright verwenden möchtest, empfehlen wir dir die Mod [Boosted Brightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness).
 
-Um zoomen zu können, gibt es die Mod “[Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)”
-
-\
+Um zoomen zu können, gibt es die Mod [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom).
