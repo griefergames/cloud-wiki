@@ -14,7 +14,3 @@ Um dich auf den Server zu verbinden, musst du einen neuen Multiplayer-Server hin
 Versuche, wenn möglich, die automatischen Updates deiner App zu deaktivieren.\
 Hast du eine Beta-Version installiert, kannst du in der Regel nicht GrieferGames betreten.
 {% endhint %}
-
-## Probleme mit der Performance / Crash / Join nicht möglich?
-
-Wir vergeben auf dem Standardport automatisch ein Ressourcenpaket, welches die [CustomBlocks](../funktionen/customblocks.md) von GrieferGames beinhaltet. Solltest du damit Performance-Probleme bekommen, kannst du den alternativen Port <mark style="color:orange;">**19134**</mark> benutzen, welcher diese Blöcke nicht hinzufügt.
