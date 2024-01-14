@@ -12,7 +12,7 @@ Um dich auf den Server zu verbinden, musst du einen neuen Multiplayer-Server hin
 <mark style="color:red;">**Achtung:**</mark> Da GrieferGames die Bedrock-Version über eine Schnittstelle anbindet, brauchen wir bei jedem neuen Update deines Spiels einen Moment, um diese Änderungen umzusetzen.\
 \
 Versuche, wenn möglich, die automatischen Updates deiner App zu deaktivieren.\
-Die Beta-Versionen können in der Regel nicht auf GrieferGames joinen.
+Hast du eine Beta-Version installiert, kannst du in der Regel nicht GrieferGames betreten.
 {% endhint %}
 
 ## Probleme mit der Performance / Crash / Join nicht möglich?
