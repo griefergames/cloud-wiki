@@ -14,7 +14,7 @@ Die Trichter-Ticks und -Geschwindigkeiten sind auf GrieferGames angepasst. Mehr 
 
 Der Bergungskompass wurde an das Cloud-Netzwerk angepasst. Siehe [Bergungskompass](bergungskompass.md).
 
-### Mobs in Fahrzeugen (Farmwelten)
+## Mobs in Fahrzeugen (Farmwelten)
 
 Alle Mobs (Tiere & Monster) in Fahrzeugen haben deaktivierte AI. Diese wird deaktiviert, sobald diese in das Fahrzeug einsteigen und wieder aktiviert, wenn sie es verlassen oder es zerstört wird.\
 Dieses ist insbesondere bei Villager-Trading wichtig, da keine neuen Trades etc. innerhalb von Fahrzeugen generiert werden.
