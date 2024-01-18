@@ -30,3 +30,13 @@ Das Limit der Signierung beträgt 65 Zeichen, hierbei zählen aber die Farbcodes
 {% hint style="info" %}
 Möchtest du Hexadezimal-Farben fett schreiben, muss vor jeder Farbe die Formatierung mit `\&r` zurückgesetzt werden.
 {% endhint %}
+
+### 2. Zeile signieren
+
+Im [CaseOpening ](../features/case-opening.md)kann das Recht gewonnen werden, um eine zweite Zeile auf ein Item zu signieren.
+
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>2. Zeile-Signieren Item aus dem CaseOpening</p></figcaption></figure>
+
+Um eine zweite Zeile hinzuzufügen kann das Item noch einmal mit `/sign <Text>` signiert werden. Es kann nur auf Items eine 2. Zeile hinzugefügt werden, wenn die erste Signatur von einem selbst ist.
+
+Das Datum der Signatur wird dabei aktualisiert. Der Name (inkl. Rang) bleibt erhalten.
