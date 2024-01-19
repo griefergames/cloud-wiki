@@ -33,10 +33,10 @@ Möchtest du Hexadezimal-Farben fett schreiben, muss vor jeder Farbe die Formati
 
 ### 2. Zeile signieren
 
-Im [CaseOpening ](../features/case-opening.md)kann das Recht gewonnen werden, um eine zweite Zeile auf ein Item zu signieren.
+Im [Case-Opening](../features/case-opening.md) kann das Recht gewonnen werden, um eine zweite Zeile auf ein Item zu signieren.
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>2. Zeile-Signieren Item aus dem CaseOpening</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>2. Zeile signieren-Item aus dem Case-Opening</p></figcaption></figure>
 
-Um eine zweite Zeile hinzuzufügen kann das Item noch einmal mit `/sign <Text>` signiert werden. Es kann nur auf Items eine 2. Zeile hinzugefügt werden, wenn die erste Signatur von einem selbst ist.
+Um eine zweite Zeile hinzuzufügen, kann das Item noch einmal mit `/sign <Text>` signiert werden. Es kann nur auf Items eine 2. Zeile hinzugefügt werden, wenn die erste Signatur von einem selbst ist.
 
 Das Datum der Signatur wird dabei aktualisiert. Der Name (inkl. Rang) bleibt erhalten.
