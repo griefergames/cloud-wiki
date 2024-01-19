@@ -17,7 +17,7 @@ Der Bergungskompass wurde an das Cloud-Netzwerk angepasst. Siehe [Bergungskompas
 ## Mobs in Fahrzeugen (Farmwelten)
 
 Alle Mobs (Tiere & Monster) in Fahrzeugen haben deaktivierte AI. Diese wird deaktiviert, sobald diese in das Fahrzeug einsteigen und wieder aktiviert, wenn sie es verlassen oder es zerstört wird.\
-Dieses ist insbesondere bei Villager-Trading wichtig, da keine neuen Trades etc. innerhalb von Fahrzeugen generiert werden.
+Dieses ist insbesondere beim Handeln mit Dorfbewohnern wichtig, da keine neuen Trades etc. innerhalb von Fahrzeugen generiert werden.
 
 ## Shulker-Änderungen
 
