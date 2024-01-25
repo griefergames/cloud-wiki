@@ -8,7 +8,7 @@ description: >-
 
 ## Trichter-Geschwindigkeiten
 
-Die Trichter-Ticks und -Geschwindigkeiten sind auf GrieferGames angepasst. Mehr dazu ist in unserer umfassenden Änderung des [Trichter-Systems](../features/tricher-system.md) zu finden.
+Die Trichter-Ticks und -Geschwindigkeiten sind auf GrieferGames angepasst. Mehr dazu ist in unserer umfassenden Änderung des [Trichter-Systems](../features/trichter-system.md) zu finden.
 
 ## Bergungskompass
 

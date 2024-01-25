@@ -41,7 +41,7 @@ Es wird immer nur ein Stack gleichzeitig bewegt. Hat ein Stack weniger Items, al
 
 ### Force Fast Tick
 
-Mit der <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> <mark style="color:orange;">Force Fast Tick</mark> Option ist es Möglich die Tick-Geschwindigkeit auf den Standard zurück zu setzen (siehe [Trichter-Tick](tricher-system.md#trichter-tick)). Diese Möglichkeit wird für manche Redstone-Schaltungen benötigt, welche sich nicht anders realisieren lassen. Der Großteil der Schaltungen lässt sich jedoch so umbauen, dass diese auch auf GrieferGames funktionieren.
+Mit der <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> <mark style="color:orange;">Force Fast Tick</mark> Option ist es Möglich die Tick-Geschwindigkeit auf den Standard zurück zu setzen (siehe [Trichter-Tick](trichter-system.md#trichter-tick)). Diese Möglichkeit wird für manche Redstone-Schaltungen benötigt, welche sich nicht anders realisieren lassen. Der Großteil der Schaltungen lässt sich jedoch so umbauen, dass diese auch auf GrieferGames funktionieren.
 
 {% hint style="warning" %}
 Diese Option steht nur der Administration zur Verfügung oder bei aktivierter `hopper-fast-tick`-Flag auf dem Grundstück. Diese Flag wird in seltenen Ausnahmefällen vergeben und kann über das Ticket-System beantragt werden.

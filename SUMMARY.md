@@ -37,7 +37,7 @@
   * [Mentorenprogramm](funktionen/features/mentorenprogramm.md)
   * [Perks](funktionen/features/perks.md)
   * [Prefixe](funktionen/features/prefixe.md)
-  * [Trichter-System](funktionen/features/tricher-system.md)
+  * [Trichter-System](funktionen/features/trichter-system.md)
   * [Unbegrenzter Speicher](funktionen/features/unbegrenzter-speicher.md)
 * [🦾 Mechanik-Änderungen](funktionen/mechanik-aenderungen/README.md)
   * [Bergungskompass](funktionen/mechanik-aenderungen/bergungskompass.md)
