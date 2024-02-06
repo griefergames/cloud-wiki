@@ -160,8 +160,8 @@ Der Text der Signierung muss die eingestellten Zeichen / den eingestellten Text 
 
 #### Beschreibungsfilter
 
-(comming soon..) Aktuell auf der Cloud durch die internationalisierten Beschreibungen nicht möglich.
+Dieser Abschnitt folgt bald. Aktuell auf der Cloud durch die internationalisierten Beschreibungen nicht möglich.
 
 #### Namensfilter
 
-(comming soon..) Aktuell auf der Cloud durch die internationalisierten Namen nicht eindeutig.
+Dieser Abschnitt folgt bald. Aktuell auf der Cloud durch die internationalisierten Namen nicht eindeutig.
