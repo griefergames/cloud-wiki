@@ -10,7 +10,7 @@
 
 ## Funktionen
 
-* [ℹ Grundbefehle](funktionen/grundbefehle/README.md)
+* [ℹ️ Grundbefehle](funktionen/grundbefehle/README.md)
   * [Chat-Log](funktionen/grundbefehle/chat-log.md)
   * [Signieren von Items](funktionen/grundbefehle/signieren-von-items.md)
 * [🚧 Ressourcenpaket](funktionen/ressourcenpaket.md)
@@ -25,8 +25,8 @@
 * [💰 Währungen](funktionen/waehrungen/README.md)
   * [In-Game-Geld $](funktionen/waehrungen/in-game-geld-usd.md)
 * [🦝 MysteryMod Fabric](funktionen/mysterymod-fabric.md)
-* [🅱 CustomBlocks](funktionen/customblocks.md)
-* [❤ Features](funktionen/features/README.md)
+* [🅱️ CustomBlocks](funktionen/customblocks.md)
+* [❤️ Features](funktionen/features/README.md)
   * [Adventure-System](funktionen/features/adventure-system.md)
   * [Case-Opening](funktionen/features/case-opening.md)
   * [Chaträume](funktionen/features/chatraeume.md)
@@ -46,7 +46,7 @@
 ## Minigames
 
 * [🤖 Übersicht](minigames/uebersicht.md)
-* [🗺 Karten erstellen](minigames/karten-erstellen/README.md)
+* [🗺️ Karten erstellen](minigames/karten-erstellen/README.md)
   * [Builder Battle](minigames/karten-erstellen/builder-battle.md)
   * [Color Battle](minigames/karten-erstellen/color-battle.md)
   * [Elytra-Flug](minigames/karten-erstellen/elytra-flug.md)

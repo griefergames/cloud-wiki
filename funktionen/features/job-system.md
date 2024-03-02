@@ -14,7 +14,7 @@ Im Job System haben Spieler die Möglichkeit, Standard-Items zum Ankauf als Auft
 
 Wenn du den NPC ansprichst, erhältst du die Übersicht der offenen Aufträge und für welche Preise diese beim Job-System angekauft werden.
 
-<img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (13) (1) (1).png" alt="" data-size="original">
+![](<../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (13) (1) (1).png>)
 
 Wenn du mit der Maus über ein Item hältst, ist die Information zu sehen, für welchen Preis du einen Stack des Items abgeben kannst. Klickst du auf dieses Item, lieferst du alle vollen Stacks dieses Materials aus deinem Inventar für den höchsten Preis ab und dir wird das Geld auf dein Konto gutgeschrieben.
 
@@ -32,7 +32,7 @@ Dort siehst du eine Übersicht über deine aktuell eingestellten Aufträge.
 
 Klicke nun auf **Neuen Auftrag erstellen** <img src="../../.gitbook/assets/image (18).png" alt="" data-size="line">.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 Wähle zuerst ein Item aus deinem Inventar, welches du ankaufen möchtest.\
 Klicke dafür auf das Item in deinem Inventar und es wird oben im Bereich **Item wählen** angezeigt.
@@ -51,7 +51,7 @@ Wähle danach die Anzahl der Stacks, die du ankaufen möchtest. Dafür stehen fo
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-* 1 Stack&#x20;
+* 1 Stack
 * 1 Kiste
 * 1 Doppelkiste
 * eigene Anzahl
