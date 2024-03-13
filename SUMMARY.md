@@ -54,6 +54,10 @@
   * [Schneeballschlacht](minigames/karten-erstellen/schneeballschlacht.md)
   * [TNT-Run](minigames/karten-erstellen/tnt-run.md)
 
+## GRIEFERGAMES ALLGEMEIN
+
+* [❗ Beschwerden über Spieler / Beweismaterial](griefergames-allgemein/beschwerden-ueber-spieler-beweismaterial.md)
+
 ## Hilfreiche Links
 
 * [GrieferGames Shop](https://store.griefergames.net)
