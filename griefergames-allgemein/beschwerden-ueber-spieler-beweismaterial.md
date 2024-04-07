@@ -1,14 +1,14 @@
 # ❗ Beschwerden über Spieler / Beweismaterial
 
-Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Solltet ihr einen Verstoß gegen unser [Regelwerk](https://forum.griefergames.de/article/7-regelwerk/) feststellen, habt ihr jederzeit die Möglichkeit diese bei uns zu melden.
+Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Solltet ihr einen Verstoß gegen unser [Regelwerk](https://forum.griefergames.de/article/7-regelwerk/) feststellen, habt ihr jederzeit die Möglichkeit, diese bei uns zu melden.
 
-## **Beschwerden über Spieler/ Beweismaterial**
+## **Beschwerden über Spieler / Beweismaterial**
 
 {% hint style="info" %}
 Bitte erstellt dafür einen Beitrag im Forum “[Beschwerden über Spieler](https://forum.griefergames.de/forum/board/202-beschwerden-%C3%BCber-spieler/)” oder nutzt das Ticket-System im [Web](https://ticket.griefergames.de/) beziehungsweise den [offiziellen GrieferGames Discord](https://discord.com/channels/325017098592059392/1022387246873198643). Beschwerden an anderen Stellen werden möglicherweise nicht bearbeitet.
 {% endhint %}
 
-Wir akzeptieren ausschließlich [Chat-Logs](beschwerden-ueber-spieler-beweismaterial.md#was-sind-chat-logs)  und [Videoaufnahmen](beschwerden-ueber-spieler-beweismaterial.md#videoaufnahmen) als Beweismittel, welche nicht älter als 7 Tage sind. In besonderen Fällen können auch unbearbeitete Screenshots des gesamten Bildschirms relevant sein. Mehr Informationen dazu findet ihr in folgender Übersicht:
+Wir akzeptieren ausschließlich [Chat-Logs](beschwerden-ueber-spieler-beweismaterial.md#was-sind-chat-logs) und [Videoaufnahmen](beschwerden-ueber-spieler-beweismaterial.md#videoaufnahmen) als Beweismittel, welche nicht älter als 7 Tage sind. In besonderen Fällen können auch unbearbeitete Screenshots des gesamten Bildschirms relevant sein. Mehr Informationen dazu findet ihr in folgender Übersicht:
 
 | **Vergehen**                         | **Beweismittel**         |
 | ------------------------------------ | ------------------------ |
@@ -35,33 +35,33 @@ Wir akzeptieren ausschließlich [Chat-Logs](beschwerden-ueber-spieler-beweismate
 | Vulgäres Chatverhalten               | Chat-Log/Videoaufnahme   |
 
 {% hint style="info" %}
-Wenn es um Regelverstöße auf TeamSpeak (ts.griefergames.net) oder [Discord](https://discord.gg/abge) geht, gebt uns bitte die jeweilige User-ID des gemeldeten Spielers an. Sprachaufnahmen sind nicht gestattet. Für alle Anliegen, die unser Forum betreffen, könnt ihr dort die “Beitrag melden” Funktion nutzen.
+Wenn es um Regelverstöße auf dem TeamSpeak (ts.griefergames.net) oder [Discord](https://discord.gg/abge) geht, gebt uns bitte die jeweilige User-ID des gemeldeten Spielers an. Sprachaufnahmen sind nicht gestattet. Für alle Anliegen, die unser Forum betreffen, könnt ihr dort die “Inhalt melden” Funktion nutzen.
 {% endhint %}
 
 ## **Was sind Chat-Logs?**
 
-Damit sind nicht eure Logs in den Tiefen eures Minecraft Ordners gemeint, sondern ein von uns [im März 2022 eingeführter Befehl](https://forum.griefergames.de/news/view/267-das-neue-chat-log-system-auf-der-1-8/) zur Erfassung von Chatnachrichten!
+Damit sind nicht eure Logs in den Tiefen eures Minecraft-Ordners gemeint, sondern ein von uns [im März 2022 eingeführter Befehl](https://forum.griefergames.de/news/view/267-das-neue-chat-log-system-auf-der-1-8/) zur Erfassung von Chatnachrichten!
 
 Folgende Befehle stehen euch hier zur Verfügung:
 
-| **Befehl**                 | **Funktion**                                                                                                                     |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| /chatlog                   | Zeige dir die Hilfe/Übersicht an                                                                                                 |
-| /chatlog all               | Erfasse die letzten 75 Nachrichten aus dem globalen Chat als Chat-Log (50 auf der 1.8)                                           |
-| /chatlog all \<Spieler>    | Erfasse die letzten 75 Nachrichten aus dem globalen Chat als Chat-Log und markiert den genannten Spieler (50 auf der 1.8)        |
-| /chatlog msg \<Spieler>    | Erfasse die letzten 20 privaten Nachrichten über /msg zwischen dir und dem genannten Spieler                                     |
-| /chatlog plot              | Erfasse die letzten 50 Nachrichten aus dem Plot-Chat des Plots auf dem du stehst als Chat-Log                                    |
-| /chatlog plot \<Spieler>   | Erfasse die letzten 50 Nachrichten aus dem Plot-Chat des Plots auf dem du stehst als Chat-Log und markiert den genannten Spieler |
-| /chatlog global            | Erfasse einen Chat-Log der letzten 100 Nachrichten im Global-Chat (nur 1.8)                                                      |
-| /chatlog global \<Spieler> | Erfasse einen Chat-Log der letzten 100 Nachrichten im Global-Chat und markiere den angegebenen Spieler im Chat-Log (nur 1.8.)    |
+| **Befehl**                 | **Funktion**                                                                                                                             |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| /chatlog                   | Zeige dir die Hilfe/Übersicht an                                                                                                         |
+| /chatlog all               | Erfasse die letzten 75 Nachrichten aus dem globalen Chat als Chat-Log (50 auf der 1.8)                                                   |
+| /chatlog all \<Spieler>    | Erfasse die letzten 75 Nachrichten aus dem globalen Chat als Chat-Log und markiert den genannten Spieler (50 auf der 1.8)                |
+| /chatlog msg \<Spieler>    | Erfasse die letzten 20 privaten Nachrichten über /msg zwischen dir und dem genannten Spieler                                             |
+| /chatlog plot              | Erfasse die letzten 50 Nachrichten aus dem Plot-Chat des Grundstücks, auf dem du stehst, als Chat-Log                                    |
+| /chatlog plot \<Spieler>   | Erfasse die letzten 50 Nachrichten aus dem Plot-Chat des Grundstücks, auf dem du stehst, als Chat-Log und markiert den genannten Spieler |
+| /chatlog global            | Erfasse einen Chat-Log der letzten 100 Nachrichten im globalen Chat (nur 1.8)                                                            |
+| /chatlog global \<Spieler> | Erfasse einen Chat-Log der letzten 100 Nachrichten im globalen Chat und markiere den angegebenen Spieler im Chat-Log (nur 1.8.)          |
 
 {% hint style="danger" %}
-Chatlogs, welche ihr von Direktnachrichten erstellt, lassen sich **nicht** auf der Chatlog-Seite aufrufen. In diesen Fällen müsst ihr euch den Link zum jeweiligen Chatlog separat abspeichern.
+Chat-Logs, welche ihr von Direktnachrichten (/msg) erstellt, lassen sich **nicht** auf der Chat-Log-Seite aufrufen. In diesen Fällen müsst ihr euch den Link zum jeweiligen Chat-Log separat abspeichern.
 {% endhint %}
 
 ## **Videoaufnahmen?**
 
-Richtig! Manche Verstöße gegen unser Regelwerk lassen sich nur nachvollziehen, wenn ihr uns eine Videoaufnahme zukommen lassen. Es empfiehlt sich, die Aufnahmen auf YouTube als "Nicht gelistet" hochzuladen und uns mindestens bis zum Abschluss der Bearbeitung zur Verfügung zu stellen. Es gibt viele verschiedene Möglichkeiten, wie ihr Videoaufnahmen erstellen könnt.
+Richtig! Manche Verstöße gegen unser Regelwerk lassen sich nur nachvollziehen, wenn ihr uns eine Videoaufnahme zukommen lasst. Es empfiehlt sich, die Aufnahmen auf YouTube als "Nicht gelistet" hochzuladen und uns mindestens bis zum Abschluss der Bearbeitung zur Verfügung zu stellen. Es gibt viele verschiedene Möglichkeiten, wie ihr Videoaufnahmen erstellen könnt.
 
 #### Windows Game Bar
 
@@ -77,4 +77,4 @@ Nutzt ihr eine NVIDIA-Grafikkarte, könnt ihr über das **NVIDIA GeForce Experie
 
 #### Alternativen
 
-Alternativ könnt ihr OBS Studio als Aufnahmeprogramm verwenden, jedoch steht es euch natürlich frei, jedes andere Programm zu nutzen.
+Alternativ könnt ihr [OBS Studio](https://obsproject.com/de) als Aufnahmeprogramm verwenden, jedoch steht es euch natürlich frei, jedes andere Programm zu nutzen.
