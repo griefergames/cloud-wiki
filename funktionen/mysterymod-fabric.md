@@ -44,7 +44,7 @@ Die Fabric-Version von MysteryMod ist etwas anders als die 1.8 Version. Sie ist 
 
 ### Anleitung zur Installation:
 
-Um MysteryMod Fabric verwenden zu können, musst du vorher [Fabric](https://fabricmc.net/use/installer/) installieren. Das machst du, indem du die Datei herunterlädst, sie ausführst, anschließend die 1.20.1 auswählst und du abschließend auf den Button “Install” klickst. Sobald dieser Schritt erledigt ist, hast du schon mal eine funktionierende Fabric-Instanz in deinem Minecraft-Launcher laufen.\\
+Um MysteryMod Fabric verwenden zu können, musst du vorher [Fabric](https://fabricmc.net/use/installer/) installieren. Das machst du, indem du die Datei herunterlädst, sie ausführst, anschließend die aktuellste Minecraft-Version auswählst und du abschließend auf den Button “Install” klickst. Sobald dieser Schritt erledigt ist, hast du schon mal eine funktionierende Fabric-Instanz in deinem Minecraft-Launcher laufen.\\
 
 Danach lädst du dir [MysteryMod Fabric](https://mysterymod.net/downloadmainpage1-20-1/) über den “Install Fabric” Button herunter. Diese Datei musst du nicht ausführen, sondern in den **mods** Ordner bei **.minecraft** gezogen werden.
 
