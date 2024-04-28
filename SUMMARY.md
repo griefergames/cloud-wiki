@@ -13,6 +13,7 @@
 * [ℹ️ Grundbefehle](funktionen/grundbefehle/README.md)
   * [Chat-Log](funktionen/grundbefehle/chat-log.md)
   * [Signieren von Items](funktionen/grundbefehle/signieren-von-items.md)
+  * [Status beim Joinen](funktionen/grundbefehle/status-beim-joinen.md)
 * [🚧 Ressourcenpaket](funktionen/ressourcenpaket.md)
 * [🌳 Die Farmwelten](funktionen/die-farmwelten.md)
 * [🏡 Grundstücke](funktionen/grundstuecke/README.md)
