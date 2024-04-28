@@ -2,7 +2,7 @@
 description: Eine allgemeine Übersicht aller grundlegenden Befehle der Cloud
 ---
 
-# ℹ Grundbefehle
+# ℹ️ Grundbefehle
 
 Hier findest du einige Grundbefehle für das Spielen auf der GrieferGames Cloud. In den kommenden Seiten findest du noch weitere Befehle zu einzelnen Funktionen und Features.
 
@@ -42,10 +42,6 @@ Wenn du ohne einen Befehl in den Chat schreibst, schreibst du im globalen Chat u
 
 Jedes Grundstück hat einen eigenen Chat. Du kannst mit dem Befehl `/p chat` umstellen, ob du im globalen Chat oder im Grundstücks-Chat schreibst. Mehr Informationen dazu findest du im Bereich [Grundstücke](../grundstuecke/).
 
-### Chaträume
-
-Zusätzlich gibt es eine Option, Chaträumen beizutreten, private Chaträume zu erstellen und so in einem kleinen Benutzerkreis zu schreiben. Die Chaträume sind erreichbar über den Befehl `/chatroom`. Weitere Informationen zu den Chaträumen findest du unter [Chaträume](../features/chatraeume.md).
-
 ### Private Nachrichten
 
 Um mit Spielern private Nachrichten auszutauschen, steht dir das `/msg` System zur Verfügung. Die Nachrichten zwischen dir und dem anderen Spieler könnt nur ihr beide lesen.
@@ -54,6 +50,6 @@ Um mit Spielern private Nachrichten auszutauschen, steht dir das `/msg` System z
 Beide Teilnehmer haben die Möglichkeit, Nachrichten im privaten Chat mit `/chatlog` zu melden. Achte also auch in privaten Nachrichten auf dein Chatverhalten.
 {% endhint %}
 
-Mit `/msg`` `<mark style="color:orange;">`Spielername`</mark>` `<mark style="color:green;">`Nachricht`</mark> kannst du einen anderen Spieler eine Nachricht schreiben. Dieser Befehl wird dir ebenfalls vorgeschlagen, wenn du auf den Namen des Spielers im Chat klickst.
+Mit ` /msg`` `` `<mark style="color:orange;">`Spielername`</mark> <mark style="color:green;">`Nachricht`</mark> kannst du einen anderen Spieler eine Nachricht schreiben. Dieser Befehl wird dir ebenfalls vorgeschlagen, wenn du auf den Namen des Spielers im Chat klickst.
 
-Um einer Person zu antworten, kannst du zusätzlich den Befehl `/r`` `<mark style="color:green;">`Nachricht`</mark> verwenden. Dann wird die Nachricht an die letzte Person gesendet, die dir eine private Nachricht geschrieben hat.
+Um einer Person zu antworten, kannst du zusätzlich den Befehl ` /r`` `` `<mark style="color:green;">`Nachricht`</mark> verwenden. Dann wird die Nachricht an die letzte Person gesendet, die dir eine private Nachricht geschrieben hat.

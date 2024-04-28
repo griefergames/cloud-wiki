@@ -29,7 +29,6 @@
 * [❤️ Features](funktionen/features/README.md)
   * [Adventure-System](funktionen/features/adventure-system.md)
   * [Case-Opening](funktionen/features/case-opening.md)
-  * [Chaträume](funktionen/features/chatraeume.md)
   * [Die Händler](funktionen/features/die-handler.md)
   * [Erfolge / Advancements](funktionen/features/erfolge-advancements.md)
   * [Job-System](funktionen/features/job-system.md)
