@@ -20,7 +20,7 @@ Im Hauptmenü findest du eine Übersich über die existierenden Perks. Wenn du m
 
 Die Perks können über einlösbare Items erhalten und verlängert werden.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Beispiel: Item 14-Tage Plot-Fliegen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Beispiel: Item 14-Tage Plot-Fliegen</p></figcaption></figure>
 
 Die Items können je nach Perk mit verschiedenen Laufzeiten erhalten werden. Diese finden sich an unterschiedlichen Stellen auf der Cloud. Diese können im [Case-Opening](case-opening.md), [Adventure-Shop](die-handler.md) oder auch durch [Belohnungen](erfolge-advancements.md) erhalten werden.
 
@@ -45,6 +45,3 @@ Jeden Tag, an dem du das Perk aktivierst oder du dich mit aktiviertem Perk einlo
 {% hint style="info" %}
 Löst du also ein Perk in der Nacht um 23 Uhr ein, ist die verbleibende Laufzeit für diesen einen Tag nur eine Stunde. Bei einem Login nach 0 Uhr wird ein weiterer Tag abgezogen.
 {% endhint %}
-
-
-
