@@ -57,7 +57,7 @@
 ## GRIEFERGAMES ALLGEMEIN
 
 * [❗ Beschwerden über Spieler / Beweismaterial](griefergames-allgemein/beschwerden-ueber-spieler-beweismaterial.md)
-* [Für Content Creator](https://wiki.griefergames.net/erweiterte-features/fuer-content-creator)
+* [🎬 Für Content Creator](https://wiki.griefergames.net/erweiterte-features/fuer-content-creator)
 
 ## Hilfreiche Links
 
