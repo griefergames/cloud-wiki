@@ -65,9 +65,7 @@ Für die Blöcke ist diese Datei: _**mysterymod\_customblocks-1.0.2-\[...].jar**
 Als Alternative bietet sich dann Sodium & Iris statt OptiFine an.
 {% endhint %}
 
-## Installation ohne Client
-
-### Fabric Loader
+### Fabric Loader (ohne Clients wie Labymod)
 
 Für die Installation ohne Clients wie Labymod wird der **Fabric Loader** benötigt. Solltest du den Fabric Loader schon installiert haben, kannst du ab **Punkt 3** starten.
 
