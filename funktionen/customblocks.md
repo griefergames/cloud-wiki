@@ -6,67 +6,86 @@ description: Individuelle Blöcke durch GrieferGames CustomBlocks
 
 <figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption><p>Beispielbild CustomBlocks-Kücheneinrichtung</p></figcaption></figure>
 
-Auf GrieferGames gibt es eigene Blöcke, welche durch eine Mod zur Verfügung gestellt werden. Es stehen dort diverse verschiedene neue Blöcke und Dekorationen zur Verfügung.
+Auf GrieferGames gibt es eigene Blöcke, welche durch eine Mod zur Verfügung gestellt werden. Es stehen dort diverse Blöcke zum Bauen und Dekorieren zur Verfügung.
 
-Anders als bei anderen individuellen Blöcken ist es auf GrieferGames nicht verpflichtend, die dazugehörige Client-Mod installiert zu haben. Ist die Client-Mod nicht installiert, werden die neuen Blöcke durch Ersatzblöcke ersetzt und so wird es ermöglicht, auch mit Vanilla-Minecraft auf GrieferGames weiterhin zu spielen.
+Anders als bei anderen Modded-Servern ist es auf GrieferGames nicht verpflichtend, die dazugehörige Client-Mod installiert zu haben. Ist die Client-Mod nicht installiert, werden die neuen Blöcke durch Ersatzblöcke ersetzt und so wird es ermöglicht, auch mit Vanilla-Minecraft auf GrieferGames weiterhin zu spielen.
 
-Die Nutzung der Blöcke ist somit freiwillig, wir empfehlen jedoch natürlich die Erweiterung zu installieren.
-
-### CustomBlocks für ältere Versionen
-
-Die CustomBlocks für ältere Minecraft Versionen findest du im [1.8 Wiki](https://wiki.griefergames.net/grundlagen/customblocks).
+{% hint style="info" %}
+Die Nutzung der Blöcke ist freiwillig. Wir empfehlen natürlich die Erweiterung zu installieren.
+{% endhint %}
 
 ## CustomBlocks als Fabric-Mod
 
-Ab der Version 1.20 stehen die CustomBlocks als Mod auf Basis von Fabric zur Verfügung. Diese kannst du im Client deiner Wahl hinzufügen.
+Ab der Version 1.20 stehen die CustomBlocks als Fabric-Mod zur Verfügung. Diese kannst du im Client deiner Wahl hinzufügen.
 
-Die Fabric-Mod "CustomBlocks" ist auf [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks) zu finden.
+Die Fabric-Mod "CustomBlocks" ist auf [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks/files/all?page=1\&pageSize=20\&gameVersionTypeId=4) zu finden.
 
-Download für die _**Fabric API**_: [https://www.curseforge.com/minecraft/mc-mods/fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+Download für die _**Fabric API**_: [https://www.curseforge.com/minecraft/mc-mods/fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?page=1\&pageSize=20\&gameVersionTypeId=4)
 
 {% hint style="danger" %}
-Achte bei der Fabric API auf die richte API Version, welche im Versionsnamen mit angegeben ist: ![](<../.gitbook/assets/image (2).png>)
+Achte bei der Fabric API **unbedingt** auf die richtige Version, welche im Versionsnamen mit angegeben ist: ![](<../.gitbook/assets/image (2).png>)
 {% endhint %}
 
 ## Installationsanleitungen
 
-### LabyMod 4
+### LabyMod 4 Client
 
 Mit LabyMod 4 ist es ebenfalls möglich, die CustomBlocks zu verwenden. Für die Installation wird das LabyMod-Addon **Fabric Loader** benötigt.
 
-{% hint style="warning" %}
-**Achtung:** Fabric Loader ist **nicht** mit OptiFine kompatibel. Das OptiFine-Addon muss entfernt werden, wenn du den Fabric Loader aus dem Store installieren möchtest.\
-Als Alternative bietet sich dann Sodium & Iris statt OptiFine an.
-{% endhint %}
+<details>
 
-#### Option 1 - Installation via GrieferGames Addon
+<summary>Option 1 - Installation als Labymod Addon</summary>
 
 Lade dir das **GrieferGames CustomBlocks** Addon herunter.\
-Dieses installiert, falls nicht vorhanden, den Fabric Loader und fügt die CustomBlocks inklusive der Fabric API deinem LabyMod hinzu und aktualisiert diese automatisch.\
+Dieses installiert, falls nicht vorhanden, den Fabric Loader und fügt die CustomBlocks inklusive der Fabric API dein
+
 ![](<../.gitbook/assets/image (43).png>)
 
-#### Option 2 - Manuelle Installation
-
-1. Installiere das Addon **Fabric Loader** aus dem LabyMod Store ![](<../.gitbook/assets/image (1) (1).png>).
-2. Starte dein Spiel einmal neu, um sicher zu sein, dass die Ordner angelegt werden.
-3. Gehe in den Ordner `%appdata%/.minecraft` und dort in den Ordner `LabyMod\labymod-neo\fabric\1.20.1\mods`.
-4. Ziehe die **MysteryBlocks-Datei** und die **Fabric API** in diesen Ordner, falls diese noch nicht vorhanden ist.
-5. Starte dein Spiel neu und du solltest die Blöcke nun sehen.
+</details>
 
 {% hint style="danger" %}
 LabyMod kopiert die Mod-Dateien in einen Extra-Ordner. Wenn du also eine Datei mit der selben Version setzt, musst du die passende Datei aus dem Ordner `LabyMod\labymod-neo\fabric\1.20.1\remap\` löschen.\
 Für die Blöcke ist diese Datei: _**mysterymod\_customblocks-1.0.2-\[...].jar**_
 {% endhint %}
 
+{% hint style="warning" %}
+**Achtung:** Fabric Loader ist **nicht** mit OptiFine kompatibel. Das Labymod OptiFine-Addon muss entfernt werden, wenn du den Fabric Loader aus dem Store installieren möchtest.\
+Als Alternative bietet sich dann Sodium & Iris statt OptiFine an.
+{% endhint %}
+
+### Installation von Fabric ohne Client
+
+<details>
+
+<summary>Option 2 - Manuelle Installation</summary>
+
+1. Installiere das Addon **Fabric Loader** aus dem LabyMod Store ![](<../.gitbook/assets/image (1) (1).png>).
+2. Starte dein Spiel einmal neu, um sicher zu sein, dass die Ordner angelegt werden.
+3. Gehe in den Ordner `%appdata%/.minecraft` und dort in den Ordner `LabyMod\labymod-neo\fabric\1.20.1\mods`.
+4. Ziehe die [**CustomBlocks**](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks/files/all?page=1\&pageSize=20\&gameVersionTypeId=4) Datei und die [**Fabric API**](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?page=1\&pageSize=20\&gameVersionTypeId=4) in diesen Ordner.
+5. Starte dein Spiel neu und du hast die GrieferGames CustomBlocks installiert!
+
+</details>
+
 ### Fabric Loader
 
-Für die Installation ohne LabyMod wird der **Fabric Loader** benötigt. Solltest du den Fabric Loader schon installiert haben, kannst du bei _**Punkt 3**_ starten.
+Für die Installation ohne LabyMod wird der **Fabric Loader** benötigt. Solltest du den Fabric Loader schon installiert haben, kannst du ab **Punkt 3** starten.
+
+<details>
+
+<summary>Fabric Loader Installation</summary>
 
 1. Lade dir den Fabric Loader Installer von [https://fabricmc.net/use/installer/](https://fabricmc.net/use/installer/) herunter.
 2. Führe den Installer aus und installiere die passende Minecraft-Version zum Cloud-Netzwerk. Die Loader-Version kann auf der neusten Version beibehalten werden:![](<../.gitbook/assets/image (1) (1) (1).png>)
 3. Navigiere nun in deinen Minecraft Ordner `%appdata%/.minecraft` und navigiere dort in den Ordner `mods`
-4. Ziehe die **MysteryBlocks-Datei** und die **Fabric API** in diesen Ordner, falls diese noch nicht vorhanden ist.
-5. Starte dein Spiel neu und du solltest die Blöcke nun sehen.
+4. Ziehe die **MysteryBlocks-Datei** und die **Fabric API** in diesen Mods-Ordner.
+5. Starte dein Spiel neu und du hast die neuen Blöcke installiert!
+
+</details>
+
+### CustomBlocks für ältere Versionen
+
+Die CustomBlocks für ältere Minecraft Versionen findest du im [1.8 Wiki](https://wiki.griefergames.net/grundlagen/customblocks).
 
 ## Du brauchst Hilfe?
 
