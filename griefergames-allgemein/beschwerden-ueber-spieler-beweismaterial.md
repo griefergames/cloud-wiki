@@ -46,14 +46,14 @@ Folgende Befehle stehen euch hier zur Verfügung:
 
 | **Befehl**                 | **Funktion**                                                                                                                             |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| /chatlog                   | Erstellt einen Chatlog ohne Spielerbezug                                                                                                 |
-| /chatlog \<Spieler>        | Erstellt einen Chatlog mit Spielerbezug                                                                                                  |
+| /chatlog                   | Erstelle einen Chat-Log ohne Spielerbezug                                                                                                 |
+| /chatlog \<Spieler>        | Erstelle einen Chat-Log mit Spielerbezug                                                                                                  |
 | **Alternative Befehle**    | **Funktion**                                                                                                                             |
 | /chatlog all               | Erfasse die letzten 75 Nachrichten aus dem globalen Chat als Chat-Log (50 auf der 1.8)                                                   |
 | /chatlog all \<Spieler>    | Erfasse die letzten 75 Nachrichten aus dem globalen Chat als Chat-Log und markiert den genannten Spieler (50 auf der 1.8)                |
 | /chatlog msg \<Spieler>    | Erfasse die letzten 20 privaten Nachrichten über /msg zwischen dir und dem genannten Spieler                                             |
-| /chatlog plot              | Erfasse die letzten 50 Nachrichten aus dem Plot-Chat des Grundstücks, auf dem du stehst, als Chat-Log                                    |
-| /chatlog plot \<Spieler>   | Erfasse die letzten 50 Nachrichten aus dem Plot-Chat des Grundstücks, auf dem du stehst, als Chat-Log und markiert den genannten Spieler |
+| /chatlog plot              | Erfasse die letzten 50 Nachrichten aus dem Chat des Grundstücks, auf dem du stehst, als Chat-Log                                    |
+| /chatlog plot \<Spieler>   | Erfasse die letzten 50 Nachrichten aus dem Chat des Grundstücks, auf dem du stehst, als Chat-Log und markiert den genannten Spieler |
 | /chatlog global            | Erfasse einen Chat-Log der letzten 100 Nachrichten im globalen Chat (nur 1.8)                                                            |
 | /chatlog global \<Spieler> | Erfasse einen Chat-Log der letzten 100 Nachrichten im globalen Chat und markiere den angegebenen Spieler im Chat-Log (nur 1.8.)          |
 
@@ -61,7 +61,7 @@ Folgende Befehle stehen euch hier zur Verfügung:
 Chat-Logs, welche ihr von Direktnachrichten (/msg) erstellt, lassen sich **nicht** auf der Chat-Log-Seite aufrufen. In diesen Fällen müsst ihr euch den Link zum jeweiligen Chat-Log separat abspeichern.
 {% endhint %}
 
-Informationen zu Chatlogs sind auch [hier ](../funktionen/grundbefehle/chat-log.md)zu finden.
+Informationen zu Chat-Logs sind auch [hier](../funktionen/grundbefehle/chat-log.md) zu finden.
 
 ## **Videoaufnahmen?**
 
