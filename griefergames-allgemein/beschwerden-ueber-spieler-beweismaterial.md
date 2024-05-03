@@ -46,7 +46,9 @@ Folgende Befehle stehen euch hier zur Verfügung:
 
 | **Befehl**                 | **Funktion**                                                                                                                             |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| /chatlog                   | Zeige dir die Hilfe/Übersicht an                                                                                                         |
+| /chatlog                   | Erstellt einen Chatlog ohne Spielerbezug                                                                                                 |
+| /chatlog \<Spieler>        | Erstellt einen Chatlog mit Spielerbezug                                                                                                  |
+| **Alternative Befehle**    | **Funktion**                                                                                                                             |
 | /chatlog all               | Erfasse die letzten 75 Nachrichten aus dem globalen Chat als Chat-Log (50 auf der 1.8)                                                   |
 | /chatlog all \<Spieler>    | Erfasse die letzten 75 Nachrichten aus dem globalen Chat als Chat-Log und markiert den genannten Spieler (50 auf der 1.8)                |
 | /chatlog msg \<Spieler>    | Erfasse die letzten 20 privaten Nachrichten über /msg zwischen dir und dem genannten Spieler                                             |
