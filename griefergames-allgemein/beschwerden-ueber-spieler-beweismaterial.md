@@ -59,6 +59,8 @@ Folgende Befehle stehen euch hier zur Verfügung:
 Chat-Logs, welche ihr von Direktnachrichten (/msg) erstellt, lassen sich **nicht** auf der Chat-Log-Seite aufrufen. In diesen Fällen müsst ihr euch den Link zum jeweiligen Chat-Log separat abspeichern.
 {% endhint %}
 
+Informationen zu Chatlogs sind auch [hier ](../funktionen/grundbefehle/chat-log.md)zu finden.
+
 ## **Videoaufnahmen?**
 
 Richtig! Manche Verstöße gegen unser Regelwerk lassen sich nur nachvollziehen, wenn ihr uns eine Videoaufnahme zukommen lasst. Es empfiehlt sich, die Aufnahmen auf YouTube als "Nicht gelistet" hochzuladen und uns mindestens bis zum Abschluss der Bearbeitung zur Verfügung zu stellen. Es gibt viele verschiedene Möglichkeiten, wie ihr Videoaufnahmen erstellen könnt.
