@@ -29,6 +29,7 @@
 * [🅱️ CustomBlocks](funktionen/customblocks.md)
 * [❤️ Features](funktionen/features/README.md)
   * [Adventure-System](funktionen/features/adventure-system.md)
+  * [Auktionshaus](funktionen/features/auktionshaus.md)
   * [Case-Opening](funktionen/features/case-opening.md)
   * [Die Händler](funktionen/features/die-handler.md)
   * [Erfolge / Advancements](funktionen/features/erfolge-advancements.md)
