@@ -128,6 +128,15 @@ Die folgenden Filter stehen aktuell zur Verfügung:
 * **Rüstungen:** Filtert alle Items, welche eine Rüstung sind bzw. Rüstungswerte haben
 * **Waffen:** Filtert alle Items, die Waffen sind bzw. Waffenwerte haben
 * **Werkzeuge:** Filtert alle Items, die Werkzeuge sind
+* **Köpfe:** Filtert alle Items, die Köpfe sind
+* **Prefixe:** Filtert alle Items, die Prefixe sind
+* **Perks:** Filtert alle Items, die im Bereich [Perks ](perks.md)einlösbar sind
+* **Rand-Items & Wand-Items:** Filtert alle Items, die Wand / Rand Items sind
+* **Verzaubert:** Filtert alle Items, die Verzaubert sind (Enthält auch Werkzeuge etc)
+
+{% hint style="info" %}
+Items können sich in mehreren Kategorien gleichzeitig befinden. (z.B. ist ein Prefix sowohl ein Prefix, als auch Verzaubert oder befindet sich je nach Item in weiteren Kategorien)
+{% endhint %}
 
 {% hint style="success" %}
 Weitere Vorschläge für Kategorien, können im Forum in den Vorschlägen abgegeben werden.

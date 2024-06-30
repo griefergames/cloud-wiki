@@ -38,6 +38,10 @@ Standardmäßig ist ein Plot-NPC ein Spieler, welcher den Skin des Besitzers tr�
 Die Items zum Freischalten der verschiedenen Tiere können in den Farmwelten erhalten werden, indem man diese Tiere/Monster in der Farmwelt tötet. Mit einer Wahrscheinlichkeit können diese dann ein Item für die Freischaltung droppen.
 {% endhint %}
 
+{% hint style="success" %}
+Die NPC-Arten werden beim Einlösen permanent für den Spieler freigeschaltet und nicht nicht an einen NPC gebunden.
+{% endhint %}
+
 ### NPC-Einstellungen
 
 Hier können je nach NPC-Art verschiedene Einstellungen getroffen werden. Für einen "Spieler-NPC" stehen zum Beispiel der Skin oder die Pose zur Verfügung.
@@ -52,7 +56,7 @@ Nicht alle Einstellungen der Tiere/Monster sind hinzugefügt worden. Diese werde
 
 Jeder NPC kann einen "Beruf" bzw. eine Funktion ausüben. Es gibt verschiedene Funktionen, die die NPCs übernehmen können. Die folgenden Funktionen gibt es aktuell:
 
-<table><thead><tr><th width="198">Funktion</th><th width="358">Beschreibung</th><th>Erhalten durch</th></tr></thead><tbody><tr><td>Showcase</td><td>Ermöglicht den NPC als Showcase einer Kiste o. Ä. zu verwenden, um diese nicht freigeben zu müssen.</td><td>Freigeschaltet für jeden Spieler.</td></tr><tr><td>Händler</td><td>Ermöglicht den Zugriff auf den Händler auf dem Grundstück.</td><td>Händler sind, sofern nicht gesondert aufgeführt, für alle Spieler freigegeben.</td></tr><tr><td>Amin-Shop</td><td>Ermöglicht den Zugriff auf den Amin-Shop.</td><td>--</td></tr><tr><td>Jobs</td><td>Ermöglicht den Zugriff & Verwendung des Job-NPCs.</td><td>Case-Opening</td></tr><tr><td>MiniGames</td><td>Zugriff auf das MiniGames-Inventar (später weitere Optionen).</td><td>--</td></tr><tr><td>Abenteurer</td><td>Zugriff auf die Aufgaben des Abenteurers.</td><td>--</td></tr></tbody></table>
+<table><thead><tr><th width="198">Funktion</th><th width="358">Beschreibung</th><th>Erhalten durch</th></tr></thead><tbody><tr><td>Showcase</td><td>Ermöglicht den NPC als Showcase einer Kiste o. Ä. zu verwenden, um diese nicht freigeben zu müssen.</td><td>Freigeschaltet für jeden Spieler.</td></tr><tr><td>Händler</td><td>Ermöglicht den Zugriff auf den Händler auf dem Grundstück.</td><td>Händler sind, sofern nicht gesondert aufgeführt, für alle Spieler freigegeben.</td></tr><tr><td>Amin-Shop</td><td>Ermöglicht den Zugriff auf den Amin-Shop.</td><td>--</td></tr><tr><td>Jobs</td><td>Ermöglicht den Zugriff &#x26; Verwendung des Job-NPCs.</td><td>Case-Opening</td></tr><tr><td>MiniGames</td><td>Zugriff auf das MiniGames-Inventar (später weitere Optionen).</td><td>--</td></tr><tr><td>Abenteurer</td><td>Zugriff auf die Aufgaben des Abenteurers.</td><td>--</td></tr></tbody></table>
 
 #### Einstellungen in der Funktion
 
