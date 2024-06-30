@@ -64,6 +64,10 @@ Hast du eine Auktion gewonnen _(oder ist dein Item nicht verkauft worden)_ kanns
 Du brauchst einen freien Inventarplatz für das Item, auch wenn du bereits ein gleiches Item davon im Inventar hast.
 {% endhint %}
 
+{% hint style="warning" %}
+Die auslaufenden Auktionen werden alle **15 Minuten** verarbeitet. Es befinden sich also zeitweise ausgelaufene Auktionen in der Übersicht.
+{% endhint %}
+
 ## Auktion erstellen
 
 Jeder Spieler kann eine neue Auktion erstellen. Dazu wähle im Hauptmenü ![](<../../.gitbook/assets/image (50).png>) Eigene Auktionen. Von dort kann über ![](<../../.gitbook/assets/image (51).png>) eine neue Auktion erstellt werden.
