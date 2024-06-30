@@ -18,6 +18,7 @@
 * [🌳 Die Farmwelten](funktionen/die-farmwelten.md)
 * [🏡 Grundstücke](funktionen/grundstuecke/README.md)
   * [Flags setzen](funktionen/grundstuecke/flags-setzen.md)
+  * [Grundstücksrechte](funktionen/grundstuecke/grundstucksrechte.md)
   * [Hilfe benutzen](funktionen/grundstuecke/hilfe-benutzen.md)
   * [Hologramme](funktionen/grundstuecke/hologramme.md)
   * [Inaktive Grundstücke](funktionen/grundstuecke/inaktive-grundstuecke.md)
@@ -58,7 +59,16 @@
 ## GRIEFERGAMES ALLGEMEIN
 
 * [❗ Beschwerden über Spieler / Beweismaterial](griefergames-allgemein/beschwerden-ueber-spieler-beweismaterial.md)
+* [📊 Das Vote-System](griefergames-allgemein/das-vote-system.md)
 * [🎬 Für Content Creator](https://wiki.griefergames.net/erweiterte-features/fuer-content-creator)
+
+## Häufig gestellte Fragen
+
+* [Informationen zu GrieferGames](haufig-gestellte-fragen/informationen-zu-griefergames/README.md)
+  * [Zuständigkeiten](https://wiki.griefergames.net/faq/griefergames/zustandigkeiten)
+  * [Ehemalige Teammitglieder & Helfer](https://wiki.griefergames.net/faq/griefergames/ehemalige-teammitglieder-and-helfer)
+  * [Teammitglied werden](https://wiki.griefergames.net/faq/griefergames/teammitglied-werden)
+  * [Kontakt und Verlinkungen](https://wiki.griefergames.net/faq/griefergames/kontakt-and-verlinkungen)
 
 ## Hilfreiche Links
 
