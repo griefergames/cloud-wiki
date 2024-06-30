@@ -16,8 +16,12 @@ Um seinen Rang-Prefix zurückzuerhalten, kann der Prefix mit dem Klick auf <img 
 
 Mit den Buttons <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> und <img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="line"> kann zwischen den verschiedenen Prefix-Seiten gewechselt werden. Die folgenden Prefix-Seiten und -Arten sind aktuell verfügbar:
 
+* **Dreifarbige-Prefixe**\
+  Erzeugen einen Verlauf zwischen drei verschiedenen Farben.
 * **Verlaufs-Prefixe**\
   Erzeugen einen Verlauf zwischen zwei verschiedenen Farben.
+* **Zweifarbige-Prefixe**\
+  Färben Rang & Name in zwei verschiedenen Farben
 * **Einzel-Farben-Prefixe**\
   Ändern die Farbe des Namens in eine einzelne Farbe.
 * **Rang-Prefixe**\
@@ -48,3 +52,14 @@ Um einen Prefix invertieren zu können, muss der Prefix im Besitz des Spielers s
 {% hint style="warning" %}
 Es können nicht alle Prefixe mit dem Invertierer invertiert werden. In der Regel stehen die Farbverläufe zur Verfügung, jedoch nicht die speziellen Prefixe wie Sommer-, Herbst- oder Event-Farbverläufe. Prüfe vorher, ob der gewünschte Prefix ein Invertierungsmenü öffnet.
 {% endhint %}
+
+## Prefix-Animationen
+
+Prefix-Animationen ändern die Ansicht deinen Prefixes in der Tabliste. Die Animation kann dabei unterschiedlich sein, ob ein Farbwechsel oder Änderungen der Zeichen etc.
+
+Folgende Animationen stehen aktuell zur Verfügung:
+
+* **Verlauf-Animation**\
+  Lässt einen Verlaufsprefix hin und her laufen
+* **Pulsierender Verlauf-Animation**\
+  Lässt einen Verlaufsprefix zwischen den Farben pulsieren
