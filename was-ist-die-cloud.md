@@ -6,7 +6,7 @@ description: Informationen über den Aufbau und Hintergrund der Cloud
 
 Die **Cloud** ist das Netzwerk von GrieferGames, welches immer auf der neusten Minecraft-Version läuft. Das Netzwerk ist getrennt vom 1.8 Netzwerk, hat somit eine eigene Wirtschaft und ist ein in sich geschlossenes System. Es gibt jedoch Verknüpfungspunkte der beiden Netzwerke, wie beispielsweise:
 
-* gemeinsame Cooldowns auf Befehle (z. B. /freekiste)
+* gemeinsame Abklingzeiten auf Befehle (z. B. /freekiste)
 * gemeinsame Events mit Belohnungen auf beiden Netzwerken
 
 ## Warum heißt das Netzwerk "Cloud"?
