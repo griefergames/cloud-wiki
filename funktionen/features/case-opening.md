@@ -30,7 +30,7 @@ Die Köpfe-Kiste kann ab dem **Griefer-Rang** mit dem Befehl `/freekiste` erhalt
 
 ### Die MiniGame-Kiste
 
-Die MiniGame-Kiste kann nicht gekauft werden, sondern nur durch das Gewinnen einer öffentlichen Lobby in den MiniGames gewonnen werden. Dabei hat jeder Spieler einen Cooldown und die Kiste wird nicht bei jedem Sieg vergeben. Prüfe also nach einem Sieg einer öffentlichen MiniGame-Lobby, ob du eine Kiste erhalten hast.
+Die MiniGame-Kiste kann nicht gekauft werden, sondern nur durch das Gewinnen einer öffentlichen Lobby in den MiniGames gewonnen werden. Dabei hat jeder Spieler eine Abklingzeit und die Kiste wird nicht bei jedem Sieg vergeben. Prüfe also nach einem Sieg einer öffentlichen MiniGame-Lobby, ob du eine Kiste erhalten hast.
 
 ### Die Platin-Kiste
 
