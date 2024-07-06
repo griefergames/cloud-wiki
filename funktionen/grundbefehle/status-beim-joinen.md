@@ -10,7 +10,7 @@ Dieser Befehl steht dir ab dem **Supreme-Rang** zur Verfügung.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Status-Beispiel</p></figcaption></figure>
 
-Der Status hat einen Cooldown von **5 Stunden**. Das bedeutet, dass der Status erst nach 5 Stunden erneut gesendet wird, nachdem dieser gesendet wurde.
+Der Status hat eine Abklingzeit von **5 Stunden**. Das bedeutet, dass der Status erst nach 5 Stunden erneut gesendet wird, nachdem dieser gesendet wurde.
 
 ## Informationen zum aktuellen Status
 
@@ -18,7 +18,7 @@ Mit dem Befehl `/status` werden die Informationen zum eigenen Status angezeigt.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Dort ist zu sehen, ob der Status aktuell aktiviert ist, wie der aktuelle Status aussieht und wann der Cooldown für den Status abläuft.
+Dort ist zu sehen, ob der Status aktuell aktiviert ist, wie der aktuelle Status aussieht und wann die Abklingzeit für den Status abläuft.
 
 ### Neuen Status setzen
 
