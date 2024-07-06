@@ -16,16 +16,16 @@ Um seinen Rang-Prefix zurückzuerhalten, kann der Prefix mit dem Klick auf <img 
 
 Mit den Buttons <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> und <img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="line"> kann zwischen den verschiedenen Prefix-Seiten gewechselt werden. Die folgenden Prefix-Seiten und -Arten sind aktuell verfügbar:
 
-* **Dreifarbige-Prefixe**\
+* **Dreifarbige Prefixe**\
   Erzeugen einen Verlauf zwischen drei verschiedenen Farben.
 * **Verlaufs-Prefixe**\
   Erzeugen einen Verlauf zwischen zwei verschiedenen Farben.
-* **Zweifarbige-Prefixe**\
-  Färben Rang & Name in zwei verschiedenen Farben
-* **Einzel-Farben-Prefixe**\
+* **Zweifarbige Prefixe**\
+  Färben Rang und Name in zwei verschiedenen Farben.
+* **Einzelfarben-Prefixe**\
   Ändern die Farbe des Namens in eine einzelne Farbe.
 * **Rang-Prefixe**\
-  Rang-Farben der vorherigen Ränge (Beispiel: Für Ultra -> Premium, Für Legende -> Ultra & Premium)
+  Rang-Farben der vorherigen Ränge (Beispiel: für Ultra -> Premium, für Legende -> Ultra & Premium)
 
 ## Prefixe erhalten
 
@@ -55,11 +55,11 @@ Es können nicht alle Prefixe mit dem Invertierer invertiert werden. In der Rege
 
 ## Prefix-Animationen
 
-Prefix-Animationen ändern die Ansicht deinen Prefixes in der Tabliste. Die Animation kann dabei unterschiedlich sein, ob ein Farbwechsel oder Änderungen der Zeichen etc.
+Prefix-Animationen ändern die Ansicht deines Prefixes in der Tabliste. Die Animation kann dabei unterschiedlich sein (Farbwechsel, Änderungen der Zeichen etc.).
 
 Folgende Animationen stehen aktuell zur Verfügung:
 
-* **Verlauf-Animation**\
-  Lässt einen Verlaufsprefix hin und her laufen
-* **Pulsierender Verlauf-Animation**\
-  Lässt einen Verlaufsprefix zwischen den Farben pulsieren
+* **Verlaufsanimation**\
+  Lässt einen Verlaufs-Prefix hin und her laufen.
+* **Pulsierende Verlaufsanimation**\
+  Lässt einen Verlaufs-Prefix zwischen den Farben pulsieren.
