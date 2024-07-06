@@ -26,6 +26,6 @@ Wenn du erfolgreich für den Server abgestimmt hast, kannst du dir In-Game eine 
 
 Du musst deine Belohnung nicht sofort einlösen. Wir sammeln diese auch für dich. Votest du an 5 Tagen und gibst dann `/geschenk` ein, erhältst du die Belohnung für alle 5 Tage auf einmal.
 
-Pro täglicher Abstimmung erhält dein Account eine [Vote-Kiste](https://about/erweiterte-features/das-case-opening#die-vote-kiste).
+Pro täglicher Abstimmung erhält dein Account eine [Vote-Kiste](../funktionen/features/case-opening#die-vote-kiste).
 
 Zusätzlich zu deiner täglichen Vote-Kiste kannst du in den [Erfolgen](../funktionen/features/erfolge-advancements.md) weitere Belohnungen für kontinuierliches Voten erhalten.
