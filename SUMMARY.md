@@ -55,6 +55,7 @@
   * [Escape](minigames/karten-erstellen/escape.md)
   * [Schneeballschlacht](minigames/karten-erstellen/schneeballschlacht.md)
   * [TNT-Run](minigames/karten-erstellen/tnt-run.md)
+  * [Murder Mystery](minigames/karten-erstellen/tnt-run-1.md)
 
 ## GRIEFERGAMES ALLGEMEIN
 
