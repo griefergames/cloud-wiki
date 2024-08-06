@@ -5,7 +5,7 @@
 Auf dem Cloud-Netzwerk bieten wir ein **Server-Ressourcenpaket** an, mit dem wir dem Spiel, vor allem in Menüs, eine schönere Optik verpassen. Wir wollen damit die optische Qualität der vielen Menüs und UIs verbessern und ein rundes Konzept der neuen interaktiven Funktionen bieten.
 
 {% hint style="info" %}
-<mark style="color:green;">**Das Ressourcenpaket ist freiwillig.**</mark> Es kann ohne Einschränkungen auch ohne Paket gespielt werden. Wir empfehlen für ein noch schöneres Spielerlebnis jedoch, das Paket zuzulassen und zu aktivieren.
+<mark style="color:green;">**Das Ressourcenpaket ist aktuell freiwillig.**</mark> Es kann ohne Einschränkungen auch ohne Paket gespielt werden. Wir empfehlen für ein noch schöneres Spielerlebnis jedoch, das Paket zuzulassen und zu aktivieren.
 {% endhint %}
 
 ## Einstellungen im Minecraft-Client
@@ -34,6 +34,7 @@ Wir wollen möglichst wenig in eure eigenen Texturen eingreifen und beschränken
 * Einbringung kleiner grafischer Elemente (z. B. das Scoreboard-Logo)
 * Einzelne Items aus [CustomBlocks](customblocks.md) (z. B. Portalgun für das Minigame "Lasertag")
 * Einzelne Änderungen von Spezial-Item-Optiken zur Hervorhebung
+* Custom-Rüstungen / Cosmetics
 
 Wir wollen es jederzeit ermöglichen, dass weiterhin eigene Ressourcenpakete verwendet werden können, um die Optik der Blöcke oder Items zu verändern. Wir beschränken uns dort auf die spezifischen Server-Ansichten & -Items.
 
