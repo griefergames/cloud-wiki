@@ -35,6 +35,7 @@
   * [Die Händler](funktionen/features/die-handler.md)
   * [Erfolge / Advancements](funktionen/features/erfolge-advancements.md)
   * [Job-System](funktionen/features/job-system.md)
+  * [Karten](funktionen/features/karten.md)
   * [Manfred](funktionen/features/manfred.md)
   * [Mentorenprogramm](funktionen/features/mentorenprogramm.md)
   * [Perks](funktionen/features/perks.md)
