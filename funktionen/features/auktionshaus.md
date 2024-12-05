@@ -12,11 +12,7 @@ Das Grundprinzip ist einfach: **Ware einstellen, warten, bieten lassen, kassiere
 
 ## Auktionsübersicht
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/image (60).png" alt="" width="174"><figcaption><p>Übersicht</p></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (60).png" alt="" width="174"><figcaption><p>Übersicht</p></figcaption></figure></div>
 
 Ihr bekommt standardmäßig alle Auktionen angezeigt, aufsteigend nach der Restzeit der Auktion. Ihr erhaltet alle wichtigen Informationen zu einer Auktion direkt auf dem Item.
 
@@ -72,8 +68,8 @@ Die auslaufenden Auktionen werden alle **15 Minuten** verarbeitet. Es befinden s
 
 Jeder Spieler kann eine neue Auktion erstellen. Dazu wähle im Hauptmenü ![](<../../.gitbook/assets/image (50).png>) Eigene Auktionen. Von dort kann über ![](<../../.gitbook/assets/image (51).png>) eine neue Auktion erstellt werden.
 
-Wähle ein Item aus deinem Inventar, welches du im Auktionshaus anbieten möchtest. \
-_Dieses erscheint dann oben als angezeigtes Item._
+Wähle ein Item aus deinem Inventar, welches du im Auktionshaus anbieten möchtest.\
+&#xNAN;_&#x44;ieses erscheint dann oben als angezeigtes Item._
 
 ### Startpreis festlegen
 
@@ -134,7 +130,7 @@ Die folgenden Filter stehen aktuell zur Verfügung:
 * **Werkzeuge:** Filtert alle Items, die Werkzeuge sind.
 * **Köpfe:** Filtert alle Items, die Köpfe sind.
 * **Prefixe:** Filtert alle Items, die Prefixe sind.
-* **Perks:** Filtert alle Items, die im Bereich [Perks ](perks.md) einlösbar sind.
+* **Perks:** Filtert alle Items, die im Bereich [Perks ](perks.md)einlösbar sind.
 * **Rand-Items & Wand-Items:** Filtert alle Items, die Wand-/Rand-Items sind.
 * **Verzaubert:** Filtert alle Items, die verzaubert sind (enthält auch Werkzeuge etc.).
 

@@ -11,7 +11,7 @@ Mit dem Befehl `/prefix` kann das Prefix-Menü geöffnet werden, welches die mö
 Jeden Prefix, den du besitzt, wird verzaubert dargestellt. Mit einem Klick auf den Prefix kannst du ihn aktivieren und wenige Sekunden später ändert sich der Prefix in der Tabliste.
 
 {% hint style="info" %}
-Um seinen Rang-Prefix zurückzuerhalten, kann der Prefix mit dem Klick auf <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> **Prefix zurücksetzen** zurückgesetzt werden.
+Um seinen Rang-Prefix zurückzuerhalten, kann der Prefix mit dem Klick auf <img src="../../.gitbook/assets/image (3) (2).png" alt="" data-size="line"> **Prefix zurücksetzen** zurückgesetzt werden.
 {% endhint %}
 
 Mit den Buttons <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> und <img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="line"> kann zwischen den verschiedenen Prefix-Seiten gewechselt werden. Die folgenden Prefix-Seiten und -Arten sind aktuell verfügbar:

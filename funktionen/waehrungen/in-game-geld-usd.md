@@ -15,7 +15,7 @@ Zum Start erhältst du nach Abschluss des [Mentorenprogramms](../features/mentor
 {% hint style="info" %}
 `<>` = Verpflichtendes Argument\
 `[]` = Optionales Argument\
-_**Info:** Klammern müssen bei der Eingabe weggelassen werden!_
+&#xNAN;_**Info:** Klammern müssen bei der Eingabe weggelassen werden!_
 {% endhint %}
 
 ### Konto / Bargeld

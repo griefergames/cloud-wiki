@@ -2,7 +2,7 @@
 description: Eigene MiniGame-Maps auf GrieferGames
 ---
 
-# 🗺 Karten erstellen
+# 🗺️ Karten erstellen
 
 Jeder Spieler hat die Möglichkeit, seine eigenen MiniGame-Maps zu erstellen, zu spielen und sogar für alle Spieler einzureichen.
 
@@ -44,7 +44,7 @@ Mit Spendern werden die Spawn-Punkte für die Spieler markiert. Je nach MiniGame
 Wenn mehrere Spawn-Punkte gesetzt werden können, wird meist anhand der Spawn-Anzahl die **mögliche Spielerzahl** der Map berechnet.
 {% endhint %}
 
-### <img src="../../.gitbook/assets/image (3) (2).png" alt="" data-size="line"> Werfer (Dispenser)
+### <img src="../../.gitbook/assets/image (3) (2) (2).png" alt="" data-size="line"> Werfer (Dispenser)
 
 Für die meisten Spiele kann ein Vorab-Spawnpunkt gesetzt werden. An diesem Punkt spawnen die Spieler beim Betreten auf den Server und warten dort auf den Start des Spiels. **Die Ausrichtung der Werfer gibt dabei die Blickrichtung der Spieler beim Spawn an.**
 
@@ -114,4 +114,3 @@ Möchtest du eine Map als Community-Map einreichen, damit die Map von allen gesp
 3. Annehmen der Map als Community-Map durch das MiniGame-Team (sollte die Map nicht passend sein, kann sie an dieser Stelle auch abgelehnt werden)
 
 Sobald die Map als Community-Map angenommen ist, kann diese nicht mehr aktualisiert werden. Der Name des Erbauers bleibt jedoch weiterhin in der Map sichtbar.
-
