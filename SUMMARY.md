@@ -78,3 +78,4 @@
 * [GrieferGames Forum](https://forum.griefergames.de)
 * [GrieferGames Ticket-System](https://ticket.griefergames.de)
 * [GrieferGames Auth](https://auth.griefergames.de)
+* [Item-Liste](https://items.griefergames.net/)
