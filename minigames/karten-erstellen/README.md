@@ -44,9 +44,17 @@ Mit Spendern werden die Spawn-Punkte für die Spieler markiert. Je nach MiniGame
 Wenn mehrere Spawn-Punkte gesetzt werden können, wird meist anhand der Spawn-Anzahl die **mögliche Spielerzahl** der Map berechnet.
 {% endhint %}
 
+{% hint style="info" %}
+Wird der Spender in **ignore\_location** umbenannt, wird dieser nicht als Spawn-Punkt eingelesen, sondern als Spender-Block im Spiel verbleiben.
+{% endhint %}
+
 ### <img src="../../.gitbook/assets/image (3) (2) (2).png" alt="" data-size="line"> Werfer (Dispenser)
 
 Für die meisten Spiele kann ein Vorab-Spawnpunkt gesetzt werden. An diesem Punkt spawnen die Spieler beim Betreten auf den Server und warten dort auf den Start des Spiels. **Die Ausrichtung der Werfer gibt dabei die Blickrichtung der Spieler beim Spawn an.**
+
+{% hint style="info" %}
+Wird der Werfer in **ignore\_location** umbenannt, wird dieser nicht als Spawn-Punkt eingelesen, sondern als Spender-Block im Spiel verbleiben.
+{% endhint %}
 
 ### <img src="../../.gitbook/assets/image (9) (2).png" alt="" data-size="line"> Sicherheitskamera
 
