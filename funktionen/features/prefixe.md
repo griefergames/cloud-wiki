@@ -33,7 +33,7 @@ Die Prefixe gibt es über verschiedene Systeme auf der Cloud. Die Prefixe könne
 
 ## Prefix-Invertierer für Verlaufs-Prefixe
 
-Im Case-Opening gibt es den <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line"> **Prefix-Invertierer**. Dieser bietet die Möglichkeit, einen vorhandenen Farbverlauf als umgekehrten bzw. invertierten Verlauf freizuschalten.
+Im Case-Opening gibt es den <img src="../../.gitbook/assets/image (4) (3).png" alt="" data-size="line"> **Prefix-Invertierer**. Dieser bietet die Möglichkeit, einen vorhandenen Farbverlauf als umgekehrten bzw. invertierten Verlauf freizuschalten.
 
 <figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Item-Beschreibung Prefix-Invertierer</p></figcaption></figure>
 
