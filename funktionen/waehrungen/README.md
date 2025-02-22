@@ -34,7 +34,7 @@ Es gibt aktuell 3 Aufgabenarten:
 
 Die Kristalle können lediglich im [Shop](https://shop.griefergames.net) von GrieferGames gekauft werden. Mit Kristallen ist es möglich, sich im Menü vom [Case-Opening](../features/case-opening.md) Kisten zu kaufen, welche dann geöffnet werden können.
 
-Zusätzlich kannst du dir beim Abschluss von Adventure-Aufgaben kleine Kristall-Beträge verdienen.
+Zusätzlich kannst du dir durch einige Features wie [Adventure-Aufgaben](../features/adventure-system.md) oder [Block des Tages](../features/block-des-tages.md) kleine Kristall-Beträge verdienen.
 
 {% hint style="warning" %}
 Sollten Kristall-Käufe auch nach einer Wartezeit von etwa 48 Stunden nicht im Spiel erscheinen, kannst du den GrieferGames-Webshop-Support per E-Mail an [shop@griefergames.net](mailto:shop@griefergames.net) kontaktieren.\

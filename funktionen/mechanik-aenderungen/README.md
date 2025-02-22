@@ -65,8 +65,17 @@ Das Farmen von Pigman über die Netherportale ist auf der Cloud grundsätzlich m
 
 Weitere Informationen zur Pigman-Farm gibt es auf der Unterseite [Pigman-Farmen](pigman-farmen.md).
 
+## Mobs auf Grundstücken
+
+Mobs auf Grundstücken haben reduzierte AI-Optionen. Zusätzlich kann mit Mobs nicht interagiert werden (Melken, Anleinen, Füttern etc.)
+
+## Deaktivierte Blöcke
+
+* Kartentische sind aufgrund der modifizierten [Karten ](../features/karten.md)deaktiviert
+
 ## Änderungen in Farmwelten
 
 * Die Netherdecke kann nicht betreten werden.
 * Der Enderdrache ist nicht vorhanden.
 * Die Dorfbewohnerbevölkerung ist limitiert.
+* Es befindet sich keine Elytra in den Endcitys

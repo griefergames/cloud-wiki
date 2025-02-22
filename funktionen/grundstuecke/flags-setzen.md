@@ -9,13 +9,13 @@ Mehr dazu unter [Hilfe benutzen](hilfe-benutzen.md).
 
 Verzauberte Bücher stehen für Flags, welche gesetzt wurden. In der Beschreibung einer Flag wird die Funktion dieser Flag erklärt und der Status der Flag angezeigt. Mit einem Klick auf das Buch öffnet sich das Verwaltungsmenü für die Flag, welches je nach Art der Flag sich unterscheidet.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Tooltip einer Flag</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Tooltip einer Flag</p></figcaption></figure>
 
 ### An/Aus (Boolean-Flag)
 
 Eine Boolean-Flag kann entweder true oder false sein. true = an, false = aus.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Boolean-Flag-Verwaltung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Boolean-Flag-Verwaltung</p></figcaption></figure>
 
 Bei der Boolean-Flag stehen drei Buttons zur Auswahl:
 
@@ -27,7 +27,7 @@ Bei der Boolean-Flag stehen drei Buttons zur Auswahl:
 
 Eine List-Flag enthält eine Liste an Materialien oder Blöcken, wie z.B. die use-Flag.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>List-Flag-Verwaltung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>List-Flag-Verwaltung</p></figcaption></figure>
 
 Klicke in deinem Inventar einen Block an, um diesen hinzuzufügen. Klicke im oberen Menü einen Block an, um diesen zu entfernen. Mit einem Klick auf die Barriere, wird die Flag entfernt.
 
