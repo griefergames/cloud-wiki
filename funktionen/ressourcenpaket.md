@@ -35,6 +35,7 @@ Wir wollen möglichst wenig in eure eigenen Texturen eingreifen und beschränken
 * Einzelne Items aus [CustomBlocks](customblocks.md) (z. B. Portalgun für das Minigame "Lasertag")
 * Einzelne Änderungen von Spezial-Item-Optiken zur Hervorhebung
 * Custom-Rüstungen / Cosmetics
+* Kosmetische Blöcke / Deko-Blöcke
 
 Wir wollen es jederzeit ermöglichen, dass weiterhin eigene Ressourcenpakete verwendet werden können, um die Optik der Blöcke oder Items zu verändern. Wir beschränken uns dort auf die spezifischen Server-Ansichten & -Items.
 
