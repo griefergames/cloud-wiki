@@ -14,7 +14,7 @@ Jeden Prefix, den du besitzt, wird verzaubert dargestellt. Mit einem Klick auf d
 Um seinen Rang-Prefix zurückzuerhalten, kann der Prefix mit dem Klick auf <img src="../../.gitbook/assets/image (3) (2).png" alt="" data-size="line"> **Prefix zurücksetzen** zurückgesetzt werden.
 {% endhint %}
 
-Mit den Buttons <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> und <img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="line"> kann zwischen den verschiedenen Prefix-Seiten gewechselt werden. Die folgenden Prefix-Seiten und -Arten sind aktuell verfügbar:
+Mit den Buttons <img src="../../.gitbook/assets/image (5) (3).png" alt="" data-size="line"> und <img src="../../.gitbook/assets/image (1) (2).png" alt="" data-size="line"> kann zwischen den verschiedenen Prefix-Seiten gewechselt werden. Die folgenden Prefix-Seiten und -Arten sind aktuell verfügbar:
 
 * **Dreifarbige Prefixe**\
   Erzeugen einen Verlauf zwischen drei verschiedenen Farben.
@@ -39,11 +39,11 @@ Im Case-Opening gibt es den <img src="../../.gitbook/assets/image (4) (3).png" a
 
 Um einen Prefix-Invertierer zu verwenden, muss im `/prefix` Menü der gewünschte Farbverlauf angeklickt werden. Dann öffnet sich immer das Invertierer-Menü, mit dem du zwischen den beiden Verlaufsrichtungen wählen kannst.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Invertierer-Menü (Blauer Farbverlauf)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>Invertierer-Menü (Blauer Farbverlauf)</p></figcaption></figure>
 
 Mit einem Klick auf den rechten Slot kann der invertierte Prefix verwendet werden oder mit entsprechendem Prefix-Invertierer im Inventar freigeschaltet werden, wenn dieser noch nicht verfügbar ist.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Anzeige invertierter Verlauf (freigeschaltet)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>Anzeige invertierter Verlauf (freigeschaltet)</p></figcaption></figure>
 
 {% hint style="danger" %}
 Um einen Prefix invertieren zu können, muss der Prefix im Besitz des Spielers sein!

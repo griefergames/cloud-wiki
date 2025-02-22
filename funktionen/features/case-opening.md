@@ -2,15 +2,7 @@
 
 Im Case-Opening können zufällige Gewinne gezogen werden. Es gibt verschiedene Kisten, welche verschiedene Gewinne beinhalten und über unterschiedliche Wege erhalten werden können.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (32) (2).png" alt="" width="375"><figcaption><p>Case-Opening am Spawn</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/image (5) (2) (1).png" alt="" width="348"><figcaption><p>Kisten-Übersicht</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (32) (2).png" alt="" width="375"><figcaption><p>Case-Opening am Spawn</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (5) (2) (1).png" alt="" width="348"><figcaption><p>Kisten-Übersicht</p></figcaption></figure></div>
 
 ### Der Case-Opening Block
 
@@ -40,10 +32,6 @@ Hier findest du neue Feature-Gegenstände, Funktions-Items und vieles mehr.
 
 ### Die Season-Kiste
 
-{% hint style="info" %}
-Aktuell ist dieses die **Sommer-Kiste**.
-{% endhint %}
-
 Die Season-Kiste wird zum Beispiel bei Jahreszeitenwechsel oder besonderen Zeiten im Jahr komplett getauscht. Während der Season wird die Kiste ebenfalls aktualisiert, kann aber nach Beginn einer neuen Season nicht mehr gekauft werden.
 
 Hier befinden sich in der Regel die wertvollsten Gewinne in der Kiste, wie zum Beispiel spezielle Sammler-Items.
@@ -56,7 +44,7 @@ Das Case-Opening-Inventar listet unter dem Titel die einzelnen Kisten-Typen auf:
 
 Durch das Hovern über eine der Kisten kannst du ablesen, wie viele Kisten du von dieser Sorte besitzt:
 
-![](<../../.gitbook/assets/image (6) (3).png>)
+![](<../../.gitbook/assets/image (6) (3) (1).png>)
 
 Durch einen **Rechtsklick** auf einen Kistentyp öffnest du die entsprechende Kiste.\
 Durch einen **Linksklick** auf einen Kistentyp kannst du dir den Kisteninhalt ansehen.
@@ -83,7 +71,7 @@ Bei einem **gleichzeitigem** Kauf von einer größeren Anzahl an Kisten gibt es 
 
 Um Kisten zu kaufen musst du das Menü `Kisten Kaufen` durch einen Klick auf die Kiste mit einem Dollar-Zeichen rechts neben dem Kristall öffnen:
 
-<img src="../../.gitbook/assets/image (1) (2) (1).png" alt="" data-size="original">![](<../../.gitbook/assets/image (8) (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (2) (1).png>) ![](<../../.gitbook/assets/image (8) (2) (1) (1).png>)
 
 Hier kannst du auswählen, welche Kiste du kaufen möchtest. Am Ende muss der Kauf noch einmal bestätigt werden.
 

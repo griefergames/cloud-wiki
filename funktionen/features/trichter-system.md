@@ -48,7 +48,7 @@ Diese Option steht nur der Administration zur Verfügung oder bei aktivierter `h
 
 ### Sammelradius
 
-Über die Einstellungsoptionen <img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> kann der Sammelradius eingestellt werden. Der Sammelradius beeinflusst den Umkreis, aus dem ein herumliegendes Item vom Trichter eingesammelt wird.
+Über die Einstellungsoptionen <img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line"> kann der Sammelradius eingestellt werden. Der Sammelradius beeinflusst den Umkreis, aus dem ein herumliegendes Item vom Trichter eingesammelt wird.
 
 Der maximale Sammelradius beträgt <mark style="color:orange;">**15 Blöcke**</mark> und ist zusätzlich durch die <mark style="color:orange;">**Plot-Grenze begrenzt**</mark>.
 
@@ -151,7 +151,7 @@ Mit einem Klick auf den <img src="../../.gitbook/assets/image (24) (1) (2).png" 
 Die folgenden Optionen der Signierung können eingestellt werden:
 
 * <img src="../../.gitbook/assets/image (8) (2) (2).png" alt="" data-size="line"> **Signierung von:** Filtert, welcher Spieler die Signierung erstellt haben muss
-* <img src="../../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> **Signierung am:** Filtert, an welchem Datum die Signierung erstellt wurde
+* <img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" data-size="line"> **Signierung am:** Filtert, an welchem Datum die Signierung erstellt wurde
 * <img src="../../.gitbook/assets/image (22).png" alt="" data-size="line"> **Signierung:** Filtert den Text der Signierung
 
 {% hint style="info" %}

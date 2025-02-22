@@ -8,6 +8,10 @@ description: Eigene NPCs auf deinem Grundstück
 
 Die Plot-NPCs können auf dem eigenen Grundstück platziert werden und werden dann an dieses Grundstück gebunden. Ein NPC kann verschiedene "Berufe" übernehmen, welche in den Einstellungen ausgewählt werden können. Ebenso kann der Plot-NPC verschiedene Optiken haben, welche ebenfalls gewählt werden können.
 
+{% hint style="danger" %}
+Achtung: Plot-NPCs werden beim Zurücksetzen oder Löschen des Grundstücks ebenfalls gelöscht.
+{% endhint %}
+
 ## Zugriff auf den NPC
 
 Bei einigen "Berufen" möchte man den Zugriff ja auch für Spieler ermöglichen. Der Plot-NPC ist ohne weitere Einstellung von allen Spielern nutzbar, welche Rechte auf dem Grundstück haben. Möchtest du den NPC auch für andere Spieler freigeben, so muss die Flag **npc-interaction** auf **true** gesetzt werden. Das machst du mit dem folgenden Befehl `/p flag set npc-interaction true`

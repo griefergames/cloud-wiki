@@ -12,7 +12,7 @@ Auf dem Cloud-Netzwerk gibt es verschiedene Währungen, welche verschiedene Verw
 
 Hauptsächlich kannst du dir Dollar auf dem Server verdienen, indem du mit anderen Spielern handelst, einen Shop eröffnest und dort an andere Spieler verkaufst oder auch indem du Aufträge des [Job-Systems](../features/job-system.md) für andere Spieler erledigst.
 
-Zum Start erhältst du nach Abschluss des [Mentorenprogramms](../features/mentorenprogramm.md) ein wenig Startgeld, indem du [Erfolge / Advancements](../features/erfolge-advancements.md) abschließt.
+Zum Start erhältst du ein wenig Startgeld, indem du [Erfolge / Advancements](../features/erfolge-advancements.md) abschließt.&#x20;
 
 [**Weitere Informationen zur Nutzung**](in-game-geld-usd.md)
 
@@ -30,7 +30,7 @@ Es gibt aktuell 3 Aufgabenarten:
 
 ## Kristalle
 
-[<mark style="color:blue;">**Shop-Währung**</mark>](#user-content-fn-3)[^3] - **Währung zum Kaufen von Kisten im [Case-Opening](../features/case-opening.md).**
+[<mark style="color:blue;">**Shop-Währung**</mark>](#user-content-fn-3)[^3] - **Währung zum Kaufen von Kisten im** [**Case-Opening**](../features/case-opening.md)**.**
 
 Die Kristalle können lediglich im [Shop](https://shop.griefergames.net) von GrieferGames gekauft werden. Mit Kristallen ist es möglich, sich im Menü vom [Case-Opening](../features/case-opening.md) Kisten zu kaufen, welche dann geöffnet werden können.
 
@@ -40,6 +40,16 @@ Zusätzlich kannst du dir beim Abschluss von Adventure-Aufgaben kleine Kristall-
 Sollten Kristall-Käufe auch nach einer Wartezeit von etwa 48 Stunden nicht im Spiel erscheinen, kannst du den GrieferGames-Webshop-Support per E-Mail an [shop@griefergames.net](mailto:shop@griefergames.net) kontaktieren.\
 \
 Bedenke hierbei, dass durch die Anzahl an Anfragen eine Antwortzeit von mehreren Tagen entstehen kann.
+{% endhint %}
+
+## Swap-Tokens / Tauschtokens
+
+[<mark style="color:red;">**Accountgebunden**</mark>](#user-content-fn-2)[^2] - **Eine ertauschbare spielerbezogene Währung.**
+
+Diese Tokens können zu bestimmten Events durch eine sogenante <mark style="color:purple;">**Tausch-Elfe**</mark> erhalten werden. Diese ermöglicht es Items (meist Items aus dem [CaseOpening](../features/case-opening.md) im unteren Bereich) gegen Tokens einzutauschen und damit andere Items der <mark style="color:purple;">Tausch-Elfe</mark> zu erwerben.
+
+{% hint style="info" %}
+Die <mark style="color:purple;">Tausch-Elfe</mark> ist nicht dauerhaft verfügbar. Die nicht verwendeten Tokens bleiben auch beim Verschwinden der <mark style="color:purple;">Tausch-Elfe</mark> erhalten.
 {% endhint %}
 
 [^1]: Diese Währung kann In-Game mit anderen Spielern gehandelt werden.

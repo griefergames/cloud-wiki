@@ -31,7 +31,7 @@ In dieser Ansicht, werden dir die Details, die für oder gegen einen Antrag spre
 
 Je nachdem, ob die angezeigte Information einen Antrag ermöglicht oder nicht ermöglicht, wird in der Info folgendes angezeigt:
 
-![](<../../.gitbook/assets/image (27).png>)![](<../../.gitbook/assets/image (29) (3).png>)
+![](<../../.gitbook/assets/image (27).png>) ![](<../../.gitbook/assets/image (29) (3).png>)
 
 Wenn der Antrag möglich ist, wird unten rechts ein <img src="../../.gitbook/assets/image (26).png" alt="" data-size="line"> **Schild** angezeigt. Ist der Antrag nicht möglich, wird eine <img src="../../.gitbook/assets/image (24).png" alt="" data-size="line"> **Barriere** angezeigt.
 
@@ -51,4 +51,8 @@ Danach bestätigst du die Aktion und das Grunstück wird <mark style="color:gree
 
 {% hint style="warning" %}
 Bitte beachte die Preisangabe des Checkplot-Antrags. In der Regel werden beim Übernehmen eines Grundstücks **10.000 Dollar** fällig. Dort können keine Grundstücksgutscheine verwendet werden.
+{% endhint %}
+
+{% hint style="info" %}
+Sollte es nicht möglich sein ein Grundstück über das Checkplot-System zu Beantragen, kann das Grundstück ggf. über das Ticket-System (Web oder Discord) erhalten werden.
 {% endhint %}

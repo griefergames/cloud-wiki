@@ -11,11 +11,13 @@
 ## Funktionen
 
 * [ℹ️ Grundbefehle](funktionen/grundbefehle/README.md)
+  * [Allgemeine Befehle](funktionen/grundbefehle/allgemeine-befehle.md)
   * [Chat-Log](funktionen/grundbefehle/chat-log.md)
   * [Signieren von Items](funktionen/grundbefehle/signieren-von-items.md)
   * [Status beim Joinen](funktionen/grundbefehle/status-beim-joinen.md)
 * [🚧 Ressourcenpaket](funktionen/ressourcenpaket.md)
 * [🌳 Die Farmwelten](funktionen/die-farmwelten.md)
+* [❔ Hilfe-System](funktionen/hilfe-system.md)
 * [🏡 Grundstücke](funktionen/grundstuecke/README.md)
   * [Flags setzen](funktionen/grundstuecke/flags-setzen.md)
   * [Grundstücksrechte](funktionen/grundstuecke/grundstucksrechte.md)
@@ -31,6 +33,7 @@
 * [❤️ Features](funktionen/features/README.md)
   * [Adventure-System](funktionen/features/adventure-system.md)
   * [Auktionshaus](funktionen/features/auktionshaus.md)
+  * [Block des Tages](funktionen/features/block-des-tages.md)
   * [Case-Opening](funktionen/features/case-opening.md)
   * [Die Händler](funktionen/features/die-handler.md)
   * [Erfolge / Advancements](funktionen/features/erfolge-advancements.md)
