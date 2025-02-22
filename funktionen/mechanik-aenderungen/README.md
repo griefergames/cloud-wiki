@@ -14,6 +14,18 @@ Die Trichter-Ticks und -Geschwindigkeiten sind auf GrieferGames angepasst. Mehr 
 
 Der Bergungskompass wurde an das Cloud-Netzwerk angepasst. Siehe [Bergungskompass](bergungskompass.md).
 
+## Todeskisten
+
+Beim Tod werden Items nicht gedroppt, sondern in einer Todeskiste am Todespunkt aufbewahrt.&#x20;
+
+{% hint style="info" %}
+Diese Kiste kann sowohl in der Farmwelt, als auch in der Plotwelt von allen Spielern geöffnet werden (auch wenn diese nicht auf dem Grundstück vertraut sind)
+{% endhint %}
+
+{% hint style="danger" %}
+Ist am Todespunkt kein Platz für eine Todeskiste oder stirbt der Spieler in Lava oder Feuer, dann wird keine Todeskiste generiert und die Items normal gedroppt.
+{% endhint %}
+
 ## Mobs in Fahrzeugen (Farmwelten)
 
 Alle Mobs (Tiere & Monster) in Fahrzeugen haben deaktivierte AI. Diese wird deaktiviert, sobald diese in das Fahrzeug einsteigen und wieder aktiviert, wenn sie es verlassen oder es zerstört wird.\
