@@ -52,15 +52,15 @@ Die Karte wird von euch also auf der Seite [https://imgbb.com/](https://imgbb.co
 
 Im nächsten Schritt benötigt ihr den Direktlink zur Grafik. Öffnet hierfür den "Betrachter-Link", welchen ihr auf der Seite erhaltet in einem neuen Tab/Fenster.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Führt einen Rechtsklick auf das Bild durch und wählt aus, dass das Bild in einem neuen Tab geöffnet wird.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Führt erneut einen Rechtsklick auf das Bild durch und wählt aus, dass ihr die Grafikadresse kopieren wollt.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Der zuletzt abgerufene Link enthält den Direktlink zu dem von euch hochgeladenen Bild und hat eine entsprechende Datei-Endung (`.jpg`, `.png`, `.gif`, etc.)
 

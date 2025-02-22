@@ -16,7 +16,7 @@ Der Status hat eine Abklingzeit von **5 Stunden**. Das bedeutet, dass der Status
 
 Mit dem Befehl `/status` werden die Informationen zum eigenen Status angezeigt.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dort ist zu sehen, ob der Status aktuell aktiviert ist, wie der aktuelle Status aussieht und wann die Abklingzeit für den Status abläuft.
 
