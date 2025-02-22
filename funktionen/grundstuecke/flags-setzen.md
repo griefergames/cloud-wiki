@@ -2,7 +2,8 @@
 
 Auf dem Grundstück können Einstellungen in Form von sogenanten Flags gesetzt werden. Damit kann z.B. ein Verhalten angepasst oder eine Funktion freigegeben werden.
 
-Der einfachste Weg Flags zu Verwalten ist, über das `/?` -Menü -> Grundstücke -> Flag-Verwaltung.&#x20;
+Der einfachste Weg Flags zu Verwalten ist, über das `/?` -Menü -> Grundstücke -> Flag-Verwaltung. \
+Mehr dazu unter [Hilfe benutzen](hilfe-benutzen.md).
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Flag-Übersicht</p></figcaption></figure>
 
