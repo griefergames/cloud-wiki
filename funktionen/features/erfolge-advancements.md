@@ -14,7 +14,7 @@ Die Erfolge unterteilen sich aktuell in vier verschiedene Seiten:
   Hier befinden sich spezielle Erfolge, welche sich z. B. auf Secrets beziehen oder auf besondere Dinge, die geleistet wurden. Hier gibt es beispielsweise Erfolge für Fehlermeldungen, Bauwettbewerbe oder auch die Verbindung des Accounts mit GGAuth.
 * **Minecraft**\
   In dieser Kategorie befinden sich Erfolge, die den Standarderfolgen von Minecraft nachempfunden und auf GrieferGames / Citybuild angepasst sind.\
-  &#xNAN;_**Diese Kategorie steht erst nach Abschluss des**_ [_**Mentorenprogramms**_](mentoren-programm.md) _**zur Verfügung.**_
+  **Die vollständige Kategorie wird erst mit der Zeit freigeschaltet. Dieses passiert ganz von alleine, wenn du auf GrieferGames spielst.**
 
 _Die ersten "Erfolge" bzw. Knotenpunkte, mit Namen der Kategorie, können nicht abgeschlossen werden._
 
