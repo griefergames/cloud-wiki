@@ -55,6 +55,10 @@ Minecraft selbst verbietet nur den Inhalt von Shulker-Kisten in Shulker-Kisten. 
 Es gibt Möglichkeiten, Bücher in eine Shulker-Kiste zu bekommen. Du bekommst sie dann jedoch nicht wieder aus der Shulker-Kiste heraus. Das Team wird dort nicht helfen.
 {% endhint %}
 
+### Abbau von Shulker-Kisten
+
+Wenn eine Shulker-Kiste abgebaut wird, wird diese direkt ins Inventar gelegt und muss nicht eingesammelt werden. So wird der Verlust von Shulker-Kisten verhindert.&#x20;
+
 ## Pigman-Farmen auf Citybuild-Regionen
 
 Das Farmen von Pigman über die Netherportale ist auf der Cloud grundsätzlich möglich. Aufgrund der zu hohen Anzahl der Farmen wurde hier am 24. April 2023 eine Änderung implementiert.
