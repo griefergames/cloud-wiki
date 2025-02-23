@@ -48,7 +48,7 @@ Diese Option steht nur der Administration zur Verfügung oder bei aktivierter `h
 
 ### Sammelradius
 
-Über die Einstellungsoptionen <img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" data-size="line"> kann der Sammelradius eingestellt werden. Der Sammelradius beeinflusst den Umkreis, aus dem ein herumliegendes Item vom Trichter eingesammelt wird.
+Über die Einstellungsoptionen <img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> kann der Sammelradius eingestellt werden. Der Sammelradius beeinflusst den Umkreis, aus dem ein herumliegendes Item vom Trichter eingesammelt wird.
 
 Der maximale Sammelradius beträgt <mark style="color:orange;">**15 Blöcke**</mark> und ist zusätzlich durch die <mark style="color:orange;">**Plot-Grenze begrenzt**</mark>.
 

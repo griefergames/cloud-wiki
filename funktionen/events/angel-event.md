@@ -34,13 +34,13 @@ Um bei dem Event (oder auch außerhalb des Events) die Belohnungen zu Angeln, we
 
 Mit der ICTUS aqua 3000 kann in der Farmwelt nach den Schätzen geangelt werden.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>ICTUS aqua 3000 - Angler-Shop</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>ICTUS aqua 3000 - Angler-Shop</p></figcaption></figure>
 
 ### IGNIS esca 6666 - Nether
 
 Mit der IGNIS esca 6666 kann im Nether in der Lava nach Schätzen geangelt werden.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>IGNIS esca 6666 - Lavangler-Shop</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>IGNIS esca 6666 - Lavangler-Shop</p></figcaption></figure>
 
 ## Belohnungen / Angel-Pools
 

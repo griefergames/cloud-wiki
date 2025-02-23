@@ -4,7 +4,7 @@ description: Übersicht über das MiniGame-System der GrieferGames Cloud
 
 # 🤖 Übersicht
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>MiniGames-Menü</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>MiniGames-Menü</p></figcaption></figure>
 
 Auf dem Server kannst du das MiniGames-Menü mit `/minigame` aufrufen. Im oberen Bereich befinden sich die MiniGame-Buttons, um in die öffentliche Lobby zu gelangen.
 
@@ -19,13 +19,13 @@ In der unteren Reihe befinden sich die folgenden Buttons:
 
 ## Permanente MiniGames
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Permanente MiniGames im Menü</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Permanente MiniGames im Menü</p></figcaption></figure>
 
 In der oberen Reihe befinden sich die MiniGames, die durchgehend verfügbar sind. Diese ändern sich nur selten, beispielsweise wenn ein neues MiniGame hinzu kommt oder das Interesse an einem MiniGame stark nachlässt.
 
 ## MiniGame der Woche
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Das MiniGame der Woche ist eine Rotation an verschiedenen MiniGames, welche sonntags wechseln und dann für je eine Woche verfügbar sind. Nach der Woche kommt in der Regel ein anderes MiniGame.
 
