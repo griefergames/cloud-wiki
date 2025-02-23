@@ -24,6 +24,10 @@ Wird die Belohnung nur auf einer Version vergeben und ist wählbar, kann die Ein
 
 Um eine vergebene Belohnung auf dem Citybuild abzuholen, gib auf dem Citybuild den Befehl `/eventbelohnung` ein. Sollte dein Inventarplatz nicht ausreichen, um alle Belohnungen abzuholen, schaffe Platz in deinem Inventar und gib den Befehl erneut ein.
 
+{% hint style="danger" %}
+Die Vergabe der Belohnungen erfolgt je nach Voraussetzung nach Beendigung des Events oder sonst innerhalb von 30 Minuten nach erreichen der Belohnung.
+{% endhint %}
+
 ## Beitreten eines Events
 
 Um einem Event beizutreten, laufe in eines der Netherportale am Event-Spawn, sobald du dich auf dem Event-Server befindest.
