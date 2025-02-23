@@ -2,6 +2,7 @@
 description: >-
   Individuelle Cosmetics & Emotes, modifiziertes Chat-System und weitere
   Citybuild-Features
+hidden: true
 ---
 
 # 🦝 MysteryMod Fabric
