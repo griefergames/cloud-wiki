@@ -1,6 +1,6 @@
 # Upgradebare Tools
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Upgradebare Tools verbessern sich durch die Nutzung des Tools. Die Upgrades beziehen sich dabei auf einzelne Blöcke oder Blockarten.&#x20;
 

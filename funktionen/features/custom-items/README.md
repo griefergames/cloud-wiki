@@ -10,7 +10,7 @@ Diese Tools schmelzen Blöcke beim Abbau direkt, wie es ein Ofen tun würde. Som
 
 ## Schneider / Abbau-Spielmodus
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Beispiel-Werkzeug</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Beispiel-Werkzeug</p></figcaption></figure>
 
 Schneider sind Werkzeuge mit denen sich Blöcke oder Blockgruppen direkt abbauen lassen (Insta-Break).&#x20;
 
