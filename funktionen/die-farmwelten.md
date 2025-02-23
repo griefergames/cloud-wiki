@@ -51,7 +51,6 @@ Es befindet sich hier ebenfalls ein Netherportal, um in die Overworld zurückzug
 
 * Die Netherdecke ist nicht betretbar.
 
-
 ### Das End
 
 Der End-Spawn befindet sich in der Mitte der Hauptinsel des Ends. Auch hier erhältst du den Effekt **Langsamer Fall**, jedoch musst du dort einige hundert Blöcke weit bauen, um in das sogenannte erweiterte End zu gelangen. Damit du das nicht machen musst, stehen an zwei Ecken End-Gateways zur Verfügung, welche den Spieler in das erweiterte End teleportieren.
@@ -63,3 +62,4 @@ An einer anderen Ecke befindet sich ein kleines 1-Block-Endportal, mit dem du zu
 * Die Droprate der Shulker-Schalen ist reduzierter als im Singleplayer.
 * Die AI der Shulker ist angepasst (keine Teleportation).
 * Der Enderdrache ist nicht vorhanden.
+* Es sind keine Elytren in den Endcitys
