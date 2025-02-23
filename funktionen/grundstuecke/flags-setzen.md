@@ -5,7 +5,7 @@ Auf dem Grundstück können Einstellungen in Form von sogenanten Flags gesetzt w
 Der einfachste Weg Flags zu Verwalten ist, über das `/?` -Menü -> Grundstücke -> Flag-Verwaltung. \
 Mehr dazu unter [Hilfe benutzen](hilfe-benutzen.md).
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Flag-Übersicht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Flag-Übersicht</p></figcaption></figure>
 
 Verzauberte Bücher stehen für Flags, welche gesetzt wurden. In der Beschreibung einer Flag wird die Funktion dieser Flag erklärt und der Status der Flag angezeigt. Mit einem Klick auf das Buch öffnet sich das Verwaltungsmenü für die Flag, welches je nach Art der Flag sich unterscheidet.
 

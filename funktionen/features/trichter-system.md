@@ -20,7 +20,7 @@ Ein Trichter tickt standardmäßig alle <mark style="color:red;">**8 Ticks**</ma
 
 Klickst du beim Sneaken mit Rechtsklick auf einen platzierten Trichter, öffnet sich ein Optionsmenü für diesen Trichter.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Trichter-Hauptmenü</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Trichter-Hauptmenü</p></figcaption></figure>
 
 Dieses Menü bietet verschiedene Einstellungsoptionen, welche im Folgenden erläutert werden.
 
@@ -80,7 +80,7 @@ Mit einem Klick auf <img src="../../.gitbook/assets/image (12).png" alt="" data-
 
 Sobald der Verbindungsmodus aktiv ist, können neue Verbindungen hinzugefügt werden, indem du mit dem gewünschten Material in der Hand auf einen möglichen Endpunkt (siehe [Verbundener Trichter](trichter-system.md#verbundener-trichter)) klickst.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Die Verbindung wird dann hinzugefügt, welches im Chat bestätigt wird und das nächste Material kann hinterlegt werden.
 
@@ -151,7 +151,7 @@ Mit einem Klick auf den <img src="../../.gitbook/assets/image (24) (1) (2).png" 
 Die folgenden Optionen der Signierung können eingestellt werden:
 
 * <img src="../../.gitbook/assets/image (8) (2) (2).png" alt="" data-size="line"> **Signierung von:** Filtert, welcher Spieler die Signierung erstellt haben muss
-* <img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" data-size="line"> **Signierung am:** Filtert, an welchem Datum die Signierung erstellt wurde
+* <img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" data-size="line"> **Signierung am:** Filtert, an welchem Datum die Signierung erstellt wurde
 * <img src="../../.gitbook/assets/image (22).png" alt="" data-size="line"> **Signierung:** Filtert den Text der Signierung
 
 {% hint style="info" %}

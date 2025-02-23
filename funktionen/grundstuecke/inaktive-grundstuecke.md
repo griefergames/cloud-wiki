@@ -41,7 +41,7 @@ Mit einem Klick auf das Schild und einer Bestätigung, kannst du nun den Antrag 
 
 Die Information über den Status deiner Anfrage findest du unter `/checkplot list`.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Liste der Anträge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Liste der Anträge</p></figcaption></figure>
 
 ## Übernehmen des Grundstücks
 

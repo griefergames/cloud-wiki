@@ -2,7 +2,7 @@
 
 Mit dem Cosmetics-System kann die Optik der getragenen Rüstung durch kosmetische Rüstungen verändert werden.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Cosmetics-Menü</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Cosmetics-Menü</p></figcaption></figure>
 
 Die kosmetische Rüstung kann unter `/cosmetics` hinzugefügt oder entfernt werden. Klicke auf ein Rüstungsteil in deinem Inventar und es wird in die Cosmetic-Slots hinterlegt. Ist dort bereits eine Rüstung hinterlegt, wird diese zurück in dein Inventar gelegt. Zusätzlich kann auch kosmetische Rüstung im Slot der Schildhand hinterlegt werden.
 
@@ -24,7 +24,7 @@ Ist eine Elytra angelegt, wird diese nicht ersetzt. Sofern Verzauberungen oder A
 Diese Funktion steht aktuell noch nicht zur Verfügung
 {% endhint %}
 
-Um ein Rüstungsteil auszublenden, klicke auf den ![](<../../.gitbook/assets/image (1).png>)-Knopf vor dem entsprechenden Slot. Um die Rüstung wieder sichtbar zu machen, klicke auf den ![](<../../.gitbook/assets/image (2).png>)-Knopf.
+Um ein Rüstungsteil auszublenden, klicke auf den ![](<../../.gitbook/assets/image (7).png>)-Knopf vor dem entsprechenden Slot. Um die Rüstung wieder sichtbar zu machen, klicke auf den ![](<../../.gitbook/assets/image (8).png>)-Knopf.
 
 Diese Funktion blendet nicht nur eine kosmetische Rüstung, sondern ebenfalls die normale Rüstung in den Rüstungsslots aus. Es ist also nicht sichtbar, dass eine Rüstung getragen wird.
 

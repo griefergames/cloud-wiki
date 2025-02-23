@@ -32,13 +32,13 @@ Mit diesen Eheringen können zwei Spieler "heiraten". Nach dem Benutzen dieses I
 
 ## Paxel
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Eine Paxel ist eine Kombination aus "Pickaxe", "Axe" und "Shovel". Also ein Universaltool. Es ändern seine Art je nach dem welcher Block abgebaut werden soll. Und kann somit alle Blöcke der drei Tools in optimaler Geschwindigkeit abbauen.
 
 ## Strider-Angel
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Diese Angel ermöglicht das spawnen eines Striders in der Lava, um darauf zu reiden. Und ist gleichzeitig die passende Angel um ihn zu lenken.
 

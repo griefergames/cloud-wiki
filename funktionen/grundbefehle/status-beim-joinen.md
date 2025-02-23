@@ -27,3 +27,7 @@ Um einen neuen Status zu setzen, nutze den Befehl `/status set`. Danach kann der
 ### Status aktivieren / deaktivieren
 
 Um den Status zu aktivieren oder zu deaktivieren, nutze den Befehl `/status toggle`. Damit wird die aktuelle Einstellung gewechselt.
+
+{% hint style="info" %}
+Der <mark style="color:yellow;">Hero-Rang</mark> sendet beim joinen zusätzlich einen Status-Sound.
+{% endhint %}

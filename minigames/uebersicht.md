@@ -14,7 +14,7 @@ In der unteren Reihe befinden sich die folgenden Buttons:
   Hier werden die letzten gespielten Spiele angezeigt _(das Öffnen dieser Ansicht dauert ggf. ein paar Sekunden)_.
 * <img src="../.gitbook/assets/image (12) (1) (1).png" alt="" data-size="line"> **Private Lobby**\
   Öffnet den Bereich für private Lobbys.
-* <img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" data-size="line"> **Plot-Maps**\
+* <img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" data-size="line"> **Plot-Maps**\
   Öffnet den Bereich für [Plot-Maps](karten-erstellen/) _(nur auf Citybuild-Regionen verfügbar)_.
 
 ## Permanente MiniGames
@@ -45,11 +45,11 @@ Die folgenden Minispiele befinden sich aktuell im MiniGame-der-Woche-Pool:
 
 In der MiniGame-Lobby stehen verschiedene Aktionen zur Verfügung:
 
-* <img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> **Spieler**\
+* <img src="../.gitbook/assets/image (9) (1) (1).png" alt="" data-size="line"> **Spieler**\
   Hier können die Spieler der Lobby angezeigt werden _(in privaten Runden können hier Spieler aus der Lobby geworfen werden)_.
 * <img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> **Karte / Map**\
   Hier kann für eine Map abgestimmt werden _(in privaten Runden kann der Besitzer der Lobby hier eine Karte auswählen)_.
-* <img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line"> **Einstellungen**\
+* <img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt="" data-size="line"> **Einstellungen**\
   Hier können Spieleinstellungen für die Lobby vorgenommen werden. Die Einstellungen können nur in privaten Lobbys angepasst werden.
 * <img src="../.gitbook/assets/image (22) (1) (1).png" alt="" data-size="line"> **Lobby verlassen**\
   Über diesen Knopf kannst du die Lobby verlassen. In einer privaten Lobby wird die Lobby geschlossen, wenn der Besitzer die Lobby verlässt.
