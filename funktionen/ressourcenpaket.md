@@ -31,11 +31,13 @@ Die folgenden Auswahloptionen gibt es an dieser Stelle:
 Wir wollen möglichst wenig in eure eigenen Texturen eingreifen und beschränken uns fast ausschließlich auf die folgenden Inhalte:
 
 * Anpassung von Inventar-Menüs (Hintergrund, Buttons etc.)
+* Animationen in der Tabliste
 * Einbringung kleiner grafischer Elemente (z. B. das Scoreboard-Logo)
 * Einzelne Items aus [CustomBlocks](customblocks.md) (z. B. Portalgun für das Minigame "Lasertag")
 * Einzelne Änderungen von Spezial-Item-Optiken zur Hervorhebung
 * Custom-Rüstungen / Cosmetics
 * Kosmetische Blöcke / Deko-Blöcke
+* Einzelne Icons für Chatnachrichten
 
 Wir wollen es jederzeit ermöglichen, dass weiterhin eigene Ressourcenpakete verwendet werden können, um die Optik der Blöcke oder Items zu verändern. Wir beschränken uns dort auf die spezifischen Server-Ansichten & -Items.
 
