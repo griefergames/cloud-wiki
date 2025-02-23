@@ -31,6 +31,12 @@ Das Limit der Signierung beträgt 65 Zeichen, hierbei zählen aber die Farbcodes
 Möchtest du Hexadezimal-Farben fett schreiben, muss vor jeder Farbe die Formatierung mit `\&r` zurückgesetzt werden.
 {% endhint %}
 
+### Farbverlauf-Signierung
+
+Mit dem zusätzlichen Recht "Farbverlauf-Signierung" kann mit dem Befehl /signgradient ein Text mit einem Farbverlauf signiert werden. Dabei müssen Start- und Endfarbe im Hexadezimalformat hinterlegt werden.
+
+`/signgradient 00FF00 FF0000 Das ist eine signierte Zeile mit Verlauf`
+
 ### 2. Zeile signieren
 
 Im [Case-Opening](../features/case-opening.md) kann das Recht gewonnen werden, um eine zweite Zeile auf ein Item zu signieren.

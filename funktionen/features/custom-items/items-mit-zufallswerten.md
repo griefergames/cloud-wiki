@@ -4,7 +4,7 @@ description: Jedes Mal anders
 
 # Items mit Zufallswerten
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Beispielbild</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Beispielbild</p></figcaption></figure>
 
 Es gibt Items, welche mit Zufallswerten generiert werden. Auf diesen Items ist angegeben welche möglichen Verzauberungen oder Attribute es geben kann. Wird ein Item erhalten, werden die Werte daraus generiert.
 
