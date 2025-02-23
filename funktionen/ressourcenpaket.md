@@ -38,6 +38,7 @@ Wir wollen möglichst wenig in eure eigenen Texturen eingreifen und beschränken
 * Custom-Rüstungen / Cosmetics
 * Kosmetische Blöcke / Deko-Blöcke
 * Einzelne Icons für Chatnachrichten
+* Individuelle Sounds für Items oder Events
 
 Wir wollen es jederzeit ermöglichen, dass weiterhin eigene Ressourcenpakete verwendet werden können, um die Optik der Blöcke oder Items zu verändern. Wir beschränken uns dort auf die spezifischen Server-Ansichten & -Items.
 
