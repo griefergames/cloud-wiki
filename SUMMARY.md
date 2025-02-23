@@ -57,7 +57,7 @@
   * [Showcase / Vitrinen](funktionen/features/showcase-vitrinen.md)
   * [Trichter-System](funktionen/features/trichter-system.md)
   * [Unbegrenzter Speicher](funktionen/features/unbegrenzter-speicher.md)
-* [⭐ Events](funktionen/events/README.md)
+* [⭐ Events](funktionen/events.md)
   * [Angel-Event](funktionen/events/angel-event.md)
 * [🦾 Mechanik-Änderungen](funktionen/mechanik-aenderungen/README.md)
   * [Bergungskompass](funktionen/mechanik-aenderungen/bergungskompass.md)

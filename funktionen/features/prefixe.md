@@ -63,3 +63,7 @@ Folgende Animationen stehen aktuell zur Verfügung:
   Lässt einen Verlaufs-Prefix hin und her laufen.
 * **Pulsierende Verlaufsanimation**\
   Lässt einen Verlaufs-Prefix zwischen den Farben pulsieren.
+
+{% hint style="danger" %}
+Achtung: Die Prefixanimationen werden durch das [Ressourcenpaket](../ressourcenpaket.md) ermöglicht. Hast du dieses nicht aktiviert, siehst du keine Prefixanimationen.
+{% endhint %}
