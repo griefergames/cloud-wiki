@@ -54,5 +54,5 @@ Bitte beachte die Preisangabe des Checkplot-Antrags. In der Regel werden beim Ü
 {% endhint %}
 
 {% hint style="info" %}
-Sollte es nicht möglich sein ein Grundstück über das Checkplot-System zu Beantragen, kann das Grundstück ggf. über das Ticket-System (Web oder Discord) erhalten werden.
+Sollte es nicht möglich sein, ein Grundstück über das Checkplot-System zu beantragen, kann das Grundstück ggf. über das Ticket-System (Web oder Discord) erhalten werden.
 {% endhint %}
