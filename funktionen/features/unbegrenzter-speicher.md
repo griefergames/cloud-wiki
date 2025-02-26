@@ -50,13 +50,13 @@ Stellst du den unbegrenzten Speicher mit Kisten der [CustomBlocks](../custombloc
 
 ### Verfügbare Items <a href="#id-6dwmq4tc4iw5" id="id-6dwmq4tc4iw5"></a>
 
-Unbegrenzte Speicher können für fast alle Items erstellt werden. Einzelne Items, wie z.B. Leuchtfeuer, sind jedoch nicht möglich.&#x20;
+Unbegrenzte Speicher können für fast alle Items erstellt werden. Einzelne Items – wie z. B. Leuchtfeuer – sind jedoch nicht möglich.
 
 #### Ausnahmen <a href="#tsolmrcvxkro" id="tsolmrcvxkro"></a>
 
-Folgende Items stehen nicht zur Verfügung: Treppen, Stufen, Türen, Knöpfe, Zäune, Zauntore, Falltüren, Druckplatten und Beacons.
+Folgende Items stehen nicht zur Verfügung: Treppen, Stufen, Türen, Knöpfe, Zäune, Zauntore, Falltüren, Druckplatten und Leuchtfeuer.
 
-Zusätzlich können Items, welche zusätzliche Informationen benötigen (wie z.B. Tränke oder Verzauberungsbücher) nicht als unendliches Lager erstellt werden.
+Zusätzlich können Items, welche zusätzliche Informationen benötigen (wie z. B. Tränke oder Verzauberungsbücher) nicht als unendliches Lager erstellt werden.
 
 ### Abbau <a href="#id-565glmt1kiye" id="id-565glmt1kiye"></a>
 
