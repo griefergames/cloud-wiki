@@ -4,9 +4,9 @@ description: Petri Heil
 
 # Angel-Event
 
-Ein öfter wiederkehrendes Event auf GrieferGames ist das Angel-Event.&#x20;
+Ein öfter wiederkehrendes Event auf GrieferGames ist das Angel-Event.
 
-Die fleißigen Angler ziehen dabei in die Farmwelt und angeln was das Zeug hält, um die begehrten Belohnungen zu ergattern.&#x20;
+Die fleißigen Angler ziehen dabei in die Farmwelt und angeln was das Zeug hält, um die begehrten Belohnungen zu ergattern.
 
 ### Farmwelt-Angelevent
 
@@ -14,7 +14,7 @@ Dieses Angelevent findet in der Farmwelt statt. Dabei wird im Wasser geangelt. \
 Hier wird die ICTUS aqua 3000 benötigt und der Angel-Pool des <mark style="color:green;">Angler-Shops</mark> geangelt.
 
 {% hint style="warning" %}
-Um Blohnungen zu Angeln, müssen die Voraussetzung für Schätze erfüllt sein
+Um Blohnungen zu angeln, müssen die Voraussetzung für Schätze erfüllt sein.
 {% endhint %}
 
 ### Lava-Angelevent (Nether)
@@ -28,11 +28,11 @@ Der Lavasee sollte nicht zu klein sein, denn auch hier wird ein ordentlicher See
 
 ## Die Angeln
 
-Um bei dem Event (oder auch außerhalb des Events) die Belohnungen zu Angeln, werden spezielle Angeln benötigt. Diese können am Spawn beim <mark style="color:green;">Angler-Shop</mark> und beim <mark style="color:red;">Lavangler-Shop</mark> gegen [Adventure-Coins](../waehrungen/) erworben werden.
+Um bei dem Event (oder auch außerhalb des Events) die Belohnungen zu angeln, werden spezielle Angeln benötigt. Diese können am Spawn beim <mark style="color:green;">Angler-Shop</mark> und beim <mark style="color:red;">Lavangler-Shop</mark> gegen [Adventure-Coins](../waehrungen/) erworben werden.
 
 ### ICTUS aqua 3000 - Farmwelt
 
-Mit der ICTUS aqua 3000 kann in der Farmwelt nach den Schätzen geangelt werden.&#x20;
+Mit der ICTUS aqua 3000 kann in der Farmwelt nach den Schätzen geangelt werden.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>ICTUS aqua 3000 - Angler-Shop</p></figcaption></figure>
 
