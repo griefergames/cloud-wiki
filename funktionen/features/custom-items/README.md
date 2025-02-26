@@ -6,15 +6,15 @@ Es gibt einige Items, die Funktionen oder Eigenschaften besitzen, die Minecraft 
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Beispiel-Werkzeug</p></figcaption></figure>
 
-Diese Tools schmelzen Blöcke beim Abbau direkt, wie es ein Ofen tun würde. Somit kann sich dieser Arbeitsschritt gespart werden.&#x20;
+Diese Tools schmelzen Blöcke beim Abbau direkt, wie es ein Ofen tun würde. Somit kann sich dieser Arbeitsschritt gespart werden.
 
 ## Schneider / Abbau-Spielmodus
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Beispiel-Werkzeug</p></figcaption></figure>
 
-Schneider sind Werkzeuge mit denen sich Blöcke oder Blockgruppen direkt abbauen lassen (Insta-Break).&#x20;
+Schneider sind Werkzeuge, mit denen sich Blöcke oder Blockgruppen direkt abbauen lassen (Insta-Break).
 
-## Unendliche Items / Infitiny Items
+## Unendliche Items / Infinity Items
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,13 +40,13 @@ Eine Paxel ist eine Kombination aus "Pickaxe", "Axe" und "Shovel". Also ein Univ
 
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-Diese Angel ermöglicht das spawnen eines Striders in der Lava, um darauf zu reiden. Und ist gleichzeitig die passende Angel um ihn zu lenken.
+Diese Angel ermöglicht das Spawnen eines Striders in der Lava, um darauf zu reiten. Und ist gleichzeitig die passende Angel um ihn zu lenken.
 
 ## Weitere Items
 
 ### Versunkene Kanone
 
-Kann einen Feuerball abschießen
+Kann einen Feuerball abschießen.
 
 ### Laserschwerter
 
@@ -54,11 +54,11 @@ Sind mit Ein- und Ausfahrmechaniken und Sounds ausgestattet.
 
 ### Köpfe-Säbel
 
-Droppt den Kopf des geschlagenen Spielers.&#x20;
+Droppt den Kopf des geschlagenen Spielers.
 
 ### Schneekanone
 
-Verschießt Schneebälle
+Verschießt Schneebälle.
 
 
 
