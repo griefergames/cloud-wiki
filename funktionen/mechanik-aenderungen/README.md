@@ -19,7 +19,7 @@ Der Bergungskompass wurde an das Cloud-Netzwerk angepasst. Siehe [Bergungskompas
 Beim Tod werden Items nicht gedroppt, sondern in einer Todeskiste am Todespunkt aufbewahrt.&#x20;
 
 {% hint style="info" %}
-Diese Kiste kann sowohl in der Farmwelt, als auch in der Plotwelt von allen Spielern geöffnet werden (auch wenn diese nicht auf dem Grundstück vertraut sind)
+Diese Kiste kann sowohl in der Farmwelt als auch in der Grundstückswelt von allen Spielern geöffnet werden (auch wenn diese nicht auf dem Grundstück vertraut sind).
 {% endhint %}
 
 {% hint style="danger" %}
