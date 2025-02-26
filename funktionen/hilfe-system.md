@@ -1,10 +1,10 @@
 ---
-description: Ingame-Hilfe-System
+description: In-Game-Hilfe-System
 ---
 
 # ❔ Hilfe-System
 
-Das Ingame-Hilfe-System bietet eine kleine Wissenssammlung für verschiedene Features, Tools und Befehle und bietet eine Übersicht der Features auf dem Server.
+Das In-Game-Hilfe-System bietet eine kleine Wissenssammlung für verschiedene Features, Tools und Befehle und bietet eine Übersicht der Features auf dem Server.
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Startseite Hilfesystem</p></figcaption></figure>
 
@@ -16,10 +16,10 @@ Auf der Startseite befindet sich eine Übersicht der Hauptfeatures des Servers. 
 
 Über ![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>) gelangt man in das [Grundstücks-Menü](grundstuecke/hilfe-benutzen.md).
 
-Mit ![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>) erhält man eine Übersicht über Rechte, welche man über das [CaseOpening ](features/case-opening.md)oder durch den Handel mit anderen Spielern erhalten kann.
+Mit ![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>) erhält man eine Übersicht über Rechte, welche man über das [Case-Opening](features/case-opening.md) oder durch den Handel mit anderen Spielern erhalten kann.
 
-Unter ![](<../.gitbook/assets/image (3) (1) (1) (1).png>) befinden sich Abklingzeiten / Cooldowns von Funktionen, welche nicht permanent eingesetzt werden können (wie z.B. `/kopf` oder `/premium`)&#x20;
+Unter ![](<../.gitbook/assets/image (3) (1) (1) (1).png>) befinden sich Abklingzeiten / Cooldowns von Funktionen, welche nicht permanent eingesetzt werden können (wie z. B. `/kopf` oder `/premium`).
 
-Mit ![](<../.gitbook/assets/image (4) (1) (1).png>) gelangt man in das Einstellungsmenü, in dem man z.B. die Ingame-Sprache einstellen kann.
+Mit ![](<../.gitbook/assets/image (4) (1) (1).png>) gelangt man in das Einstellungsmenü, in dem man z. B. die In-Game-Sprache einstellen kann.
 
 Unter ![](<../.gitbook/assets/image (5) (1) (1).png>) befinden sich weitere Hilfethemen zu Plugins und Funktionen.
