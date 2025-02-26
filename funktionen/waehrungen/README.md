@@ -46,7 +46,7 @@ Bedenke hierbei, dass durch die Anzahl an Anfragen eine Antwortzeit von mehreren
 
 [<mark style="color:red;">**Accountgebunden**</mark>](#user-content-fn-2)[^2] - **Eine ertauschbare spielerbezogene Währung.**
 
-Diese Tokens können zu bestimmten Events durch eine sogenante <mark style="color:purple;">**Tausch-Elfe**</mark> erhalten werden. Diese ermöglicht es Items (meist Items aus dem [CaseOpening](../features/case-opening.md) im unteren Bereich) gegen Tokens einzutauschen und damit andere Items der <mark style="color:purple;">Tausch-Elfe</mark> zu erwerben.
+Diese Tokens können zu bestimmten Events durch eine sogenante <mark style="color:purple;">**Tausch-Elfe**</mark> erhalten werden. Diese ermöglicht es, Items (meist Items aus dem [Case-Opening](../features/case-opening.md) im unteren Bereich) gegen Tokens einzutauschen und damit andere Items der <mark style="color:purple;">Tausch-Elfe</mark> zu erwerben.
 
 {% hint style="info" %}
 Die <mark style="color:purple;">Tausch-Elfe</mark> ist nicht dauerhaft verfügbar. Die nicht verwendeten Tokens bleiben auch beim Verschwinden der <mark style="color:purple;">Tausch-Elfe</mark> erhalten.
