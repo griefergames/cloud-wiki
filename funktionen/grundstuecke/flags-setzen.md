@@ -1,13 +1,13 @@
 # Flags setzen
 
-Auf dem Grundstück können Einstellungen in Form von sogenanten Flags gesetzt werden. Damit kann z.B. ein Verhalten angepasst oder eine Funktion freigegeben werden.
+Auf dem Grundstück können Einstellungen in Form von sogenanten Flags gesetzt werden. Damit kann z. B. ein Verhalten angepasst oder eine Funktion freigegeben werden.
 
-Der einfachste Weg Flags zu Verwalten ist, über das `/?` -Menü -> Grundstücke -> Flag-Verwaltung. \
+Der einfachste Weg Flags zu verwalten, ist über das `/?` -Menü -> Grundstücke -> Flag-Verwaltung. \
 Mehr dazu unter [Hilfe benutzen](hilfe-benutzen.md).
 
 <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Flag-Übersicht</p></figcaption></figure>
 
-Verzauberte Bücher stehen für Flags, welche gesetzt wurden. In der Beschreibung einer Flag wird die Funktion dieser Flag erklärt und der Status der Flag angezeigt. Mit einem Klick auf das Buch öffnet sich das Verwaltungsmenü für die Flag, welches je nach Art der Flag sich unterscheidet.
+Verzauberte Bücher stehen für Flags, welche gesetzt wurden. In der Beschreibung einer Flag wird die Funktion dieser Flag erklärt und der Status der Flag angezeigt. Mit einem Klick auf das Buch öffnet sich das Verwaltungsmenü für die Flag, welches sich je nach Art der Flag unterscheidet.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tooltip einer Flag</p></figcaption></figure>
 
@@ -25,17 +25,17 @@ Bei der Boolean-Flag stehen drei Buttons zur Auswahl:
 
 ### Block / Material Liste (List-Flag)
 
-Eine List-Flag enthält eine Liste an Materialien oder Blöcken, wie z.B. die use-Flag.
+Eine List-Flag enthält eine Liste an Materialien oder Blöcken, wie z. B. die use-Flag.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>List-Flag-Verwaltung</p></figcaption></figure>
 
-Klicke in deinem Inventar einen Block an, um diesen hinzuzufügen. Klicke im oberen Menü einen Block an, um diesen zu entfernen. Mit einem Klick auf die Barriere, wird die Flag entfernt.
+Klicke in deinem Inventar einen Block an, um diesen hinzuzufügen. Klicke im oberen Menü einen Block an, um diesen zu entfernen. Mit einem Klick auf die Barriere wird die Flag entfernt.
 
 ### Wert-Flags
 
-Es gibt Flags, bei denen ein Wert hinterlegt werden kann. Wie z.B. die time-Flag oder die greeting-Flag. Hier können Texte oder andere Werte wie Zahlen etc. hinterlegt werden.
+Es gibt Flags, bei denen ein Wert hinterlegt werden kann – wie z. B. die time-Flag oder die greeting-Flag. Hier können Texte oder andere Werte wie Zahlen etc. hinterlegt werden.
 
 {% hint style="danger" %}
-Diese Flags können aktuell nicht im Menü verwaltet werden, sondern müssen über den Befehl gesetzt werden `/p flag set <Flag-Name> <Wert>` _(z.B. /p flag set time 6000)_
+Diese Flags können aktuell nicht im Menü verwaltet werden, sondern müssen über den Befehl gesetzt werden `/p flag set <Flag-Name> <Wert>` _(z. B. /p flag set time 6000)_
 {% endhint %}
 
