@@ -15,13 +15,13 @@ Ist keine Rüstung in einem Slot angelegt, wird dieser Slot nicht mit der kosmet
 {% endhint %}
 
 {% hint style="danger" %}
-Ist eine Elytra angelegt, wird diese nicht ersetzt. Sofern Verzauberungen oder Attribute für den Client benötigt werden (Swift-Sneak o.Ä.) werden diese Verzauberungen & Attribute auf der kosmetischen Rüstung gesendet.
+Ist eine Elytra angelegt, wird diese nicht ersetzt. Sofern Verzauberungen oder Attribute für den Client benötigt werden (Swift-Sneak o. Ä.) werden diese Verzauberungen & Attribute auf der kosmetischen Rüstung gesendet.
 {% endhint %}
 
 ## Rüstung Ausblenden
 
 {% hint style="danger" %}
-Diese Funktion steht aktuell noch nicht zur Verfügung
+Diese Funktion steht aktuell noch nicht zur Verfügung.
 {% endhint %}
 
 Um ein Rüstungsteil auszublenden, klicke auf den ![](<../../.gitbook/assets/image (7).png>)-Knopf vor dem entsprechenden Slot. Um die Rüstung wieder sichtbar zu machen, klicke auf den ![](<../../.gitbook/assets/image (8).png>)-Knopf.
