@@ -6,7 +6,7 @@ In den Sammelalben können Karten (oder auch andere Gegenstände) gesammelt werd
 
 ## Karten in die Sammlung legen & entfernen
 
-Um Karten in eine Sammlung zu legen, öffne die entsprechende Sammlung und klicke die Karte in deinem Inventar an. Jede Karte kann nur 1x in der Sammlung liegen.
+Um Karten in eine Sammlung zu legen, öffne die entsprechende Sammlung und klicke die Karte in deinem Inventar an. Jede Karte kann nur einmal in der Sammlung liegen.
 
 Wenn du eine Karte wieder aus der Sammlung nehmen möchtest, klicke diese in der oberen Ansicht an und diese wird dir wieder in dein Inventar gelegt.
 
@@ -16,7 +16,7 @@ Für die Karten gibt es sogenante Booster-Packs, welche zufällige Karten des en
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Booster-Pack des Wildtiere-Sets</p></figcaption></figure>
 
-Um das Pack zu öffnen, interagiere mit dem Pack in der Hand. Danach Startet das Öffnen des Packs und die Inhalte werden dir auf dem Bildschirm angezeigt, bevor sie dir ins Inventar gelegt werden.
+Um das Pack zu öffnen, interagiere mit dem Pack in der Hand. Danach startet das Öffnen des Packs und die Inhalte werden dir auf dem Bildschirm angezeigt, bevor sie dir ins Inventar gelegt werden.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="158"><figcaption><p>Anzeige der Karte beim Öffnen</p></figcaption></figure>
 
