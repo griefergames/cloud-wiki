@@ -9,6 +9,8 @@ Mit dem Battle Pass hast du die Möglichkeit dir Belohnungen durch Aufgaben zu e
 
 Durch das abschließen von Aufgaben erhältst du Pass-XP, welche dich nach und nach im Level aufsteigen lassen. Auf einigen Leveln schaltest du dann Belohnungen frei, die du dir abholen kannst.
 
+Um den Battle Pass zu öffnen, nutze `/grieferpass` oder `/battlepass` auf Citybuild- oder Farm-Servern.
+
 ## Die Season
 
 Ein Pass läuft immer für eine Season. Danach gibt es einen neuen Battle Pass.&#x20;
