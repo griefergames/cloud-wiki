@@ -2,9 +2,9 @@
 
 Mit dem Block des Tages kannst du mit etwas Glück beim Farmen kleine Zusatzgewinne erhalten. Am Spawn findest du einen NPC, welcher dir jeden Tag den **Block des Tages** präsentiert.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Block des Tages-Menü</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Block des Tages-Menü</p></figcaption></figure>
 
-In diesem Beispiel ist Seltsamer Sand der Block des Tages.&#x20;
+In diesem Beispiel ist Seltsamer Sand der Block des Tages.
 
 Jedes Mal, wenn du in der Farmwelt einen natürlich generierten Block dieser Art abbaust, besteht eine kleine Chance, dass du eine zusätzliche Belohnung erhältst. Also ein gute Möglichkeit, sich beim Farmen von Material ein wenig etwas dazu zu verdienen.
 
@@ -22,7 +22,7 @@ Zusätzlich gibt es Event-Tage, an denen auch gleichzeitig mehrere Gewinne entha
 
 {% hint style="info" %}
 Wie oft du einen Gewinn am Tag erhalten kannst ist ebenfalls unterschiedlich. Du wirst jedoch informiert, sobald du die maximale Anzahl an Belohnungen des Tages erreicht hast.\
-&#xNAN;_(Ein Tag beginnt um 4 Uhr zum Server-Neustart)_
+\&#xNAN;_(Ein Tag beginnt um 4 Uhr zum Server-Neustart)_
 {% endhint %}
 
 {% hint style="danger" %}

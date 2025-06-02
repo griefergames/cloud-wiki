@@ -1,6 +1,6 @@
 # Sammelalben
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Übersicht einer Sammlung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Übersicht einer Sammlung</p></figcaption></figure>
 
 In den Sammelalben können Karten (oder auch andere Gegenstände) gesammelt werden. Eine Sammlung besteht dabei aus maximal 18 normalen, 18 besonderen und einer epischen Karte.
 
@@ -14,11 +14,11 @@ Wenn du eine Karte wieder aus der Sammlung nehmen möchtest, klicke diese in der
 
 Für die Karten gibt es sogenante Booster-Packs, welche zufällige Karten des entsprechenden Sets enthalten.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Booster-Pack des Wildtiere-Sets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Booster-Pack des Wildtiere-Sets</p></figcaption></figure>
 
 Um das Pack zu öffnen, interagiere mit dem Pack in der Hand. Danach startet das Öffnen des Packs und die Inhalte werden dir auf dem Bildschirm angezeigt, bevor sie dir ins Inventar gelegt werden.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="158"><figcaption><p>Anzeige der Karte beim Öffnen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="158"><figcaption><p>Anzeige der Karte beim Öffnen</p></figcaption></figure>
 
 ### Booster-Packs erhalten
 
