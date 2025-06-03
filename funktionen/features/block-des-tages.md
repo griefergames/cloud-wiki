@@ -28,3 +28,7 @@ Wie oft du einen Gewinn am Tag erhalten kannst ist ebenfalls unterschiedlich. Du
 {% hint style="danger" %}
 Die Chance ist bei jedem natürlich generierten Block der abgebaut wird dieselbe. Es ist reine Glückssache, ob oder wie schnell du eine Belohnung findest. Es kann der erste Block sein, es kann aber auch viele tausend Blöcke dauern. Also überlege dir, wie lange du farmen möchtest.
 {% endhint %}
+
+{% hint style="success" %}
+Der Abbau mit speziellen Tools (wie z.B. 3x3 Tools) ist möglich. Es werden alle abgebauten Blöcke des Tools gezählt.
+{% endhint %}
