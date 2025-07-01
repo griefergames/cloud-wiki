@@ -1,6 +1,5 @@
 ---
 description: Der BattlePass auf GrieferGames
-hidden: true
 ---
 
 # Battle Pass / Griefer Pass
