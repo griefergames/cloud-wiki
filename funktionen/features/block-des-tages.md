@@ -18,7 +18,7 @@ Es gibt viele verschiedene Gewinne, die der Block des Tages enthalten kann.
 
 * Geld (Standardmäßig 5 Drops)
 * Kristalle (Standardmäßig 3 Drops)
-* Items (Standardmäßig 1 Drop)
+* Items (Standardmäßig 2 Drops)
 
 Zusätzlich gibt es Event-Tage, an denen auch gleichzeitig mehrere Gewinne enthalten sein können.
 
