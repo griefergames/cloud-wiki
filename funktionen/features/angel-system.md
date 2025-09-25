@@ -12,6 +12,8 @@ Eine Übersicht über die verschiedenen Bestandteile erhälst du über `/angeln`
 Das Angeln funktioniert nur in der Farmwelt.
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+
 ## Wie funktioniert das System?
 
 Wenn du mit einem Köder angelst kannst du weitere Fische aus dem Wasser ziehen. Welche Fische du angeln kannst hängt von verschiedenen Faktoren ab:
