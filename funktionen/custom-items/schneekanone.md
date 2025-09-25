@@ -1,3 +1,0 @@
-# Schneekanone
-
-Verschießt Schneebälle.

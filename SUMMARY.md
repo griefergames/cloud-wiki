@@ -42,7 +42,7 @@
   * [Laserschwerter](funktionen/custom-items/laserschwerter.md)
   * [Limtierte Gegenstandsnutzung](funktionen/features/limtierte-gegenstandsnutzung.md)
   * [Paxel](funktionen/custom-items/paxel.md)
-  * [Schneekanone](funktionen/custom-items/schneekanone.md)
+  * [Schneekanone / Frost-Stab](funktionen/custom-items/schneekanone-frost-stab.md)
   * [Schneider / Abbau-Spielmodus](funktionen/custom-items/schneider-abbau-spielmodus.md)
   * [Spezial-TNT](funktionen/custom-items/spezial-tnt.md)
   * [Strider-Angel](funktionen/custom-items/strider-angel.md)
