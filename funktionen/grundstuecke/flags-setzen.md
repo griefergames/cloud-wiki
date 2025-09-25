@@ -9,13 +9,13 @@ Mehr dazu unter [Hilfe benutzen](hilfe-benutzen.md).
 
 Verzauberte Bücher stehen für Flags, welche gesetzt wurden. In der Beschreibung einer Flag wird die Funktion dieser Flag erklärt und der Status der Flag angezeigt. Mit einem Klick auf das Buch öffnet sich das Verwaltungsmenü für die Flag, welches sich je nach Art der Flag unterscheidet.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tooltip einer Flag</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tooltip einer Flag</p></figcaption></figure>
 
 ### An/Aus (Boolean-Flag)
 
 Eine Boolean-Flag kann entweder true oder false sein. true = an, false = aus.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Boolean-Flag-Verwaltung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Boolean-Flag-Verwaltung</p></figcaption></figure>
 
 Bei der Boolean-Flag stehen drei Buttons zur Auswahl:
 

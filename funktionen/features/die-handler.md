@@ -10,6 +10,18 @@ Alle Händler am Spawn bieten ihre Angebote nach einem Daily-Shop-Prinzip an. Di
 
 Wann das nächste Mal ein Angebot verfügbar sein wird, kann also nur schwer vorausgesagt werden. Nutze also die Chance, wenn dein gewünschtes Item verfügbar ist.
 
+## Freie Kaufslots
+
+In freien Slots rotieren die Items nicht wie im Daily-Shop, sondern es sind alle Items kaufbar.
+
+Bei Klick auf diesen Slot, wird das Item nicht gekauft, sondern es öffnet sich die Ansicht des Angebots, in welchem alle Items mit einem Klick auf das Item gekauft werden können.
+
+## Amin-Shop
+
+Beim Amin-Shop sind Items für Adventure Coins kaufbar. Diese erhälst du durch das Erledigen von [Adventure-Aufgaben](adventure-system.md).
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Wand-Händler
 
 Beim Wand-Händler können Wand-Effekte gekauft werden, die du auf deinen Grundstücken anwenden kannst, um die Grundstückswände auf deinen Grundstücken zu verändern. Die Wand-Effekte kosten unterschiedlich viel und die verschiedenen Wände wechseln täglich.
@@ -22,17 +34,17 @@ Beim Rand-Händler können Rand-Effekte gekauft werden, die du auf deinen Grunds
 
 ![Rand-Händler Shop](<../../.gitbook/assets/2 (3).png>)
 
-## Angler-Shop
+## Angler-Shop / Lavangler-Shop
 
 Beim Angler-Shop-NPC kannst du die **ICTUS aqua 3000** Angel für 20 [Adventure Coins](adventure-system.md) kaufen. Diese wird für Angel-Events benötigt, um besondere Items angeln zu können.
+
+Beim Lavangler-Shop-NPC kannst du **IGNIS esca 6666** die Angel für 20 Adventure Coins kaufen. Diese wird für Lava-Angel-Events benötigt, um besondere Items angeln zu können.
 
 ![Angler-Shop-Ansicht](<../../.gitbook/assets/3 (2) (1).png>)
 
 ### Dauerhafte Belohnungen
 
 Unter der Kiste links befinden sich die dauerhaften Belohnungen, die du außerhalb von Angel-Events mit der **ICTUS aqua 3000** Angel angeln kannst. Darunter finden sich auch oft Items – wie eine Angelkarte oder Köpfe – die im vorigen Angel-Event verfügbar waren.
-
-![Angelkarte 2022](<../../.gitbook/assets/4 (1).png>)
 
 ### Event-Items
 

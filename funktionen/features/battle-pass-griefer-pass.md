@@ -20,7 +20,7 @@ Mit jeder Season ändern sich die täglichen & wöchentlichen Aufgaben sowie die
 
 ## Die Aufgaben
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Aufgabenübersicht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Aufgabenübersicht</p></figcaption></figure>
 
 Im Pass findest du zwei verschiedene Arten von Aufgaben, welche du erledigen kannst.
 
@@ -52,7 +52,7 @@ Damit es am Ende einer Pass-Season nicht zu stressig wird, gibt es in den letzte
 
 #### Aufgaben, die mehrfach abgeschlossen werden können
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Einige Aufgaben können mehrmals abgeschlossen werden, wie diese tägliche Aufgabe. Der Fortschritt zeigt den aktuellen Fortschritt an. Dieser wird nach Abschließen der Aufgabe wieder auf 0 gesetzt.
 
