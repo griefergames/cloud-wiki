@@ -53,6 +53,7 @@
 * [❤️ Features](funktionen/features/README.md)
   * [Adventure-System](funktionen/features/adventure-system.md)
   * [Allay Lieferdienst](funktionen/features/allay-lieferdienst.md)
+  * [Angel-System](funktionen/features/angel-system.md)
   * [Auktionshaus](funktionen/features/auktionshaus.md)
   * [Battle Pass / Griefer Pass](funktionen/features/battle-pass-griefer-pass.md)
   * [Block des Tages](funktionen/features/block-des-tages.md)
