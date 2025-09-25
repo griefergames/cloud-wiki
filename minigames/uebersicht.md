@@ -37,7 +37,9 @@ Die folgenden Minispiele befinden sich aktuell im MiniGame-der-Woche-Pool:
 
 * Elytra-Flug
 * TNT-Dodgeball
-* Schneeballschlacht
+* Schneeballschlacht (nur in der kalten Jahreszeit verfügbar)
+* Murder Mystery
+* Minecraft Bingo
 
 ## MiniGame-Lobby
 
