@@ -62,7 +62,6 @@
   * [Clan-System](funktionen/features/clan-system.md)
   * [Cosmetics](funktionen/features/cosmetics.md)
   * [Die Händler](funktionen/features/die-handler.md)
-  * [Eigene Rezepte](funktionen/features/eigene-rezepte.md)
   * [Erfolge / Advancements](funktionen/features/erfolge-advancements.md)
   * [Gaming-Station](funktionen/features/gaming-station.md)
   * [Gegenstandsrettung](funktionen/features/gegenstandsrettung.md)

@@ -20,7 +20,7 @@ Bei Klick auf diesen Slot, wird das Item nicht gekauft, sondern es öffnet sich 
 
 Beim Amin-Shop sind Items für Adventure Coins kaufbar. Diese erhälst du durch das Erledigen von [Adventure-Aufgaben](adventure-system.md).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Wand-Händler
 
