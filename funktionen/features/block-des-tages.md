@@ -10,7 +10,7 @@ Jedes Mal, wenn du in der Farmwelt einen natürlich generierten Block dieser Art
 
 Wenn du eine zusätzliche Belohnung erhältst, wirst du mit einer Nachricht im Chat darüber informiert.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (1) (1).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (1) (1) (1).png" alt=""></p>
 
 ### Mögliche Gewinne
 
@@ -39,8 +39,8 @@ Der Abbau mit speziellen Tools (wie z.B. 3x3 Tools) ist möglich. Es werden alle
 
 Links im Interface des NPC-Menüs kannst du deine persönlichen Statistiken einsehen, darunter wie viel Geld, Kristalle und Items du bereits durch den Block des Tages erhalten hast.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (2) (1).png" alt=""><br></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (2) (1) (1).png" alt=""><br></p>
 
 Rechts werden die globalen Statistiken angezeigt, darunter wie viel Geld, Kristalle und Items die Spieler bereits durch den Block des Tages erhalten haben, einschließlich der Top 28 Spieler, die du durch Anklicken einsehen kannst.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (3).png" alt=""><img src="../../.gitbook/assets/unknown (4).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (3) (1).png" alt=""><img src="../../.gitbook/assets/unknown (4) (1).png" alt=""></p>

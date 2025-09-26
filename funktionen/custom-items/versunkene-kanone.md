@@ -2,7 +2,7 @@
 
 Mit der Versunkenen Kanone kannst du gezielt explosive Angriffe ausführen. Ein Rechtsklick feuert einen **Feuerball in Blickrichtung** ab, der bei Aufprall explodiert – ideal für Kampf oder Flächenschaden.
 
-<p align="center"><img src="../../.gitbook/assets/unknown.png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (7).png" alt=""></p>
 
 ## So funktioniert das Item
 

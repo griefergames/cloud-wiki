@@ -2,7 +2,7 @@
 
 Mit dem Spezial-TNT kannst du gezielt Blöcke in einem 15x15 Blöcke Umkreis zerstören, ideal für Bauprojekte oder Abbruch Aktionen auf deinem Plot. Das Item macht keinen Schaden gegenüber den Spielern.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (5).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (5) (1).png" alt=""></p>
 
 {% hint style="info" %}
 Dieses Item hat eine [Limitierte Gegenstandsnutzung](../features/limtierte-gegenstandsnutzung.md).

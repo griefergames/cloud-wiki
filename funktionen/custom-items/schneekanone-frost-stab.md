@@ -2,7 +2,7 @@
 
 Mit der Schneekanone oder dem Froststab kannst du gezielt Schneebälle auf Mobs abfeuern, eine elegante Methode, um Gegner etwas zurückzustoßen, ohne ihnen Schaden zuzufügen.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (1).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (1) (1).png" alt=""></p>
 
 ## So funktioniert das Item
 
