@@ -29,6 +29,18 @@ Folgende Spiele stehen aktuell zur Verfügung:
 
 Für manche Spiele können Spielsteine verwendet werden (z. B. 4-Gewinnt). Die Spielsteinsammlung kann oben rechts im Menü eingesehen und der gewünschte Spielstein gewählt werden.
 
+<p align="center"><img src="../../.gitbook/assets/unknown (7).png" alt=""></p>
+
 Die Spielsteine in Form von Blöcken droppen mit einer kleinen Wahrscheinlichkeit bei jedem Abbau des Blocks. Diese können also beim Farmen in der Farmwelt zwischendurch erhalten werden. Somit sind diese Spielsteine von der Seltenheit abhängig von dem Vorkommen in den Farmwelten.
 
 Zusätzlich gibt es Items, welche nicht abgebaut werden können. Diese können durch verschiedene andere Mechaniken erhalten werden, wie z. B. einer MiniGame-Kiste oder dem [Amin-Shop](die-handler.md).
+
+#### Einlösen eines Spielsteins
+
+1. Halte den Spielstein in der Hand.
+2. Mit Rechtsklick löst du den Spielstein ein.
+3. Nach der Einlösung kannst du den Block als Spielfigur bei einer[ Gaming-Station](https://wiki.griefergames.live/funktionen/features/gaming-station) verwenden.
+
+{% hint style="info" %}
+Jeder Spielstein kann nur einmal eingelöst werden.
+{% endhint %}
