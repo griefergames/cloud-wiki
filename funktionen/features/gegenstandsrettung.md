@@ -9,7 +9,7 @@ Benutzung:
 
 Gleichzeitig wird das Werkzeug vollständig repariert.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (2) (1) (1) (1) (1).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (2) (1) (1) (1) (1) (1).png" alt=""></p>
 
 {% hint style="danger" %}
 Gegenstandsrettung wirkt nur, wenn Gegenstände durch Minecraft-Haltbarkeitsverlust kaputt gehen. Es zählt nicht für [Limitierte Gegenstandsnutzung](limtierte-gegenstandsnutzung.md).

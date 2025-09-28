@@ -6,7 +6,7 @@ description: Nützliche Spielunterstützungen für dich
 
 Mit Perks hast du die Möglichkeit, Effekte und kleine Funktionen für dich zu aktivieren, die dich beim Spielen unterstützen.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Perk-Menü</p></figcaption></figure>
+<p align="center"><img src="../../.gitbook/assets/unknown.png" alt=""></p>
 
 Um das Hauptmenü zu öffnen, kannst du `/perks` eingeben oder du öffnest das Perks-Menü über das `/?` Hilfemenü.
 
@@ -29,7 +29,7 @@ Die Tage können nacheinander eingelöst werden und erhöhen die Gesamtlaufzeit 
 {% endhint %}
 
 {% hint style="warning" %}
-Löst du ein Perk ein, welches noch nicht im Besitz oder abgelaufen war, wird dieses nicht automatisch aktiviert.
+Löst du ein Perk ein, welches noch nicht im Besitz oder abgelaufen war, wird dieses **nicht automatisch aktiviert**.
 {% endhint %}
 
 ### Perks aktivieren / deaktivieren

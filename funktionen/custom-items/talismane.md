@@ -2,7 +2,7 @@
 
 Talismane sind besondere Totems, die deinem Spieler verschiedene Boni und Fähigkeiten verleihen, solange sie in der Offhand gehalten werden, und dich beim Tod wie ein Totem schützen, bevor sie verschwinden.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (2).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (2) (1).png" alt=""></p>
 
 ## Übersicht der Talismane
 
@@ -10,7 +10,7 @@ Talismane sind besondere Totems, die deinem Spieler verschiedene Boni und Fähig
 
 **Fokus:** Mobilität & Bewegung
 
-![](<../../.gitbook/assets/unknown (1) (1).png>)
+![](<../../.gitbook/assets/unknown (1) (1) (1).png>)
 
 Erhöht deine Bewegungsgeschwindigkeit auf Land und Wasser und ermöglicht es dir, 2 Blöcke hochzugehen, ohne zu springen.
 
@@ -22,7 +22,7 @@ Hat [zufällige Item-Werte](../features/zufallige-item-werte.md), welche die Eff
 
 **Fokus:** Schnellerer Abbau von Blöcken
 
-![](<../../.gitbook/assets/unknown (2) (1).png>)
+![](<../../.gitbook/assets/unknown (2) (1) (1).png>)
 
 Erhöht die Abbaugeschwindigkeit von Blöcken, damit du effizienter abbauenkannst.
 
@@ -34,7 +34,7 @@ Hat [zufällige Item-Werte](../features/zufallige-item-werte.md), welche die Eff
 
 **Fokus:** Spielergröße vergrößern
 
-![](<../../.gitbook/assets/unknown (3).png>)
+![](<../../.gitbook/assets/unknown (3) (1).png>)
 
 Vergrößert die Spielergröße, sodass du deutlich größer erscheinst.
 
@@ -42,7 +42,7 @@ Vergrößert die Spielergröße, sodass du deutlich größer erscheinst.
 
 **Fokus:** Spielergröße verkleinern
 
-![](<../../.gitbook/assets/unknown (4).png>)
+![](<../../.gitbook/assets/unknown (4) (1).png>)
 
 Verringert die Spielergröße, sodass du deutlich kleiner erscheinst.
 

@@ -4,7 +4,7 @@ Der <mark style="color:orange;">**Premium-Rang**</mark> kann im Shop gekauft wer
 
 ## Vorteile 7 Tage & 30 Tage&#x20;
 
-* Goldener [Prefix ](../../features/prefixe.md)im Chat ![](../../../.gitbook/assets/unknown.png)&#x20;
+* Goldener [Prefix ](../../features/prefixe.md)im Chat ![](<../../../.gitbook/assets/unknown (4).png>)&#x20;
 * Zwei Homes setzen mit `/sethome`
 
 ## Vorteile 30 Tage Premium (Shop)

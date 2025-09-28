@@ -2,7 +2,7 @@
 
 Mit dem Forcefield-Flag-Item kannst du dauerhaft eine Schutz-Aura auf deinem Grundstück aktivieren, die andere Spieler von dir wegstößt. Es funktioniert ähnlich wie /aura, gilt aber nur auf deinem Grundstück.
 
-<p align="center"><img src="../../../.gitbook/assets/unknown (3) (1).png" alt=""></p>
+<p align="center"><img src="../../../.gitbook/assets/unknown (3) (1) (1).png" alt=""></p>
 
 ## Einlösen des Items
 

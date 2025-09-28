@@ -4,7 +4,7 @@ Der **Ultra-Rang** kann im Shop gekauft werden. Zusätzlich hast du die Möglich
 
 ## Vorteile
 
-* Hellblauer [Prefix ](../../features/prefixe.md)im Chat ![](<../../../.gitbook/assets/unknown (1).png>)
+* Hellblauer [Prefix ](../../features/prefixe.md)im Chat ![](<../../../.gitbook/assets/unknown (1) (1).png>)
 * Spielernamen umbenennen mit `/nick`
 * 3 Homes setzen mit `/sethome`
 * Posen bei Rüstungsständern einstellen

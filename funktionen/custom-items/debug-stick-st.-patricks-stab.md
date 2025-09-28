@@ -14,12 +14,12 @@ Mit dem **Sankt-Patricks-Stab** kannst du bestimmte Blockzustände verändern. D
 
 Beim Linksklick auf den Ofen wählst du den Zustand „**lit**“ aus. Dabei siehst du auch sofort den aktuellen Status, in diesem Fall **false** (Ofen aus).
 
-![](<../../.gitbook/assets/unknown (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/unknown (1) (1) (1) (1) (1).png>)
 
 Beim Rechtsklick auf den Ofen änderst du den Zustand „lit“ auf true. Dadurch wirkt der Ofen so, als ob er aktiv brennt, auch wenn er in Wirklichkeit nicht benutzt wird.
 
-![](<../../.gitbook/assets/unknown (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/unknown (2) (1) (1) (1) (1).png>)
 
 Wenn du erneut mit Rechtsklick auf den Ofen klickst, setzt du den Zustand „lit“ wieder auf false. Der Ofen erscheint dadurch aus, selbst wenn der Block eigentlich unverändert bleibt.
 
-![](<../../.gitbook/assets/unknown (3) (1) (1).png>)\
+![](<../../.gitbook/assets/unknown (3) (1) (1) (1).png>)\
