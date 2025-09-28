@@ -4,8 +4,6 @@ Der <mark style="color:blue;">Titan</mark>-Rang kann nur im Shop gekauft werden 
 
 ## Vorteile
 
-e mit Titan:
-
 * Dunkelblauen [Prefix ](../../features/prefixe.md)im Chat  ![](<../../../.gitbook/assets/unknown (20).png>)
 * Alle 14 Tage einen Kopf erhalten mit `/kopf <name>` oder `/randomkopf`
 * Hellblau Fett im Chat schreiben mit `/b`
