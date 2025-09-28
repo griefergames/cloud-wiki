@@ -20,6 +20,7 @@
     * [Ultra-Rang](funktionen/grundbefehle/range/ultra-rang.md)
     * [Legende-Rang](funktionen/grundbefehle/range/legende-rang.md)
     * [Titan-Rang](funktionen/grundbefehle/range/titan-rang.md)
+    * [Griefer-Rang](funktionen/grundbefehle/range/griefer-rang.md)
 * [🚧 Ressourcenpaket](funktionen/ressourcenpaket.md)
 * [👨‍🔬 Der Spawn](funktionen/der-spawn.md)
 * [🌳 Die Farmwelten](funktionen/die-farmwelten.md)

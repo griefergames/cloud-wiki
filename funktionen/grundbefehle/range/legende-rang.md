@@ -4,9 +4,9 @@ Der <mark style="color:red;">Legende</mark>-Rang kann nur im Shop gekauft werden
 
 ## Vorteile
 
-* Hellroter Prefix im Chat
+* Hellroter [Prefix ](../../features/prefixe.md)im Chat
 * 5 Homes setzen mit `/sethome`
-* [Clan ](../../features/clan-system.md)darf +4 Mitglieder mehr haben
+* [Clan ](../../features/clan-system.md)darf +4 Mitglieder mehr haben (inkl. Premium, Ultra)
 * Musik auf dem Grundstück abspielen lassen mit `/p flag set music`
 * Benachrichtigung erhalten, wenn jemand dein Grundstück betritt mit `/p flag set notify-enter true`
 * Benachrichtigung erhalten, wenn jemand dein Grundstück verlässt mit `/p flag set notify-leave true`
