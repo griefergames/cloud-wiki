@@ -34,7 +34,7 @@ Im Einstellungsmenü befinden sich folgende Optionen:
 * NPC-Funktion (legt den "Beruf" des NPCs fest, welcher ausgeführt werden soll)
 * NPC-Position (Verschieben des NPCs und Anpassung z. B. der Blickrichtung)
 
-### NPC-Arten
+### NPC-Arten / -Skins
 
 Standardmäßig ist ein Plot-NPC ein Spieler, welcher den Skin des Besitzers trägt. Neben der Option eines Spielers, stehen auch weitere Tiere & Monster zur Verfügung, welche in diesem Menü ausgewählt werden können.
 

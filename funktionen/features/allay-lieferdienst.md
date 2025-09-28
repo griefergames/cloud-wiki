@@ -25,7 +25,7 @@ Zusätzlich werden auch von manchen Systemen Items geliefert, die nicht mehr in 
 
 Wenn du mit einem Allay-Postboten sprichst (Rechtsklick), gelangst du in das Übersichtsmenü. Sprichst du mit deinem persönlichen Liefer-Allay, gelangst du in die Ansicht der offenen Lieferungen.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In den Lieferungen kannst du einfach auf das gewünschte Paket klicken, um es abzuholen.
 

@@ -14,7 +14,7 @@ Wenn du eine Karte wieder aus der Sammlung nehmen möchtest, klicke diese in der
 
 Für die Karten gibt es sogenante Booster-Packs, welche zufällige Karten des entsprechenden Sets enthalten.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Booster-Pack des Wildtiere-Sets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Booster-Pack des Wildtiere-Sets</p></figcaption></figure>
 
 Um das Pack zu öffnen, interagiere mit dem Pack in der Hand. Danach startet das Öffnen des Packs und die Inhalte werden dir auf dem Bildschirm angezeigt, bevor sie dir ins Inventar gelegt werden.
 

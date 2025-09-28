@@ -56,7 +56,7 @@ Im nächsten Schritt benötigt ihr den Direktlink zur Grafik. Öffnet hierfür d
 
 Führt einen Rechtsklick auf das Bild durch und wählt aus, dass das Bild in einem neuen Tab geöffnet wird.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Führt erneut einen Rechtsklick auf das Bild durch und wählt aus, dass ihr die Grafikadresse kopieren wollt.
 

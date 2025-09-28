@@ -91,8 +91,8 @@
   * [Angel-Event](funktionen/events/angel-event.md)
 * [🦾 Mechanik-Änderungen](funktionen/mechanik-aenderungen/README.md)
   * [Bergungskompass](funktionen/mechanik-aenderungen/bergungskompass.md)
-  * [Mending-Verzauberung](funktionen/mechanik-aenderungen/mending-verzauberung.md)
   * [Pigman-Farmen](funktionen/mechanik-aenderungen/pigman-farmen.md)
+  * [Reparatur Verzauberung](funktionen/mechanik-aenderungen/reparatur-verzauberung.md)
 * [🅱️ CustomBlocks](funktionen/customblocks.md)
 * [🦝 MysteryMod Fabric](funktionen/mysterymod-fabric.md)
 
