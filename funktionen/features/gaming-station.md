@@ -4,7 +4,7 @@ description: Minispiele auf dem Grundstück
 
 # Gaming-Station
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Mit Gaming-Stations können kleine Minispiele in der Minecraft-UI gespielt werden.
 

@@ -20,7 +20,7 @@ In der Regel sind diese Items dann nicht möglich mit Reparatur zu verzaubern. E
 
 Im Laufe der Zeit haben wir eine Anzeige für nicht reparierbare Items hinzugefügt. Diese tragen die Verzauberung "Fluch des Reparaturverlusts".
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Mit dieser Verzauberung wird gezeigt, dass dieses Item nicht mit Reparatur repariert werden kann, auch wenn es geschafft wird dort Reparatur hinzuzufügen.
 

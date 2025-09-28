@@ -2,7 +2,7 @@
 
 Mit dem Block des Tages kannst du mit etwas Glück beim Farmen kleine Zusatzgewinne erhalten. Am Spawn findest du einen NPC, welcher dir jeden Tag den **Block des Tages** präsentiert.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Block des Tages-Menü</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption><p>Block des Tages-Menü</p></figcaption></figure>
 
 In diesem Beispiel ist Seltsamer Sand der Block des Tages.
 

@@ -20,7 +20,7 @@ Mit jeder Season ändern sich die täglichen & wöchentlichen Aufgaben sowie die
 
 ## Die Aufgaben
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Aufgabenübersicht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Aufgabenübersicht</p></figcaption></figure>
 
 Im Pass findest du zwei verschiedene Arten von Aufgaben, welche du erledigen kannst.
 
@@ -52,13 +52,13 @@ Damit es am Ende einer Pass-Season nicht zu stressig wird, gibt es in den letzte
 
 #### Aufgaben, die mehrfach abgeschlossen werden können
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Einige Aufgaben können mehrmals abgeschlossen werden, wie diese tägliche Aufgabe. Der Fortschritt zeigt den aktuellen Fortschritt an. Dieser wird nach Abschließen der Aufgabe wieder auf 0 gesetzt.
 
 ## Belohnungen
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Im Battle Pass stehen verschiedene Belohnungen zur Verfügung, welche mit erreichen des Pass-Levels freigeschaltet werden.&#x20;
 
@@ -84,7 +84,7 @@ Der Griefer-Pass wird immer für die aktuelle Season freigeschaltet und muss jed
 
 ### Mit Kristallen kaufen
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Im Hauptmenü des Battle Pass kann der Griefer-Pass für Kristalle gekauft werden. Der Preis vom Pass beträgt aktuell [<mark style="color:blue;">1000 Kristalle</mark>](../waehrungen/).&#x20;
 
@@ -94,6 +94,6 @@ Die Belohnungen des Standard- & Griefer-Pass enthalten zusammen immer mindestens
 
 ### Als Item einlösen
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Der Griefer-Pass kann über ein Item freigeschaltet werden. Benutze das Griefer-Pass-Item, um den Griefer-Pass für die **aktuelle Season** zu aktivieren.

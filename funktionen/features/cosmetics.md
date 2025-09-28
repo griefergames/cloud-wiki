@@ -2,7 +2,7 @@
 
 Mit dem Cosmetics-System kann die Optik der getragenen Rüstung durch kosmetische Rüstungen verändert werden.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Cosmetics-Menü</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Cosmetics-Menü</p></figcaption></figure>
 
 Die kosmetische Rüstung kann unter `/cosmetics` hinzugefügt oder entfernt werden. Klicke auf ein Rüstungsteil in deinem Inventar und es wird in die Cosmetic-Slots hinterlegt. Ist dort bereits eine Rüstung hinterlegt, wird diese zurück in dein Inventar gelegt. Zusätzlich kann auch kosmetische Rüstung im Slot der Schildhand hinterlegt werden.
 

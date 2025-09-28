@@ -2,7 +2,7 @@
 
 Eheringe können beim [Amin-Shop](../features/die-handler.md) am Spawn für[ Adventure-Coins](../waehrungen/) gekauft werden. Sie ermöglichen es Spielern, zu heiraten, indem ein Spieler dem anderen einen Antrag stellt und beide diesen bestätigen. Nach erfolgreicher Hochzeit erhalten beide Spieler einen signierten Ehering!
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## So funktioniert das Item
 
