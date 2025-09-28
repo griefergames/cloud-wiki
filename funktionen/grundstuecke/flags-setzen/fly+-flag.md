@@ -2,7 +2,7 @@
 
 Mit dem **Fly+ Item** erlaubst du **allen Spielern**, die ein **aktiviertes Fly-Perk** haben, auf deinem Grundstück zu fliegen, normalerweise können nur Spieler mit Trust auf dem Plot fliegen.
 
-<p align="center"><img src="../../../.gitbook/assets/unknown (4).png" alt=""></p>
+<p align="center"><img src="../../../.gitbook/assets/unknown (4) (1).png" alt=""></p>
 
 ## Einlösen des Items
 

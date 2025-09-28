@@ -2,7 +2,7 @@
 
 Mit der Einmaligen Gegenstandsreparatur kannst du ein spezifisches Item **einmalig reparieren**. Sie ist besonders effektiv für die stärksten und seltensten Gegenstände.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (4) (1).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (4) (1) (1).png" alt=""></p>
 
 ## So funktioniert das Item
 
@@ -11,4 +11,4 @@ Mit der Einmaligen Gegenstandsreparatur kannst du ein spezifisches Item **einmal
 3. Im Einmaligen Gegenstandsreparatur-Interface musst du das Item, das du reparieren möchtest, in deinem Inventar anklicken.
 4. Das gewählte Item wird vollständig repariert, und die Einmalige Gegenstandreparatur verschwindet danach automatisch aus deinem Inventar.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (5) (1).png" alt=""><br></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (5) (1) (1).png" alt=""><br></p>

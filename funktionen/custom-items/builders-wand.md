@@ -2,7 +2,7 @@
 
 Die Builders Wand erleichtert das Bauen, indem sie Wände oder Strukturen um bis zu 50 Blöcke gleichzeitig erweitert.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (6) (1) (1).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (6) (1) (1) (1).png" alt=""></p>
 
 ## So funktioniert das Item
 

@@ -29,7 +29,7 @@ Folgende Spiele stehen aktuell zur Verfügung:
 
 Für manche Spiele können Spielsteine verwendet werden (z. B. 4-Gewinnt). Die Spielsteinsammlung kann oben rechts im Menü eingesehen und der gewünschte Spielstein gewählt werden.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (7).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (7) (1).png" alt=""></p>
 
 Die Spielsteine in Form von Blöcken droppen mit einer kleinen Wahrscheinlichkeit bei jedem Abbau des Blocks. Diese können also beim Farmen in der Farmwelt zwischendurch erhalten werden. Somit sind diese Spielsteine von der Seltenheit abhängig von dem Vorkommen in den Farmwelten.
 

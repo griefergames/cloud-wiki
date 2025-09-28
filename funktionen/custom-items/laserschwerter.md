@@ -2,7 +2,7 @@
 
 Mit den **Laserschwertern** aus dem **Star Wars-Universum** kannst du epische Duelle austragen, wähle zwischen verschiedenen Farben und ein- oder doppelseitigen Schwertern, um deinen Stil zu zeigen.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (5).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (5) (1).png" alt=""></p>
 
 ## Nutzung des Laserschwerts
 

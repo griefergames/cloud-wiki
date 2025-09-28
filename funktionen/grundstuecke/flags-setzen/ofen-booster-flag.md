@@ -2,7 +2,7 @@
 
 Mit dem **Ofen-Booster** Item kannst du auf deinem Plot die **Öfen schneller brennen** lassen, sodass Items sofort gebrannt werden.
 
-<p align="center"><img src="../../../.gitbook/assets/unknown (6).png" alt=""></p>
+<p align="center"><img src="../../../.gitbook/assets/unknown (6) (1).png" alt=""></p>
 
 ## Einlösen des Items
 

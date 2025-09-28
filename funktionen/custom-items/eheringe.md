@@ -11,7 +11,7 @@ Eheringe können beim [Amin-Shop](../features/die-handler.md) am Spawn für[ Adv
 3. Es öffnet sich ein Bestätigungsmenü, in dem beide Spieler den Antrag bestätigen oder ablehnen müssen.
 4. Nach der Bestätigung erhalten beide Spieler einen signierten Ehering.
 
-<p align="center"><img src="../../.gitbook/assets/unknown.png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (9).png" alt=""></p>
 
 {% hint style="danger" %}
 Spieler, die bereits einen Ehering im Inventar oder in der EC haben, können nicht erneut heiraten; es erscheint eine Nachricht im Chat, und um dies zu umgehen, muss der Ring z. B. in eine Truhe gelegt werden.

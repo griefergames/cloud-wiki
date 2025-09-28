@@ -6,7 +6,7 @@ Der Köpfe-Säbel hat standardmäßig 150 Nutzungen. Mit ihm kannst du gezielt d
 Auf einem Plot muss die PVP-Flag aktiviert sein.
 {% endhint %}
 
-<p align="center"><img src="../../.gitbook/assets/unknown (6) (1).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/unknown (6) (1) (1).png" alt=""></p>
 
 ## So funktioniert das Item
 
