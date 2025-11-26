@@ -95,14 +95,14 @@
   * [Trichter-System](funktionen/features/trichter-system.md)
   * [Unbegrenzter Speicher](funktionen/features/unbegrenzter-speicher.md)
   * [Zufällige Item-Werte](funktionen/features/zufallige-item-werte.md)
+* [🪑 Dekorationen](funktionen/dekorationen/README.md)
+  * [🅱️ CustomBlocks](funktionen/dekorationen/customblocks.md)
 * [⭐ Events](funktionen/events.md)
   * [Angel-Event](funktionen/events/angel-event.md)
 * [🦾 Mechanik-Änderungen](funktionen/mechanik-aenderungen/README.md)
   * [Bergungskompass](funktionen/mechanik-aenderungen/bergungskompass.md)
   * [Pigman-Farmen](funktionen/mechanik-aenderungen/pigman-farmen.md)
   * [Reparatur Verzauberung](funktionen/mechanik-aenderungen/reparatur-verzauberung.md)
-* [🪑 Dekorationen](funktionen/dekorationen/README.md)
-  * [🅱️ CustomBlocks](funktionen/dekorationen/customblocks.md)
 * [🦝 MysteryMod Fabric](funktionen/mysterymod-fabric.md)
 
 ## Minigames
