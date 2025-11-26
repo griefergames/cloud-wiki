@@ -70,7 +70,7 @@ Im Westen des Spawns befindet sich der Zugang zum [Event-System](events.md) mit 
 
 <figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-Im Osten befindet sich der Bereich für unsere [Minigames](broken-reference). Hier finden sich verschiedene NPCs, um direkt in eine Lobby zu gelagen und Informationen zu aktuellen Minigame-Themen (und zukünfigt Toplisten).
+Im Osten befindet sich der Bereich für unsere [Minigames](/broken/pages/sSDRyP6AME2IpCzfg2Le). Hier finden sich verschiedene NPCs, um direkt in eine Lobby zu gelagen und Informationen zu aktuellen Minigame-Themen (und zukünfigt Toplisten).
 
 ## Weitere Dinge auf den Spawns
 

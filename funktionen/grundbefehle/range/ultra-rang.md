@@ -12,4 +12,4 @@ Der **Ultra-Rang** kann im Shop gekauft werden. Zusätzlich hast du die Möglich
 * [Hologramme ](../../grundstuecke/hologramme.md)farbig gestalten mit Farbcodes
 * Zugriff auf extra Slots bei [Rand- und Wand-Händlern](../../features/die-handler.md)
 
-\
+<br>

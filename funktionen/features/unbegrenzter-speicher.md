@@ -42,10 +42,10 @@ Der Gegenstand oben in der Mitte bestimmt den zu lagernden Gegenstand.
 
 ![](../../.gitbook/assets/4.png)
 
-Die Herstellung des unbegrenzten Speichers ist mit den [CustomBlock](../customblocks.md)-Kisten möglich. Dies ermöglicht zum Beispiel eine abwechslungsreiche Dekoration von Lagersystemen. Für Spieler, die keine [CustomBlocks](../customblocks.md) nutzen, werden die unbegrenzten Speicher als Fässer dargestellt.
+Die Herstellung des unbegrenzten Speichers ist mit den [CustomBlock](../dekorationen/customblocks.md)-Kisten möglich. Dies ermöglicht zum Beispiel eine abwechslungsreiche Dekoration von Lagersystemen. Für Spieler, die keine [CustomBlocks](../dekorationen/customblocks.md) nutzen, werden die unbegrenzten Speicher als Fässer dargestellt.
 
 {% hint style="info" %}
-Stellst du den unbegrenzten Speicher mit Kisten der [CustomBlocks](../customblocks.md) her, dann kannst du diese auch separat mit der Use-Flag freigeben.
+Stellst du den unbegrenzten Speicher mit Kisten der [CustomBlocks](../dekorationen/customblocks.md) her, dann kannst du diese auch separat mit der Use-Flag freigeben.
 {% endhint %}
 
 ### Verfügbare Items <a href="#id-6dwmq4tc4iw5" id="id-6dwmq4tc4iw5"></a>
@@ -80,4 +80,4 @@ Die Einlagerung mit Trichtern von verzauberten Items wird blockiert. Dies kann g
 
 #### Freigabe (“Use”) Flags <a href="#wxvj8kmznmto" id="wxvj8kmznmto"></a>
 
-Werden die unbegrenzten Speicher mit Fässern (und nicht mit [CustomBlocks](../customblocks.md)) hergestellt, wirkt die Freigabe-Flag für normale Fässer (“use barrel”) auch für die unbegrenzten Speicher.
+Werden die unbegrenzten Speicher mit Fässern (und nicht mit [CustomBlocks](../dekorationen/customblocks.md)) hergestellt, wirkt die Freigabe-Flag für normale Fässer (“use barrel”) auch für die unbegrenzten Speicher.

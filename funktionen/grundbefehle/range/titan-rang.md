@@ -9,4 +9,4 @@ Der <mark style="color:blue;">Titan</mark>-Rang kann nur im Shop gekauft werden 
 * Hellblau Fett im Chat schreiben mit `/b`
 * 6 Homes setzen mit `/sethome`
 * Items [signieren ](../signieren-von-items.md)mit `/sign <Text>`
-* Clan darf +7 Mitglieder mehr haben (inkl. Premium. Ultra, Legende)\
+* Clan darf +7 Mitglieder mehr haben (inkl. Premium. Ultra, Legende)<br>

@@ -12,27 +12,21 @@ Der Griefer-Rang kann im Shop gekauft werden und ist dauerhaft. Er beinhaltet al
 * Farmserver frei aussuchen mit `/farm`
 * [Clan ](../../features/clan-system.md)darf +9 Mitglieder mehr haben (inkl. Premium, Ultra, Legende & Titan)
 * Zugriff auf die extra Slots beim [Rand- und Wand-Händler](../../features/die-handler.md) (Griefer-Slot)\
-  \
-
-
-\
-\
-
+  <br>
 
 \
-\
-
-
-\
-\
-
+<br>
 
 \
-\
-
-
-\
-\
-
+<br>
 
 \
+<br>
+
+\
+<br>
+
+\
+<br>
+
+<br>

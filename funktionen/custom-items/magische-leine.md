@@ -24,4 +24,4 @@ Um einem Mob auf dem Plot einen Namen zu geben, muss dieser in der Farmwelt mit 
 * Mobs sind auf dem Plot nur Deko und haben keine Funktionen.
 {% endhint %}
 
-\
+<br>

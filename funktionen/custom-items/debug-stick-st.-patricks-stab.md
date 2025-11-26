@@ -22,4 +22,4 @@ Beim Rechtsklick auf den Ofen änderst du den Zustand „lit“ auf true. Dadurc
 
 Wenn du erneut mit Rechtsklick auf den Ofen klickst, setzt du den Zustand „lit“ wieder auf false. Der Ofen erscheint dadurch aus, selbst wenn der Block eigentlich unverändert bleibt.
 
-![](<../../.gitbook/assets/unknown (3) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/unknown (3) (1) (1) (1).png>)<br>

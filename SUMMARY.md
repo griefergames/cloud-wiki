@@ -101,7 +101,8 @@
   * [Bergungskompass](funktionen/mechanik-aenderungen/bergungskompass.md)
   * [Pigman-Farmen](funktionen/mechanik-aenderungen/pigman-farmen.md)
   * [Reparatur Verzauberung](funktionen/mechanik-aenderungen/reparatur-verzauberung.md)
-* [🅱️ CustomBlocks](funktionen/customblocks.md)
+* [🪑 Dekorationen](funktionen/dekorationen/README.md)
+  * [🅱️ CustomBlocks](funktionen/dekorationen/customblocks.md)
 * [🦝 MysteryMod Fabric](funktionen/mysterymod-fabric.md)
 
 ## Minigames

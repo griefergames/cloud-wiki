@@ -15,7 +15,7 @@ MysteryMod ist die Partner-Mod von GrieferGames. Sie fügt einige Cosmetics & Em
 
 \- Cosmetics, Emotes & Cloaks
 
-\- Möbel ([CustomBlocks](customblocks.md))
+\- Möbel ([CustomBlocks](dekorationen/customblocks.md))
 
 \- Modifiziertes Chat-System (Chat-Filter, Auto-Text, Chat-Kategorien usw.)
 

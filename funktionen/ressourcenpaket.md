@@ -33,7 +33,7 @@ Wir wollen möglichst wenig in eure eigenen Texturen eingreifen und beschränken
 * Anpassung von Inventar-Menüs (Hintergrund, Buttons etc.)
 * Animationen in der Tabliste
 * Einbringung kleiner grafischer Elemente (z. B. das Scoreboard-Logo)
-* Einzelne Items aus [CustomBlocks](customblocks.md) (z. B. Portalgun für das Minigame "Lasertag")
+* Einzelne Items aus [CustomBlocks](dekorationen/customblocks.md) (z. B. Portalgun für das Minigame "Lasertag")
 * Einzelne Änderungen von Spezial-Item-Optiken zur Hervorhebung
 * Custom-Rüstungen / Cosmetics
 * Kosmetische Blöcke / Deko-Blöcke
