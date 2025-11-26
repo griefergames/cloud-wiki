@@ -11,3 +11,6 @@ Inhalt dieser Seite ist aktuell in Bearbeitung
 {% hint style="info" %}
 Um die Dekorationen sehen zu können, wird das aktivierte [Server-Resourcenpaket](../ressourcenpaket.md) benötigt.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+
