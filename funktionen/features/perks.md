@@ -45,3 +45,28 @@ Jeden Tag, an dem du das Perk aktivierst oder du dich mit aktiviertem Perk einlo
 {% hint style="info" %}
 Löst du also ein Perk in der Nacht um 23 Uhr ein, ist die verbleibende Laufzeit für diesen einen Tag nur eine Stunde. Bei einem Login nach 0 Uhr wird ein weiterer Tag abgezogen.
 {% endhint %}
+
+## Einstellungen Shulker-View + Litematica
+
+{% hint style="danger" %}
+Da Litematica nicht durch Benutzer mögliche Aktionen & sehr viele Aktionen durchführt, können ohne die folgende Einstellungen Shulker-Kisten durch einen Schutz abhanden kommen.
+{% endhint %}
+
+Um zu verhindern, dass mit Litematica Shulker-Kisten beim öffnen vom Schutz entfernt werden, ist in Litematica eine Vorkehrung zu treffen.
+
+In Litematica muss ein Slot im Menü deaktiviert werden. Das ist aktuell nur mit den **Hotbar-Slots** möglich, weswegen dort ein Slot gewählt werden muss. Nachdem der Slot für Litematica deaktiviert wurde, muss dieser Slot immer für das Öffnen der Shulker-Kisten verwendet werden.
+
+### Wie deaktiviere ich Litematica Slots?
+
+1. Gehe im Menü auf **Configuration menu**.
+
+<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+
+2. Wähle den Reiter **Generic**
+3. Entferne in der Einstellung pickBlockableSlots einen Slot deiner Wahl.
+
+{% hint style="info" %}
+Wir empfehlen **Slot 9** zu wählen, das ist der letzte Slot in deiner Hotbar.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
