@@ -37,6 +37,7 @@
   * [Hologramme](funktionen/grundstuecke/hologramme.md)
   * [Inaktive Grundstücke](funktionen/grundstuecke/inaktive-grundstuecke.md)
   * [Mergen](funktionen/grundstuecke/mergen.md)
+  * [Farm-Sammler](funktionen/grundstuecke/farm-sammler.md)
   * [Plot-NPC](funktionen/grundstuecke/plot-npc.md)
   * [Mobs auf dem Grundstück](funktionen/grundstuecke/mobs-auf-dem-grundstuck.md)
   * [Spawn-Grundstücke](funktionen/grundstuecke/spawn-grundstucke.md)
