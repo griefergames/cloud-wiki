@@ -4,7 +4,7 @@ description: Anpassung der Funktionsweise von Reparatur / Mending
 
 # Reparatur Verzauberung
 
-Auf GrieferGames gibt es einige Items, welche besondere Fähigkeiten oder hähere Item-Werte haben, welche nicht mit Reparatur repartiert werden können.
+Auf GrieferGames gibt es einige Items, welche besondere Fähigkeiten oder höhere Item-Werte haben, welche nicht mit Reparatur repartiert werden können.
 
 ## Wann ist ein Item nicht durch Reparatur / Mending reparierbar?
 
