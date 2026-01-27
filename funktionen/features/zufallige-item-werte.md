@@ -2,13 +2,13 @@
 
 Einige Items können zufällige Werte erhalten, wenn diese gekauft, gewonnen oder gedroppt werden. Dadurch entsteht eine Variation an verschiedenen Items, welche schlechter und besser sein können.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Wir ein solches Item in der Übersicht z.B. des [CaseOpening](case-opening.md) oder eines [Händlers ](die-handler.md)angezeigt, sind dort die Optionen zu sehen, mit welchen das Item generiert wird.
 
 ## Anzeige der Wertoptionen
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 In diesem Beispiel erhält der Gegenstand eine zufällige Rüstungshärte zwischen 5 und 15 und ist zu 100% (immer) auf dem Gegenstand vorhanden.
 

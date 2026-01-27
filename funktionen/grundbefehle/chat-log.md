@@ -7,7 +7,7 @@ description: Beweissicherung für falsches Chatverhalten
 Mit dem Chat-Log-System ist es möglich, den aktuellen Inhalt des Chats zu speichern, um diesen z. B. an das Team für einen Report weiterzuleiten. Es können verschiedene Chat-Logs erstellt werden.
 
 {% hint style="danger" %}
-Chat-Logs sind in vielen Fällen das benötigte Beweismaterial [mehr dazu hier](../../griefergames-allgemein/beschwerden-ueber-spieler-beweismaterial.md).
+Chat-Logs sind in vielen Fällen das benötigte Beweismaterial [mehr dazu hier](../../allgemein/beschwerden-ueber-spieler-beweismaterial.md).
 {% endhint %}
 
 ## Erstellung von Chat-Logs

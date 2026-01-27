@@ -20,7 +20,7 @@ Mit jeder Season ändern sich die täglichen & wöchentlichen Aufgaben sowie die
 
 ## Die Aufgaben
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Aufgabenübersicht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Aufgabenübersicht</p></figcaption></figure>
 
 Im Pass findest du zwei verschiedene Arten von Aufgaben, welche du erledigen kannst.
 

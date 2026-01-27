@@ -118,10 +118,12 @@
   * [TNT-Run](minigames/karten-erstellen/tnt-run.md)
   * [Murder Mystery](minigames/karten-erstellen/murder-mystery.md)
 
-## GRIEFERGAMES ALLGEMEIN
+## ALLGEMEIN
 
-* [❗ Beschwerden über Spieler / Beweismaterial](griefergames-allgemein/beschwerden-ueber-spieler-beweismaterial.md)
-* [📊 Das Vote-System](griefergames-allgemein/das-vote-system.md)
+* [🧩 Clients & Modifikationen](allgemein/clients-and-modifikationen/README.md)
+  * [Litematica](allgemein/clients-and-modifikationen/litematica.md)
+* [❗ Beschwerden über Spieler / Beweismaterial](allgemein/beschwerden-ueber-spieler-beweismaterial.md)
+* [📊 Das Vote-System](allgemein/das-vote-system.md)
 * [🎬 Für Content Creator](https://wiki.griefergames.net/erweiterte-features/fuer-content-creator)
 
 ## Häufig gestellte Fragen
