@@ -1,6 +1,5 @@
 ---
 description: Informationen zur verbotenen Automatisierung (kurz Botting)
-hidden: true
 ---
 
 # Was zählt zu Botting?
@@ -27,14 +26,16 @@ Ein paar Beispielsituationen zu diesem Thema. \
   &#xNAN;_&#x44;amit befinde ich mich nicht im "Botting-Client", welcher dadurch entsprechend Bottet, da er ohne mein beisein dinge ausführt._
 * <mark style="color:$danger;">**BOT**</mark>**&#x20;Ich bin nicht am PC, auch nur kurz auf der Toilette**\
   &#xNAN;_&#x44;amit bin ich nicht anwesend_
-* <mark style="color:$success;">**OK**</mark>**&#x20;Ich platziere mit Litematica Printer und ich bin am PC und in diesem Minecraft Client.**\
+* <mark style="color:$success;">**OK**</mark>**&#x20;Ich baue mit Litematica Printer und ich bin am PC und in diesem Minecraft Client.**\
   &#xNAN;_&#x44;as ist in Ordnung. Litematica ist eine erlaubte Modifikation und ich bin Anwesend im Client._
-* <mark style="color:$danger;">**BOT**</mark>**&#x20;Ich platziere mit Litematica Printer und bin in einem anderen Minecraft-Client**\
+* <mark style="color:$danger;">**BOT**</mark>**&#x20;Ich baue mit Litematica Printer und bin in einem anderen Minecraft-Client**\
   &#xNAN;_&#x44;amit bin ich nicht anwesend. Da ich nicht dabei bin, automatisiert der Client die Arbeit alleine und ist somit ein Bot._
 * <mark style="color:red;">**BOT**</mark>**&#x20;Ich bin anwesend und töte Mobs per AutoClicker oder KillAura.**\
   &#xNAN;_&#x41;utoClicker & KIllAura ist verboten und deshalb ist es ein Bot._
 * <mark style="color:$success;">**OK**</mark>**&#x20;Ich bin abwesend und dadurch, dass ich Ingame stehe (und nichts mache) werden Farmen getriggert**\
   Der Client führt nichts aus, damit vollkommen okay.
 * <mark style="color:$success;">**OK**</mark>**&#x20;Ich bin abwesend und baue immer wieder den selben Block am Cobbler ab, da ich beim Abbauen mit F3+T das Abbauen aktivieren konnte.**\
-  Ich bin zwar abwesend, aber es ist eine Mechanik, die der Minecraft-Client standardmäßig unterstützt und für erlaubt befunden wurde.<br>
+  Ich bin zwar abwesend, aber es ist eine Mechanik, die der Minecraft-Client standardmäßig unterstützt und für erlaubt befunden wurde.
+* <mark style="color:red;">**BOT**</mark>**&#x20;Ich sende regelmäßíg oder unregelmäßig /near in den Chat, auch wenn ich nicht anwesend bin**\
+  Das ist eine Automatisierung und damit verboten.<br>
 
