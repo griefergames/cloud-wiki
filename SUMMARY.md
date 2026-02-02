@@ -133,6 +133,7 @@
   * [Ehemalige Teammitglieder & Helfer](https://wiki.griefergames.net/faq/griefergames/ehemalige-teammitglieder-and-helfer)
   * [Teammitglied werden](https://wiki.griefergames.net/faq/griefergames/teammitglied-werden)
   * [Kontakt und Verlinkungen](https://wiki.griefergames.net/faq/griefergames/kontakt-and-verlinkungen)
+* [Was zählt zu Botting?](haufig-gestellte-fragen/was-zahlt-zu-botting.md)
 
 ## Hilfreiche Links
 
