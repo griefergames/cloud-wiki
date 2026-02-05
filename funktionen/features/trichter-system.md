@@ -78,7 +78,7 @@ Der Radius kann ggf. durch weitere Rechte erweitert sein, z.B. auf Simulation- o
 
 #### Übersicht über bestehende Verbindungen
 
-<figure><img src="../../.gitbook/assets/image (23) (1) (2).png" alt="" width="176"><figcaption><p>Übersichtsseite</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption><p>Übersicht der Mehrfachverbindungen</p></figcaption></figure>
 
 In dieser Ansicht sind die bereits eingerichteten Verbindungen zu sehen. Pro Material kann ein Endpunkt als Ziel existieren. Mit einem Klick auf das Material kann der Endpunkt entfernt werden.
 
@@ -98,13 +98,24 @@ Der Verbindungsmodus wird durch das Sneaken beendet.
 
 Dieser Modus ermöglicht es, dass Gegenstände auf mehrere Anlagen aufgeteilt werden, wenn diese z.B. aus einem [Unbegrenztem Speicher](unbegrenzter-speicher.md) mit einem Trichter gezogen werden.
 
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+Diese Option ist zum Verteilen von Items in verschiedene Anlagen. Das Feature ist nicht zur freien Verwendung für alle möglichen Konstruktionen. \
+Zur Freigabe von anderweitiger Verwendung, erfrage eine Einzelfallgenehmigung im Ticket-System.
+{% endhint %}
+
+Die Aufteilung kann bis zu 10 Ziele bei gleicher Geschwindigkeit beliefern, danach wird mit jedem weiteren Ziel die Geschwindigkeit pro Ziel ein wenig langsamer.
+
+Die Items werden "im Kreis" an die Ziele verteilt. Ist ein Ziel voll wird dieses übersprungen und im nächsten Tick normal das nächste Ziel beliefert.
+
 ### Optische Anzeige
 
 Mit einem Klick auf <img src="../../.gitbook/assets/image (34).png" alt="" data-size="line"> <mark style="color:orange;">**Optische Anzeige**</mark> werden die Verbindungen und der Sammelradius des Trichters mit Partikeln angezeigt.
 
 <figure><img src="../../.gitbook/assets/image (6) (2).png" alt="" width="375"><figcaption><p>Optische Anzeige</p></figcaption></figure>
 
-### Item-Filter
+## Item-Filter
 
 Mit dem Trichter-System ist es ebenfalls möglich, die Items zu filtern, welche in den Trichter aufgenommen werden sollen.
 
@@ -116,17 +127,17 @@ Die folgenden Filter-Optionen lassen sich ebenfalls miteinander kombinieren.
 
 Die Filter können mit einem Shift-Klick auf das <img src="../../.gitbook/assets/image (37) (2).png" alt="" data-size="line"> Filter-Icon entfernt werden. Das Icon wechselt je nach gefiltertem Material.
 
-#### Materialfilter
+### Materialfilter
 
-<figure><img src="../../.gitbook/assets/image (26) (3).png" alt=""><figcaption><p>Beispiel Materialfilter auf Grasblock</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption><p>Beispiel Materialfilter auf Grasblock</p></figcaption></figure>
 
 Um ein Material für den Trichter zu filtern, kann das Material im Hauptmenü aus dem eigenen Inventar ausgewählt werden. Das gefilterte Material ist dann an der Stelle des <img src="../../.gitbook/assets/image (37) (2).png" alt="" data-size="line"> zu sehen.
 
 Mit dem Klick auf das gefilterte Material oder <img src="../../.gitbook/assets/image (37) (2).png" alt="" data-size="line"> öffnet sich das Filter-Menü mit den folgenden Optionen.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Filter-Übersicht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption><p>Filter-Übersicht</p></figcaption></figure>
 
-#### Verzauberungsfilter
+### Verzauberungsfilter
 
 Mit einem Klick auf den <img src="../../.gitbook/assets/image (34) (1).png" alt="" data-size="line"> <mark style="color:orange;">**Verzauberungsfilter**</mark> aktiviert sich der Verzauberungsfilter. Bei einem weiteren Klick öffnet sich das Menü mit den filterbaren Verzauberungen.
 
@@ -140,7 +151,7 @@ Werden mehrere Verzauberungen gewählt, müssen alle Verzauberungen auf dem Item
 
 Zusätzlich zum Verzauberungsfilter steht mit dem <img src="../../.gitbook/assets/image (37) (2).png" alt="" data-size="line"> unter dem <img src="../../.gitbook/assets/image (34) (1).png" alt="" data-size="line"> der Filter "keine Verzauberung" zur Verfügung.
 
-#### Effektfilter
+### Effektfilter
 
 Mit einem Klick auf den <img src="../../.gitbook/assets/image (7) (1) (2).png" alt="" data-size="line"> <mark style="color:orange;">**Effektfilter**</mark> aktiviert sich der Effektfilter. Bei einem weiteren Klick öffnet sich das Menü mit den filterbaren Effekten.
 
@@ -154,7 +165,7 @@ Werden mehrere Effekte gewählt, müssen alle Effekte auf dem Item vorhanden sei
 
 Zusätzlich zum Effektfilter steht mit dem <img src="../../.gitbook/assets/image (37) (2).png" alt="" data-size="line"> unter dem <img src="../../.gitbook/assets/image (7) (1) (2).png" alt="" data-size="line"> der Filter "keine Effekte" zur Verfügung.
 
-#### Signierungsfilter
+### Signierungsfilter
 
 Mit einem Klick auf den <img src="../../.gitbook/assets/image (24) (1) (2).png" alt="" data-size="line"> <mark style="color:orange;">**Signierungsfilter**</mark> aktiviert sich der Signierungsfilter. Bei einem weiteren Klick öffnet sich das Menü für die Einstellung der Signierung.
 
@@ -170,10 +181,10 @@ Die folgenden Optionen der Signierung können eingestellt werden:
 Der Text der Signierung muss die eingestellten Zeichen / den eingestellten Text nur enthalten und nicht vollständig entsprechen.
 {% endhint %}
 
-#### Beschreibungsfilter
+### Beschreibungsfilter
 
 Dieser Abschnitt folgt bald. Aktuell auf der Cloud durch die internationalisierten Beschreibungen nicht möglich.
 
-#### Namensfilter
+### Namensfilter
 
 Dieser Abschnitt folgt bald. Aktuell auf der Cloud durch die internationalisierten Namen nicht eindeutig.
