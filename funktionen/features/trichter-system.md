@@ -20,7 +20,7 @@ Ein Trichter tickt standardmäßig alle <mark style="color:red;">**8 Ticks**</ma
 
 Klickst du beim Sneaken mit Rechtsklick auf einen platzierten Trichter, öffnet sich ein Optionsmenü für diesen Trichter.
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Trichter-Hauptmenü</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Trichter-Hauptmenü</p></figcaption></figure>
 
 Dieses Menü bietet verschiedene Einstellungsoptionen, welche im Folgenden erläutert werden.
 
@@ -52,6 +52,10 @@ Diese Option steht nur der Administration zur Verfügung oder bei aktivierter `h
 
 Der maximale Sammelradius beträgt <mark style="color:orange;">**15 Blöcke**</mark> und ist zusätzlich durch die <mark style="color:orange;">**Plot-Grenze begrenzt**</mark>.
 
+{% hint style="info" %}
+Radius 0 deaktiviert das einsammeln von Items aus der Luft.
+{% endhint %}
+
 ### Verbundener Trichter
 
 Über die <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> <mark style="color:orange;">**Trichterverbindung**</mark> kann das Ziel des Trichters direkt ausgewählt werden. Das Ziel kann sich in einem Bereich von <mark style="color:orange;">**30 Blöcken**</mark> gewählt werden.
@@ -63,6 +67,10 @@ Trichter können mit allen Blöcken verbunden werden, welche ein Inventar haben.
 Um einen Trichter zu verbinden, klicke auf <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> und anschließend mit leerer Hand und mit einem Rechtsklick auf den Block, welcher verbunden werden soll.
 
 Beim Klick auf den selben Trichter und wenn die Entfernung zu groß wird, wird der Verbindungsmodus beendet.
+
+{% hint style="success" %}
+Der Radius kann ggf. durch weitere Rechte erweitert sein, z.B. auf Simulation- oder View-Distance.
+{% endhint %}
 
 ### Mehrfachverbindungen
 
@@ -85,6 +93,10 @@ Sobald der Verbindungsmodus aktiv ist, können neue Verbindungen hinzugefügt we
 Die Verbindung wird dann hinzugefügt, welches im Chat bestätigt wird und das nächste Material kann hinterlegt werden.
 
 Der Verbindungsmodus wird durch das Sneaken beendet.
+
+### Verbindungs-Aufteilung (Split)
+
+Dieser Modus ermöglicht es, dass Gegenstände auf mehrere Anlagen aufgeteilt werden, wenn diese z.B. aus einem [Unbegrenztem Speicher](unbegrenzter-speicher.md) mit einem Trichter gezogen werden.
 
 ### Optische Anzeige
 
