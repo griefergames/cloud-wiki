@@ -134,6 +134,7 @@
   * [Teammitglied werden](https://wiki.griefergames.net/faq/griefergames/teammitglied-werden)
   * [Kontakt und Verlinkungen](https://wiki.griefergames.net/faq/griefergames/kontakt-and-verlinkungen)
 * [Was zählt zu Botting?](haufig-gestellte-fragen/was-zahlt-zu-botting.md)
+* [Für Entwickler](https://wiki.griefergames.net/faq/fur-entwickler/client-payloads)
 
 ## Hilfreiche Links
 
