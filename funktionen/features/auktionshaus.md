@@ -69,7 +69,7 @@ Die auslaufenden Auktionen werden alle **15 Minuten** verarbeitet. Es befinden s
 Jeder Spieler kann eine neue Auktion erstellen. Dazu wähle im Hauptmenü ![](<../../.gitbook/assets/image (50).png>) Eigene Auktionen. Von dort kann über ![](<../../.gitbook/assets/image (51).png>) eine neue Auktion erstellt werden.
 
 Wähle ein Item aus deinem Inventar, welches du im Auktionshaus anbieten möchtest.\
-&#xNAN;_&#x44;ieses erscheint dann oben als angezeigtes Item._
+_&#x44;ieses erscheint dann oben als angezeigtes Item._
 
 ### Startpreis festlegen
 

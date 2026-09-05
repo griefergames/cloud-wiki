@@ -6,7 +6,7 @@ Der Allay-Lieferdienst bringt dir Items, die du durch z.B. Eventbelonungen oder 
 
 <p align="center"><img src="../../.gitbook/assets/unknown (9) (1).png" alt=""></p>
 
-Der **Allay-Postbote** erscheint neben dir, wenn es eine Lieferung gibt, welche du abholen kannst. Zusätzlich findest du am [Spawn ](../der-spawn.md)immer einen **Allay-Postboten**, mit dem du sprechen kannst.
+Der **Allay-Postbote** erscheint neben dir, wenn es eine Lieferung gibt, welche du abholen kannst. Zusätzlich findest du am [Spawn ](../spielmodus-citybuild/der-spawn.md)immer einen **Allay-Postboten**, mit dem du sprechen kannst.
 
 ## Lieferungen des Allay-Lieferdienst
 

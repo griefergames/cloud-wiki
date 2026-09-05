@@ -93,7 +93,7 @@ Zusätzlich zu Fischen, können auch andere Dinge aus dem Wasser gezogen werden.
 
 ## Der Fischhändler
 
-Am [Spawn ](../der-spawn.md)und als [Plot-NPC](../grundstuecke/plot-npc.md) findest du den Fischhändler.
+Am [Spawn ](../spielmodus-citybuild/der-spawn.md)und als [Plot-NPC](../grundstuecke/plot-npc.md) findest du den Fischhändler.
 
 Beim Fischhändler kannst du Fische verkaufen und dir eine Topliste der Spieler im Angeln ansehen.
 

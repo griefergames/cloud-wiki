@@ -1,6 +1,10 @@
-# mit der Java-Edition
+# ...in der Java-Edition
 
-Um mit der Java-Version auf GrieferGames zu joinen, muss der Server in der Serverliste hinzugefügt werden.
+Um mit der Java-Version auf GrieferGames zu joinen, muss der Server in der Serverliste hinzugefügt werden. Dazu wählt man im Minecraft-Menü den Reiter "Mehrspieler" aus und klickst dann auf den Button "Server hinzufügen".
+
+<figure><img src="../.gitbook/assets/62xKy74.png" alt=""><figcaption><p>Minecraft-Menü in der Java-Edition</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Wux5hf5.png" alt=""><figcaption><p>Optionen der Mehrspieler Serverliste in der Java-Edition</p></figcaption></figure>
 
 Die Serveradresse lautet: <mark style="color:orange;">**griefergames.net**</mark>
 

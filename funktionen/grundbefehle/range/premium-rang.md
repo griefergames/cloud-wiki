@@ -11,5 +11,5 @@ Der <mark style="color:orange;">**Premium-Rang**</mark> kann im Shop gekauft wer
 
 * Farbige Chatnachrichten schreiben (Farbcodes)
 * Farbige Texte auf Schildern erstellen (Farbcodes)
-* Zugriff auf das [Spawn](../../der-spawn.md)-Menü mit `/spawn menu`
+* Zugriff auf das [Spawn](../../spielmodus-citybuild/der-spawn.md)-Menü mit `/spawn menu`
 

@@ -17,7 +17,7 @@ Um Grundstücke verbinden zu können, müssen diese nebeneinander liegen. Jeder 
 Um Probleme oder Fehler zu vermeiden, gibt es ein paar Punkte, die du vor dem Merge-Vorgang vorbereiten kannst, um häufige Fehlerquellen auszuschließen.
 
 * **Entferne alle Personen aus den Listen von Vertrauten, Helfern & Verbotenen**\
-  &#xNAN;_&#x45;s passiert oft, dass die Listen sich nicht vollständig synchronisieren, wenn auf mehreren Grundstücken Spieler in den Listen sind._
+  _&#x45;s passiert oft, dass die Listen sich nicht vollständig synchronisieren, wenn auf mehreren Grundstücken Spieler in den Listen sind._
 * **Prüfe, ob du Wasser oder Lava an den Grundstücksrändern platziert hast**\
   Durch das Verbinden der Grundstücke wird die Straße zwischen den Grundstücken zu deinem Grundstück hinzugefügt. Es kann also passieren, dass Wasser oder Lava nach dem Vorgang fließen werden.
 * **Alias temporär entfernen**\
