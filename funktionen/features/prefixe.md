@@ -77,4 +77,4 @@ Folgende Kategorien gibt es derzeit:
 * **Besondere Prefix-Ränge**\
   Darunter fallen z.B.: <mark style="color:red;">**GOAT, Rentner, Prinzessin, Bonze, ...**</mark>
 * **Saisionale Prefix-Ränge**\
-  Darunter fallen z.B.: <mark style="color:yellow;">**Strandaufsichtr**</mark> und <mark style="color:yellow;">**Sonnenstich**</mark>
+  Darunter fallen z.B.: <mark style="color:yellow;">**Strandaufsicht**</mark> und <mark style="color:yellow;">**Sonnenstich**</mark>
