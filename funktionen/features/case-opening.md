@@ -79,7 +79,8 @@ Hier kannst du auswählen, welche Kiste du kaufen möchtest. Am Ende muss der Ka
 Dieser Kauf kann nicht rückgängig gemacht werden!
 {% endhint %}
 
-Seit 2026 gibt es auf der Cloud die möglichkeit sich per Stripe ingame direkt Kisten und Kristalle mit Echtgeld zu kaufen. Weitere Infos zu diesem System findest du [hier](../stripe.md).
+Seit 2026 gibt es auf der Cloud die Möglichkeit sich per Stripe ingame direkt Kisten und Kristalle mit Echtgeld zu kaufen. Weitere Infos zu diesem System findest du [hier](../stripe.md).
+
 ### Keinen Gewinn erhalten? Gekickt oder Region gewechselt?
 
 Keine Sorge! Solltest du beim Öffnen einer Kiste aus Versehen die Region wechseln oder den Server verlassen, ist dein Gewinn nicht verloren.
