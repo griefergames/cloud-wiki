@@ -1,0 +1,389 @@
+name: Sync Shared Wiki Files
+
+on:
+#  push:
+#    paths:
+#      - "**/*.md"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Only print sync plan (no commit/push)"
+        required: false
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+
+jobs:
+  sync-shared-files:
+    if: github.event_name != 'push' || !contains(github.event.head_commit.message || '', '[skip-cross-wiki-sync]')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    env:
+      TARGET_REPO: "griefergames/legacy-wiki"
+      TARGET_BRANCH: "master"
+      TARGET_PATH_PREFIX: ""
+      MATCH_LINK_LABEL: "1.8 Wiki Seite"
+      MATCH_LINK_DOMAIN: "wiki.griefergames.net"
+      REWRITE_LINK_LABEL: "Cloud Wiki Seite"
+      REWRITE_LINK_DOMAIN: "wiki.griefergames.live"
+      ASSET_FILENAME_PREFIX: "legacy_"
+      ASSET_SOURCE_DIR: ".gitbook/assets"
+      ASSET_TARGET_DIR: ".gitbook/assets"
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.dry_run || 'false' }}
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Collect changed markdown files
+        id: changed
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BEFORE_SHA="${{ github.event.before }}"
+          AFTER_SHA="${{ github.sha }}"
+
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            git ls-files "*.md" > changed_files.txt
+          elif [[ "$BEFORE_SHA" == "0000000000000000000000000000000000000000" || -z "$BEFORE_SHA" ]]; then
+            git ls-files "*.md" > changed_files.txt
+          else
+            git diff --name-only --diff-filter=AMR "$BEFORE_SHA" "$AFTER_SHA" -- "*.md" > changed_files.txt
+          fi
+
+          {
+            echo "files<<EOF"
+            cat changed_files.txt
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Filter synchronizable files
+        id: filter
+        shell: bash
+        env:
+          CHANGED_FILES: ${{ steps.changed.outputs.files }}
+          MATCH_LINK_DOMAIN: ${{ env.MATCH_LINK_DOMAIN }}
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY'
+          import os
+          import re
+          from pathlib import Path
+
+          changed = [line.strip() for line in os.environ.get("CHANGED_FILES", "").splitlines() if line.strip()]
+          eligible = []
+          match_domain = os.environ.get("MATCH_LINK_DOMAIN", "").strip().lower()
+
+          def to_current_wiki_path(rel_path: str) -> str:
+            rel = Path(rel_path).as_posix()
+            lower_rel = rel.lower()
+            if lower_rel.endswith("/readme.md"):
+              parent = Path(rel).parent.as_posix()
+              return "" if parent == "." else parent
+            if lower_rel == "readme.md":
+              return ""
+            if lower_rel.endswith(".md"):
+              return rel[:-3]
+            return rel
+
+          if not match_domain:
+            raise SystemExit("MATCH_LINK_DOMAIN is empty")
+
+          details_block_at_end = re.compile(r"<details>[\s\S]*?</details>\s*$", re.IGNORECASE)
+          source_link = re.compile(r"\[[^\]]*\]\(https://" + re.escape(match_domain) + r"/([^\)\s#?]+)[^\)]*\)", re.IGNORECASE)
+
+          for rel_path in changed:
+            path = Path(rel_path)
+            if path.suffix.lower() != ".md" or not path.exists():
+              continue
+
+            content = path.read_text(encoding="utf-8")
+            m = details_block_at_end.search(content)
+            if not m:
+              continue
+
+            block = m.group(0)
+            link_match = source_link.search(block)
+            if not link_match:
+              continue
+
+            link_path = link_match.group(1).strip("/")
+            last_segment = link_path.split("/")[-1]
+            file_stem = path.stem
+
+            if last_segment == file_stem:
+              # Mapping format: source file | destination repo path | backlink path to current wiki.
+              current_wiki_path = to_current_wiki_path(rel_path)
+              eligible.append(f"{rel_path}|{link_path}|{current_wiki_path}")
+
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
+            out.write("files<<EOF\n")
+            out.write("\n".join(eligible))
+            out.write("\nEOF\n")
+          PY
+
+      - name: Stop if nothing to sync
+        if: steps.filter.outputs.files == ''
+        run: echo "No shared files to synchronize."
+
+      - name: Debug sync plan
+        shell: bash
+        env:
+          FILES_TO_SYNC: ${{ steps.filter.outputs.files }}
+          TARGET_PATH_PREFIX: ${{ env.TARGET_PATH_PREFIX }}
+          TARGET_REPO: ${{ env.TARGET_REPO }}
+          TARGET_BRANCH: ${{ env.TARGET_BRANCH }}
+          MATCH_LINK_LABEL: ${{ env.MATCH_LINK_LABEL }}
+          MATCH_LINK_DOMAIN: ${{ env.MATCH_LINK_DOMAIN }}
+          REWRITE_LINK_LABEL: ${{ env.REWRITE_LINK_LABEL }}
+          REWRITE_LINK_DOMAIN: ${{ env.REWRITE_LINK_DOMAIN }}
+          ASSET_FILENAME_PREFIX: ${{ env.ASSET_FILENAME_PREFIX }}
+          ASSET_SOURCE_DIR: ${{ env.ASSET_SOURCE_DIR }}
+          ASSET_TARGET_DIR: ${{ env.ASSET_TARGET_DIR }}
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY'
+          import os
+          import re
+          from pathlib import Path
+          from urllib.parse import unquote
+
+          mappings = [line.strip() for line in os.environ.get("FILES_TO_SYNC", "").splitlines() if line.strip()]
+          target_prefix = os.environ.get("TARGET_PATH_PREFIX", "").strip("/")
+          target_repo = os.environ.get("TARGET_REPO", "")
+          target_branch = os.environ.get("TARGET_BRANCH", "")
+          match_label = os.environ.get("MATCH_LINK_LABEL", "")
+          match_domain = os.environ.get("MATCH_LINK_DOMAIN", "")
+          rewrite_label = os.environ.get("REWRITE_LINK_LABEL", "")
+          rewrite_domain = os.environ.get("REWRITE_LINK_DOMAIN", "")
+          asset_prefix = os.environ.get("ASSET_FILENAME_PREFIX", "")
+          source_asset_dir = os.environ.get("ASSET_SOURCE_DIR", "")
+          target_asset_dir = os.environ.get("ASSET_TARGET_DIR", "")
+
+          def normalize_asset_dir(value: str) -> str:
+            v = value.strip().replace("\\", "/")
+            while v.startswith("./"):
+              v = v[2:]
+            return v.strip("/")
+
+          source_asset_dir_norm = normalize_asset_dir(source_asset_dir)
+          target_asset_dir_norm = normalize_asset_dir(target_asset_dir)
+
+          if not source_asset_dir_norm:
+            raise SystemExit("ASSET_SOURCE_DIR is empty")
+          if not target_asset_dir_norm:
+            raise SystemExit("ASSET_TARGET_DIR is empty")
+
+          asset_ref = re.compile(
+            r"(?P<lead>/?)" + re.escape(source_asset_dir_norm) + r"/(?P<asset_path>[^\"'<>\n?#]*?\.(?:png|jpe?g|gif|webp|svg|bmp|avif))(?P<suffix>[?#][^\"'<>\n)]*)?",
+            re.IGNORECASE,
+          )
+
+          def to_target_file_path(path_no_ext: str) -> str:
+            return path_no_ext if path_no_ext.lower().endswith(".md") else f"{path_no_ext}.md"
+
+          print("Sync debug output")
+          print(f"Target repo: {target_repo}")
+          print(f"Target branch: {target_branch}")
+          print(f"Target path prefix: '{target_prefix}'")
+          print(f"Match link: label='{match_label}', domain='{match_domain}'")
+          print(f"Rewrite link: label='{rewrite_label}', domain='{rewrite_domain}'")
+          print(f"Asset filename prefix: '{asset_prefix}'")
+          print(f"Asset source dir: '{source_asset_dir_norm}'")
+          print(f"Asset target dir: '{target_asset_dir_norm}'")
+
+          if not mappings:
+            print("No files selected for synchronization.")
+          else:
+            print("Planned file mappings:")
+            total_unique_assets = set()
+            for entry in mappings:
+              src, dst_from_link, current_wiki_path = entry.split("|", 2)
+              dst_file = to_target_file_path(dst_from_link)
+              dst = str(Path(target_prefix) / dst_file) if target_prefix else dst_file
+              match_url = f"https://{match_domain}/{dst_from_link}" if dst_from_link else f"https://{match_domain}"
+              match_link = f"[{match_label}]({match_url})"
+              rewritten_url = f"https://{rewrite_domain}/{current_wiki_path}" if current_wiki_path else f"https://{rewrite_domain}"
+              rewritten_link = f"[{rewrite_label}]({rewritten_url})"
+              print(f"- {src} -> {dst}")
+              print(f"  match link: {match_link}")
+              print(f"  target link: {rewritten_link}")
+
+              content = Path(src).read_text(encoding="utf-8")
+              assets = []
+              for m in asset_ref.finditer(content):
+                raw_asset_path = m.group("asset_path")
+                decoded_path = Path(unquote(raw_asset_path))
+                original_name = decoded_path.name
+                prefixed_name = original_name if original_name.startswith(asset_prefix) else f"{asset_prefix}{original_name}"
+                target_asset_rel = Path(target_asset_dir_norm) / decoded_path.parent / prefixed_name
+                assets.append((Path(source_asset_dir_norm) / decoded_path, target_asset_rel))
+
+              if assets:
+                print("  assets:")
+                seen = set()
+                for src_asset, dst_asset in assets:
+                  key = (str(src_asset), str(dst_asset))
+                  if key in seen:
+                    continue
+                  seen.add(key)
+                  total_unique_assets.add(key)
+                  print(f"    - {src_asset.as_posix()} -> {dst_asset.as_posix()}")
+                print(f"  asset_count: {len(seen)}")
+              else:
+                print("  assets: none")
+                print("  asset_count: 0")
+
+            print(f"Total unique assets: {len(total_unique_assets)}")
+          PY
+
+      - name: Checkout target repository
+        if: steps.filter.outputs.files != '' && env.DRY_RUN != 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.TARGET_REPO }}
+          ref: ${{ env.TARGET_BRANCH }}
+          token: ${{ secrets.CROSS_REPO_SYNC_TOKEN }}
+          path: target-repo
+
+      - name: Copy files and rewrite cross-wiki links
+        if: steps.filter.outputs.files != '' && env.DRY_RUN != 'true'
+        shell: bash
+        env:
+          FILES_TO_SYNC: ${{ steps.filter.outputs.files }}
+          TARGET_PATH_PREFIX: ${{ env.TARGET_PATH_PREFIX }}
+          MATCH_LINK_DOMAIN: ${{ env.MATCH_LINK_DOMAIN }}
+          REWRITE_LINK_LABEL: ${{ env.REWRITE_LINK_LABEL }}
+          REWRITE_LINK_DOMAIN: ${{ env.REWRITE_LINK_DOMAIN }}
+          ASSET_FILENAME_PREFIX: ${{ env.ASSET_FILENAME_PREFIX }}
+          ASSET_SOURCE_DIR: ${{ env.ASSET_SOURCE_DIR }}
+          ASSET_TARGET_DIR: ${{ env.ASSET_TARGET_DIR }}
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY'
+          import os
+          import re
+          import shutil
+          from pathlib import Path
+          from urllib.parse import unquote
+
+          mappings = [line.strip() for line in os.environ.get("FILES_TO_SYNC", "").splitlines() if line.strip()]
+          target_prefix = os.environ.get("TARGET_PATH_PREFIX", "").strip("/")
+          match_domain = os.environ.get("MATCH_LINK_DOMAIN", "").strip().lower()
+          rewrite_label = os.environ.get("REWRITE_LINK_LABEL", "")
+          rewrite_domain = os.environ.get("REWRITE_LINK_DOMAIN", "").strip().lower()
+          asset_prefix = os.environ.get("ASSET_FILENAME_PREFIX", "")
+          source_asset_dir = os.environ.get("ASSET_SOURCE_DIR", "")
+          target_asset_dir = os.environ.get("ASSET_TARGET_DIR", "")
+
+          def normalize_asset_dir(value: str) -> str:
+            v = value.strip().replace("\\", "/")
+            while v.startswith("./"):
+              v = v[2:]
+            return v.strip("/")
+
+          source_asset_dir_norm = normalize_asset_dir(source_asset_dir)
+          target_asset_dir_norm = normalize_asset_dir(target_asset_dir)
+
+          def to_target_file_path(path_no_ext: str) -> str:
+            return path_no_ext if path_no_ext.lower().endswith(".md") else f"{path_no_ext}.md"
+
+          if not match_domain:
+            raise SystemExit("MATCH_LINK_DOMAIN is empty")
+          if not rewrite_domain:
+            raise SystemExit("REWRITE_LINK_DOMAIN is empty")
+          if not source_asset_dir_norm:
+            raise SystemExit("ASSET_SOURCE_DIR is empty")
+          if not target_asset_dir_norm:
+            raise SystemExit("ASSET_TARGET_DIR is empty")
+
+          source_url = re.compile(r"\[[^\]]*\]\(https://" + re.escape(match_domain) + r"/([^\)\s#?]+)[^\)]*\)", re.IGNORECASE)
+          asset_ref = re.compile(
+            r"(?P<lead>/?)" + re.escape(source_asset_dir_norm) + r"/(?P<asset_path>[^\"'<>\n?#]*?\.(?:png|jpe?g|gif|webp|svg|bmp|avif))(?P<suffix>[?#][^\"'<>\n)]*)?",
+            re.IGNORECASE,
+          )
+          assets_to_copy = {}
+
+          for entry in mappings:
+            rel_path, dst_from_link, current_wiki_path = entry.split("|", 2)
+            src_path = Path(rel_path)
+            content = src_path.read_text(encoding="utf-8")
+
+            rewritten_url = f"https://{rewrite_domain}/{current_wiki_path}" if current_wiki_path else f"https://{rewrite_domain}"
+
+            def repl(match):
+              return f"[{rewrite_label}]({rewritten_url})"
+
+            transformed = source_url.sub(repl, content)
+
+            def rewrite_asset_ref(match):
+              lead = match.group("lead") or ""
+              raw_asset_path = match.group("asset_path")
+              suffix = match.group("suffix") or ""
+              decoded_path = Path(unquote(raw_asset_path))
+              source_asset = Path(source_asset_dir_norm) / decoded_path
+
+              original_name = decoded_path.name
+              prefixed_name = original_name if original_name.startswith(asset_prefix) else f"{asset_prefix}{original_name}"
+              target_asset_rel = Path(target_asset_dir_norm) / decoded_path.parent / prefixed_name
+              target_asset_path = Path("target-repo") / target_asset_rel
+
+              assets_to_copy[str(source_asset)] = target_asset_path
+
+              raw_parts = raw_asset_path.rsplit("/", 1)
+              raw_name = raw_parts[-1]
+              raw_parent = raw_parts[0] if len(raw_parts) == 2 else ""
+              raw_prefixed_name = raw_name if raw_name.startswith(asset_prefix) else f"{asset_prefix}{raw_name}"
+              rewritten_raw_path = f"{raw_parent}/{raw_prefixed_name}" if raw_parent else raw_prefixed_name
+              return f"{lead}{target_asset_dir_norm}/{rewritten_raw_path}{suffix}"
+
+            transformed = asset_ref.sub(rewrite_asset_ref, transformed)
+
+            dst_file = to_target_file_path(dst_from_link)
+            target_rel = Path(target_prefix) / dst_file if target_prefix else Path(dst_file)
+            target_path = Path("target-repo") / target_rel
+            target_path.parent.mkdir(parents=True, exist_ok=True)
+            target_path.write_text(transformed, encoding="utf-8")
+
+          for src_asset_str, target_asset_path in assets_to_copy.items():
+            src_asset = Path(src_asset_str)
+            if not src_asset.exists():
+              print(f"Warning: referenced asset not found: {src_asset.as_posix()}")
+              continue
+            target_asset_path.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(src_asset, target_asset_path)
+          PY
+
+      - name: Commit and push synchronized files
+        if: steps.filter.outputs.files != '' && env.DRY_RUN != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          cd target-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes detected in target repository."
+            exit 0
+          fi
+
+          git commit -m "sync: shared wiki files from ${{ github.repository }}@${{ github.sha }} [skip-cross-wiki-sync]"
+          git push origin "${{ env.TARGET_BRANCH }}"
+
+      - name: Dry-run mode enabled
+        if: steps.filter.outputs.files != '' && env.DRY_RUN == 'true'
+        run: |
+          echo "Dry run active: skipping checkout/copy/commit/push."
+

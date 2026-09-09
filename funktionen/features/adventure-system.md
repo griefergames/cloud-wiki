@@ -26,8 +26,6 @@ Achte immer darauf, ob die Aufgabe wirklich angenommen ist. Auch für Monster t�
 
 Es gibt aktuell drei verschiedene Arten von Aufgaben, die sich wie folgt spezifizieren:
 
-
-
 {% tabs %}
 {% tab title="Abbau-Aufgaben" %}
 Du erhältst ein Tool, mit dem du eine bestimmte Anzahl eines Blocks abbauen musst. Beim Abbauen mit diesem Tool wird der Block zerstört. _(Das Tool kann nur von dir und nur für den bestimmten Block verwendet werden.)_
@@ -42,7 +40,7 @@ Du erhältst die Aufgabe, eine bestimmte Anzahl eines Mobs zu töten. Für diese
 {% endtab %}
 {% endtabs %}
 
-Die Dauer der Aufgaben hängt unter anderem davon ab, ob du passende Items bereits im Lager, ein Home in einem Biom oder auch Glück hast, diese Items in der [Farmwelt](../die-farmwelten.md) zu finden.
+Die Dauer der Aufgaben hängt unter anderem davon ab, ob du passende Items bereits im Lager, ein Home in einem Biom oder auch Glück hast, diese Items in der [Farmwelt](../spielmodus-citybuild/die-farmwelten.md) zu finden.
 
 {% hint style="info" %}
 Mit passender Vorbereitung (Items im Lager, Home bei einem Biom o. Ä.) sind die täglichen Aufgaben mit _**ca. 15 - 30 Minuten**_ bemessen. Es gibt auch Ausreißer, die schneller gehen oder länger brauchen.\

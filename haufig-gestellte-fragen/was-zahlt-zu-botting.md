@@ -20,18 +20,18 @@ Diese soll lediglich klarer machen, was alles den Bereich umfasst.
 ### Beispielsituationen
 
 Ein paar Beispielsituationen zu diesem Thema. \
-&#xNAN;_&#x45;s gibt natürlich noch weitere Beispiele und Varianten, es soll lediglich ein Eindruck vermittelt werden._
+_&#x45;s gibt natürlich noch weitere Beispiele und Varianten, es soll lediglich ein Eindruck vermittelt werden._
 
 * <mark style="color:$danger;">**BOT**</mark>**&#x20;Ich befinde mich in einem anderen Client und führe dort andere Aktionen aus, wie Schreiben, Bauen, Laufen etc.**\
-  &#xNAN;_&#x44;amit befinde ich mich nicht im "Botting-Client", welcher dadurch entsprechend Bottet, da er ohne mein beisein dinge ausführt._
+  _&#x44;amit befinde ich mich nicht im "Botting-Client", welcher dadurch entsprechend Bottet, da er ohne mein beisein dinge ausführt._
 * <mark style="color:$danger;">**BOT**</mark>**&#x20;Ich bin nicht am PC, auch nur kurz auf der Toilette**\
-  &#xNAN;_&#x44;amit bin ich nicht anwesend_
+  _&#x44;amit bin ich nicht anwesend_
 * <mark style="color:$success;">**OK**</mark>**&#x20;Ich baue mit Litematica Printer und ich bin am PC und in diesem Minecraft Client.**\
-  &#xNAN;_&#x44;as ist in Ordnung. Litematica ist eine erlaubte Modifikation und ich bin Anwesend im Client._
+  _&#x44;as ist in Ordnung. Litematica ist eine erlaubte Modifikation und ich bin Anwesend im Client._
 * <mark style="color:$danger;">**BOT**</mark>**&#x20;Ich baue mit Litematica Printer und bin in einem anderen Minecraft-Client**\
-  &#xNAN;_&#x44;amit bin ich nicht anwesend. Da ich nicht dabei bin, automatisiert der Client die Arbeit alleine und ist somit ein Bot._
+  _&#x44;amit bin ich nicht anwesend. Da ich nicht dabei bin, automatisiert der Client die Arbeit alleine und ist somit ein Bot._
 * <mark style="color:red;">**BOT**</mark>**&#x20;Ich bin anwesend und töte Mobs per AutoClicker oder KillAura.**\
-  &#xNAN;_&#x41;utoClicker & KIllAura ist verboten und deshalb ist es ein Bot._
+  _&#x41;utoClicker & KIllAura ist verboten und deshalb ist es ein Bot._
 * <mark style="color:$success;">**OK**</mark>**&#x20;Ich bin abwesend und dadurch, dass ich Ingame stehe (und nichts mache) werden Farmen getriggert**\
   Der Client führt nichts aus, damit vollkommen okay.
 * <mark style="color:$success;">**OK**</mark>**&#x20;Ich bin abwesend und baue immer wieder den selben Block am Cobbler ab, da ich beim Abbauen mit F3+T das Abbauen aktivieren konnte.**\

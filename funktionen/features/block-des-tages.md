@@ -24,7 +24,7 @@ Zusätzlich gibt es Event-Tage, an denen auch gleichzeitig mehrere Gewinne entha
 
 {% hint style="info" %}
 Wie oft du einen Gewinn am Tag erhalten kannst ist ebenfalls unterschiedlich. Du wirst jedoch informiert, sobald du die maximale Anzahl an Belohnungen des Tages erreicht hast.\
-&#xNAN;_(Ein Tag beginnt um 4 Uhr zum Server-Neustart)_
+_(Ein Tag beginnt um 4 Uhr zum Server-Neustart)_
 {% endhint %}
 
 {% hint style="danger" %}
