@@ -67,3 +67,14 @@ Folgende Animationen stehen aktuell zur Verfügung:
 {% hint style="danger" %}
 Achtung: Die Prefixanimationen werden durch das [Ressourcenpaket](../ressourcenpaket.md) ermöglicht. Hast du dieses nicht aktiviert, siehst du keine Prefixanimationen.
 {% endhint %}
+
+## Prefix-Ränge
+
+Prefix-Ränge ersetzen den Namen deines Ranges in der Tabliste sowohl als auch wie im Chat und beim Signieren. 
+
+Folgende Kategorien gibt es derzeit:
+
+* **Besondere Prefix-Ränge**\
+  Darunter fallen z.B.: <mark style="color:red;">**GOAT, Rentner, Prinzessin, Bonze, ...**</mark>
+* **Saisionale Prefix-Ränge**\
+  Darunter fallen z.B.: <mark style="color:yellow;">**Strandaufsichtr**</mark> und <mark style="color:yellow;">**Sonnenstich**</mark>
