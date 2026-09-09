@@ -137,10 +137,11 @@
 ## Häufig gestellte Fragen
 
 * [Informationen zu GrieferGames](haufig-gestellte-fragen/informationen-zu-griefergames/README.md)
-  * [Zuständigkeiten](https://wiki.griefergames.net/faq/griefergames/zustandigkeiten)
-  * [Ehemalige Teammitglieder & Helfer](https://wiki.griefergames.net/faq/griefergames/ehemalige-teammitglieder-and-helfer)
-  * [Teammitglied werden](https://wiki.griefergames.net/faq/griefergames/teammitglied-werden)
-  * [Kontakt und Verlinkungen](https://wiki.griefergames.net/faq/griefergames/kontakt-and-verlinkungen)
+  * [Team](haufig-gestellte-fragen/informationen-zu-griefergames/team.md)
+  * [Ehemalige Teammitglieder & Helfer](haufig-gestellte-fragen/informationen-zu-griefergames/ehemalige-teammitglieder-and-helfer.md)
+  * [Teammitglied werden](haufig-gestellte-fragen/informationen-zu-griefergames/teammitglied-werden.md)
+  * [Kontakt & Verlinkungen](haufig-gestellte-fragen/informationen-zu-griefergames/kontakt-and-verlinkungen.md)
+  * [VPN-Nutzung](haufig-gestellte-fragen/informationen-zu-griefergames/vpn-nutzung.md)
 * [Was zählt zu Botting?](haufig-gestellte-fragen/was-zahlt-zu-botting.md)
 * [Webshop](haufig-gestellte-fragen/webshop.md)
 * [Für Entwickler](https://wiki.griefergames.net/faq/fur-entwickler/client-payloads)
