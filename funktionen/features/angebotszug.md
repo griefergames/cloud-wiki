@@ -2,7 +2,7 @@
 description: tschuff tschuff tschuff 💨
 ---
 
-# 🚂 Der Angebotszug
+# Der Angebotszug
 
 Der Angebotszug ist dein persönlicher Rabatt Händler für alle Kistensorten. 
 
