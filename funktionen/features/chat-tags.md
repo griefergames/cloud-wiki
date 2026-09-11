@@ -2,7 +2,7 @@
 description: Kuck mal was ich hier habe 👀
 ---
 
-# 🏷️ Chat-Tags
+# Chat-Tags
 
 Ihr wollt anderen Spielern schnell euer Inventar zeigen, eure Rüstung präsentieren oder jemanden direkt auf euer Profil aufmerksam machen?
 
