@@ -1,4 +1,4 @@
-# 🤣 Emojis
+# Emojis
 
 Mit Emojis kannst du den Chat bunt gestalten und deine Gefühle Ausdrücken
 
