@@ -3,7 +3,7 @@ description: Stripe als bezahlungs methode
 hidden: true
 ---
 
-# 💳 Stripe
+# Stripe
 
 Wie auch auf der 1.8 bieten wir die Möglichkeit an, sich direkt ingame Kisten und Kristalle zu kaufen und dazu noch mit [Prestige-Tokens](/funktionen/waehrungen/README.md) belohnt werden!
 
