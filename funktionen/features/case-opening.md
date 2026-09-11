@@ -2,7 +2,7 @@
 
 Im Case-Opening können zufällige Gewinne gezogen werden. Es gibt verschiedene Kisten, welche verschiedene Gewinne beinhalten und über unterschiedliche Wege erhalten werden können.
 
-<div><figure><img src="../../.gitbook/assets/image (32) (2).png" alt="" width="375"><figcaption><p>Case-Opening am Spawn</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (5) (2) (1).png" alt="" width="348"><figcaption><p>Kisten-Übersicht</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (32) (2).png" alt="" width="375"><figcaption><p>Case-Opening am Spawn</p></figcaption></figure> <figure><img src="../../.gitbook/assets/507300C6-79DF-4DDC-9AB3-32A9993D5697_1_201_a.jpeg" alt="" width="348"><figcaption><p>Kisten-Übersicht</p></figcaption></figure></div>
 
 ### Der Case-Opening Block
 
@@ -63,7 +63,7 @@ Hier siehst du auch deine bereits gekauften Kisten, deren Typ nicht mehr im Haup
 
 Durch einen Klick auf das Endertruhen-Symbol kannst du deine offenen Gewinne abholen.
 
-### In-Game-Kauf von Kisten über Kristalle
+### In-Game-Kauf von Kisten und Kristallen
 
 {% hint style="info" %}
 Bei einem **gleichzeitigem** Kauf von einer größeren Anzahl an Kisten gibt es einen Mengenrabatt.
@@ -78,6 +78,8 @@ Hier kannst du auswählen, welche Kiste du kaufen möchtest. Am Ende muss der Ka
 {% hint style="warning" %}
 Dieser Kauf kann nicht rückgängig gemacht werden!
 {% endhint %}
+
+Seit 2026 gibt es auf der Cloud die Möglichkeit sich per Stripe ingame direkt Kisten und Kristalle mit Echtgeld zu kaufen. Weitere Infos zu diesem System findest du [hier](../stripe.md).
 
 ### Keinen Gewinn erhalten? Gekickt oder Region gewechselt?
 

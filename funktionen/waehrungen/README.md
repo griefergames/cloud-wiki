@@ -52,6 +52,13 @@ Diese Tokens können zu bestimmten Events durch eine sogenante <mark style="colo
 Die <mark style="color:purple;">Tausch-Elfe</mark> ist nicht dauerhaft verfügbar. Die nicht verwendeten Tokens bleiben auch beim Verschwinden der <mark style="color:purple;">Tausch-Elfe</mark> erhalten.
 {% endhint %}
 
+## Prestige-Tokens
+
+[<mark style="color:red;">**Accountgebunden**</mark>](#user-content-fn-2)[^2] - **Währung des Prestige-Shops**
+
+Diese Tokens können beim ingame Kauf von Kristallen/Kisten im [CaseOpening](../features/case-opening.md) durch [Stripe](../features/stripe.md) erhalten werden.
+Mit Prestige-Tokens kann man beim <mark style="color:ligh_blue;">**Prestige Token Händler**</mark> verschiedene Items wie Kristalle und Farbverläufe kaufen. 
+
 [^1]: Diese Währung kann In-Game mit anderen Spielern gehandelt werden.
 
 [^2]: Diese Währung kann **nicht** mit anderen Spielern gehandelt werden.
