@@ -1,5 +1,6 @@
 ---
 description: Informationen zur verbotenen Automatisierung (kurz Botting)
+hidden: true
 ---
 
 # Was zählt zu Botting?
@@ -10,16 +11,16 @@ In das Thema **Botting** fallen viele verschiedene Bereiche und viele verschiede
 Es ist verboten Dinge automatisch zu tun, während man nicht in diesem Client anwesend ist. Erlaubt ist es nur dann, wenn es ohne Modifikationen, Programme etc. in Standard-Minecraft möglich ist.
 {% endhint %}
 
-Es folgen nun Informationen & Beispiele, die das Thema deutlich machen sollen.&#x20;
+Es folgen nun Informationen & Beispiele, die das Thema deutlich machen sollen.
 
 {% hint style="danger" %}
-<mark style="color:$success;">**Diese Wiki-Seite ist keine Regeldefinition.**</mark> \
+<mark style="color:$success;">**Diese Wiki-Seite ist keine Regeldefinition.**</mark>\
 Diese soll lediglich klarer machen, was alles den Bereich umfasst.
 {% endhint %}
 
 ### Beispielsituationen
 
-Ein paar Beispielsituationen zu diesem Thema. \
+Ein paar Beispielsituationen zu diesem Thema.\
 _&#x45;s gibt natürlich noch weitere Beispiele und Varianten, es soll lediglich ein Eindruck vermittelt werden._
 
 * <mark style="color:$danger;">**BOT**</mark>**&#x20;Ich befinde mich in einem anderen Client und führe dort andere Aktionen aus, wie Schreiben, Bauen, Laufen etc.**\
@@ -38,4 +39,3 @@ _&#x45;s gibt natürlich noch weitere Beispiele und Varianten, es soll lediglich
   Ich bin zwar abwesend, aber es ist eine Mechanik, die der Minecraft-Client standardmäßig unterstützt und für erlaubt befunden wurde.
 * <mark style="color:red;">**BOT**</mark>**&#x20;Ich sende regelmäßíg oder unregelmäßig /near in den Chat, auch wenn ich nicht anwesend bin**\
   Das ist eine Automatisierung und damit verboten.<br>
-

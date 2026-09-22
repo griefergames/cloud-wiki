@@ -150,7 +150,7 @@
 
 * [Informationen zu GrieferGames](haufig-gestellte-fragen/informationen-zu-griefergames/README.md)
   * [Team](haufig-gestellte-fragen/informationen-zu-griefergames/team.md)
-  * [Ehemalige Teammitglieder & Helfer](haufig-gestellte-fragen/informationen-zu-griefergames/ehemalige-teammitglieder-and-helfer.md)
+  * [Ehemalige Teammitglieder](haufig-gestellte-fragen/informationen-zu-griefergames/ehemalige-teammitglieder-and-helfer.md)
   * [Teammitglied werden](haufig-gestellte-fragen/informationen-zu-griefergames/teammitglied-werden.md)
   * [Kontakt & Verlinkungen](haufig-gestellte-fragen/informationen-zu-griefergames/kontakt-and-verlinkungen.md)
   * [VPN-Nutzung](haufig-gestellte-fragen/informationen-zu-griefergames/vpn-nutzung.md)
