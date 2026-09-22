@@ -143,6 +143,8 @@
 * [🔐 GrieferGames Auth](allgemein/griefergames-auth.md)
 * [📊 Das Vote-System](allgemein/das-vote-system.md)
 * [🎬 Für Content Creator](https://wiki.griefergames.net/erweiterte-features/fuer-content-creator)
+* [👮 Das Helfer-System](allgemein/das-helfer-system/README.md)
+  * [Übersicht der Helfer](allgemein/das-helfer-system/ubersicht-der-helfer.md)
 
 ## Häufig gestellte Fragen
 
