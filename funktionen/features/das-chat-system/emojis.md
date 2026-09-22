@@ -2,7 +2,7 @@
 
 Mit den **Emojis** könnt ihr eure Nachrichten im Chat noch persönlicher gestalten. Dafür stehen euch verschiedene Emoji-Packs zur Verfügung.
 
-![emoji auswahl](../../../.gitbook/assets/mojiwahlau.png)
+![Emoji Auswahl](../../../.gitbook/assets/mojiwahlau.png)
 
 ## Emojis verwenden
 

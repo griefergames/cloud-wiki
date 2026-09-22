@@ -70,11 +70,12 @@ Achtung: Die Prefixanimationen werden durch das [Ressourcenpaket](../ressourcenp
 
 ## Prefix-Ränge
 
-Prefix-Ränge ersetzen den Namen deines Ranges in der Tabliste sowohl als auch wie im Chat und beim Signieren. 
+Prefix-Ränge ersetzen den Namen deines Ranges in der Tabliste sowohl als auch wie im Chat und beim Signieren.
 
 Folgende Kategorien gibt es derzeit:
 
 * **Besondere Prefix-Ränge**\
   Darunter fallen z.B.: <mark style="color:red;">**GOAT, Rentner, Prinzessin, Bonze, ...**</mark>
 * **Saisionale Prefix-Ränge**\
-  Darunter fallen z.B.: <mark style="color:yellow;">**Strandaufsicht**</mark> und <mark style="color:yellow;">**Sonnenstich**</mark>
+  Darunter fallen z.B.: <mark style="color:yellow;">**Strandaufsich**</mark><mark style="color:yellow;">**t**</mark>**,&#x20;**<mark style="color:yellow;">**Sonnenstich**</mark>**&#x20;und** <mark style="color:cyan;">**Meisterangler**</mark>
+

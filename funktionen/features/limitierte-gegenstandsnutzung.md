@@ -1,4 +1,4 @@
-# Limtierte Gegenstandsnutzung
+# Limitierte Gegenstandsnutzung
 
 Einige Gegenstände haben eine eigene Haltbarkeit, welche die Nutzung des Gegenständs beschränkt. Diese Funktioniert ähnlich wie eine normale Haltbarkeit, wird jedoch nur bei der Funktionsnutzung des Gegenstands verbraucht.
 
