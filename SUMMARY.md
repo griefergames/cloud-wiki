@@ -2,7 +2,9 @@
 
 * [Startseite](README.md)
 * [🌐 1.8 Wiki](https://wiki.griefergames.net)
-* [☁️ Das Netzwerk](was-ist-die-cloud.md)
+* [☁️ Das Netzwerk](was-ist-die-cloud/README.md)
+  * [🔄 Versionsupgrade](was-ist-die-cloud/versionsupgrade/README.md)
+    * [26.2](was-ist-die-cloud/versionsupgrade/26.2.md)
 * [🔗 Server verbinden...](auf-den-server-joinen/README.md)
   * [...in der Java-Edition](auf-den-server-joinen/mit-der-java-edition.md)
   * [..in der Bedrock-Edition](auf-den-server-joinen/mit-der-bedrock-edition.md)
