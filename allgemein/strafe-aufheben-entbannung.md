@@ -30,7 +30,7 @@ Bist du vom unserem Discord-Server gebannt worden oder kannst generell kein Tick
 <summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
 
 {% hint style="info" icon="square-star" %}
-_Hier findest du die passende_ [1.8 Wiki Seite](https://wiki.griefergames.net/griefergames-allgemein/strafaufhebung)_._
+_Hier findest du die passende_ [1.8 Wiki Seite](https://wiki.griefergames.net/allgemein/strafaufhebung)_._
 {% endhint %}
 
 </details>

@@ -82,7 +82,7 @@ Es ist zudem eure "Zugangskarte" für das [Ticket-System im Web](https://ticket.
 <summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
 
 {% hint style="info" icon="square-star" %}
-_Hier findest du die passende_ [1.8 Wiki Seite](https://wiki.griefergames.net/griefergames-allgemein/gg-auth)_._
+_Hier findest du die passende_ [1.8 Wiki Seite](https://wiki.griefergames.net/allgemein/gg-auth)_._
 {% endhint %}
 
 </details>

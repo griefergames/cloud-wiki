@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 🚨 Account-Diebstahl / Phishing
@@ -112,7 +114,7 @@ Damit die Administration das Anliegen schnellstmöglich bearbeiten kann, sollten
 
 #### GGAuth
 
-Mithilfe unseres eigenen Account-Dienstes [GGAuth](../hilfreiche-links/griefergames-dienste.md) bieten wir die Möglichkeit euren Minecraft-Account auf unserem Netzwerk zusätzlich zu sichern, indem ihr darüber eine Mehr-Faktor-Authentifizierung einrichtet. GGAuth bietet euch zudem zusätzliche Möglichkeiten alle GrieferGames- Dienste umfangreich zu nutzen. Darunter eure Chatlogs zu sichern, euer GG-Profil zu personalisieren, das Ticket-System zu verwenden, euren Java-Account auf der Bedrock Edition zu spielen oder Einschränkungen auf unserem Discord-Server aufzuheben und Zugriff auf alle Thermenbereiche zu erhalten.
+Mithilfe unseres eigenen Account-Dienstes [GGAuth](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv) bieten wir die Möglichkeit euren Minecraft-Account auf unserem Netzwerk zusätzlich zu sichern, indem ihr darüber eine Mehr-Faktor-Authentifizierung einrichtet. GGAuth bietet euch zudem zusätzliche Möglichkeiten alle GrieferGames- Dienste umfangreich zu nutzen. Darunter eure Chatlogs zu sichern, euer GG-Profil zu personalisieren, das Ticket-System zu verwenden, euren Java-Account auf der Bedrock Edition zu spielen oder Einschränkungen auf unserem Discord-Server aufzuheben und Zugriff auf alle Thermenbereiche zu erhalten.
 
 Die Einrichtung von GGAuth ist kostenfrei und erfordert lediglich eine E-Mail-Adresse und deinen Minecraft-Account.
 
@@ -121,7 +123,7 @@ Die Einrichtung von GGAuth ist kostenfrei und erfordert lediglich eine E-Mail-Ad
 <summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
 
 {% hint style="info" icon="square-star" %}
-_Hier findest du die passende_ [1.8 Wiki Seite](https://wiki.griefergames.net/griefergames-allgemein/account-verloren)_._
+_Hier findest du die passende_ [1.8 Wiki Seite](https://wiki.griefergames.net/allgemein/account-verloren)_._
 {% endhint %}
 
 </details>
