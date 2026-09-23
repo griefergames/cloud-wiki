@@ -2,7 +2,7 @@
 
 Im Case-Opening können zufällige Gewinne gezogen werden. Es gibt verschiedene Kisten, welche verschiedene Gewinne beinhalten und über unterschiedliche Wege erhalten werden können.
 
-<div><figure><img src="../../.gitbook/assets/image (32) (2).png" alt="" width="375"><figcaption><p>Case-Opening am Spawn</p></figcaption></figure> <figure><img src="../../.gitbook/assets/507300C6-79DF-4DDC-9AB3-32A9993D5697_1_201_a.jpeg" alt="" width="348"><figcaption><p>Kisten-Übersicht</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (32) (2).png" alt="" width="375"><figcaption><p>Case-Opening am Spawn</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/507300C6-79DF-4DDC-9AB3-32A9993D5697_1_201_a.jpeg" alt="" width="348"><figcaption><p>Kisten-Übersicht</p></figcaption></figure></div>
 
 ### Der Case-Opening Block
 
@@ -44,7 +44,7 @@ Das Case-Opening-Inventar listet unter dem Titel die einzelnen Kisten-Typen auf:
 
 Durch das Hovern über eine der Kisten kannst du ablesen, wie viele Kisten du von dieser Sorte besitzt:
 
-![](<../../.gitbook/assets/image (6) (3) (1).png>)
+![](<../../../.gitbook/assets/image (6) (3) (1).png>)
 
 Durch einen **Rechtsklick** auf einen Kistentyp öffnest du die entsprechende Kiste.\
 Durch einen **Linksklick** auf einen Kistentyp kannst du dir den Kisteninhalt ansehen.
@@ -53,7 +53,7 @@ Durch einen **Linksklick** auf einen Kistentyp kannst du dir den Kisteninhalt an
 
 Um die Anzahl an Kristallen, die in deinem Besitz sind, anzuzeigen musst du mit deiner Maus über den blauen Kristall in der Mitte des Menüs fahren, um folgenden Hinweis zu sehen:
 
-<figure><img src="../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Kisten-Besitz ansehen
 
@@ -71,7 +71,7 @@ Bei einem **gleichzeitigem** Kauf von einer größeren Anzahl an Kisten gibt es 
 
 Um Kisten zu kaufen musst du das Menü `Kisten Kaufen` durch einen Klick auf die Kiste mit einem Dollar-Zeichen rechts neben dem Kristall öffnen:
 
-![](<../../.gitbook/assets/image (1) (2) (1).png>) ![](<../../.gitbook/assets/image (8) (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (2) (1).png>) ![](<../../../.gitbook/assets/image (8) (2) (1) (1).png>)
 
 Hier kannst du auswählen, welche Kiste du kaufen möchtest. Am Ende muss der Kauf noch einmal bestätigt werden.
 
@@ -79,7 +79,7 @@ Hier kannst du auswählen, welche Kiste du kaufen möchtest. Am Ende muss der Ka
 Dieser Kauf kann nicht rückgängig gemacht werden!
 {% endhint %}
 
-Seit 2026 gibt es auf der Cloud die Möglichkeit sich per Stripe ingame direkt Kisten und Kristalle mit Echtgeld zu kaufen. Weitere Infos zu diesem System findest du [hier](../stripe.md).
+Seit 2026 gibt es auf der Cloud die Möglichkeit sich per Stripe ingame direkt Kisten und Kristalle mit Echtgeld zu kaufen. Weitere Infos zu diesem System findest du [hier](../../stripe.md).
 
 ### Keinen Gewinn erhalten? Gekickt oder Region gewechselt?
 

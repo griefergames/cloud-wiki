@@ -8,7 +8,7 @@ description: Minispiele auf dem Grundstück
 
 Mit Gaming-Stations können kleine Minispiele in der Minecraft-UI gespielt werden.
 
-Die Gaming-Station und die Spiele-Disks können über das [Case-Opening](case-opening.md) oder über den Handel mit anderen Spielern erhalten werden.
+Die Gaming-Station und die Spiele-Disks können über das [Case-Opening](case-opening/) oder über den Handel mit anderen Spielern erhalten werden.
 
 {% hint style="warning" %}
 Achtung: Einmal platziert kann die Gaming-Station nicht wieder abgebaut werden.
@@ -29,7 +29,7 @@ Folgende Spiele stehen aktuell zur Verfügung:
 
 Für manche Spiele können Spielsteine verwendet werden (z. B. 4-Gewinnt). Die Spielsteinsammlung kann oben rechts im Menü eingesehen und der gewünschte Spielstein gewählt werden.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (7) (1).png" alt=""></p>
+<div align="center"><img src="../../.gitbook/assets/unknown (7) (1).png" alt=""></div>
 
 Die Spielsteine in Form von Blöcken droppen mit einer kleinen Wahrscheinlichkeit bei jedem Abbau des Blocks. Diese können also beim Farmen in der Farmwelt zwischendurch erhalten werden. Somit sind diese Spielsteine von der Seltenheit abhängig von dem Vorkommen in den Farmwelten.
 

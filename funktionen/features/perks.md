@@ -6,7 +6,7 @@ description: Nützliche Spielunterstützungen für dich
 
 Mit Perks hast du die Möglichkeit, Effekte und kleine Funktionen für dich zu aktivieren, die dich beim Spielen unterstützen.
 
-<p align="center"><img src="../../.gitbook/assets/unknown.png" alt=""></p>
+<div align="center"><img src="../../.gitbook/assets/unknown.png" alt=""></div>
 
 Um das Hauptmenü zu öffnen, kannst du `/perks` eingeben oder du öffnest das Perks-Menü über das `/?` Hilfemenü.
 
@@ -22,7 +22,7 @@ Die Perks können über einlösbare Items erhalten und verlängert werden.
 
 <figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Beispiel: Item 14-Tage Plot-Fliegen</p></figcaption></figure>
 
-Die Items können je nach Perk mit verschiedenen Laufzeiten erhalten werden. Diese finden sich an unterschiedlichen Stellen auf der Cloud. Diese können im [Case-Opening](case-opening.md), [Adventure-Shop](die-handler.md) oder auch durch [Belohnungen](erfolge-advancements.md) erhalten werden.
+Die Items können je nach Perk mit verschiedenen Laufzeiten erhalten werden. Diese finden sich an unterschiedlichen Stellen auf der Cloud. Diese können im [Case-Opening](case-opening/), [Adventure-Shop](die-handler.md) oder auch durch [Belohnungen](erfolge-advancements.md) erhalten werden.
 
 {% hint style="info" %}
 Die Tage können nacheinander eingelöst werden und erhöhen die Gesamtlaufzeit des Perks. Es gibt hierbei keine Obergrenze der verfügbaren Tage.

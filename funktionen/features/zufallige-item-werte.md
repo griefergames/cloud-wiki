@@ -4,7 +4,7 @@ Einige Items können zufällige Werte erhalten, wenn diese gekauft, gewonnen ode
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Wir ein solches Item in der Übersicht z.B. des [CaseOpening](case-opening.md) oder eines [Händlers ](die-handler.md)angezeigt, sind dort die Optionen zu sehen, mit welchen das Item generiert wird.
+Wir ein solches Item in der Übersicht z.B. des [CaseOpening](case-opening/) oder eines [Händlers ](die-handler.md)angezeigt, sind dort die Optionen zu sehen, mit welchen das Item generiert wird.
 
 ## Anzeige der Wertoptionen
 

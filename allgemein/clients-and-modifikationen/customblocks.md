@@ -2,7 +2,7 @@
 description: Individuelle Blöcke durch GrieferGames CustomBlocks
 ---
 
-# 🅱️ CustomBlocks
+# CustomBlocks
 
 <figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption><p>Beispielbild CustomBlocks-Kücheneinrichtung</p></figcaption></figure>
 

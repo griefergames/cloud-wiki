@@ -28,7 +28,7 @@ Spawn-Grundstücke können nicht wie alle anderen Grundstücke mit `/p claim` er
 
 Um ein Grundstück auf einem Spawn-Server zu erhalten, muss sich der Spieler auf dieses Grundstück stellen und einen **Spawn-GS-Gutschein** verwenden. Damit wird dem Spieler das Grundstück übergeben.
 
-Diese Gutscheine können z. B. aus dem [Case-Opening](../features/case-opening.md) oder durch den Handel mit anderen Spielern erhalten werden.
+Diese Gutscheine können z. B. aus dem [Case-Opening](../features/case-opening/) oder durch den Handel mit anderen Spielern erhalten werden.
 
 ## Inaktive / Unbebaute Spawn-Grundstücke
 
