@@ -2,7 +2,7 @@
 description: Informationen über den Aufbau und Hintergrund der Cloud
 ---
 
-# Was ist die Cloud?
+# ☁️ Das Netzwerk
 
 Die **Cloud** ist das Netzwerk von GrieferGames, welches immer auf der neusten Minecraft-Version läuft. Das Netzwerk ist getrennt vom 1.8 Netzwerk, hat somit eine eigene Wirtschaft und ist ein in sich geschlossenes System. Es gibt jedoch Verknüpfungspunkte der beiden Netzwerke, wie beispielsweise:
 

@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Startseite](README.md)
-* [1.8 Wiki](https://wiki.griefergames.net)
-* [Was ist die Cloud?](was-ist-die-cloud.md)
+* [🌐 1.8 Wiki](https://wiki.griefergames.net)
+* [☁️ Das Netzwerk](was-ist-die-cloud.md)
 * [🔗 Server verbinden...](auf-den-server-joinen/README.md)
   * [...in der Java-Edition](auf-den-server-joinen/mit-der-java-edition.md)
   * [..in der Bedrock-Edition](auf-den-server-joinen/mit-der-bedrock-edition.md)
@@ -131,7 +131,7 @@
 
 * [📜 Regelwerk](allgemein/regelwerk.md)
 * [💡 Vorschläge](allgemein/vorschlage.md)
-* [🪱 Fehlermeldungen](allgemein/fehlermeldungen.md)
+* [🐛 Fehlermeldungen](allgemein/fehlermeldungen.md)
 * [❗ Beschwerden über Spieler / Beweismaterial](allgemein/beschwerden-ueber-spieler-beweismaterial.md)
 * [🙏 Strafe aufheben / Entbannung](allgemein/strafe-aufheben-entbannung.md)
 * [🔐 GrieferGames Auth](allgemein/griefergames-auth.md)
