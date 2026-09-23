@@ -1,8 +1,8 @@
 ---
-description: Benötigte Grundstücke von inaktiven Nachbarn erhalten
+description: Funktion und Ablauf des Checkplot-System
 ---
 
-# Inaktive Grundstücke
+# Grundstücke inaktiver Spieler beantragen
 
 Wer kennt es nicht, man möchte sein Grundstück erweitern oder mergen und im Weg ein so gut wie leeres Grundstück von einem Spieler, den man noch nie gesehen hat.
 
@@ -39,15 +39,17 @@ Mit einem Klick auf das Schild und einer Bestätigung, kannst du nun den Antrag 
 
 ## Bearbeitung des Antrags
 
-Die Information über den Status deiner Anfrage findest du unter `/checkplot list`.
+Den Status deiner Anträge kannst du jederzeit mit `/checkplot list` einsehen.
 
 <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Liste der Anträge</p></figcaption></figure>
+
+Die Checkplot-Anträge werden mindestens einmal in der Woche bearbeitet. Das heißt, dass du darüber zeitnah eine Nachricht erhältst, ob du das Grundstück übernehmen kannst.
 
 ## Übernehmen des Grundstücks
 
 Um das Grundstück eines angenommen Antrags zu erhalten, gehe auf das entsprechende Grundstück und gib `/checkplot` ein. An der Stelle des <img src="../../.gitbook/assets/image (26).png" alt="" data-size="line"> Schildes befindet sich nun eine <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> **Tür**, mit der das Grundstück in Besitz genommen werden kann.
 
-Danach bestätigst du die Aktion und das Grunstück wird <mark style="color:green;">**gelöscht**</mark> und an dich überschrieben.
+Danach bestätigst du die Aktion und das Grundstück wird <mark style="color:green;">**gelöscht**</mark> und an dich überschrieben.
 
 {% hint style="warning" %}
 Bitte beachte die Preisangabe des Checkplot-Antrags. In der Regel werden beim Übernehmen eines Grundstücks **10.000 Dollar** fällig. Dort können keine Grundstücksgutscheine verwendet werden.

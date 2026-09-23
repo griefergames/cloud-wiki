@@ -44,7 +44,7 @@
   * [Grundstücksrechte](funktionen/grundstuecke/grundstucksrechte.md)
   * [Hilfe benutzen](funktionen/grundstuecke/hilfe-benutzen.md)
   * [Hologramme](funktionen/grundstuecke/hologramme.md)
-  * [Inaktive Grundstücke](funktionen/grundstuecke/inaktive-grundstuecke.md)
+  * [Grundstücke inaktiver Spieler beantragen](funktionen/grundstuecke/inaktive-grundstuecke.md)
   * [Mergen](funktionen/grundstuecke/mergen.md)
   * [Farm-Sammler](funktionen/grundstuecke/farm-sammler.md)
   * [Plot-NPC](funktionen/grundstuecke/plot-npc.md)

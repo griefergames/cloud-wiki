@@ -6,7 +6,7 @@ Mit Prefixen hat jeder Spieler die Möglichkeit, seinen Namen in der Tabliste un
 
 Mit dem Befehl `/prefix` kann das Prefix-Menü geöffnet werden, welches die möglichen Prefixe auf der Cloud anzeigt.
 
-<figure><img src="../../.gitbook/assets/image (6) (4).png" alt=""><figcaption><p>Menü der Prefixe (Startseite Verlaufs-Prefixe)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cQSKm1w.png" alt=""><figcaption><p>Übersicht der dreifarbigen Prefixe</p></figcaption></figure>
 
 Jeden Prefix, den du besitzt, wird verzaubert dargestellt. Mit einem Klick auf den Prefix kannst du ihn aktivieren und wenige Sekunden später ändert sich der Prefix in der Tabliste.
 
@@ -70,11 +70,15 @@ Achtung: Die Prefixanimationen werden durch das [Ressourcenpaket](../ressourcenp
 
 ## Prefix-Ränge
 
-Prefix-Ränge ersetzen den Namen deines Ranges in der Tabliste sowohl als auch wie im Chat und beim Signieren.
+Mit einem **Prefix-Rang** kann man seinen Namen im Chat verändern. Der Prefix wird vor dem eigenen Spielernamen angezeigt. Über den Befehl `/prefix` kommt man in das bekannte Prefix-Menü. Klickt man nun unten links auf das Namensschild, kommt man in das Menü für die Prefix-Ränge.
 
-Folgende Kategorien gibt es derzeit:
+<figure><img src="../../.gitbook/assets/kF6N5Qi.png" alt=""><figcaption></figcaption></figure>
 
-* **Besondere Prefix-Ränge**\
-  Darunter fallen z.B.: <mark style="color:red;">**GOAT, Rentner, Prinzessin, Bonze, ...**</mark>
-* **Saisionale Prefix-Ränge**\
-  Darunter fallen z.B.: <mark style="color:yellow;">**Strandaufsicht**</mark> und <mark style="color:yellow;">**Sonnenstich**</mark>
+{% hint style="info" %}
+Der Prefix-Rang ist ein rein kosmetischer "Rang", welcher keinen Einfluss auf die gekauften Ränge und die dazugehörigen Rechte hat. Aktuell gibt es unter anderem folgende Custom-Prefixe: Rentner, Bonze, Prinzessin, Prinz, GOAT, Laubbläser und Flash.
+{% endhint %}
+
+Prefix-Ränge können in verschiedenen Kisten des [Case-Openings](https://wiki.griefergames.live/funktionen/features/case-opening) erhalten werden.\
+Die Dauer des jeweiligen Ranges findet man in der Beschreibung des Items.
+
+<figure><img src="../../.gitbook/assets/NDZjnNd.png" alt=""><figcaption></figcaption></figure>

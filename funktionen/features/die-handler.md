@@ -24,15 +24,39 @@ Beim Amin-Shop sind Items für Adventure Coins kaufbar. Diese erhälst du durch 
 
 ## Wand-Händler
 
-Beim Wand-Händler können Wand-Effekte gekauft werden, die du auf deinen Grundstücken anwenden kannst, um die Grundstückswände auf deinen Grundstücken zu verändern. Die Wand-Effekte kosten unterschiedlich viel und die verschiedenen Wände wechseln täglich.
+Beim **Wand-Händler** am Spawn kannst du verschiedene Grundstücksränder kaufen. Diese verändern das Aussehen der Blöcke, die die Wand deines Grundstücks bilden.
 
-![Wand-Händler Shop](<../../.gitbook/assets/1 (2) (1).png>)
+<figure><img src="../../.gitbook/assets/Hgv3Fno.png" alt="" width="296"><figcaption></figcaption></figure>
+
+Bei den Angeboten handelt es sich um einen **Daily-Shop**, weshalb die verfügbaren Wände täglich gewechselt werden. Im ersten Slot des Wand-Händlers handelt es sich immer um die Standard-Wand. Alle anderen Slots sind spezielle Variationen.
+
+![Wand-Händler Shop](../../.gitbook/assets/UwhW8uR.png)
+
+{% hint style="info" %}
+Wand-Effekte kann man nur auf seinem eigenen Grundstück nutzen. \
+Wenn man das Item mit Rechtsklick nutzt, kann man zwischen einer temporären Vorschau ohne Nutzung oder der direkten Nutzung entscheiden.
+{% endhint %}
+
+Möchtest du wieder die normale Grundstückswand verwenden, kannst du jederzeit die **Standard-Wand** aus dem ersten Slot auswählen.
 
 ## Rand-Händler
 
-Beim Rand-Händler können Rand-Effekte gekauft werden, die du auf deinen Grundstücken anwenden kannst, um den Grundstücksrand auf deinen Grundstücken zu verändern. Dies kannst du auch mit einem Streamer-Rand kombinieren, den ein Streamer mit deiner Erlaubnis bauen kann.
+Beim **Rand-Händler** am Spawn kannst du verschiedene Grundstücksränder kaufen. Diese verändern das Aussehen der Blöcke, die den Rand deines Grundstücks bilden.
 
-![Rand-Händler Shop](<../../.gitbook/assets/2 (3).png>)
+<figure><img src="../../.gitbook/assets/ALMpGlh.png" alt="" width="355"><figcaption><p>Rand-Händler NPC</p></figcaption></figure>
+
+Bei den Angeboten handelt es sich um einen **Daily-Shop**, weshalb die verfügbaren Ränder täglich gewechselt werden. Im ersten Slot des Rand-Händlers handelt es sich immer um den Standard-Rand. Alle anderen Slots sind spezielle Variationen.
+
+![Rand-Händler Shop](../../.gitbook/assets/RA3SOJx.png)
+
+{% hint style="info" %}
+Rand-Effekte kann man nur auf seinem eigenen Grundstück nutzen. \
+Wenn man das Item mit Rechtsklick nutzt, kann man zwischen einer temporären Vorschau ohne Nutzung oder der direkten Nutzung entscheiden.
+{% endhint %}
+
+Alternativ kann ein **Streamer mit deiner Erlaubnis** einen individuellen Streamer-Rand auf deinem Grundstück bauen.
+
+Möchtest du wieder den normalen Grundstücksrand verwenden, kannst du jederzeit den **Standard-Rand** aus dem ersten Slot auswählen.
 
 ## Angler-Shop / Lavangler-Shop
 
@@ -40,17 +64,25 @@ Beim Angler-Shop-NPC kannst du die **ICTUS aqua 3000** Angel für 20 [Adventure 
 
 Außerdem Kannst du Beim Angler-Shop NPC Köder für [Adventure Coins](../waehrungen/) Kaufen, die nötig sind um das neue [Angel-System](angel-system.md) zu nutzen.
 
-Beim Lavangler-Shop-NPC kannst du **IGNIS esca 6666** die Angel für 20 Adventure Coins kaufen. Diese wird für Lava-Angel-Events benötigt, um besondere Items angeln zu können.
+![Angler-Shop-Ansicht](../../.gitbook/assets/ayVquqJ.png)
 
-![Angler-Shop-Ansicht](<../../.gitbook/assets/3 (2) (1).png>)
+Beim Lavangler-Shop-NPC kannst du die **IGNIS esca 6666** Angel für 20 [Adventure Coins](adventure-system.md) kaufen. Diese wird für Lava-Angel-Events benötigt, um besondere Items angeln zu können.
+
+<figure><img src="../../.gitbook/assets/NEQSINs.png" alt=""><figcaption><p>Lavaangler-Shop</p></figcaption></figure>
 
 ### Dauerhafte Belohnungen
 
-Unter der Kiste links befinden sich die dauerhaften Belohnungen, die du außerhalb von Angel-Events mit der **ICTUS aqua 3000** Angel angeln kannst. Darunter finden sich auch oft Items – wie eine Angelkarte oder Köpfe – die im vorigen Angel-Event verfügbar waren.
+Über die Kiste auf der linken Seite im Angel- oder Lavaangler-Shop kann man sich die **dauerhaften Belohnungen** ansehen.
+
+Diese Belohnungen können auch außerhalb von Angel-Events mit der jeweiligen Angel geangelt werden. Dazu gehören teilweise auch Items aus vergangenen Angel-Events, beispielsweise **Angelkarten oder Köpfe**.
 
 ### Event-Items
 
-Unter der Enderkiste rechts befinden sich die Event-Items, die du während des aktuellen Angel-Events angeln kannst, allerdings siehst du diese auch nach dem Event, weshalb du lieber im Forum überprüfen solltest, ob ein Event läuft.
+Unter der Enderkiste auf der rechten Seite werden die **Event-Items des aktuellen Angel-Events** angezeigt. Die dort angezeigten Items bleiben auch nach Ende des Events sichtbar. Anhand dieser Anzeige kann man daher nicht erkennen, ob aktuell ein Angel-Event stattfindet.
+
+{% hint style="info" %}
+Ob gerade ein Angel-Event läuft, sollte man deshalb im **Discord** überprüfen. Dort werden zu jedem Event News veröffentlicht.
+{% endhint %}
 
 ## Fisch-Händler
 
