@@ -1,4 +1,4 @@
-# Das Chat-System
+# 💭 Chat-System
 
 Auf dem Server kannst du auf verschiedene Arten mit deinen Mitspielern schreiben.
 

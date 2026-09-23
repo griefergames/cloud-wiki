@@ -2,7 +2,7 @@
 description: Tägliche, wöchentliche & monatliche Aufgaben für Adventure Coins
 ---
 
-# Adventure-System
+# 🪙 Adventure-System
 
 Am Spawn befinden sich zwei NPCs. Beim Adventurer-NPC kannst du die Aufgaben abholen, während du beim Amin-Shop einen Shop zum Ausgeben der [Adventure Coins](../waehrungen/) hast.
 

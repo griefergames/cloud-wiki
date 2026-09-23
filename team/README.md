@@ -22,7 +22,7 @@ layout:
     visible: true
 ---
 
-# Team
+# 🤝 Team
 
 ## Management
 

@@ -1,4 +1,4 @@
-# Showcase / Vitrinen & Truhen
+# 💎 Showcase / Vitrinen & Truhen
 
 Vitrinen und Showcases ermöglichen es dir, Items sicher und dekorativ auf deinem Plot darzustellen, perfekt für Shops, Sammlungen oder besondere Items.
 

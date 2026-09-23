@@ -1,4 +1,4 @@
-# Erfolge / Advancements
+# 💪 Erfolge / Advancements
 
 Jeder Spieler hat in der Standardansicht der Erfolge (_Standard-Tastenbelegung:_ **L**), statt der Standarderfolge von Minecraft, **eigene** Erfolge des GrieferGames Cloud-Netzwerks.
 

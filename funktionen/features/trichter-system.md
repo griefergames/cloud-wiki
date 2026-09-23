@@ -2,7 +2,7 @@
 description: Trichter neu verbunden
 ---
 
-# Trichter-System
+# 📥 Trichter-System
 
 Auf GrieferGames wurden die Funktionen der Trichter erweitert und damit entstehen viele neue Möglichkeiten und auch Verbesserungen.
 

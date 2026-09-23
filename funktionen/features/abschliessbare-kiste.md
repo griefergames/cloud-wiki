@@ -1,4 +1,4 @@
-# Abschließbare Kiste
+# 🗝️ Abschließbare Kiste
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure></div>
 

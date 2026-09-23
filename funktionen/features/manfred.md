@@ -2,7 +2,7 @@
 description: Der fahrende Händler auf GrieferGames
 ---
 
-# Manfred
+# 🐪 Manfred
 
 ![](<../../.gitbook/assets/0 (1) (2) (1).png>)
 

@@ -1,10 +1,10 @@
-# Allay Lieferdienst
+# 🪽 Allay Lieferdienst
 
 Der Allay-Lieferdienst bringt dir Items, die du durch z.B. Eventbelonungen oder andere System erhalten hast, damit du diese nicht einzeln über die Befehle abholen musst.
 
 ## Allay-Postbote
 
-<p align="center"><img src="../../.gitbook/assets/unknown (9) (1).png" alt=""></p>
+<div align="center"><img src="../../.gitbook/assets/unknown (9) (1).png" alt=""></div>
 
 Der **Allay-Postbote** erscheint neben dir, wenn es eine Lieferung gibt, welche du abholen kannst. Zusätzlich findest du am [Spawn ](../spielmodus-citybuild/der-spawn.md)immer einen **Allay-Postboten**, mit dem du sprechen kannst.
 
@@ -32,6 +32,3 @@ In den Lieferungen kannst du einfach auf das gewünschte Paket klicken, um es ab
 {% hint style="danger" %}
 Manche Lieferungen sind nicht überall verfügbar. Manchmal musst du dich auf einem Grundstücksserver (und nicht in der Farmwelt) befinden, um die Lieferung abzuholen.
 {% endhint %}
-
-
-

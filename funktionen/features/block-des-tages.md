@@ -1,4 +1,4 @@
-# Block des Tages
+# 🔳 Block des Tages
 
 Mit dem Block des Tages kannst du mit etwas Glück beim Farmen kleine Zusatzgewinne erhalten. Am Spawn findest du einen NPC, welcher dir jeden Tag den **Block des Tages** präsentiert.
 
@@ -10,7 +10,7 @@ Jedes Mal, wenn du in der Farmwelt einen natürlich generierten Block dieser Art
 
 Wenn du eine zusätzliche Belohnung erhältst, wirst du mit einer Nachricht im Chat darüber informiert.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1) (1).png" alt=""></p>
+<div align="center"><img src="../../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1) (1).png" alt=""></div>
 
 ### Mögliche Gewinne
 
@@ -43,4 +43,4 @@ Links im Interface des NPC-Menüs kannst du deine persönlichen Statistiken eins
 
 Rechts werden die globalen Statistiken angezeigt, darunter wie viel Geld, Kristalle und Items die Spieler bereits durch den Block des Tages erhalten haben, einschließlich der Top 28 Spieler, die du durch Anklicken einsehen kannst.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (3) (1) (1) (1) (1).png" alt=""><img src="../../.gitbook/assets/unknown (4) (1) (1) (1) (1).png" alt=""></p>
+<div align="center"><img src="../../.gitbook/assets/unknown (3) (1) (1) (1) (1).png" alt=""> <img src="../../.gitbook/assets/unknown (4) (1) (1) (1) (1).png" alt=""></div>

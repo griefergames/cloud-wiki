@@ -1,4 +1,4 @@
-# Cosmetics
+# ✨ Cosmetics
 
 Mit dem Cosmetics-System kann die Optik der getragenen Rüstung durch kosmetische Rüstungen verändert werden.
 

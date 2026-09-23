@@ -1,10 +1,6 @@
----
-description: Der BattlePass auf GrieferGames
----
+# 🎫 GrieferPass
 
-# Battle Pass / Griefer Pass
-
-Mit dem Battle Pass hast du die Möglichkeit dir Belohnungen durch Aufgaben zu erspielen.&#x20;
+Mit dem GrieferPass (auch BattlePass genannt) hast du die Möglichkeit dir Belohnungen durch Aufgaben zu erspielen.
 
 Durch das abschließen von Aufgaben erhältst du Pass-XP, welche dich nach und nach im Level aufsteigen lassen. Auf einigen Leveln schaltest du dann Belohnungen frei, die du dir abholen kannst.
 
@@ -12,7 +8,7 @@ Um den Battle Pass zu öffnen, nutze `/grieferpass` oder `/battlepass` auf Cityb
 
 ## Die Season
 
-Ein Pass läuft immer für eine Season. Danach gibt es einen neuen Battle Pass.&#x20;
+Ein Pass läuft immer für eine Season. Danach gibt es einen neuen Battle Pass.
 
 Eine Season läuft in der Regel für <mark style="color:green;">**4 Monate**</mark>.
 
@@ -25,7 +21,7 @@ Mit jeder Season ändern sich die täglichen & wöchentlichen Aufgaben sowie die
 Im Pass findest du zwei verschiedene Arten von Aufgaben, welche du erledigen kannst.
 
 {% hint style="info" %}
-Es ist nicht notwendig alle Aufgaben zu erledigen. Du solltest jedoch versuchen so viele Aufgaben wie möglich  zu erledigen, nicht dass dir am Ende XP fehlen.
+Es ist nicht notwendig alle Aufgaben zu erledigen. Du solltest jedoch versuchen so viele Aufgaben wie möglich zu erledigen, nicht dass dir am Ende XP fehlen.
 {% endhint %}
 
 ### Tägliche Aufgaben
@@ -60,7 +56,7 @@ Einige Aufgaben können mehrmals abgeschlossen werden, wie diese tägliche Aufga
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-Im Battle Pass stehen verschiedene Belohnungen zur Verfügung, welche mit erreichen des Pass-Levels freigeschaltet werden.&#x20;
+Im Battle Pass stehen verschiedene Belohnungen zur Verfügung, welche mit erreichen des Pass-Levels freigeschaltet werden.
 
 ### Standard-Pass-Belohnungen
 
@@ -86,7 +82,7 @@ Der Griefer-Pass wird immer für die aktuelle Season freigeschaltet und muss jed
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-Im Hauptmenü des Battle Pass kann der Griefer-Pass für Kristalle gekauft werden. Der Preis vom Pass beträgt aktuell [<mark style="color:blue;">1000 Kristalle</mark>](../waehrungen/).&#x20;
+Im Hauptmenü des Battle Pass kann der Griefer-Pass für Kristalle gekauft werden. Der Preis vom Pass beträgt aktuell [<mark style="color:blue;">1000 Kristalle</mark>](../waehrungen/).
 
 {% hint style="info" %}
 Die Belohnungen des Standard- & Griefer-Pass enthalten zusammen immer mindestens die selbe Anzahl an Kristallen, die der Pass kostet.

@@ -2,7 +2,7 @@
 description: Nutze Köder, um viele weitere Fische zu angeln.
 ---
 
-# Angel-System
+# 🎣 Angel-System
 
 Um Fische des erweiterten Angel-Systems zu angeln, musst du eine Angel deiner Wahl mit einem Köder versehen. Dann kannst du viele neue Fische aus dem Wasser ziehen.
 

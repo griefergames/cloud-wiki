@@ -2,7 +2,7 @@
 description: Das (fast) unendliche Lager auf GrieferGames
 ---
 
-# Unbegrenzter Speicher
+# 📦 Unbegrenzter Speicher
 
 Auf dem Cloud-Netzwerk wurden **Unbegrenzte Speicher** eingeführt, um eine Alternative für die auf dem 1.8 Netzwerk verfügbaren Möglichkeiten der Komprimierung zu bieten.
 

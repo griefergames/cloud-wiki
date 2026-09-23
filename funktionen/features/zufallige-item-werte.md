@@ -1,4 +1,4 @@
-# Zufällige Item-Werte
+# 🎲 Zufällige Item-Werte
 
 Einige Items können zufällige Werte erhalten, wenn diese gekauft, gewonnen oder gedroppt werden. Dadurch entsteht eine Variation an verschiedenen Items, welche schlechter und besser sein können.
 

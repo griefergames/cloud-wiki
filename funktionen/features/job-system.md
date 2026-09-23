@@ -2,7 +2,7 @@
 description: Aufträge von Spieler für Spieler
 ---
 
-# Job-System
+# 👨‍🏭 Job-System
 
 Am Spawn befindet sich der Jobs-NPC, bei welchem ihr Aufträge aufgeben oder abgeben könnt.
 

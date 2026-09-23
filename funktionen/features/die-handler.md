@@ -1,4 +1,4 @@
-# Die Händler
+# 💰 Händler
 
 Am Spawn vom Server befinden sich einige NPCs, darunter auch Händler, welche verschiedene Waren für verschiedene Währungen verkaufen.
 
@@ -54,7 +54,7 @@ Unter der Enderkiste rechts befinden sich die Event-Items, die du während des a
 
 ## Fisch-Händler
 
-Beim Fisch-Händler kannst du deine geangelten Fische des [Angel-Systems](angel-system.md) verkaufen und die Statistiken des Angel-Systems einsehen.&#x20;
+Beim Fisch-Händler kannst du deine geangelten Fische des [Angel-Systems](angel-system.md) verkaufen und die Statistiken des Angel-Systems einsehen.
 
 ![](<../../.gitbook/assets/unknown (1).png>)
 

@@ -2,7 +2,7 @@
 description: Nützliche Spielunterstützungen für dich
 ---
 
-# Perks
+# ⬆️ Perks
 
 Mit Perks hast du die Möglichkeit, Effekte und kleine Funktionen für dich zu aktivieren, die dich beim Spielen unterstützen.
 

@@ -53,7 +53,7 @@ In der Zukunft sind für diese Positionen **keine** offenen Bewerbungsphasen gep
 **Bewerbungen, welche außerhalb der Bewerbungsphase geschrieben werden, werden ignoriert.**
 {% endhint %}
 
-Eine Auflistung, in welcher gezeigt wird, welches Teammitglied aktuell welche Teamposition einnimmt, ist in der [Team-Übersicht](team.md) zu finden.
+Eine Auflistung, in welcher gezeigt wird, welches Teammitglied aktuell welche Teamposition einnimmt, ist in der [Team-Übersicht](./) zu finden.
 
 ### GrieferGames als Arbeitgeber?
 

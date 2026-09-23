@@ -1,4 +1,4 @@
-# Case-Opening
+# 🎁 Case-Opening
 
 Im Case-Opening können zufällige Gewinne gezogen werden. Es gibt verschiedene Kisten, welche verschiedene Gewinne beinhalten und über unterschiedliche Wege erhalten werden können.
 

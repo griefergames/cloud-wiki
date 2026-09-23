@@ -1,4 +1,4 @@
-# Clan-System
+# 👥 Clan-System
 
 In einem Clan kann man sich mit anderen Spielern zusammen tun, um gemeinsam zu spielen, sich gegenseitig zu unterstützen und gemeinsame Ziele zu erreichen.
 

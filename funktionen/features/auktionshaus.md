@@ -2,7 +2,7 @@
 description: 3...2...1... Verkauft!
 ---
 
-# Auktionshaus
+# 📈 Auktionshaus
 
 Wertvolle Gegenstände verkaufen war noch nie so einfach. Das Auktionshaus verkauft eure wertvollsten Items an den Höchstbietenden.
 

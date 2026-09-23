@@ -1,0 +1,21 @@
+---
+description: Das bunte Farbenspiel.
+---
+
+# Color Battle
+
+Das Ziel des Spiels ist es, möglichst viele Runden auf der richtigen Farbe zu überstehen. Auf der Spielfläche werden rundenbasiert zufällige Muster und Formen generiert.
+
+### **Spawn-Punkte** <a href="#hbw6285ps3ye" id="hbw6285ps3ye"></a>
+
+Für eine Color Battle-Map wird nur **ein** Spawn-Punkt benötigt. Die Spieler starten gemeinsam an einem Spawn-Punkt und werden nicht verteilt. Ebenfalls kann ein Pre-Spawn gesetzt werden, an dem die Spieler vor Beginn des Spieles starten.
+
+### **Die Spielfläche** <a href="#saesnaj1w8mq" id="saesnaj1w8mq"></a>
+
+<figure><img src="../../../../.gitbook/assets/0.png" alt=""><figcaption><p>Übersicht der Color Battle-Spielfläche</p></figcaption></figure>
+
+Die Spielfläche wird durch zwei <img src="../../../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> **Redstoneblöcke** markiert. Diese geben die Fläche an, wo sich später das Muster für das Spiel automatisch setzt. Entsprechend müssen diese in die gegenüberliegenden Ecken platziert werden und die Spielfläche muss ausreichend groß sein.
+
+{% hint style="info" %}
+Je nach Größe der Fläche variiert die maximale Spielerzahl der Map.
+{% endhint %}
