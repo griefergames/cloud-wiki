@@ -47,6 +47,7 @@
   * [Farm-Sammler](funktionen/grundstuecke/farm-sammler.md)
   * [Plot-NPC](funktionen/grundstuecke/plot-npc.md)
   * [Mobs auf dem Grundstück](funktionen/grundstuecke/mobs-auf-dem-grundstuck.md)
+  * [Grundstücke verschieben & erweitern](funktionen/grundstuecke/grundstucke-verschieben-and-erweitern.md)
   * [Spawn-Grundstücke](funktionen/grundstuecke/spawn-grundstucke.md)
 * [💰 Währungen](funktionen/waehrungen/README.md)
   * [In-Game-Geld $](funktionen/waehrungen/in-game-geld-usd.md)
