@@ -60,3 +60,13 @@ Du siehst jedoch weitere Aktionen des Spielers (bspw. Statusnachricht, Abstimmun
 Wenn du die Chat-Nachrichten des Spielers wieder sehen willst, gibst du den gleichen Befehl noch einmal ein.
 
 Mit `/ignore` siehst du eine Liste von allen Spielern, welche du ignoriert hast.
+
+### Chat-Sperren
+
+Du kannst nicht im Chat schreiben und erhältst eine Fehlermeldung?\
+Dafür kann es mehrere Gründe geben:
+
+* Der Chat in den Chateinstellungen ist auf „Nur Befehle“ gestellt.
+* Dein Account wurde durch ein Teammitglied/einen Spieler mit dem Mute-Perk gestummt.
+* Man befindet sich in der Lobby oder im Portalraum, wo der Chat komplett deaktiviert ist.
+* In deiner Nachricht befinden sich ein oder mehrere Wörter, die vom Team verboten wurden und somit auf die Blacklist gesetzt worden sind.

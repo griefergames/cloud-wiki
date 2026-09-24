@@ -39,7 +39,7 @@ Mit dem zusätzlichen Recht "Farbverlauf-Signierung" kann mit dem Befehl /signgr
 
 ### 2. Zeile signieren
 
-Im [Case-Opening](../features/case-opening/) kann das Recht gewonnen werden, um eine zweite Zeile auf ein Item zu signieren.
+Im [Case-Opening](../features/case-opening.md) kann das Recht gewonnen werden, um eine zweite Zeile auf ein Item zu signieren.
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>2. Zeile signieren-Item aus dem Case-Opening</p></figcaption></figure>
 

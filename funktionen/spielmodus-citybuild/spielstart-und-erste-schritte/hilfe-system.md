@@ -16,7 +16,7 @@ Auf der Startseite befindet sich eine Übersicht der Hauptfeatures des Servers. 
 
 Über ![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) gelangt man in das [Grundstücks-Menü](../../grundstuecke/hilfe-benutzen.md).
 
-Mit ![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png>) erhält man eine Übersicht über Rechte, welche man über das [Case-Opening](../../features/case-opening/) oder durch den Handel mit anderen Spielern erhalten kann.
+Mit ![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png>) erhält man eine Übersicht über Rechte, welche man über das [Case-Opening](../../features/case-opening.md) oder durch den Handel mit anderen Spielern erhalten kann.
 
 Unter ![](<../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>) befinden sich Abklingzeiten / Cooldowns von Funktionen, welche nicht permanent eingesetzt werden können (wie z. B. `/kopf` oder `/premium`).
 

@@ -11,7 +11,7 @@ Jeder Spieler kann einen Clan für 100.000$ erstellen.
 {% endhint %}
 
 {% hint style="warning" %}
-Sonderrechte (bspw. Zusätzliche Clan-Mitglieder, Clan-Farbcodes, Clan-Sondercodes) werden am Clan hinterlegt und können nicht in einen neuen Clan mitgenommen werden.\
+Sonderrechte (bspw. Zusätzliche Clan-Mitglieder, Clan-Farbcodes, Clan-Sondercodes) werden dem derzeitigen Clan hinterlegt und können nicht in einen neuen Clan mitgenommen werden.\
 \
 Die Items können von jedem Mitglied des Clans eingelöst werden.
 {% endhint %}

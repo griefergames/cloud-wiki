@@ -8,7 +8,7 @@ description: Minispiele auf dem Grundstück
 
 Mit Gaming-Stations können kleine Minispiele in der Minecraft-UI gespielt werden.
 
-Die Gaming-Station und die Spiele-Disks können über das [Case-Opening](case-opening/) oder über den Handel mit anderen Spielern erhalten werden.
+Die Gaming-Station und die Spiele-Disks können über das [Case-Opening](case-opening.md) oder über den Handel mit anderen Spielern erhalten werden.
 
 {% hint style="warning" %}
 Achtung: Einmal platziert kann die Gaming-Station nicht wieder abgebaut werden.

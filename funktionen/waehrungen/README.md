@@ -30,9 +30,9 @@ Es gibt aktuell 3 Aufgabenarten:
 
 ## Kristalle
 
-[<mark style="color:blue;">**Shop-Währung**</mark>](#user-content-fn-3)[^3] - **Währung zum Kaufen von Kisten im** [**Case-Opening**](../features/case-opening/)**.**
+[<mark style="color:blue;">**Shop-Währung**</mark>](#user-content-fn-3)[^3] - **Währung zum Kaufen von Kisten im** [**Case-Opening**](../features/case-opening.md)**.**
 
-Die Kristalle können lediglich im [Shop](https://shop.griefergames.net) von GrieferGames gekauft werden. Mit Kristallen ist es möglich, sich im Menü vom [Case-Opening](../features/case-opening/) Kisten zu kaufen, welche dann geöffnet werden können.
+Die Kristalle können lediglich im [Shop](https://shop.griefergames.net) von GrieferGames gekauft werden. Mit Kristallen ist es möglich, sich im Menü vom [Case-Opening](../features/case-opening.md) Kisten zu kaufen, welche dann geöffnet werden können.
 
 Zusätzlich kannst du dir durch einige Features wie [Adventure-Aufgaben](../features/adventure-system.md) oder [Block des Tages](../features/block-des-tages.md) kleine Kristall-Beträge verdienen.
 
@@ -46,7 +46,7 @@ Bedenke hierbei, dass durch die Anzahl an Anfragen eine Antwortzeit von mehreren
 
 [<mark style="color:red;">**Accountgebunden**</mark>](#user-content-fn-2)[^2] - **Eine ertauschbare spielerbezogene Währung.**
 
-Diese Tokens können zu bestimmten Events durch eine sogenante <mark style="color:purple;">**Tausch-Elfe**</mark> erhalten werden. Diese ermöglicht es, Items (meist Items aus dem [Case-Opening](../features/case-opening/) im unteren Bereich) gegen Tokens einzutauschen und damit andere Items der <mark style="color:purple;">Tausch-Elfe</mark> zu erwerben.
+Diese Tokens können zu bestimmten Events durch eine sogenante <mark style="color:purple;">**Tausch-Elfe**</mark> erhalten werden. Diese ermöglicht es, Items (meist Items aus dem [Case-Opening](../features/case-opening.md) im unteren Bereich) gegen Tokens einzutauschen und damit andere Items der <mark style="color:purple;">Tausch-Elfe</mark> zu erwerben.
 
 {% hint style="info" %}
 Die <mark style="color:purple;">Tausch-Elfe</mark> ist nicht dauerhaft verfügbar. Die nicht verwendeten Tokens bleiben auch beim Verschwinden der <mark style="color:purple;">Tausch-Elfe</mark> erhalten.
@@ -56,7 +56,7 @@ Die <mark style="color:purple;">Tausch-Elfe</mark> ist nicht dauerhaft verfügba
 
 [<mark style="color:red;">**Accountgebunden**</mark>](#user-content-fn-2)[^2] - **Währung des Prestige-Shops**
 
-Diese Tokens können beim ingame Kauf von Kristallen/Kisten im [CaseOpening](../features/case-opening/) durch [Stripe](../features/case-opening/stripe.md) erhalten werden. Mit Prestige-Tokens kann man beim **Prestige Token Händler** verschiedene Items wie Kristalle und Farbverläufe kaufen.
+Diese Tokens können beim ingame Kauf von Kristallen/Kisten im [CaseOpening](../features/case-opening.md) durch [Stripe](/broken/pages/YVD26x1zIEtzIrSN8x8M) erhalten werden. Mit Prestige-Tokens kann man beim **Prestige Token Händler** verschiedene Items wie Kristalle und Farbverläufe kaufen.
 
 [^1]: Diese Währung kann In-Game mit anderen Spielern gehandelt werden.
 
