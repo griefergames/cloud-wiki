@@ -31,7 +31,7 @@ Sie sind weiterhin ganz normale Mitglieder der Community und **gehören nicht zu
 
 Helfer können euch bei Fragen weiterhelfen, euch an die richtige Stelle verweisen oder Anliegen und Fehler an das Team weiterleiten.
 
-Eine Liste aller derzeitigen Helfer ist in der [Helfer-Übersicht](das-helfer-system/ubersicht-der-helfer.md) zu finden.
+Eine Liste aller derzeitigen Helfer ist in der [Team-Übersicht](../../../team/#mods-sups-and-helfer) zu finden.
 
 #### Was macht ein Helfer?
 
@@ -62,7 +62,7 @@ Als Haupt-Citybuild zählt dabei ein Citybuild-Server des **1.8-Netzwerks** oder
 
 * hervorgehobene Schrift im Chat
 * Helfer-Mute/Ban für bis zu 4 Stunden als kurzfristige Maßnahme in **Notfällen**
-* StartKick und StartJail (ohne Cooldown)
+* [StartKick und StartJail](../booster-and-perks.md#funktions-perks) (ohne Cooldown)
 * Zugriff auf einen speziellen Helfer-Bereich im Team-Discord
 * Zugriff auf entsprechende Team-Räume auf dem TeamSpeak
 
@@ -78,7 +78,7 @@ In seltenen Fällen kann ein Helfer später Supporter werden. Das ist jedoch nic
 
 Wenn ein Citybuild keinen Helfer hat und dort ausreichend Aktivität für eine Wahl vorhanden ist, kann die Administration eine **Helfer-Wahl** starten.
 
-Man kann sich nur auf seinem **Haupt-Citybuild** zur Wahl stellen und auch nur dort abstimmen. Um an einer Wahl teilnehmen zu können, muss man als Bürger auf dem jeweiligen Citybuild eingetragen sein.
+Man kann sich nur auf seinem **Haupt-Citybuild** zur Wahl stellen und auch nur dort abstimmen. Um an einer Wahl teilnehmen zu können, muss man als Bürger auf dem jeweiligen Citybuild eingetragen sein:
 
 {% hint style="warning" %}
 Damit du zum Helfer gewählt werden kannst, musst du mindestens 30 Tage auf dem Citybuild-Server als Bürger eingetragen sein.
@@ -86,7 +86,7 @@ Damit du zum Helfer gewählt werden kannst, musst du mindestens 30 Tage auf dem 
 Damit du andere Spieler zum Helfer wählen kannst, musst du mindestens 14 Tage auf dem Citybuild-Server als Bürger eingetragen sein.
 {% endhint %}
 
-Eine Eintragung ist einmal monatlich über den [Bürgermeister](burgermeister.md) am Spawn möglich.
+Eine Eintragung ist einmal monatlich über den [Bürgermeister](../die-hauptstadt.md#der-buergermeister) in der [Stadt](../die-hauptstadt.md#stadt) möglich.
 
 ### Wie funktioniert die Helfer-Wahl?
 
@@ -94,7 +94,7 @@ Mit **`/wahl`** kann man das Wahl-System öffnen. Dort kann man für einen Kandi
 
 Mit **`/wahl <Name>`** kann man direkt den Wahlbogen eines Spielers öffnen, sofern dieser zur Wahl steht.
 
-<figure><img src="https://forum.griefergames.de/attachment/354368-wahl-png/" alt=""><figcaption><p>Wahl-Menü</p></figcaption></figure>
+<figure><img src="https://forum.griefergames.de/attachment/354368-wahl-png/" alt=""><figcaption></figcaption></figure>
 
 Die Wahl läuft für einen festgelegten Zeitraum und wird anschließend ausgewertet.
 
@@ -123,7 +123,7 @@ Beim letzten Punkt geht es **nicht um eine kurzfristige Stimmung** auf dem Cityb
 
 #### Wie melde ich Verstöße eines Helfers?
 
-Sollte dir auffallen, dass ein Helfer seine Rechte missbraucht oder gegen unser Regelwerk verstößt, erstelle bitte eine Beschwerde mit dem Label „Spielermeldung“ über das Ticket-System im [Web](https://ticket.griefergames.de/) oder auf dem [Discord](https://discord.com/channels/325017098592059392/1022387246873198643).
+Sollte dir auffallen, dass ein Helfer seine Rechte missbraucht oder gegen unser Regelwerk verstößt, erstelle bitte eine Beschwerde mit dem Label "Spielermeldung" über das Ticket-System im [Web](https://ticket.griefergames.de/) oder auf dem [Discord](https://discord.com/channels/325017098592059392/1022387246873198643).
 
 <details>
 

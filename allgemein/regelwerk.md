@@ -94,11 +94,11 @@ layout:
 
 #### (4) Items, die durch unerlaubte Modifikationen (Hacked Clients, Cheats) oder Serverfehler entstanden sind, müssen zerstört oder an das Team übergeben werden.
 
-#### (5) Alle Modifikationen, die einen erheblichen Spielvorteil bieten, sind verboten. [In dieser Auflistung](/allgemein/allgemein/clients-and-modifikationen/empfohlene-modifikationen) sind einige Modifikationen aufgelistet, die wir zum angenehmen Spielen auf unserem Netzwerk empfehlen.
+#### (5) Alle Modifikationen, die einen erheblichen Spielvorteil bieten, sind verboten. [In dieser Auflistung](clients-and-modifikationen/empfohlene-modifikationen.md) sind einige Modifikationen aufgelistet, die wir zum angenehmen Spielen auf unserem Netzwerk empfehlen.
 
 #### (6) Keine der exklusiv für diesen Server gebauten Bauwerke (Lobby, Portalraum, Spawns) dürfen ohne eine ausdrückliche, schriftliche Erlaubnis der Serverleitung, sowohl für private als auch gewerbliche Zwecke genutzt werden.
 
-#### (7) Das sogenannte [„Scammen“](das-scamming/README.md) (zum Beispiel Betrug beim Handeln und Teleport-Fallen) ist auf dem Servernetzwerk **nicht** verboten, **kann** aber in Einzelfällen zu Sanktionen führen.
+#### (7) Das sogenannte [„Scammen“](scamming/) (zum Beispiel Betrug beim Handeln und Teleport-Fallen) ist auf dem Servernetzwerk **nicht** verboten, **kann** aber in Einzelfällen zu Sanktionen führen.
 
 1. Teammitglieder dürfen grundsätzlich nicht gescammt werden. Sie dürfen allerdings nachweisliche Scammer scammen, wenn sie das komplette Szenario aufnehmen und öffentlich auf ihrem YouTube-Kanal hochladen.
 2. Das Scammen ist allerdings nur im Spiel nicht verboten. Sobald es um Echtgeld geht, ist dies nicht mehr gestattet und kann zu einer polizeilichen Anzeige führen.
@@ -144,7 +144,7 @@ layout:
 3. Jeder Einzelfall wird von einem Administrator überprüft und bei Verstoß mit einem Kick oder Bann vom Server oder mit einer Löschung des Grundstücks geahndet.
 4. Der Grundstücksbesitzer kann dafür belangt werden, wenn ein fremder, helfender oder vertrauter Spieler diese Farmen betreibt.
 5. Im Spawn-Bereich (erste bis dritte Reihe) dürfen keine Farmen gebaut werden. Ausnahmeregelung: Sie bieten der Community einen Community-Zweck mit zum Beispiel speziellen dauerhaft aktivierten Flags.
-6. Vollautomatisierte Spieleraccounts, welche wir als Bots einstufen, werden mindestens einen langen Bann erhalten. Hier gilt ebenfalls [§ 2 Absatz 8](regelwerk.md#id-8-das-nutzen-jeglicher-hacked-clients-bots-und-visueller-vorteile-ist-strengstens-verboten.-die-nutz).
+6. Vollautomatisierte Spieleraccounts, welche wir als Bots einstufen, werden mindestens einen langen Bann erhalten. Hier gilt ebenfalls [§ 2 Absatz 8](#8-das-nutzen-jeglicher-hacked-clients-bots-und-visueller-vorteile-ist-strengstens-verboten-die-nutzung-von-bots-die-einen-automatischen-an--und-verkauf-anbieten-ist-lediglich-auf-dem-18-citybuild-netzwerk-erlaubt-das-automatisierte-herstellen-von-items-durch-minecraft-eigene-rezepte--auch-unter-autocrafting-bekannt--ist-ebenfalls-nur-auf-dem-18-citybuild-netzwerk-erlaubt).
 7. Die Administration behält sich das Recht vor, AFK-betriebene Farmen vollständig zu deaktivieren, zu griefen oder zu zerstören.
 8. Community-Farmen dürfen AFK-Farmmechanismen betreiben, wenn sie eine bestätigte Community-Farm sind. Darunter müssen folgende Kriterien eingehalten werden:
    * AFK-Farmer müssen aktiv von den Farmbesitzern gekickt, gebannt oder getötet werden.
@@ -240,7 +240,7 @@ layout:
 
 #### (8) Das Erstellen von Benutzerkonten mit sogenannten Einmal-E-Mail-Adressen („Trash-Mails“) ist verboten.
 
-#### (9) Jeder Spieler darf nur ein Benutzerkonto im Forum besitzen und nutzen. Ist dieser gebannt so gilt [§ 1 Absatz 10](regelwerk.md#id-10-verwarnungs-mute-und-bannumgehungen-mithilfe-von-multi-und-alt-accounts-sind-verboten).
+#### (9) Jeder Spieler darf nur ein Benutzerkonto im Forum besitzen und nutzen. Ist dieser gebannt so gilt [§ 1 Absatz 10](#10-verwarnungs--mute--und-bannumgehungen-mithilfe-von-multi--und-alt-accounts-sind-verboten).
 
 #### (10) Das Hinweisen auf moderative Fehler eines Benutzers obliegt dem Team. Es ist daher als nicht-Teammitglied zu unterlassen, Benutzer auf Themen im falschen Forum, unnötigen Beitrag, Spam oder anderes hinzuweisen. Die Meldefunktion soll benutzt werden. Das Anfragen von moderativen Aktionen (Schließen, Verschieben, etc.) durch den Themenautor ist über die Meldefunktion vorzunehmen.
 

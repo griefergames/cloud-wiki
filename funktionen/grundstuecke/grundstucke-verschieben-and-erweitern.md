@@ -30,7 +30,7 @@ Grundstücksverschiebungen sind ein freiwilliger Service des Teams, auf den kein
 
 <figure class="wiki-illus"><img src="/img/wiki-illus/grundstuecke-verschieben.webp" alt="Schematisch: Ein Grundstück wird an eine neue Stelle verschoben bzw. erweitert."><figcaption>Schematisch: Ein Grundstück wird an eine neue Stelle verschoben bzw. erweitert.</figcaption></figure>
 
-Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück auf einen anderen Citybuild-Server umziehen wollt, euer Grundstück innerhalb des Citybuild-Servers an eine andere Stelle verschieben wollt oder ein Grundstück, das ihr nicht [beantragen](inaktive-grundstuecke.md) könnt, eurem Bauvorhaben im Weg steht.
+Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück auf einen anderen Citybuild-Server umziehen wollt, euer Grundstück innerhalb des Citybuild-Servers an eine andere Stelle verschieben wollt oder ein Grundstück, welches ihr nicht [beantragen](grundstuecke-inaktiver-spieler-beantragen.md) könnt, eurem Bauvorhaben im Weg steht.
 
 ### Was gibt es hierbei zu beachten?
 
@@ -48,7 +48,7 @@ Zu wertvolle/bebaute Einzelgrundstücke anderer Spieler, die einer Erweiterung i
 Grundstücksverschiebungen sind mit unserem neuen System zwar Citybuild-übergreifend möglich, allerdings nur mit Einschränkungen.
 
 * Grundstücke, die nicht viereckig oder zu groß sind, können aktuell nicht auf einen anderen Citybuild-Server verschoben werden.
-  * In der Regel max. ca. 100er-Merges – Ausnahmen sind jedoch möglich
+  * In der Regel max. \~100er-Merges – Ausnahmen sind jedoch möglich
 * Ränder und Straßen (inklusive Schilder & Köpfe) werden nicht mit verschoben.
 * Dieser Service ist **nicht** auf den Citybuilds 7, Nature & Extreme verfügbar.
 {% endhint %}
@@ -95,7 +95,7 @@ Vor der Verschiebung sollten folgende Hinweise zu den spezifischen Entities & Bl
   * Vitrinen
 * **Diese Blöcke/Entities können verschwinden:**
   * Hologramme (Koordinaten angeben, werden durch Plot-Holo-Items ersetzt)
-  * Mobs (vorher mit "Magischer Leine" einfangen)
+  * Mobs (vorher mit „Magischer Leine“ einfangen)
   * Dorfbewohner
   * Plot-NPCs (Koordinaten + Einstellungen angeben)
 * **Diese Blöcke müssen nach Verschiebung abgebaut und neu platziert werden:**
@@ -130,7 +130,7 @@ Alle Grundstücke, die zusammengefügt werden sollen, müssen vollständig bebau
 {% endhint %}
 
 {% hint style="warning" %}
-Sollten Grundstücke anderer Spieler im Weg sein, kannst du einen Antrag auf [Verschiebung des Grundstücks](grundstucke-verschieben-and-erweitern.md#grundstücksverschiebungen) stellen. Beachte dabei die Hinweise!
+Sollten Grundstücke anderer Spieler im Weg sein, kannst du einen Antrag auf Verschiebung des Grundstücks stellen (siehe Abschnitt „Grundstücksverschiebungen“ oben). Beachte dabei die Hinweise!
 {% endhint %}
 
 {% hint style="danger" %}
@@ -147,12 +147,14 @@ Anträge für die Verschiebung oder Erweiterung deines Grundstücks lassen sich 
 
 ### Ticket-System
 
-* Nutze hier das passende Label "Grundstücksverschiebung/-erweiterung"
+* Nutze hier das passende Label „Grundstücksverschiebung/-erweiterung“.
 * Erstelle das Ticket über unseren Discord-Server oder im Web:
 
 {% embed url="https://discord.griefergames.net/" %}
+{% endembed %}
 
 {% embed url="https://ticket.griefergames.de/" %}
+{% endembed %}
 
 <details>
 

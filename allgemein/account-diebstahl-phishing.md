@@ -23,7 +23,7 @@ layout:
 
 # 🚨 Account-Diebstahl / Phishing
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/legacy_image (4).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/legacy_image (4).png" alt="Banner: Betrug um Minecraft-Accounts & Phishing"><figcaption></figcaption></figure></div>
 
 Tag für Tag werden Spielern Minecraft-Accounts durch üble Phishing-Methoden abgenommen. Dieser Artikel soll euch informieren, welche Methoden es aktuell gibt, wie ihr euch davor schützen könnt und was ihr machen könnt, wenn ihr bereits betroffen seid.
 
@@ -39,17 +39,17 @@ Beschaffung persönlicher Daten anderer Personen (wie Passwort, Kreditkartennumm
 
 ### Externe LabyMod-Addons über Discord & YouTube
 
-Die womöglich übelste Masche ist es, externe LabyMod-Addons zu entwickeln und diese dann zu verbreiten. Die Verbreitung der schädlichen Software gelingt durch den Leichtsinn vieler Menschen – die meisten denken nicht zuerst an das Negative, sondern an das Positive. So wird etwa damit geworben, dass man mithilfe bisher unbekannter Modifikationen auf GrieferGames duplizieren kann oder bestimmte Inhalte (z. B. Addons für Bots) vorab testen darf. Solche Phishing-Methoden sind mittlerweile üblich und verleiten gerade auf YouTube immer mehr Menschen dazu, solche Dateien herunterzuladen und zu installieren.
+Die womöglich übelste Masche ist es, externe LabyMod-Addons zu entwickeln und diese dann zu verbreiten. Die Verbreitung der schädlichen Software gelingt mit dem Leichtsinn des Menschen – die meisten Menschen denken nicht erst an das Negative, sondern an das Positive. Somit wird geworben, dass man z. B. mithilfe einer Installation bisher unbekannter Modifikationen auf GrieferGames duplizieren kann oder bestimmte Inhalte (z. B. Addons für Bots) vorab testen darf. Solche Phishing-Methoden sind mittlerweile üblich und verleiten immer mehr Menschen gerade auf YouTube dazu, solche Dateien herunterzuladen und zu installieren.
 
 {% hint style="info" %}
-Alle in Videos oder auf Bildern gezeigten angeblichen Hacks sind auf GrieferGames **nicht** möglich. Es handelt sich lediglich um **Anzeige-Hacks**, die nur Ghostblocks (nur für den eigenen Client sichtbare Blöcke) und keine echten Blöcke zeigen.
+Alle in Videos oder auf Bildern gezeigten angeblichen Hacks sind auf GrieferGames **nicht** möglich. Das sind lediglich **Anzeige-Hacks** und zeigen nur Ghostblocks (nur für den Client sichtbare Blöcke) und nicht echte Blöcke.
 {% endhint %}
 
 {% hint style="warning" %}
-Ladet euch LabyMod-Addons nur im **offiziellen In-Game-Addon-Store** herunter! Externe Addons, also Addons, die ihr über Dateien bekommt oder selbst im Mod-Ordner ablegen sollt, sind meistens betrügerische Maschen!
+Ladet euch nur LabyMod-Addons im **offiziellen In-Game-Addon-Store** herunter! Externe Addons, also Addons, die ihr über Dateien bekommt oder selbst im Mod-Ordner ablegen sollt, sind meistens betrügerische Maschen!
 {% endhint %}
 
-Auch auf Discord wurden solche Mittel häufig eingesetzt, um Daten abzufangen und zu missbrauchen. Hier eine Beispielnachricht eines Phishing-Falls auf Discord:
+Auch wurde auf Discord ziemlich stark mit solchen Mitteln gespielt, um Daten abzufangen und diese zu benutzen. Beispielnachricht eines Phishing-Falls auf Discord:
 
 > Hallo du,
 >
@@ -71,54 +71,54 @@ Auch auf Discord wurden solche Mittel häufig eingesetzt, um Daten abzufangen un
 >
 > Dein BETA Token: "BETA-656"
 
-Diese Nachrichten bekamen viele Discord-Nutzer, die auf unserem [offiziellen Discord-Server](https://discord.gg/abge) waren. Mehrere Personen hatten sich wie Teammitglieder benannt und ihr Profilbild exakt gleich gestaltet. Viele Nutzer dachten deshalb, sie würden mit einem echten Teammitglied von GrieferGames schreiben, und haben sich nichts dabei gedacht, die Datei herunterzuladen und zu installieren.
+Diese Nachrichten bekamen viele Discord-Nutzer, die auf unserem [offiziellen Discord-Server](https://discord.gg/abge) waren. Es haben sich mehrere Personen wie Teammitglieder genannt und das Profilbild exakt so gestaltet. Viele Nutzer dachten, dass sie mit einem echten Teammitglied von GrieferGames geschrieben haben und dachten sich nichts dabei, die Datei herunterzuladen und zu installieren.
 
-Das Problem dabei: Wir würden niemals ...
+Das Problem hierbei ist: Wir würden …
 
-1. eine solch unprofessionelle Nachricht verschicken,
-2. solche Tests außerhalb unseres offiziellen Test-Netzwerks durchführen,
-3. zukünftige Features durch spezielle Verschlüsselungsmöglichkeiten schützen,
-4. .zip-Dateien oder anderweitige dekompilierte Dateien versenden.
+1. niemals eine solch unprofessionelle Nachricht von uns geben.
+2. solche Tests offiziell auf unserem Test-Netzwerk durchführen.
+3. spezielle Verschlüsselungsmöglichkeiten anwenden, um zukünftige Features zu schützen.
+4. niemals .zip-Dateien oder anderweitige dekompilierte Dateien versenden.
 
 All diese Punkte zeigen, dass es sich um eine Nachricht handelt, die nicht von einem [offiziellen Teammitglied](../team/README.md) versandt wurde.
 
-Ob man auf Discord mit einem echten Teammitglied von GrieferGames schreibt, kann man prüfen, indem man im Profil der Person auf „Mutual Servers“ (deutsch: „Gemeinsame Server“) geht.
+Ob man auf Discord mit dem richtigen Teammitglied von GrieferGames schreibt, kann man prüfen, indem man unter dem Profil desjenigen auf „Mutual Servers“ (deutsch: „Gemeinsame Server“) geht.
 
-Steht dort „GrieferGames“, ist das schon einmal ein gutes Zeichen. Stimmen außerdem die Rollen, die der Nutzer auf dem GrieferGames-Discord-Server hat – steht dort z. B. „Administrator“ als Rolle –, weiß man, dass man mit dem echten Teammitglied schreibt.
+Sollte dort „GrieferGames“ stehen, ist das schon einmal der richtige Weg. Wenn jetzt noch die Rollen, die der Discord-Nutzer auf dem GrieferGames-Discord-Server hat, stimmen – wenn dort z. B. als Rolle „Administrator“ steht, weiß man, dass man mit dem richtigen Teamler schreibt.
 
 ### Was kann ich gegen solchen Betrug unternehmen?
 
-Es kommt immer auf die Plattform an. Wir, GrieferGames, haben keine Social-Media-Plattform unter unserer Kontrolle. Schickt euch also z. B. jemand auf Discord schädliche Software, die ihr installieren sollt, können wir dagegen nichts unternehmen. Natürlich könnten wir diesen Nutzer auf unserem Server sperren, aber mehr auch nicht.
+Es kommt immer auf die Plattform an. Wir, GrieferGames, sind nicht die ganze Welt und haben auch keinen Social-Media-Weg unter unserer Kontrolle. Das heißt: Wenn euch jemand z. B. auf Discord schädliche Software zukommen lässt, die ihr installieren sollt, können wir dagegen nichts unternehmen. Natürlich könnten wir diesen Nutzer auf unserem Server sperren, aber mehr auch nicht.
 
-Auf Discord kann man solche Nutzer auf offiziellem Wege ganz einfach unter [diesem Link](https://support.discord.com/hc/de/requests/new) melden. Allerdings sollte man vorher [diesen Artikel von Discord](https://support.discord.com/hc/de/articles/360000291932-Einen-Fall-richtig-bei-unserem-Trust-Safety-Team-melden) gelesen haben. Solche offiziellen Wege, Nutzer melden zu können, bieten die wenigsten Plattformen. Daher ist das Risiko extrem hoch, dass Nutzer, die z. B. schädliche Software verbreiten, „einfach“ weitermachen können.
+Auf Discord kann man solche Nutzer auf offiziellem Wege ganz einfach unter [diesem Link](https://support.discord.com/hc/de/requests/new) melden. Allerdings sollte man vorher [diesen Artikel von Discord](https://support.discord.com/hc/de/articles/360000291932-Einen-Fall-richtig-bei-unserem-Trust-Safety-Team-melden) gelesen haben. Solche offiziellen Wege, Nutzer melden zu können, bieten die wenigsten Plattformen. Daher ist das Risiko extrem hoch, dass die Nutzer, die z. B. schädliche Software verbreiten, „einfach“ weitermachen können.
 
 Was man allerdings fast überall selbstständig machen kann, ist ...
 
-1. auf gar keinen Fall auf unseriös wirkende Links klicken – egal, ob es angeblich nur um ein Skript geht, das die Farbe der Taskleiste unter Windows ändert, oder um mehrere tausend Euro durch einen Bitcoin-Miner.
-2. auf gar keinen Fall ungeprüfte Software öffnen und auf dem Computer installieren. Es gibt Viren, die nicht einmal das beste Antivirus-Programm erkennt, weil sie noch unentdeckt sind und deshalb in keiner Datenbank auftauchen.
-3. den jeweiligen Nutzer blockieren und keine Nachrichten von ihm an leichtgläubige Personen weiterleiten.
+1. auf gar keinen Fall auf unseriös wirkende Links klicken. Egal ob das nur ein Skript ist, um die Farbe der Taskleiste unter Windows zu ändern oder mehrere tausend Euro durch einen Bitcoin-Miner zu erhalten.
+2. auf gar keinen Fall auf nicht geprüfte Software klicken und diese somit auf dem Computer installieren. Es gibt Viren, die clientseitig programmiert wurden und nicht mal das beste Antivirus-Programm diesen Virus erkennen kann, da – klar – dieser Virus in keiner Datenbank bereits auftauchen konnte, da dieser noch unentdeckt blieb.
+3. den jeweiligen Nutzer blockieren und keine Nachrichten von ihm an leichtgläubige Personen weiterzuleiten.
 
 ### Was passiert, wenn ich meinen Minecraft-Account verloren habe?
 
-Wir, GrieferGames, sind nicht Minecraft und haben auch keine Kooperation mit Minecraft. Daher können und werden wir keine Schritte einleiten, um gehackte Accounts wiederzubekommen.
+Wir, GrieferGames, sind nicht Minecraft und haben auch keine Kooperation mit Minecraft. Daher können und werden wir auch keine Wege einleiten, gehackte Accounts wiederzubekommen.
 
 Der beste Weg ist hier, Microsoft direkt zu kontaktieren. Dies gelingt über [deren Kontaktformular](https://support.xbox.com/de-DE/contact-us).
 
-Bekommst du gar keinen Zugriff mehr auf deinen Account, kannst du dich in unserem Ticket-System [im Web](https://ticket.griefergames.de/) oder auf dem [offiziellen GrieferGames Discord](https://discord.com/invite/abge) melden. Wähle bei der Erstellung des Tickets unbedingt das Thema "Minecraft-Account verloren" aus. Dann prüft die Administration, ob die Inhalte deines verlorenen Accounts auf einen neuen Account übertragen werden können.
+Bekommst du gar keinen Zugriff mehr auf deinen Account, kannst du dich in unserem Ticket-System [im Web](http://ticket.griefergames.de/) oder auf dem [offiziellen GrieferGames Discord](https://discord.com/invite/abge) melden. Wähle bei der Erstellung des Tickets unbedingt das Thema "Minecraft-Account verloren" aus. Dann prüft die Administration, ob die Inhalte deines verlorenen Accounts auf einen neuen Account übertragen werden können.
 
 {% hint style="info" %}
 Damit die Administration das Anliegen schnellstmöglich bearbeiten kann, sollten im Ticket folgende Informationen hinterlegt werden:
 
 1. Name von deinem alten Minecraft-Account, auf den du keinen Zugriff mehr hast
-2. Beleg, dass dir der ursprüngliche Minecraft-Account gehört (z. B. Rechnung aus dem GrieferGames-Online-Shop, E-Mail-Adresse, mit der du im Shop eingekauft hast)
+2. Beleg, dass dir der ursprüngliche Minecraft-Account gehört (z. B. Rechnung aus dem GrieferGames Online-Shop, E-Mail mit der du im Shop eingekauft hast)
 3. Name von deinem neuen Minecraft-Account, auf den alles übertragen werden soll
 {% endhint %}
 
 #### GGAuth
 
-Mithilfe unseres eigenen Account-Dienstes [GGAuth](griefergames-auth.md) bieten wir die Möglichkeit, euren Minecraft-Account auf unserem Netzwerk zusätzlich zu sichern, indem ihr darüber eine Mehr-Faktor-Authentifizierung einrichtet. GGAuth bietet euch zudem weitere Möglichkeiten, alle GrieferGames-Dienste umfangreich zu nutzen: Ihr könnt z. B. eure Chatlogs sichern, euer GG-Profil personalisieren, das Ticket-System verwenden, euren Java-Account in der Bedrock Edition spielen oder Einschränkungen auf unserem Discord-Server aufheben und Zugriff auf alle Themenbereiche erhalten.
+Mithilfe unseres eigenen Account-Dienstes [GGAuth](gg-auth.md) bieten wir die Möglichkeit, euren Minecraft-Account auf unserem Netzwerk zusätzlich zu sichern, indem ihr darüber eine Mehr-Faktor-Authentifizierung einrichtet. GGAuth bietet euch zudem zusätzliche Möglichkeiten, alle GrieferGames-Dienste umfangreich zu nutzen: darunter eure Chatlogs zu sichern, euer GG-Profil zu personalisieren, das Ticket-System zu verwenden, euren Java-Account auf der Bedrock Edition zu spielen oder Einschränkungen auf unserem Discord-Server aufzuheben und Zugriff auf alle Themenbereiche zu erhalten.
 
-Die Einrichtung von GGAuth ist kostenfrei und erfordert lediglich eine E-Mail-Adresse und euren Minecraft-Account.
+Die Einrichtung von GGAuth ist kostenfrei und erfordert lediglich eine E-Mail-Adresse und deinen Minecraft-Account.
 
 <details>
 

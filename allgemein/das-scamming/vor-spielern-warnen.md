@@ -23,10 +23,10 @@ layout:
 
 Wenn du die Community vor einem Spieler warnen willst, weil er z. B. ein Scammer ist, kannst du das im **Discord** im Channel [#spielerwarnungen](https://discord.com/channels/325017098592059392/1169043681446199387) erledigen.
 
-{% hint style="warning" %}
-**Wichtig zu wissen:** **Scamming (Betrug)** ist auf GrieferGames **nicht verboten**.
+{% hint style="info" %}
+**Wichtig zu wissen:** Scamming (Betrug) ist auf GrieferGames **nicht verboten**.
 
-Das bedeutet, dass der Spieler in der Regel **nicht bestraft** wird und es **keinen Anspruch** auf Erstattung von Items, Geld, Grundstücken oder anderen In-Game-Werten durch das Team gibt. Mehr Infos dazu findest du in [diesem Artikel](./).
+Das bedeutet, dass der Spieler in der Regel **nicht bestraft** wird und es **keinen Anspruch** auf Erstattung von Items, Geld, Grundstücken oder anderen In-Game-Werten durch das Team gibt. Mehr Infos dazu findest du im Artikel [Das Scamming](./).
 {% endhint %}
 
 <details>
