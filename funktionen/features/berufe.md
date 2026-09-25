@@ -1,112 +1,111 @@
 ---
-description: Rollen, die aus deinem Spielstil entstehen, mit Level, Titeln und Monatsligen
+description: Berufe, die sich aus deiner Spielweise ergeben, mit Leveln, Titeln und monatlichen Ligen
 ---
 
 # 🧭 Berufe
 
-<figure><img src="../../.gitbook/assets/berufe-header.jpg" alt="Händler, Höhlenforscher, Axtperte, Netherstrike und Aqua-Expert: Berufe entstehen aus dem, was du auf der Cloud spielst"><figcaption>Du spielst einfach, die Cloud erkennt, wer du bist: Berufe wachsen aus deinem Verhalten.</figcaption></figure>
+<figure><img src="../../.gitbook/assets/berufe-header.jpg" alt=""><figcaption><p>Händler, Höhlenforscher, Axtperte, Netherstrike und Aqua-Expert</p></figcaption></figure>
 
-Berufe sind Rollen, die sich aus deinem Verhalten auf der Cloud ergeben. Du wählst keinen Beruf aus und legst dich nie fest. Das System schaut, was du spielst, und daraus entstehen deine Berufe von selbst: Wer viel handelt, wird zum Händler. Wer viel unter Tage unterwegs ist, wird zum Höhlenforscher. Wer ständig Minigames spielt, wird als Spieler erkannt.
+Mit dem Berufe-System erhältst du Berufe, welche sich aus deiner Spielweise ergeben. Du musst keinen Beruf auswählen und kannst auch keinen wechseln. Stattdessen wird ausgewertet, welche Systeme du nutzt, in welchen Welten und Biomen du unterwegs bist und welche Tätigkeiten du regelmäßig ausführst. Wer zum Beispiel viel im Auktionshaus handelt, wird zum Händler. Wer viel unter Tage abbaut, wird zum Höhlenforscher.
 
-## Das Wichtigste in Kürze
-
-* **Alle Berufe gleichzeitig.** Jeder Spieler hat alle Berufe. Es gibt kein Menü zur Auswahl und keinen Wechsel.
-* **Zwei Rollen sind sichtbar.** Nach außen zeigst du immer einen aktiven globalen Beruf und einen aktiven Minecraft-Beruf, zum Beispiel _Händler | Höhlenforscher_.
-* **Level und Titel bleiben.** Jeder Beruf sammelt dauerhafte Punkte für Level und Titel. Die werden nie zurückgesetzt.
-* **Monatsligen für den Wettbewerb.** Zusätzlich gibt es Monatspunkte. Daraus entsteht am Monatsende deine Liga mit Belohnungen. Diese Punkte starten jeden Monat bei null.
-* **Spielen statt grinden.** Bewertet wird dein Verhalten im Zusammenhang. Abwechslungsreiches Spielen zählt voll, eintönige Schleifen zählen kaum.
+Jeder Spieler besitzt alle Berufe gleichzeitig. Für jeden Beruf sammelst du Punkte, mit denen du im Level aufsteigst und Titel freischaltest. Zusätzlich gibt es jeden Monat einen Wettbewerb mit Ligen und Belohnungen.
 
 {% hint style="info" %}
-Berufe sind etwas anderes als das [Job-System](job-system.md). Dort geben Spieler Aufträge auf, die andere beliefern. Das Beliefern solcher Aufträge zählt allerdings für den Beruf Abenteurer, das Erstellen für den Händler.
+Das Berufe-System ist nicht mit dem [Job-System](job-system.md) zu verwechseln. Im Job-System geben Spieler Aufträge auf, welche von anderen Spielern beliefert werden. Das Beliefern von Aufträgen zählt jedoch für den Beruf Abenteurer, das Erstellen von Aufträgen für den Beruf Händler.
 {% endhint %}
 
-## So funktioniert es
+## Aktive Berufe
 
-Die Cloud beobachtet, welche Systeme du nutzt, in welchen Welten und Biomen du aktiv bist und welche Tätigkeiten sich bei dir wiederholen. Daraus entstehen automatisch zwei Rollen, die andere Spieler sehen:
+Es gibt zwei Gruppen von Berufen: globale Berufe und Minecraft-Berufe. Aus jeder Gruppe wird der Beruf, welcher deine aktuelle Spielweise am besten beschreibt, als aktiver Beruf angezeigt. Andere Spieler sehen bei dir also immer einen globalen Beruf und einen Minecraft-Beruf, zum Beispiel _Händler | Höhlenforscher_.
 
-* ein aktiver **globaler Beruf**, der deinen Lebensstil auf dem Server beschreibt
-* ein aktiver **Minecraft-Beruf**, der dein Verhalten in der Spielwelt beschreibt
+Welcher Beruf aktiv ist, hängt in erster Linie von deinem Verhalten im aktuellen Monat und den letzten Tagen ab. Dein bisheriger Fortschritt fließt nur zu einem kleinen Teil ein. Ein Spieler, der lange als Händler unterwegs war, kann daher in einem Monat als Abenteurer angezeigt werden, wenn er in diesem Monat hauptsächlich Aufgaben erledigt.
 
-Welcher Beruf gerade aktiv ist, hängt vor allem von deinem aktuellen Monat und deiner jüngsten Aktivität ab. Dein Langzeitfortschritt fließt nur leicht ein. Ein langjähriger Händler tritt deshalb in einem Monat als Abenteurer auf, wenn er in diesem Monat genau so spielt.
-
-Im `/profile` siehst du alle Berufe mit Level, dauerhaftem Fortschritt, Monatspunkten, Titel, aktueller Liga und dem Archiv vergangener Monate.
+Eine Übersicht über alle deine Berufe findest du im `/profile`. Dort werden für jeden Beruf das Level, der Fortschritt, die Monatspunkte, der Titel, die aktuelle Liga und die Ergebnisse vergangener Monate angezeigt.
 
 {% hint style="info" %}
-Das System spammt dich nicht zu. Normales Punktesammeln läuft still im Hintergrund. Eine Meldung im Chat bekommst du nur bei einem Levelaufstieg, einem neuen Titel oder wenn sich dein Monatsrang verändert.
+Für gesammelte Punkte wird keine Nachricht im Chat angezeigt. Eine Nachricht erhältst du nur bei einem Levelaufstieg, einem neuen Titel oder wenn sich deine Platzierung im Monatsranking verändert.
 {% endhint %}
 
-## Die globalen Berufe
+## Globale Berufe
 
-Globale Berufe bewerten, wie du die Systeme der Cloud nutzt.
+Die globalen Berufe bewerten, wie du die Systeme des Servers nutzt.
 
 {% tabs %}
 {% tab title="Abenteurer" %}
-Der Abenteurer nutzt die Besonderheiten des Servers. Dafür zählen:
+Der Abenteurer bewertet die Nutzung der serverbezogenen Systeme. Punkte erhältst du für:
 
-* abgeschlossene Aufgaben beim [Adventure-System](adventure-system.md), tägliche leicht, wöchentliche deutlich stärker, monatliche am stärksten
-* das Beliefern fremder Aufträge im [Job-System](job-system.md), auch Teilbelieferungen
+* abgeschlossene Aufgaben beim [Adventure-System](adventure-system.md). Tägliche Aufgaben zählen wenig, wöchentliche deutlich mehr und monatliche am meisten.
+* das Beliefern von Aufträgen anderer Spieler im [Job-System](job-system.md). Teilbelieferungen zählen ebenfalls.
 * gefundene Belohnungen beim [Block des Tages](block-des-tages.md)
-* Fänge mit dem [Angel-System](angel-system.md), mit Bonus für Köderwechsel
+* Fänge mit dem [Angel-System](angel-system.md). Für den Wechsel des Köders gibt es einen Bonus.
 
-Besonders viel bringt es, an einem Tag mehrere verschiedene Systeme zu nutzen und Aufgaben wirklich abzuschließen. Teilfortschritte ohne Abschluss und das ständige Wiederholen derselben Kleinstaktion zählen kaum.
+Mehr Punkte erhältst du, wenn du an einem Tag mehrere verschiedene Systeme nutzt. Angenommene, aber nicht abgeschlossene Aufgaben zählen nicht.
 {% endtab %}
 
 {% tab title="Händler" %}
-Der Händler nimmt am Markt teil. Dafür zählen:
+Der Händler bewertet die Teilnahme am Handel. Punkte erhältst du für:
 
-* Gebote, Angebote, Verkäufe und Käufe im [Auktionshaus](auktionshaus.md)
-* das Erstellen von Aufträgen im [Job-System](job-system.md) sowie belieferte und vollständig abgeschlossene Aufträge
-* einzelne Trades bei den [Händlern](die-handler.md) am Spawn
+* Gebote, eingestellte Angebote, Verkäufe und Käufe im [Auktionshaus](auktionshaus.md)
+* das Erstellen von Aufträgen im [Job-System](job-system.md) sowie belieferte und abgeschlossene Aufträge
+* Trades bei den [Händlern](die-handler.md) am Spawn
 
-Erfolgreiche Verkäufe, erfolgreiche Käufe und abgeschlossene Auftragszyklen bringen am meisten. Gebote zählen nur begrenzt pro Auktion. Handel immer wieder mit derselben Gegenpartei wird deutlich abgewertet, Handel mit sich selbst zählt gar nicht.
+Am meisten zählen erfolgreiche Verkäufe, erfolgreiche Käufe und vollständig abgeschlossene Aufträge. Gebote zählen nur begrenzt pro Auktion.
+
+{% hint style="warning" %}
+Handel mit immer derselben Gegenpartei wird deutlich schwächer gewertet. Handel mit dem eigenen Zweitaccount zählt nicht.
+{% endhint %}
 {% endtab %}
 
 {% tab title="Spieler" %}
-Der Spieler nutzt die Cloud als Spielplattform. Dafür zählen:
+Der Spieler bewertet die Teilnahme an Minigames. Punkte erhältst du für:
 
 * beigetretene, abgeschlossene und gewonnene Runden in den [Minigames](uebersicht/README.md)
 * gestartete und abgeschlossene Spiele an der [Gaming-Station](gaming-station.md)
 
-Abgeschlossene Runden, Siege, die erste Runde eines Spiels am Tag und Abwechslung über verschiedene Spiele bringen am meisten. Private Lobbys und selbst gestartete Runden zählen weniger. Wer nur beitritt und direkt wieder geht, im Match AFK steht oder Wintrading betreibt, bekommt nichts.
+Am meisten zählen abgeschlossene Runden, Siege, die erste Runde eines Spiels am Tag und die Teilnahme an verschiedenen Spielen. Private Lobbys und selbst gestartete Runden werden schwächer gewertet. Wer einer Runde nur beitritt und sie direkt wieder verlässt, während der Runde AFK ist oder Siege absichtlich abgibt, erhält keine Punkte.
 {% endtab %}
 {% endtabs %}
 
-## Die Minecraft-Berufe
+## Minecraft-Berufe
 
-Minecraft-Berufe bewerten dein Verhalten in der Spielwelt: Kampf, Bauen, Erkundung, Biome, Rohstoffe, Wasser, Nether und Natur.
+Die Minecraft-Berufe bewerten dein Verhalten in der Spielwelt, also Kampf, Bauen, Erkundung, Rohstoffe und die verschiedenen Welten und Biome.
 
-| Beruf | Das zählt | Das bringt besonders viel |
+| Beruf | Was gewertet wird | Was besonders viel zählt |
 | --- | --- | --- |
-| **Axtperte** | Stämme und Laub abbauen, Setzlinge setzen, Pilzstämme und Nether-Holz, Kills mit der Axt | Natürlich gewachsene große Bäume, verschiedene Holzarten. Gepflanzte Bäume zählen nur stark reduziert. |
-| **Netherstrike** | Quarz, Nethergold, Antiker Schrott, Glowstone, alle Nethermobs, Bastionen und Festungen, neue Chunks und Biome im Nether | Antiker Schrott, Witherskelette, längere aktive Aufenthalte im Nether |
-| **Höhlenforscher** | Alles unter Y 30, ab Y -30 stärker: Erze, Tuff, Kalzit, Tropfstein, Mobs unter Tage, Mineshafts, Dungeons, Trial Chambers, Ancient Cities, Licht setzen, Kisten öffnen | Seltene und tiefe Rohstoffe, Strukturen, seltene Mobs |
-| **Aqua-Expert** | Schwimmen, Tauchen, Bootfahren, Blöcke unter Wasser abbauen, Seltsamen Sand und Kies im Wasser auspinseln, Fänge, Wasserstrukturen, Wassermobs | Wasserbiome und Ozeane, Fische aus dem Angel-System, besondere Unterwasserfunde |
-| **Entdecker** | Aktive Bewegung, Elytra-Flug, neue Chunks, neue Biome, erstmals betretene Strukturen | Neue Gebiete und zusammenhängende Reisen. Das End zählt etwas stärker, der Nether etwas schwächer als die Oberwelt. |
-| **Wüstenfuchs** | Zeit und Bewegung in Wüste, Badlands und Savanne, Sand, Sandstein, Terrakotta, Kaktus, Husks, Wüstentempel, Wüstendörfer, Brunnen, Archäologie | Husks, Wüstentempel, Seltsamer Sand, längere Aufenthalte. Badlands zählen leicht stärker. |
-| **Reliktjäger** | Kisten in Strukturen öffnen und Loot mitnehmen, Archäologie-Funde, Trial- und Ominous-Belohnungen, Spawner im Zusammenhang | Nether und End stärker als die Oberwelt, seltene Items. Jede Kiste zählt genau einmal, gesetzte Kisten nie. |
-| **Jäger** | Feindliche Mobs, passive Tiere leicht, Spielerkills, in allen Welten | Seltene und starke Mobs, Spielerkills deutlich stärker, Oberwelt stärker als Nether und End |
-| **Naturkundler** | Pflanzen setzen und ernten, Tiere züchten, füttern, scheren und melken, Nahrung kochen und craften, Angeln leicht | Abwechslung bei den Pflanzen. Die [Farmwelt](../spielmodus-citybuild/die-farmwelten.md) gibt einen leichten Bonus. |
-| **Baumeister** | Blöcke platzieren, baunahe Interaktionen, Umbauten, längere Bauphasen | Viele verschiedene Blocktypen, lange Bausessions, Bauen auf fremden Grundstücken oder in der Farmwelt. Redstone und Technikmaterial zählen deutlich weniger. |
+| **Axtperte** | Stämme und Laub abbauen, Setzlinge pflanzen, Pilzstämme und Nether-Holz, Kills mit der Axt | Natürlich gewachsene große Bäume und verschiedene Holzarten. Gepflanzte Bäume werden nur schwach gewertet. |
+| **Netherstrike** | Quarz, Nethergold, Antiker Schrott, Glowstone, Nethermobs, das Betreten von Bastionen und Festungen, neue Chunks und Biome im Nether | Antiker Schrott, Witherskelette und längere Aufenthalte im Nether |
+| **Höhlenforscher** | Abbau und Kämpfe unterhalb von Y 30, unterhalb von Y -30 stärker gewertet: Erze, Tuff, Kalzit, Tropfstein, Mobs, Mineshafts, Dungeons, Trial Chambers und Ancient Cities, außerdem Fackeln setzen und Kisten öffnen | Seltene und tiefe Rohstoffe, Strukturen, seltene Mobs |
+| **Aqua-Expert** | Schwimmen, Tauchen, Bootfahren, Blöcke unter Wasser abbauen, Seltsamen Sand und Kies im Wasser auspinseln, Fänge, Wasserstrukturen, Wassermobs | Ozeane und Wasserbiome, Fische aus dem Angel-System, besondere Funde unter Wasser |
+| **Entdecker** | Bewegung zu Fuß und mit der Elytra, neue Chunks, neue Biome, erstmals betretene Strukturen | Neue Gebiete und längere zusammenhängende Reisen. Das End wird etwas stärker, der Nether etwas schwächer als die Oberwelt gewertet. |
+| **Wüstenfuchs** | Aufenthalt und Bewegung in Wüste, Badlands und Savanne, Sand, Sandstein, Terrakotta, Kaktus, Husks, Wüstentempel, Wüstendörfer, Brunnen und Archäologie | Husks, Wüstentempel, Seltsamer Sand und längere Aufenthalte. Badlands werden etwas stärker gewertet. |
+| **Reliktjäger** | Öffnen von Kisten in Strukturen und Mitnehmen des Inhalts, Archäologie-Funde, Belohnungen aus Trial Chambers, Spawner | Kisten im Nether und im End, seltene Gegenstände. Jede Kiste zählt nur einmal, selbst gesetzte Kisten zählen nicht. |
+| **Jäger** | Feindliche Mobs, passive Tiere in geringem Maße, Spielerkills, in allen Welten | Seltene und starke Mobs, Spielerkills. Die Oberwelt wird stärker gewertet als Nether und End. |
+| **Naturkundler** | Pflanzen setzen und ernten, Tiere züchten, füttern, scheren und melken, Nahrung kochen und craften, Angeln in geringem Maße | Abwechslung bei den angebauten Pflanzen. In der [Farmwelt](../spielmodus-citybuild/die-farmwelten.md) gibt es einen kleinen Bonus. |
+| **Baumeister** | Blöcke platzieren, Umbauten, längere Bauphasen | Viele verschiedene Blockarten, lange Bausessions, Bauen auf fremden Grundstücken oder in der Farmwelt. Redstone und Technikblöcke werden deutlich schwächer gewertet. |
 
 {% hint style="info" %}
-Überschneidungen sind gewollt. Eine Wasserstruktur zu finden zählt für Entdecker, Aqua-Expert und Reliktjäger gleichzeitig, weil jeder Beruf einen anderen Aspekt derselben Aktion bewertet. Eine Bastion zu betreten zählt für Netherstrike und leicht für den Reliktjäger, ein Kill mit der Axt für den Axtperten und leicht für den Jäger.
+Eine Aktion kann für mehrere Berufe zählen. Das Finden einer Wasserstruktur zählt zum Beispiel für den Entdecker, den Aqua-Expert und den Reliktjäger. Das Betreten einer Bastion zählt für Netherstrike und in geringem Maße für den Reliktjäger, ein Kill mit der Axt für den Axtperten und in geringem Maße für den Jäger.
 {% endhint %}
 
 ## Level und Titel
 
-Jeder Beruf sammelt dauerhafte Punkte. Daraus ergeben sich dein Level und dein Titel. Die ersten Level erreichst du schnell, jedes weitere Level braucht mehr Punkte als das davor. Späte Level haben dadurch echten Prestigecharakter.
+Für jeden Beruf sammelst du dauerhafte Punkte, welche dein Level und deinen Titel bestimmen. Diese Punkte werden nicht zurückgesetzt. Die ersten Level erreichst du schnell, für jedes weitere Level werden mehr Punkte benötigt als für das vorherige.
 
-Titel markieren Meilensteine und hängen am dauerhaften Fortschritt, nie am Monatsrang. Beim Händler heißen die Stufen zum Beispiel Marktkenner, Kaufmann, Großhändler und Tycoon. Jeder Beruf hat seine eigene Reihe.
+Titel schaltest du auf bestimmten Leveln frei. Beim Händler sind das zum Beispiel die Titel Marktkenner, Kaufmann, Großhändler und Tycoon. Jeder Beruf hat eigene Titel.
 
-Ein höheres Level gibt außerdem einen kleinen Bonus auf die Monatspunkte desselben Berufs. Der Bonus ist bewusst klein: Langzeitfortschritt hilft leicht, entscheidet aber nie allein über den Monatswettbewerb.
+Ein höheres Level gibt dir zusätzlich einen kleinen Bonus auf die Monatspunkte desselben Berufs.
 
-Dauerhafte Belohnungen für Level sind Titel, Cosmetics und Badges im Profil.
+{% hint style="info" %}
+Der Bonus durch das Level ist bewusst klein gehalten, damit auch neue Spieler im Monatsranking eine Chance haben.
+{% endhint %}
 
-## Monatsligen
+Als dauerhafte Belohnungen für Level gibt es Titel, Cosmetics und Badges im Profil.
 
-Jeden Monat startet der Wettbewerb neu. Alle Monatspunkte werden am Monatsende zurückgesetzt, Level, Titel, dauerhafte Punkte und dein Archiv bleiben erhalten.
+## Monatsranking und Ligen
 
-Die Belohnungen werden nach Ligen verteilt, damit auch aktive Normalspieler ein realistisches Ziel haben:
+Neben den dauerhaften Punkten sammelst du für jeden Beruf Monatspunkte. Diese bestimmen deine Platzierung im Monatsranking und deine Liga. Am Ende des Monats werden die Monatspunkte aller Berufe zurückgesetzt. Level, Titel und dauerhafte Punkte bleiben erhalten.
+
+Die Belohnungen werden nach Ligen verteilt:
 
 | Liga | Platzierung |
 | --- | --- |
@@ -115,30 +114,30 @@ Die Belohnungen werden nach Ligen verteilt, damit auch aktive Normalspieler ein 
 | Elite | Top 15 % |
 | Fortgeschritten | Top 35 % |
 | Aktiv | Top 60 % |
-| Teilgenommen | alle weiteren qualifizierten Spieler |
+| Teilgenommen | alle weiteren Spieler, welche die Mindestaktivität erreicht haben |
 
 {% hint style="warning" %}
-**Mindestaktivität für „Teilgenommen“:** Du zählst in einem Monat nur, wenn du an mindestens **7 verschiedenen Tagen** jeweils mindestens **100 Punkte** gesammelt hast. Diese 100 Punkte zählen über alle Berufe zusammen, nicht pro Beruf.
+Um in einem Monat als „Teilgenommen“ gewertet zu werden, musst du an mindestens <mark style="color:orange;">**7 verschiedenen Tagen**</mark> jeweils mindestens <mark style="color:orange;">**100 Punkte**</mark> erreichen. Die 100 Punkte zählen über alle Berufe zusammen, nicht pro Beruf.
 {% endhint %}
 
-Als Monatsbelohnungen gibt es je nach Liga [In-Game-Geld $](../waehrungen/in-game-geld-usd.md), Kristalle, Kisten, Liga-Markierungen im Profil und zeitlich begrenzte Vorteile wie zusätzliches Looting.
+Als Monatsbelohnungen gibt es je nach Liga [In-Game-Geld $](../waehrungen/in-game-geld-usd.md), Kristalle, Kisten, eine Liga-Markierung im Profil sowie zeitlich begrenzte Vorteile, zum Beispiel zusätzliches Looting.
 
-Jeder Monat wird archiviert. Zu jedem Beruf bleiben Monat, Punktzahl, Platzierung und Liga gespeichert, sodass gute Monate dauerhaft im Profil sichtbar bleiben.
+Die Ergebnisse jedes Monats werden gespeichert. Im Profil findest du für jeden Beruf die erreichte Punktzahl, die Platzierung und die Liga vergangener Monate.
 
-## Was nicht zählt
+## Wertung und Schutz vor Missbrauch
 
-Berufe bewerten Verhalten, keine Klickzahlen. Entscheidend ist der Zusammenhang: Ort, Abwechslung, Häufigkeit, Bewegung und Plausibilität. 50 Kills auf einer echten Erkundung sind etwas anderes als 50 Kills in einer Farm, und 100 abwechslungsreich gesetzte Blöcke sind etwas anderes als 100 identische Platzierungen.
+Es werden nicht einfach einzelne Aktionen gezählt, sondern deren Zusammenhang bewertet, zum Beispiel der Ort, die Abwechslung, die Bewegung und die Häufigkeit. 50 Kills beim Erkunden einer Höhle werden daher anders gewertet als 50 Kills in einer Mobfarm.
 
-Deshalb werden diese Muster nach und nach entwertet oder zählen gar nicht:
+Die folgenden Verhaltensweisen werden schwächer oder gar nicht gewertet:
 
 * AFK-Stehen und Auffälligkeiten beim Anticheat
 * immer dieselbe Position, dieselbe Route oder dieselbe Struktur
 * immer dieselbe Gegenpartei beim Handel
-* immer dieselbe Mobart, Mobfarmen, Spawner-Grind und Spawncamping
-* Setzen und direkt wieder Abbauen, Hoch- und Runterbauen, 1-Block-Spam
-* Auto-Farmen, Auto-Angeln, Bubble-Column-Schleifen und Sand-Dupe
-* Teleport- und Warp-Spam nur zum Auslösen von Punkten
+* immer dieselbe Mobart, Mobfarmen, Spawner-Farmen und Spawncamping
+* Blöcke setzen und direkt wieder abbauen, Hoch- und Runterbauen, das Setzen immer gleicher Blöcke
+* automatische Farmen, automatisches Angeln und Bubble-Column-Aufzüge
+* Teleport- und Warp-Befehle, welche nur zum Auslösen von Punkten genutzt werden
 
 {% hint style="info" %}
-Es gibt keine Captcha-Abfragen. Legitimes, abwechslungsreiches Spielen wird ganz normal belohnt, eintönige Schleifen verlieren einfach ihren Wert.
+Normales, abwechslungsreiches Spielen wird davon nicht beeinflusst. Es gibt keine zusätzlichen Abfragen oder Captchas.
 {% endhint %}
