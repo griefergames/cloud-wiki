@@ -24,4 +24,6 @@ Um einem Mob auf dem Plot einen Namen zu geben, muss dieser in der Farmwelt mit 
 * Mobs sind auf dem Plot nur Deko und haben keine Funktionen.
 {% endhint %}
 
-<br>
+{% hint style="info" %}
+Eine Schritt-für-Schritt-Anleitung findest du auch unter [Mobs auf dem Grundstück](../grundstuecke/mobs-auf-dem-grundstuck.md).
+{% endhint %}

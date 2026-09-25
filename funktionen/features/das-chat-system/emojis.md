@@ -2,11 +2,11 @@
 
 Mit den **Emojis** könnt ihr eure Nachrichten im Chat noch persönlicher gestalten. Dafür stehen euch verschiedene Emoji-Packs zur Verfügung.
 
-![emoji auswahl](../../../.gitbook/assets/mojiwahlau.png)
+![Emoji-Auswahl](../../../.gitbook/assets/mojiwahlau.png)
 
 ## Emojis verwenden
 
-Unter dem Befehl `/emoji` legst du dein Standardpack fest. Das wird automatisch genutzt, wenn du Emojis wie :smile: im Chat eingibst. Natürlich kannst du auch den vollen Befehl wie `:standard_smile:` nutzen! Zusätzlich gibt es die Möglichkeit, die `:-Commands` zu tabben.
+Unter dem Befehl `/emoji` legst du dein Standardpack fest. Dieses wird automatisch genutzt, wenn du Emojis wie `:smile:` im Chat eingibst. Natürlich kannst du auch den vollen Namen wie `:standard_smile:` nutzen! Zusätzlich kannst du die `:`-Befehle mit der Tab-Taste vervollständigen.
 
 ## Emoji-Sets
 

@@ -9,7 +9,7 @@ Das Case-Opening lässt sich an allen Spawns durch Blöcke mit Partikeln erkenne
 {% hint style="info" %}
 Solltest du beim Öffnen einer Kiste aus Versehen die Region wechseln oder den Server verlassen, ist dein Gewinn nicht verloren.
 
-Kann der Gewinn auch offline zugestellt werden (z.B. Rechte oder Geld), wird er dir auch in deiner Abwesenheit gutgeschrieben. Kann der Gewinn **nicht** offline zugestellt werden (z.B. Items), wird der Gewinn in die offenen Gewinne gelegt (Endertruhe unter "Meine Kisten").&#x20;
+Kann der Gewinn auch offline zugestellt werden (z.B. Rechte oder Geld), wird er dir auch in deiner Abwesenheit gutgeschrieben. Kann der Gewinn **nicht** offline zugestellt werden (z.B. Items), wird der Gewinn in die offenen Gewinne gelegt (Endertruhe unter „Meine Kisten“).
 {% endhint %}
 
 ## In-Game Store
@@ -22,7 +22,7 @@ Kann der Gewinn auch offline zugestellt werden (z.B. Rechte oder Geld), wird er 
 4. Der im Shop angezeigte Betrag wird anschließend über das hinterlegte Zahlungsmittel abgebucht.
 
 {% hint style="info" %}
-Ein Tutorial, welches zur Einführung des In-Game Stores erstellt wurde, findet ihr hier: [https://www.youtube.com/watch?v=GbdzHlwIcuY](https://www.youtube.com/watch?v=GbdzHlwIcuY). Bitte beachtet, dass die genannte Aktion zur Verknüpfung ist beendet ist.
+Ein Tutorial, welches zur Einführung des In-Game Stores erstellt wurde, findet ihr hier: [https://www.youtube.com/watch?v=GbdzHlwIcuY](https://www.youtube.com/watch?v=GbdzHlwIcuY). Bitte beachtet, dass die im Video genannte Aktion zur Verknüpfung beendet ist.
 {% endhint %}
 
 **Wichtig:** Eine Abbuchung erfolgt **nur nach eurer Bestätigung** des jeweiligen Kaufs.
@@ -49,20 +49,19 @@ Die Anzahl der erhaltenen Prestige-Tokens richtet sich nach euren Käufen im In-
 
 ## Kisten-Arten
 
-#### Die Vote-Kiste <img src="../../.gitbook/assets/image (166).png" alt="" data-size="original">
+### Die Vote-Kiste <img src="../../.gitbook/assets/image (166).png" alt="" data-size="original">
 
-Die Vote-Kiste ist die kleinste Standard-Kiste und enthält neben einigen wertvollen Gewinnen auch Items aus dem Alltagsbedarf. Du erhältst Vote-Kisten für aktives Nutzen des Vote-Systems. Du kannst pro Tag eine Kiste erhalten, jedoch mit dem Öffnen der Kisten auch warten bis du mehrere angesammelt hast.
+Die Vote-Kiste ist die kleinste Standard-Kiste und enthält neben einigen wertvollen Gewinnen auch Items aus dem Alltagsbedarf. Du erhältst Vote-Kisten für das aktive Nutzen des Vote-Systems (`/vote`). Du kannst pro Tag eine Kiste erhalten, mit dem Öffnen aber auch warten, bis du mehrere angesammelt hast.
 
 ### Die Köpfe-Kiste ![](<../../.gitbook/assets/image (167).png>)
 
-Die Epische Kiste ist die mittlere Standard-Kiste und wird regelmäßig vom Team angepasst. Dort gibt es eine Vielzahl von thematisch zusammengehörenden Köpfen.\
-Die Auswahl der Köpfe, sowie die Themen der Sets werden in regelmäßigen Abständen geändert.
+In der Köpfe-Kiste gibt es eine Vielzahl von thematisch zusammengehörenden Köpfen. Die Kiste wird regelmäßig vom Team angepasst: Die Auswahl der Köpfe sowie die Themen der Sets werden in regelmäßigen Abständen geändert.
 
-Die Köpfe-Kiste kann ab dem **Griefer-Rang** mit dem Befehl `/freekiste` erhalten werden oder über Kristalle gekauft werden.
+Die Köpfe-Kiste kann ab dem [**Griefer-Rang**](../grundbefehle/range/griefer-rang.md) mit dem Befehl `/freekiste` erhalten werden oder über Kristalle gekauft werden.
 
 ### Die MiniGame-Kiste ![](<../../.gitbook/assets/image (168).png>)
 
-Die MiniGame-Kiste kann nicht gekauft werden, sondern nur durch das Gewinnen einer öffentlichen Lobby in den MiniGames gewonnen werden. Dabei hat jeder Spieler eine Abklingzeit und die Kiste wird nicht bei jedem Sieg vergeben. Prüfe also nach einem Sieg einer öffentlichen MiniGame-Lobby, ob du eine Kiste erhalten hast.
+Die MiniGame-Kiste kann nicht gekauft werden, sondern nur durch einen Sieg in einer öffentlichen Lobby der MiniGames gewonnen werden. Dabei hat jeder Spieler eine Abklingzeit und die Kiste wird nicht bei jedem Sieg vergeben. Prüfe also nach einem Sieg einer öffentlichen MiniGame-Lobby, ob du eine Kiste erhalten hast.
 
 ### Die Platin-Kiste ![](<../../.gitbook/assets/image (169).png>)
 
@@ -72,20 +71,20 @@ Hier findest du neue Feature-Gegenstände, Funktions-Items und vieles mehr.
 
 ### Die saisonalen Kisten ![](<../../.gitbook/assets/image (172).png>) ![](<../../.gitbook/assets/image (174).png>) ![](<../../.gitbook/assets/image (175).png>) ![](<../../.gitbook/assets/image (176).png>)
 
-Saisonale Kisten sind zeitlich begrenzt und sind üblicherweise zu bestimmten Jahreszeiten oder Feiertagen verfügbar. Sie können nur in dieser Zeit gekauft werden. Das sind in der Regel die Winter-Kiste, die Frühlings-Kiste, die Sommer-Kiste und die (goldene) Herbst-Kiste.&#x20;
+Saisonale Kisten sind zeitlich begrenzt und üblicherweise zu bestimmten Jahreszeiten oder Feiertagen verfügbar. Sie können nur in dieser Zeit gekauft werden. Das sind in der Regel die Winter-Kiste, die Frühlings-Kiste, die Sommer-Kiste und die (goldene) Herbst-Kiste.
 
 Hier befinden sich in der Regel die wertvollsten Gewinne in der Kiste, wie zum Beispiel spezielle Sammler-Items.
 
 ## Der Angebotszug
 
-Der Angebotszug ist dein persönlicher Rabatt Händler für alle Kistensorten.
+Der Angebotszug ist dein persönlicher Rabatt-Händler für alle Kistensorten.
 
-![alt text](../../.gitbook/assets/F925ED75-ED42-40E7-80D9-923FEF4A0BAA.png)
+![Der Angebotszug](../../.gitbook/assets/F925ED75-ED42-40E7-80D9-923FEF4A0BAA.png)
 
 Der Händler bringt wöchentlich 10 exklusive Angebote mit, die nur du hast.
 
-Jede Woche am Montag um 0:00 Uhr resettet sich der Zug und ihr bekommt ganz neue andere Angebote.
+Jede Woche am Montag um 0:00 Uhr setzt sich der Zug zurück und ihr bekommt ganz neue Angebote.
 
-![alt text](../../.gitbook/assets/1CC6F614-9637-4659-913C-23439DCCF4B3.png)
+![Beispiel für ein Angebot im Angebotszug](../../.gitbook/assets/1CC6F614-9637-4659-913C-23439DCCF4B3.png)
 
-Den Angebotszug könnt ihr am Spawn direkt neben dem [CaseOpening](case-opening.md) finden. Dort könnt ihr nur das erste Angebot kaufen und die restlichen erst danach in der gezeigten Reihenfolge.
+Den Angebotszug könnt ihr am Spawn direkt neben dem CaseOpening finden. Dort könnt ihr zunächst nur das erste Angebot kaufen, die restlichen erst danach in der gezeigten Reihenfolge.

@@ -4,7 +4,7 @@ Eine Karte für Murder Mystery sollte ein wenig verwinkelt, jedoch nicht zu gro�
 
 ## Pre-Spawn-Punkt
 
-Der Pre-Spawn sollte so gebaut werden, dass die Spieler nicht in den Bereich der eigentlichen Map gelangen können. Also z. B. einen abgesperrten Bereich in der Map oder einen Bereich neben der Map.
+Der Pre-Spawn sollte so gebaut werden, dass die Spieler nicht in den Bereich der eigentlichen Map gelangen können. Geeignet ist z. B. ein abgesperrter Bereich in der Map oder ein Bereich neben der Map.
 
 ## Spawn-Punkte
 
@@ -12,11 +12,11 @@ Jede Map braucht mindestens einen Spawn-Punkt für die Spieler. Werden mehrere S
 
 ## Smaragd-Spawn-Punkte
 
-Auf der Map spawnen Smaragde als Währung, um bei Shops kleine Tools zu kaufen. Um die Spawn-Punkte festzulegen, müssen **Steindruckplatten** verbaut werden. Mindestens eine braucht eine Map, es sollten aber deutlich mehr verbaut werden, wenn die Shops platziert werden.
+Auf der Map spawnen Smaragde als Währung, mit der in Shops kleine Hilfsmittel gekauft werden können. Um die Spawn-Punkte der Smaragde festzulegen, müssen **Steindruckplatten** verbaut werden. Eine Map braucht mindestens eine davon, wenn Shops platziert werden, sollten es aber deutlich mehr sein.
 
 ## Shops
 
-In Shops können verschiedene Gegenstände für die Runde mit Smaragden gekauft werden. Um diese zu platzieren, muss je eine **Truhe** platziert und an die erste Stelle der Truhe ein Item gelegt werden, welches der Funktion des Shops entspricht.
+In Shops können verschiedene Gegenstände für die Runde mit Smaragden gekauft werden. Um einen Shop zu platzieren, stelle eine **Truhe** auf und lege in ihren ersten Slot ein Item, das der Funktion des Shops entspricht.
 
 Folgende Items stehen zur Verfügung:
 
@@ -33,7 +33,7 @@ Die Preise der Items sind vom Spiel vorgegeben.
 
 ## Aufgaben
 
-Im Spiel können Spieler verschiedene Aufgaben erledigen, um die Rundenzeit zu verkürzen und es dem Mörder schwieriger zu machen. Um diese zu platzieren, muss ebenfalls eine **Truhe** platziert werden. In der Truhe muss an erster Stelle ein Item hinterlegt werden, bei dem der Name in eine der folgenden Zahlen geändert wurde (Amboss):
+Im Spiel können Spieler verschiedene Aufgaben erledigen, um die Rundenzeit zu verkürzen und es dem Mörder schwieriger zu machen. Um eine Aufgabe zu platzieren, wird ebenfalls eine **Truhe** benötigt. In ihren ersten Slot muss ein Item gelegt werden, dessen Name (z. B. per Amboss) in eine der folgenden Zahlen geändert wurde:
 
 1. Liefer-Aufgabe
 2. Buchstaben-Aufgabe
@@ -42,11 +42,7 @@ Im Spiel können Spieler verschiedene Aufgaben erledigen, um die Rundenzeit zu v
 5. Bergbau-Aufgabe
 6. Santa-Aufgabe
 
-
-
-{% hint style="danger" %}
-Diese Seite befindet sich noch in Bearbeitung
+{% hint style="warning" %}
+Diese Seite befindet sich noch in Bearbeitung.
 {% endhint %}
-
-
 

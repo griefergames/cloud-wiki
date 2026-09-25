@@ -1,6 +1,6 @@
 # Forcefield Flag
 
-Mit dem Forcefield-Flag-Item kannst du dauerhaft eine Schutz-Aura auf deinem Grundstück aktivieren, die andere Spieler von dir wegstößt. Es funktioniert ähnlich wie /aura, gilt aber nur auf deinem Grundstück.
+Mit dem Forcefield-Flag-Item kannst du dauerhaft eine Schutz-Aura auf deinem Grundstück aktivieren, die andere Spieler von dir wegstößt. Es funktioniert ähnlich wie `/aura`, gilt aber nur auf deinem Grundstück.
 
 <p align="center"><img src="../../../.gitbook/assets/unknown (3) (1) (1).png" alt=""></p>
 
@@ -16,5 +16,5 @@ Mit dem Forcefield-Flag-Item kannst du dauerhaft eine Schutz-Aura auf deinem Gru
 
 ## Verhalten der Forcefield-Aura
 
-* Getrustete Spieler und der Plotowner stoßen andere Spieler ohne Trust automatisch weg.
+* Getrustete Spieler und der Grundstücksbesitzer stoßen andere Spieler ohne Trust automatisch weg.
 * Die Forcefield-Aura wirkt nur auf Spieler, die sich auf deinem Grundstück befinden.

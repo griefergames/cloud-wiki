@@ -1,6 +1,6 @@
 # 🔄 Versionsupgrade
 
-Die Cloud basiert auf einer aktuellen Minecraft-Version und wird regelmäßig auf die neuste Version aktualisiert. Mit jedem Versionsupgrade kommen oft neue Funktionen, Änderungen an bestehenden Systemen oder generellen Anpassungen.
+Die Cloud basiert auf einer aktuellen Minecraft-Version und wird regelmäßig auf die neueste Version aktualisiert. Mit einem Versionsupgrade kommen oft neue Funktionen, Änderungen an bestehenden Systemen oder generelle Anpassungen.
 
-Auf den jeweiligen Versionsseiten findet man eine Übersicht über die Änderungen und wichtige Informationen zum entsprechenden Upgrade.
+Auf den jeweiligen Versionsseiten findest du eine Übersicht über die Änderungen und wichtige Informationen zum entsprechenden Upgrade.
 

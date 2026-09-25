@@ -1,6 +1,6 @@
 # Fly+ Flag
 
-Mit dem **Fly+ Item** erlaubst du **allen Spielern**, die ein **aktiviertes Fly-Perk** haben, auf deinem Grundstück zu fliegen, normalerweise können nur Spieler mit Trust auf dem Plot fliegen.
+Mit dem **Fly+ Item** erlaubst du **allen Spielern**, die ein **aktiviertes Fly-Perk** haben, auf deinem Grundstück zu fliegen. Normalerweise können nur Spieler mit Trust auf dem Grundstück fliegen.
 
 <p align="center"><img src="../../../.gitbook/assets/unknown (4) (1) (1).png" alt=""></p>
 
@@ -13,11 +13,11 @@ Mit dem **Fly+ Item** erlaubst du **allen Spielern**, die ein **aktiviertes Fly-
 
 ## Nutzung der Flag auf deinem Grundstück
 
-Durch Einlösen des **Fly+ Items** wird die `fly-plus` Flag automatisch aktiviert.
+Durch Einlösen des **Fly+ Items** wird die `fly-plus`-Flag automatisch aktiviert.
 
 Mit `/p flag set fly-plus false` kannst du die Flag jederzeit wieder deaktivieren.
 
 {% hint style="danger" %}
-Sobald die fly-plus flag auf false gesetzt wurde, muss ein neues Fly+ Item eingelöst werden, um die flag wieder einzuschalten.
+Sobald die `fly-plus`-Flag auf `false` gesetzt wurde, muss ein neues Fly+ Item eingelöst werden, um die Flag wieder einzuschalten.
 {% endhint %}
 

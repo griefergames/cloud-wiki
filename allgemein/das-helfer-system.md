@@ -29,9 +29,9 @@ Helfer sind von der Community gewählte Spieler, die auf ihrem Citybuild bei Fra
 
 Sie sind weiterhin ganz normale Mitglieder der Community und **gehören** **nicht zum Team**. Jeder Helfer ist für seinen jeweiligen Haupt-Citybuild zuständig und steht dabei in engem Kontakt mit dem Team, insbesondere mit dem Support-Bereich.
 
-Helfer können euch bei Fragen weiterhelfen, euch an die richtige Stelle verweisen oder Anliegen und Fehler an das Team weiterleiten.&#x20;
+Helfer können euch bei Fragen weiterhelfen, euch an die richtige Stelle verweisen oder Anliegen und Fehler an das Team weiterleiten.
 
-Eine Liste aller derzeitigen Helfer ist in der [Team-Übersicht](../../faq/griefergames/team.md#mods-sups-and-helfer) zu finden.
+Eine Liste aller derzeitigen Helfer ist in der [Team-Übersicht](../team/README.md#mods-sups-and-helfer) zu finden.
 
 #### Was macht ein Helfer?
 
@@ -86,7 +86,7 @@ Damit du zum Helfer gewählt werden kannst, musst du mindestens 30 Tage auf dem 
 Damit du andere Spieler zum Helfer wählen kannst, musst du mindestens 14 Tage auf dem Citybuild-Server als Bürger eingetragen sein.
 {% endhint %}
 
-Eine Eintragung ist einmal monatlich über den [Bürgermeister](../die-hauptstadt.md#der-buergermeister) in der [Stadt](../die-hauptstadt.md#stadt) möglich.<br>
+Eine Eintragung ist einmal monatlich über den [Bürgermeister](../die-hauptstadt.md#der-buergermeister) in der [Stadt](../die-hauptstadt.md#stadt) möglich.
 
 ### Wie funktioniert die Helfer-Wahl?
 
@@ -130,7 +130,7 @@ Sollte dir auffallen, dass ein Helfer seine Rechte missbraucht oder gegen unser 
 <summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
 
 {% hint style="info" icon="square-star" %}
-_Hier findest du die passende_ [1.8 Wiki Seite](https://wiki.griefergames.net/erweiterte-features/das-helfer-system)_._
+_Hier findest du die passende_ [1.8 Wiki Seite](/1-8/funktionen/features/das-helfer-system)_._
 {% endhint %}
 
 </details>

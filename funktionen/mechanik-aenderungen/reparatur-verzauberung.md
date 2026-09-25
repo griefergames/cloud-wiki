@@ -4,26 +4,26 @@ description: Anpassung der Funktionsweise von Reparatur / Mending
 
 # Reparatur Verzauberung
 
-Auf GrieferGames gibt es einige Items, welche besondere Fähigkeiten oder höhere Item-Werte haben, welche nicht mit Reparatur repartiert werden können.
+Auf GrieferGames gibt es einige Items mit besonderen Fähigkeiten oder höheren Item-Werten, die nicht mit der Verzauberung Reparatur (Mending) repariert werden können.
 
 ## Wann ist ein Item nicht durch Reparatur / Mending reparierbar?
 
-Items sind immer dann nicht durch Mending/Reparatur reparierbar, wenn die Verzauberung des Items häher ist, als die Standardverzauberung von Minecraft.
+Items sind immer dann nicht durch Reparatur/Mending reparierbar, wenn eine Verzauberung des Items höher ist als die maximale Standardstufe in Minecraft.
 
-**Beispiel:** Ist ein Item mit Schutz 10 verzaubert, ist dieses höher als die maximale Verzauberungsstufe von 4 und ist somit nicht mehr reparierbar.
+**Beispiel:** Ist ein Item mit Schutz 10 verzaubert, liegt das über der maximalen Verzauberungsstufe von 4. Das Item ist somit nicht mit Reparatur reparierbar.
 
 {% hint style="info" %}
-In der Regel sind diese Items dann nicht möglich mit Reparatur zu verzaubern. Es gibt jedoch Items bei denen Spieler einen Weg gefunden haben dort Reparatur hinzuzufügen, diese funktionieren trotzdem nicht.
+In der Regel lassen sich diese Items gar nicht erst mit Reparatur verzaubern. Bei einigen Items haben Spieler zwar einen Weg gefunden, Reparatur hinzuzufügen – die Verzauberung funktioniert dort trotzdem nicht.
 {% endhint %}
 
 ## Fluch des Reparaturverlusts
 
-Im Laufe der Zeit haben wir eine Anzeige für nicht reparierbare Items hinzugefügt. Diese tragen die Verzauberung "Fluch des Reparaturverlusts".
+Im Laufe der Zeit haben wir eine Kennzeichnung für nicht reparierbare Items hinzugefügt: Diese tragen die Verzauberung „Fluch des Reparaturverlusts“.
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Mit dieser Verzauberung wird gezeigt, dass dieses Item nicht mit Reparatur repariert werden kann, auch wenn es geschafft wird dort Reparatur hinzuzufügen.
+Diese Verzauberung zeigt, dass das Item nicht mit Reparatur repariert werden kann – selbst wenn es gelingt, Reparatur hinzuzufügen.
 
 {% hint style="danger" %}
-Es gibt ältere Items, welche diese Verzauberung noch nicht besitzen, aber nicht reparierbar sind. Frage dort bei erfahrenen Spielern nach.
+Es gibt ältere Items, die diese Verzauberung noch nicht besitzen, aber trotzdem nicht reparierbar sind. Frage im Zweifel bei erfahrenen Spielern nach.
 {% endhint %}

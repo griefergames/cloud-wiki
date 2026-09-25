@@ -1,23 +1,21 @@
 # 💎 Showcase, Truhen & Vitrinen
 
-Vitrinen und Showcases ermöglichen es dir, Items sicher und dekorativ auf deinem Plot darzustellen, perfekt für Shops, Sammlungen oder besondere Items.
+Vitrinen und Showcases ermöglichen es dir, Items sicher und dekorativ auf deinem Plot darzustellen – perfekt für Shops, Sammlungen oder besondere Items.
 
 ## Showcase-Truhen
 
-Die Showcase-Truhe ist ein Behältnis, das von anderen geöffnet werden kann, in dem aber weder Items hinzugefügt noch entnommen werden können.
+Die Showcase-Truhe ist ein Behältnis, das von anderen Spielern geöffnet werden kann, in das sie aber weder Items hineinlegen noch daraus entnehmen können. Wie in den Abbildungen zu sehen, wird dafür eine Truhe im Amboss in „Showcase“ umbenannt.
 
-<img src="../../.gitbook/assets/unknown (14).png" alt="" height="94" width="237">
+<div><figure><img src="../../.gitbook/assets/unknown (14).png" alt="" width="237"><figcaption><p>Truhe vor dem Umbenennen</p></figcaption></figure> <figure><img src="../../.gitbook/assets/unknown (22).png" alt="" width="315"><figcaption><p>Umbenennen in „Showcase“ im Amboss</p></figcaption></figure></div>
 
-<img src="../../.gitbook/assets/unknown (22).png" alt="" height="101" width="315">
+Showcase-Truhen können zwar durch Freigabe des entsprechenden Materials oder durch Vertrauen des Spielers von anderen Spielern geöffnet werden, jedoch kann nur der Grundstücksbesitzer Items hineinlegen oder entnehmen.
 
-Diese können zwar durch Freigabe des entsprechenden Materials oder durch vertrauen des Spielers von anderen Spielern geöffnet werden, jedoch kann nur der Grundstücksbesitzer Items dort hineinlegen oder entnehmen.&#x20;
-
-Damit andere Spieler den Inhalt der Kiste einsehen aber nicht ändern können, muss die Use-Flag für den entsprechenden Behälter gesetzt werden. Das wird durch folgenden Befehl ermöglicht: `/p flag set use <Item-Name>`.  Für Redstone-Truhen wäre der Befehl also `/p flag set use trapped_chest` .
+Damit andere Spieler den Inhalt der Kiste einsehen, aber nicht ändern können, muss die Use-Flag für den entsprechenden Behälter gesetzt werden. Das geschieht mit dem Befehl `/p flag set use <Item-Name>`. Für Redstone-Truhen lautet der Befehl also `/p flag set use trapped_chest`.
 
 {% hint style="warning" %}
 Die Flag gilt für **alle Behälter dieses Typs auf dem Grundstück**, nicht nur für den Showcase.
 
-Wird beispielsweise eine **Redstone-Truhe** mit der Flag **trapped\_chest** als Showcase verwendet, können Spieler auch auf andere Redstone-Truhen zugreifen.
+Wird beispielsweise eine **Redstone-Truhe** mit der Flag `trapped_chest` als Showcase verwendet, können Spieler auch auf andere Redstone-Truhen zugreifen.
 
 Daher sollte man diesen Behältertyp **nicht für das eigene Lager verwenden**.
 {% endhint %}

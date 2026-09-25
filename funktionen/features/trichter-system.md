@@ -4,21 +4,21 @@ description: Trichter neu verbunden
 
 # 📥 Trichter-System
 
-Auf GrieferGames wurden die Funktionen der Trichter erweitert und damit entstehen viele neue Möglichkeiten und auch Verbesserungen.
+Auf GrieferGames wurden die Funktionen der Trichter erweitert. Dadurch entstehen viele neue Möglichkeiten und Verbesserungen.
 
 ## Allgemeine Trichter-Informationen
 
-Auf GrieferGames sind die Trichter-Ticks angepasst, um den Performance-Verbrauch von Trichtern zu reduzieren.
+Auf GrieferGames sind die Trichter-Ticks angepasst, um die Serverlast durch Trichter zu reduzieren.
 
 ### Trichter-Tick
 
 Die Häufigkeit, mit der die Trichter auf GrieferGames ticken, ist reduziert.
 
-Ein Trichter tickt standardmäßig alle <mark style="color:red;">**8 Ticks**</mark> und verschiebt dabei <mark style="color:red;">**1 Item**</mark>. Auf GrieferGames Tickt ein Trichter alle <mark style="color:green;">**80 Ticks**</mark> und verschiebt dabei <mark style="color:green;">**12 Items**</mark>. Wird in einem Tick kein Item Verschoben, wartet der Trichter ebenfalls <mark style="color:green;">**80 Ticks**</mark>, bevor er erneut prüft, ob ein neues Item vorhanden ist.
+Ein Trichter tickt standardmäßig alle <mark style="color:red;">**8 Ticks**</mark> und verschiebt dabei <mark style="color:red;">**1 Item**</mark>. Auf GrieferGames tickt ein Trichter alle <mark style="color:green;">**80 Ticks**</mark> und verschiebt dabei <mark style="color:green;">**12 Items**</mark>. Wird in einem Tick kein Item verschoben, wartet der Trichter ebenfalls <mark style="color:green;">**80 Ticks**</mark>, bevor er erneut prüft, ob ein neues Item vorhanden ist.
 
 ## Die neuen Trichter-Optionen
 
-Klickst du beim Sneaken mit Rechtsklick auf einen platzierten Trichter, öffnet sich ein Optionsmenü für diesen Trichter.
+Machst du beim Sneaken einen Rechtsklick auf einen platzierten Trichter, öffnet sich ein Optionsmenü für diesen Trichter.
 
 <figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Trichter-Hauptmenü</p></figcaption></figure>
 
@@ -26,7 +26,7 @@ Dieses Menü bietet verschiedene Einstellungsoptionen, welche im Folgenden erlä
 
 ### Item-Anzahl einstellen
 
-Mit dem Button <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> kann die <mark style="color:orange;">Anzahl der transportierten Items</mark> festgelegt werden **Standardeinstellung:** 12 Items
+Mit dem Button <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> kann die <mark style="color:orange;">Anzahl der transportierten Items</mark> festgelegt werden. **Standardeinstellung:** 12 Items
 
 Folgende Optionen stehen zur Verfügung:
 
@@ -40,36 +40,36 @@ Es wird immer nur ein Stack gleichzeitig bewegt. Hat ein Stack weniger Items als
 
 ### Force Fast Tick
 
-Mit der <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> <mark style="color:orange;">Force Fast Tick</mark>-Option ist es möglich, die Tick-Geschwindigkeit auf den Standard zurückzusetzen (siehe [Trichter-Tick](trichter-system.md#trichter-tick)). Diese Möglichkeit wird für manche Redstone-Schaltungen benötigt, welche sich nicht anders realisieren lassen. Der Großteil der Schaltungen lässt sich jedoch so umbauen, dass diese auch auf GrieferGames funktionieren.
+Mit der <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> <mark style="color:orange;">Force Fast Tick</mark>-Option ist es möglich, die Tick-Geschwindigkeit auf den Standard zurückzusetzen (siehe [Trichter-Tick](trichter-system.md#trichter-tick)). Diese Möglichkeit wird für manche Redstone-Schaltungen benötigt, die sich nicht anders umsetzen lassen. Der Großteil der Schaltungen lässt sich jedoch so umbauen, dass sie auch auf GrieferGames funktionieren.
 
 {% hint style="warning" %}
-Diese Option steht nur der Administration zur Verfügung oder bei aktivierter `hopper-fast-tick`-Flag auf dem Grundstück. Diese Flag wird in seltenen Ausnahmefällen vergeben und kann über das Ticket-System beantragt werden.
+Diese Option steht nur der Administration oder bei aktivierter `hopper-fast-tick`-Flag auf dem Grundstück zur Verfügung. Diese Flag wird in seltenen Ausnahmefällen vergeben und kann über das Ticket-System beantragt werden.
 {% endhint %}
 
 ### Sammelradius
 
-Über die Einstellungsoptionen <img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> kann der Sammelradius eingestellt werden. Der Sammelradius beeinflusst den Umkreis, aus dem ein herumliegendes Item vom Trichter eingesammelt wird.
+Über die Einstellungsoptionen <img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> kann der Sammelradius eingestellt werden. Der Sammelradius bestimmt den Umkreis, aus dem herumliegende Items vom Trichter eingesammelt werden.
 
 Der maximale Sammelradius beträgt <mark style="color:orange;">**15 Blöcke**</mark> und ist zusätzlich durch die <mark style="color:orange;">**Plot-Grenze begrenzt**</mark>.
 
 {% hint style="info" %}
-Radius 0 deaktiviert das einsammeln von Items aus der Luft.
+Radius 0 deaktiviert das Einsammeln von Items aus der Luft.
 {% endhint %}
 
 ### Verbundener Trichter
 
-Über die <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> <mark style="color:orange;">**Trichterverbindung**</mark> kann das Ziel des Trichters direkt ausgewählt werden. Das Ziel kann sich in einem Bereich von <mark style="color:orange;">**30 Blöcken**</mark> gewählt werden.
+Über die <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> <mark style="color:orange;">**Trichterverbindung**</mark> kann das Ziel des Trichters direkt ausgewählt werden. Das Ziel kann in einem Umkreis von <mark style="color:orange;">**30 Blöcken**</mark> gewählt werden.
 
 {% hint style="info" %}
-Trichter können mit allen Blöcken verbunden werden, welche ein Inventar haben. Die Verbindung ist mit allen Blöcken möglich, in die ein Trichter auch standardmäßig weiterleiten kann.
+Trichter können mit allen Blöcken verbunden werden, die ein Inventar haben – also mit allen Blöcken, in die ein Trichter auch standardmäßig weiterleiten kann.
 {% endhint %}
 
-Um einen Trichter zu verbinden, klicke auf <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> und anschließend mit leerer Hand und mit einem Rechtsklick auf den Block, welcher verbunden werden soll.
+Um einen Trichter zu verbinden, klicke auf <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> und anschließend mit leerer Hand per Rechtsklick auf den Block, der verbunden werden soll.
 
-Beim Klick auf den selben Trichter und wenn die Entfernung zu groß wird, wird der Verbindungsmodus beendet.
+Der Verbindungsmodus wird beendet, wenn du erneut auf denselben Trichter klickst oder die Entfernung zu groß wird.
 
 {% hint style="success" %}
-Der Radius kann ggf. durch weitere Rechte erweitert sein, z.B. auf Simulation- oder View-Distance.
+Der Radius kann ggf. durch weitere Rechte erweitert sein, z. B. auf die Simulation- oder View-Distance.
 {% endhint %}
 
 ### Mehrfachverbindungen
@@ -84,30 +84,31 @@ In dieser Ansicht sind die bereits eingerichteten Verbindungen zu sehen. Pro Mat
 
 Mit einem Klick auf <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line"> <mark style="color:orange;">**Verbindungsmodus starten**</mark> kann der Verbindungsmodus für Mehrfachverbindungen gestartet werden.
 
-### Endpunkte hinzufügen / Verbindungsmodus
+#### Endpunkte hinzufügen / Verbindungsmodus
 
 Sobald der Verbindungsmodus aktiv ist, können neue Verbindungen hinzugefügt werden, indem du mit dem gewünschten Material in der Hand auf einen möglichen Endpunkt (siehe [Verbundener Trichter](trichter-system.md#verbundener-trichter)) klickst.
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Die Verbindung wird dann hinzugefügt, welches im Chat bestätigt wird und das nächste Material kann hinterlegt werden.
+Die Verbindung wird dann hinzugefügt und im Chat bestätigt. Anschließend kann das nächste Material hinterlegt werden.
 
 Der Verbindungsmodus wird durch das Sneaken beendet.
 
 ### Verbindungs-Aufteilung (Split)
 
-Dieser Modus ermöglicht es, dass Gegenstände auf mehrere Anlagen aufgeteilt werden, wenn diese z.B. aus einem [Unbegrenztem Speicher](unbegrenzter-speicher.md) mit einem Trichter gezogen werden.
+Dieser Modus ermöglicht es, dass Gegenstände auf mehrere Anlagen aufgeteilt werden, wenn diese z. B. aus einem [Unbegrenzten Speicher](unbegrenzter-speicher.md) mit einem Trichter gezogen werden.
 
 <figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-Diese Option ist zum Verteilen von Items in verschiedene Anlagen. Das Feature ist nicht zur freien Verwendung für alle möglichen Konstruktionen.\
-Zur Freigabe von anderweitiger Verwendung, erfrage eine Einzelfallgenehmigung im Ticket-System.
+Diese Option ist ausschließlich zum Verteilen von Items auf verschiedene Anlagen gedacht und nicht zur freien Verwendung für beliebige Konstruktionen.
+
+Für eine anderweitige Verwendung musst du im Ticket-System eine Einzelfallgenehmigung anfragen.
 {% endhint %}
 
-Die Aufteilung kann bis zu 10 Ziele bei gleicher Geschwindigkeit beliefern, danach wird mit jedem weiteren Ziel die Geschwindigkeit pro Ziel ein wenig langsamer.
+Die Aufteilung kann bis zu 10 Ziele mit gleicher Geschwindigkeit beliefern. Mit jedem weiteren Ziel wird die Geschwindigkeit pro Ziel etwas langsamer.
 
-Die Items werden "im Kreis" an die Ziele verteilt. Ist ein Ziel voll wird dieses übersprungen und im nächsten Tick normal das nächste Ziel beliefert.
+Die Items werden "im Kreis" an die Ziele verteilt. Ist ein Ziel voll, wird es übersprungen und im nächsten Tick normal das nächste Ziel beliefert.
 
 ### Optische Anzeige
 
@@ -123,7 +124,7 @@ Mit dem Trichter-System ist es ebenfalls möglich, die Items zu filtern, welche 
 Die Filter bestimmen, welche Items ein Trichter "einsaugt" oder aus anderen Inventaren entnimmt. Legst du Items direkt in den Trichter, werden die Filter nicht berücksichtigt.
 {% endhint %}
 
-Die folgenden Filter-Optionen lassen sich ebenfalls miteinander kombinieren.
+Die folgenden Filter-Optionen lassen sich miteinander kombinieren.
 
 Die Filter können mit einem Shift-Klick auf das <img src="../../.gitbook/assets/image (37) (2).png" alt="" data-size="line"> Filter-Icon entfernt werden. Das Icon wechselt je nach gefiltertem Material.
 
@@ -133,7 +134,7 @@ Die Filter können mit einem Shift-Klick auf das <img src="../../.gitbook/assets
 
 Um ein Material für den Trichter zu filtern, kann das Material im Hauptmenü aus dem eigenen Inventar ausgewählt werden. Das gefilterte Material ist dann an der Stelle des <img src="../../.gitbook/assets/image (37) (2).png" alt="" data-size="line"> zu sehen.
 
-Mit dem Klick auf das gefilterte Material oder <img src="../../.gitbook/assets/image (37) (2).png" alt="" data-size="line"> öffnet sich das Filter-Menü mit den folgenden Optionen.
+Mit einem Klick auf das gefilterte Material oder <img src="../../.gitbook/assets/image (37) (2).png" alt="" data-size="line"> öffnet sich das Filter-Menü mit den folgenden Optionen.
 
 <figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption><p>Filter-Übersicht</p></figcaption></figure>
 
@@ -178,13 +179,13 @@ Die folgenden Optionen der Signierung können eingestellt werden:
 * <img src="../../.gitbook/assets/image (22).png" alt="" data-size="line"> **Signierung:** Filtert den Text der Signierung
 
 {% hint style="info" %}
-Der Text der Signierung muss die eingestellten Zeichen / den eingestellten Text nur enthalten und nicht vollständig entsprechen.
+Der Text der Signierung muss die eingestellten Zeichen bzw. den eingestellten Text nur enthalten, aber nicht vollständig übereinstimmen.
 {% endhint %}
 
 ### Beschreibungsfilter
 
-Dieser Abschnitt folgt bald. Aktuell auf der Cloud durch die internationalisierten Beschreibungen nicht möglich.
+Dieser Abschnitt folgt bald. Auf der Cloud ist dieser Filter aufgrund der internationalisierten (übersetzten) Beschreibungen aktuell nicht möglich.
 
 ### Namensfilter
 
-Dieser Abschnitt folgt bald. Aktuell auf der Cloud durch die internationalisierten Namen nicht eindeutig.
+Dieser Abschnitt folgt bald. Auf der Cloud ist dieser Filter aufgrund der internationalisierten (übersetzten) Namen aktuell nicht eindeutig.

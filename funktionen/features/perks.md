@@ -8,11 +8,11 @@ Mit Perks hast du die Möglichkeit, Effekte und kleine Funktionen für dich zu a
 
 <div align="center"><img src="../../.gitbook/assets/unknown.png" alt=""></div>
 
-Um das Hauptmenü zu öffnen, kannst du `/perks` eingeben oder du öffnest das Perks-Menü über das `/?` Hilfemenü.
+Um das Hauptmenü zu öffnen, gib `/perks` ein oder öffne das Perks-Menü über das Hilfemenü `/?`.
 
 ## Die Perks
 
-Im Hauptmenü findest du eine Übersich über die existierenden Perks. Wenn du mit der Maus über ein Perk hältst, werden dir die Informationen zum Perk angezeigt, die verbleibende Laufzeit deines Perks und ob du das Perk aktuell aktiviert oder deaktiviert hast.
+Im Hauptmenü findest du eine Übersicht über die existierenden Perks. Wenn du mit der Maus über ein Perk fährst, werden dir die Informationen zum Perk, die verbleibende Laufzeit und der aktuelle Status (aktiviert oder deaktiviert) angezeigt.
 
 <figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Perk-Beschreibung (Plot-Fliegen)</p></figcaption></figure>
 
@@ -22,51 +22,50 @@ Die Perks können über einlösbare Items erhalten und verlängert werden.
 
 <figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Beispiel: Item 14-Tage Plot-Fliegen</p></figcaption></figure>
 
-Die Items können je nach Perk mit verschiedenen Laufzeiten erhalten werden. Diese finden sich an unterschiedlichen Stellen auf der Cloud. Diese können im [Case-Opening](case-opening.md), [Adventure-Shop](die-handler.md) oder auch durch [Belohnungen](erfolge-advancements.md) erhalten werden.
+Die Items gibt es je nach Perk mit verschiedenen Laufzeiten und an unterschiedlichen Stellen auf der Cloud, z. B. im [Case-Opening](case-opening.md), im [Adventure-Shop](die-handler.md#amin-shop) oder als [Belohnung für Erfolge](erfolge-advancements.md).
 
 {% hint style="info" %}
 Die Tage können nacheinander eingelöst werden und erhöhen die Gesamtlaufzeit des Perks. Es gibt hierbei keine Obergrenze der verfügbaren Tage.
 {% endhint %}
 
 {% hint style="warning" %}
-Löst du ein Perk ein, welches noch nicht im Besitz oder abgelaufen war, wird dieses **nicht automatisch aktiviert**.
+Löst du ein Perk ein, das du noch nicht besessen hast oder das bereits abgelaufen war, wird es **nicht automatisch aktiviert**.
 {% endhint %}
 
 ### Perks aktivieren / deaktivieren
 
-Um ein Perk zu aktivieren oder zu deaktivieren, klicke im Perk-Menü `/perks` auf das gewünschte Perk. Das Perk zeigt den Status als Lore an. Zudem wird ein aktiviertes Perk im Menü verzaubert dargestellt.
+Um ein Perk zu aktivieren oder zu deaktivieren, klicke im Perk-Menü `/perks` auf das gewünschte Perk. Das Perk zeigt seinen Status in der Item-Beschreibung (Lore) an. Zudem wird ein aktiviertes Perk im Menü verzaubert dargestellt.
 
 ### Laufzeitberechnung
 
 Die Perks laufen immer pro Kalendertag der Aktivierung.
 
-Jeden Tag, an dem du das Perk aktivierst oder du dich mit aktiviertem Perk einloggst, wird ein Tag abgezogen und das Perk läuft dann bis zum Ende des Kalendertages. Somit wird ein Perk auch nur "berechnet", wenn dieses genutzt wird bzw. du online bist.
+An jedem Tag, an dem du das Perk aktivierst oder dich mit aktiviertem Perk einloggst, wird ein Tag abgezogen. Das Perk läuft dann bis zum Ende des Kalendertages. Ein Perk wird also nur „berechnet“, wenn du es nutzt bzw. online bist.
 
 {% hint style="info" %}
-Löst du also ein Perk in der Nacht um 23 Uhr ein, ist die verbleibende Laufzeit für diesen einen Tag nur eine Stunde. Bei einem Login nach 0 Uhr wird ein weiterer Tag abgezogen.
+Aktivierst du ein Perk also nachts um 23 Uhr, beträgt die Laufzeit für diesen Tag nur noch eine Stunde. Bei einem Login nach 0 Uhr wird ein weiterer Tag abgezogen.
 {% endhint %}
 
 ## Einstellungen Shulker-View + Litematica
 
 {% hint style="danger" %}
-Da Litematica nicht durch Benutzer mögliche Aktionen & sehr viele Aktionen durchführt, können ohne die folgende Einstellungen Shulker-Kisten durch einen Schutz abhanden kommen.
+Litematica führt Aktionen aus, die ein Spieler normalerweise nicht ausführen kann, und das in sehr großer Zahl. Ohne die folgende Einstellung können dadurch Shulker-Kisten durch einen Schutzmechanismus verloren gehen.
 {% endhint %}
 
-Um zu verhindern, dass mit Litematica Shulker-Kisten beim öffnen vom Schutz entfernt werden, ist in Litematica eine Vorkehrung zu treffen.
+Damit Shulker-Kisten beim Öffnen mit aktivem Litematica nicht vom Schutz entfernt werden, musst du in Litematica eine Vorkehrung treffen.
 
-In Litematica muss ein Slot im Menü deaktiviert werden. Das ist aktuell nur mit den **Hotbar-Slots** möglich, weswegen dort ein Slot gewählt werden muss. Nachdem der Slot für Litematica deaktiviert wurde, muss dieser Slot immer für das Öffnen der Shulker-Kisten verwendet werden.
+In Litematica muss ein Slot im Menü deaktiviert werden. Das ist aktuell nur bei den **Hotbar-Slots** möglich, weshalb dort ein Slot gewählt werden muss. Nachdem der Slot für Litematica deaktiviert wurde, muss dieser Slot immer für das Öffnen der Shulker-Kisten verwendet werden.
 
-### Wie deaktiviere ich Litematica Slots?
+### Wie deaktiviere ich Litematica-Slots?
 
-1. Gehe im Menü auf **Configuration menu**.
+1. Gehe im Litematica-Menü auf **Configuration menu**.
 
-<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
-
-2. Wähle den Reiter **Generic**
-3. Entferne in der Einstellung pickBlockableSlots einen Slot deiner Wahl.
+   <figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+2. Wähle den Reiter **Generic**.
+3. Entferne in der Einstellung `pickBlockableSlots` einen Slot deiner Wahl.
 
 {% hint style="info" %}
-Wir empfehlen **Slot 9** zu wählen, das ist der letzte Slot in deiner Hotbar.
+Wir empfehlen, **Slot 9** zu wählen – das ist der letzte Slot in deiner Hotbar.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>

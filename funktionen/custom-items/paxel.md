@@ -1,9 +1,9 @@
 ---
-description: Eine Paxel ist eine Kombination aus "Pickaxe", "Axe" und "Shovel"
+description: Das Paxel ist eine Kombination aus Spitzhacke (Pickaxe), Axt (Axe) und Schaufel (Shovel).
 ---
 
 # Paxel
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Es ist ein Universaltool. Es ändern seine Art je nach dem welcher Block abgebaut werden soll. Und kann somit alle Blöcke der drei Tools in optimaler Geschwindigkeit abbauen.
+Das Paxel ist ein Universalwerkzeug: Es passt seine Art automatisch an den Block an, der abgebaut werden soll, und kann so alle Blöcke der drei Werkzeuge in optimaler Geschwindigkeit abbauen.

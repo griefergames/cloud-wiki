@@ -7,9 +7,9 @@ Mit der Versunkenen Kanone kannst du gezielt explosive Angriffe ausführen. Ein 
 ## So funktioniert das Item
 
 1. Rechtsklick mit der Kanone in der Hand: Ein Feuerball wird in die Richtung geschossen, in die du gerade schaust.
-2. Der Feuerball explodiert beim Aufprall auf einen Block, Mob oder Spieler, und verursacht leichten Schaden.
+2. Der Feuerball explodiert beim Aufprall auf einen Block, Mob oder Spieler und verursacht leichten Schaden.
 
-### Informatinen auf Grundstücken
+### Hinweise für Grundstücke
 
 * Ist die Explosion-Flag deaktiviert, verursacht der Feuerball keine Explosion.
 * Ist die PVP-Flag deaktiviert, verursacht die Kanone keinen Spieler-Schaden.

@@ -4,11 +4,15 @@ description: Übersicht über die Währungen
 
 # 💰 Währungen
 
-Auf dem Cloud-Netzwerk gibt es verschiedene Währungen, welche verschiedene Verwendungsmöglichkeiten besitzen.
+Auf dem Cloud-Netzwerk gibt es verschiedene Währungen, die unterschiedliche Verwendungsmöglichkeiten besitzen. Jede Währung ist wie folgt gekennzeichnet:
+
+* <mark style="color:green;">**Handelbar**</mark> – Diese Währung kann In-Game mit anderen Spielern gehandelt werden.
+* <mark style="color:red;">**Accountgebunden**</mark> – Diese Währung kann **nicht** mit anderen Spielern gehandelt werden.
+* <mark style="color:blue;">**Shop-Währung**</mark> – Diese Währung ist über den GrieferGames-Shop erhältlich.
 
 ## In-Game-Geld $
 
-[<mark style="color:green;">**Handelbar**</mark>](#user-content-fn-1)[^1] - **Die Hauptwährung im Spiel ist die In-Game-Währung "Dollar" ($).**
+<mark style="color:green;">**Handelbar**</mark> – **Die Hauptwährung im Spiel ist die In-Game-Währung "Dollar" ($).**
 
 Hauptsächlich kannst du dir Dollar auf dem Server verdienen, indem du mit anderen Spielern handelst, einen Shop eröffnest und dort an andere Spieler verkaufst oder auch indem du Aufträge des [Job-Systems](../features/job-system.md) für andere Spieler erledigst.
 
@@ -18,35 +22,35 @@ Zum Start erhältst du ein wenig Startgeld, indem du [Erfolge / Advancements](..
 
 ## Adventure Coins
 
-[<mark style="color:red;">**Accountgebunden**</mark>](#user-content-fn-2)[^2] - **Eine "farmbare" spielerbezogene Währung.**
+<mark style="color:red;">**Accountgebunden**</mark> – **Eine „farmbare“ spielerbezogene Währung.**
 
-Für Adventure Coins musst du tägliche Aufgaben beim [Adventurer](../features/adventure-system.md) erledigen. Für den Abschluss der Aufgaben wirst du mit Adventure Coins belohnt, welche du bei verschiedenen [NPC-Händlern](../features/die-handler.md) ausgeben kannst (hauptsächlich dem Amin-Shop).
+Für Adventure Coins musst du Aufgaben beim [Adventurer](../features/adventure-system.md) erledigen. Für den Abschluss der Aufgaben wirst du mit Adventure Coins belohnt, welche du bei verschiedenen [NPC-Händlern](../features/die-handler.md) ausgeben kannst (hauptsächlich dem Amin-Shop).
 
 Es gibt aktuell 3 Aufgabenarten:
 
 * tägliche Aufgabe <mark style="color:orange;">**1 Adventure Coin**</mark> (Reset um 0:00 Uhr)
-* wöchentliche Aufagbe <mark style="color:orange;">**6 Adventure Coins**</mark> (Reset am Montag um 0:00 Uhr)
+* wöchentliche Aufgabe <mark style="color:orange;">**6 Adventure Coins**</mark> (Reset am Montag um 0:00 Uhr)
 * monatliche Aufgabe <mark style="color:orange;">**14 Adventure Coins**</mark> (Reset am 1. Tag des Monats um 0:00 Uhr)
 
 ## Kristalle
 
-[<mark style="color:blue;">**Shop-Währung**</mark>](#user-content-fn-3)[^3] - **Währung zum Kaufen von Kisten im** [**Case-Opening**](../features/case-opening.md)**.**
+<mark style="color:blue;">**Shop-Währung**</mark> – **Währung zum Kaufen von Kisten im** [**Case-Opening**](../features/case-opening.md)**.**
 
 Die Kristalle können lediglich im [Shop](https://shop.griefergames.net) von GrieferGames gekauft werden. Mit Kristallen ist es möglich, sich im Menü vom [Case-Opening](../features/case-opening.md) Kisten zu kaufen, welche dann geöffnet werden können.
 
 Zusätzlich kannst du dir durch einige Features wie [Adventure-Aufgaben](../features/adventure-system.md) oder [Block des Tages](../features/block-des-tages.md) kleine Kristall-Beträge verdienen.
 
 {% hint style="warning" %}
-Sollten Kristall-Käufe auch nach einer Wartezeit von etwa 48 Stunden nicht im Spiel erscheinen, kannst du den GrieferGames-Webshop-Support per E-Mail an [shop@griefergames.net](mailto:shop@griefergames.net) kontaktieren.\
-\
+Sollten Kristall-Käufe auch nach einer Wartezeit von etwa 48 Stunden nicht im Spiel erscheinen, kannst du den GrieferGames-Webshop-Support per E-Mail an [shop@griefergames.net](mailto:shop@griefergames.net) kontaktieren.
+
 Bedenke hierbei, dass durch die Anzahl an Anfragen eine Antwortzeit von mehreren Tagen entstehen kann.
 {% endhint %}
 
 ## Swap-Tokens / Tauschtokens
 
-[<mark style="color:red;">**Accountgebunden**</mark>](#user-content-fn-2)[^2] - **Eine ertauschbare spielerbezogene Währung.**
+<mark style="color:red;">**Accountgebunden**</mark> – **Eine ertauschbare spielerbezogene Währung.**
 
-Diese Tokens können zu bestimmten Events durch eine sogenante <mark style="color:purple;">**Tausch-Elfe**</mark> erhalten werden. Diese ermöglicht es, Items (meist Items aus dem [Case-Opening](../features/case-opening.md) im unteren Bereich) gegen Tokens einzutauschen und damit andere Items der <mark style="color:purple;">Tausch-Elfe</mark> zu erwerben.
+Diese Tokens können zu bestimmten Events durch eine sogenannte <mark style="color:purple;">**Tausch-Elfe**</mark> erhalten werden. Diese ermöglicht es, Items (meist Items aus dem [Case-Opening](../features/case-opening.md) im unteren Bereich) gegen Tokens einzutauschen und damit andere Items der <mark style="color:purple;">Tausch-Elfe</mark> zu erwerben.
 
 {% hint style="info" %}
 Die <mark style="color:purple;">Tausch-Elfe</mark> ist nicht dauerhaft verfügbar. Die nicht verwendeten Tokens bleiben auch beim Verschwinden der <mark style="color:purple;">Tausch-Elfe</mark> erhalten.
@@ -54,12 +58,7 @@ Die <mark style="color:purple;">Tausch-Elfe</mark> ist nicht dauerhaft verfügba
 
 ## Prestige-Tokens
 
-[<mark style="color:red;">**Accountgebunden**</mark>](#user-content-fn-2)[^2] - **Währung des Prestige-Shops**
+<mark style="color:red;">**Accountgebunden**</mark> – **Währung des Prestige-Shops.**
 
-Diese Tokens können beim ingame Kauf von Kristallen/Kisten im [CaseOpening](../features/case-opening.md) durch [Stripe](/broken/pages/YVD26x1zIEtzIrSN8x8M) erhalten werden. Mit Prestige-Tokens kann man beim **Prestige Token Händler** verschiedene Items wie Kristalle und Farbverläufe kaufen.
+Diese Tokens erhältst du beim Echtgeld-Kauf von Kristallen oder Kisten im In-Game Store des [CaseOpenings](../features/case-opening.md) (Zahlung über [Stripe](https://store.griefergames.net)). Mit Prestige-Tokens kann man beim **Prestige Token Händler** verschiedene Items wie Kristalle und Farbverläufe kaufen.
 
-[^1]: Diese Währung kann In-Game mit anderen Spielern gehandelt werden.
-
-[^2]: Diese Währung kann **nicht** mit anderen Spielern gehandelt werden.
-
-[^3]: Diese Währung ist über den GrieferGames Shop erhältlich.

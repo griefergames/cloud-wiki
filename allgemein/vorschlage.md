@@ -25,7 +25,7 @@ Du möchtest einen Vorschlag machen oder eine Idee äußern, die mit dem 1.8-Net
 
 Erstelle dafür eine Meldung im dafür vorgesehenen [Discord-Channel](https://discord.com/channels/325017098592059392/1283079587080966297) auf unserem [Discord-Server](https://discord.griefergames.net/).
 
-### Infos zu Vorschlägen im Discord:
+### Infos zu Vorschlägen im Discord
 
 **Welches Label wählt man wann aus?**
 
@@ -38,9 +38,9 @@ Beschreibt eure Vorschläge gerne so präzise wie möglich, damit wir sie besser
 
 **Was bedeuten die Status-Labels?**
 
-* **✅ Erledigt**: Der Vorschlag wurde erfolgreich umgesetzt oder anderweitig erledigt
-* **➡️ Weitergeleitet**: Der Vorschlag wurde zur weiteren Besprechung intern weitergeleitet
-* **❌ Abgelehnt**: Der Vorschlag wurde abgelehnt
+* **✅ Erledigt**: Der Vorschlag wurde erfolgreich umgesetzt oder anderweitig erledigt.
+* **➡️ Weitergeleitet**: Der Vorschlag wurde zur weiteren Besprechung intern weitergeleitet.
+* **❌ Abgelehnt**: Der Vorschlag wurde abgelehnt.
 
 Uns ist das Vorschlagen neuer Ideen sehr wichtig, damit wir den Server für euch immer weiter verbessern können.
 

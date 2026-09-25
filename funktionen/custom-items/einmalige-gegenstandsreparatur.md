@@ -6,9 +6,9 @@ Mit der Einmaligen Gegenstandsreparatur kannst du ein spezifisches Item **einmal
 
 ## So funktioniert das Item
 
-1. Bestätige die Nutzung, indem du den grünen Betonblock anklickt, oder brich die Aktion mit dem roten Betonblock ab.
-2. Rechtsklick mit der Einmaligen Gegenstandsreparatur in der Hand, um das Item zu verwenden.
+1. Rechtsklick mit der Einmaligen Gegenstandsreparatur in der Hand, um das Item zu verwenden.
+2. Bestätige die Nutzung, indem du den grünen Betonblock anklickst, oder brich die Aktion mit dem roten Betonblock ab.
 3. Im Einmaligen Gegenstandsreparatur-Interface musst du das Item, das du reparieren möchtest, in deinem Inventar anklicken.
-4. Das gewählte Item wird vollständig repariert, und die Einmalige Gegenstandreparatur verschwindet danach automatisch aus deinem Inventar.
+4. Das gewählte Item wird vollständig repariert, und die Einmalige Gegenstandsreparatur verschwindet danach automatisch aus deinem Inventar.
 
 <p align="center"><img src="../../.gitbook/assets/unknown (5) (1) (1).png" alt=""><br></p>

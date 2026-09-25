@@ -1,8 +1,10 @@
 ---
-description: Befehle, die das Plot betreffen.
+description: Befehle, die das Grundstück betreffen.
 ---
 
 # Grundstücks-Befehle
+
+Die meisten Grundstücks-Befehle beginnen mit `/p` (Kurzform von `/plot`). Mehr Hintergrundinfos findest du im Bereich [Grundstücke](../../grundstuecke/README.md).
 
 ### Grundstücke erhalten
 
@@ -18,22 +20,22 @@ description: Befehle, die das Plot betreffen.
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | <p>/p h &#x3C;Zahl><br>/plot home &#x3C;Zahl><br>/p h &#x3C;ID></p> | <p>Teleportiere dich zu deinem Grundstück<br></p><p>Beispiel: <code>/p h 2</code> bringt dich auf dein zweites Grundstück.</p>    |
 | <p>/p h &#x3C;Spielername> &#x3C;Zahl><br>/p h &#x3C;Alias></p>     | Teleportiert dich zum Grundstück eines Mitspielers.                                                                               |
-| /p middle                                                           | Teleportiere dich zur Mitte des Grundstück                                                                                        |
-| <p>/p sethome<br>/p &#x3C;ID> sethome</p>                           | [Versetze den Spawnpunkt](/broken/pages/clJipGhAUZ6BchTAWC1v#grundstueck-unerreichbar) des Grundstücks an deine aktuelle Position |
+| /p middle                                                           | Teleportiere dich zur Mitte des Grundstücks                                                                                       |
+| <p>/p sethome<br>/p &#x3C;ID> sethome</p>                           | Versetze den Spawnpunkt des Grundstücks an deine aktuelle Position |
 
 ### Grundstück verwalten
 
 | Befehl                            | Funktion                                                                                                                                  |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>/p i<br>/plot info</p>         | Zeigt eine Übersicht mit [Informationen und Einstellungen des Grundstücks](/broken/pages/glnOc8evqBS6ROQarPJF) an                         |
-| <p>/p<br>/plot<br>/m<br>/menu</p> | [Grundstücks-Menü](/broken/pages/M4GwYqzxyVUiO0TIsxCA) aufrufen                                                                           |
-| /merge                            | [Grundstücke verbinden](/broken/pages/OQU0vAd7LLGWgzYoikP7)                                                                               |
+| <p>/p i<br>/plot info</p>         | Zeigt eine Übersicht mit [Informationen und Einstellungen des Grundstücks](../../grundstuecke/hilfe-benutzen.md) an                         |
+| <p>/p<br>/plot<br>/m<br>/menu</p> | [Grundstücks-Menü](../../grundstuecke/README.md) aufrufen                                                                           |
+| /merge                            | [Grundstücke verbinden](../../grundstuecke/mergen.md)                                                                               |
 | /p clear                          | <p>Grundstück in den Ursprungszustand versetzen <br></p><p><strong>Achtung!</strong> Bei einem Merge werden die Grundstücke getrennt!</p> |
 | <p>/p delete<br>/p reset</p>      | Grundstück löschen und freigeben                                                                                                          |
 
 ### Rechte verwalten
 
-Natürlich könnt ihr auch gemeinschaftlich an Projekten arbeiten. Dazu könnt ihr anderen Spielern Rechte zuweisen oder unerwünschten Besuch fernhalten.
+Natürlich kannst du auch gemeinsam mit anderen an Projekten arbeiten. Dazu kannst du anderen Spielern [Rechte](../../grundstuecke/grundstucksrechte.md) zuweisen oder unerwünschten Besuch fernhalten.
 
 | Befehl                   | Funktion                                                                                   |
 | ------------------------ | ------------------------------------------------------------------------------------------ |
@@ -44,7 +46,7 @@ Natürlich könnt ihr auch gemeinschaftlich an Projekten arbeiten. Dazu könnt i
 | /p undeny \<Spielername> | Der Spieler darf dein Grundstück wieder betreten                                           |
 | /p kick \<Spielername>   | Der Spieler wird von deinem Grundstück geworfen und kann direkt wieder drauf               |
 
-Solltest du statt einem Spielernamen ein `*` einfügen, so gilt dieser Befehl für alle Spieler.
+Solltest du statt eines Spielernamens ein `*` einfügen, so gilt dieser Befehl für alle Spieler.
 
 {% hint style="info" %}
 `/p trust AbgegrieftHD` - Abge darf sich auf deinem Grundstück austoben. Sonst niemand.\
@@ -60,14 +62,14 @@ Rechte für alle Spieler zu vergeben ist nicht sonderlich ratsam und nur bedingt
 | Befehl                             | Funktion                                                                                                                                                                               |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | /setowner {Spielername}            | Starte eine Überschreibung deines Grundstücks an einen anderen Spieler                                                                                                                 |
-| /setowner confirm                  | Bestätige die Überschreibung eines Grundstück                                                                                                                                          |
+| /setowner confirm                  | Bestätige die Überschreibung eines Grundstücks                                                                                                                                         |
 | /setowner deny                     | Lehne die Überschreibung eines Grundstückes ab                                                                                                                                         |
-| /p description {Text}              | Füge deinem Grundstücke eine Beschreibung hinzu                                                                                                                                        |
-| /p description                     | Entferne die Beschreibung des Grundstück                                                                                                                                               |
+| /p description {Text}              | Füge deinem Grundstück eine Beschreibung hinzu                                                                                                                                         |
+| /p description                     | Entferne die Beschreibung des Grundstücks                                                                                                                                              |
 | /p alias set {Text}                | <p>Gib dem Grundstück einen Namen (Alias)<br><br><strong>Achtung!</strong> Es können keine Namen von Spielern genutzt werden, welche bereits auf dem Server angemeldet sind/waren.</p> |
 | <p>/p chat on<br>/p chat off</p>   | <p>Schreibe im Grundstücks-Chat<br>Schreibe im Normalchat</p>                                                                                                                          |
-| /p flag set {Flag} {true/false/ID} | [Grundstücks-Flag](/broken/pages/jJcLCBiVv00DDw9y7Sbh) setzen                                                                                                                          |
+| /p flag set {Flag} {true/false/ID} | [Grundstücks-Flag](../../grundstuecke/flags-setzen/README.md) setzen                                                                                                                          |
 | /p setorder {Zahl}                 | Setzt das Grundstück an die ausgewählte Position deiner Grundstücksliste                                                                                                               |
 | /bewertung                         | Aktiviere die Bewertungsfunktion für dein Grundstück                                                                                                                                   |
-| /breakblock                        | Baut einen geschützten Block (z.B. Barrieren, Endportalrahmen, Grundgestein) auf deinem Grundstück ab. Der Block wird nach anklicken abgebaut und geht verloren.                       |
+| /breakblock                        | Baut einen geschützten Block (z.B. Barrieren, Endportalrahmen, Grundgestein) auf deinem Grundstück ab. Der Block wird nach dem Anklicken abgebaut und geht verloren.                       |
 

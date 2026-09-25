@@ -6,7 +6,7 @@ description: Informationen zu den eigenen Farmwelten der Cloud
 
 <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Spawn der Farmwelten</p></figcaption></figure>
 
-Das Cloud-Netzwerk hat mehrere Farmwelten, welche komplett eigenständige Welten sind. Die Server unterscheiden sich in Anordnung der Biome, Strukturen und Elemente. Kurz gesagt: Jede Welt hat ihre eigenen Seeds.
+Das Cloud-Netzwerk hat mehrere Farmwelten, welche komplett eigenständige Welten sind. Die Server unterscheiden sich in der Anordnung der Biome, Strukturen und Elemente. Kurz gesagt: Jede Welt hat ihre eigenen Seeds.
 
 {% hint style="info" %}
 Die Farmwelten werden **jeden Monat in der Nacht vom 3. auf den 4. Tag** zurückgesetzt und alle Homes in den Farmwelten gelöscht.
@@ -17,10 +17,10 @@ Die Farmwelten werden **jeden Monat in der Nacht vom 3. auf den 4. Tag** zurück
 Um in die Farmwelt zu gelangen, kann der Befehl `/farm` verwendet werden. Des Weiteren kann das Farm-Menü auch über die Hilfe unter `/?` oder durch das Farm-Portal am Spawn erreicht werden.
 
 {% hint style="info" %}
-Ab dem **Griefer-Rang** kann unter `/farm` auch der gewünschte Farm-Server gewählt werden. Ansonsten steht nur die automatische Auswahl durch das System zur Verfügung.
+Ab dem [**Griefer-Rang**](../grundbefehle/range/griefer-rang.md) kann unter `/farm` auch der gewünschte Farm-Server gewählt werden. Ansonsten steht nur die automatische Auswahl durch das System zur Verfügung.
 {% endhint %}
 
-Um zu erkennen, in welcher Farmwelt du dich befindest, wird in der Tabliste über den Spielern die aktuelle Region angezeigt.
+Damit du erkennst, in welcher Farmwelt du dich befindest, wird in der Tabliste über den Spielern die aktuelle Region angezeigt.
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Anzeige der Region in der Tabliste</p></figcaption></figure>
 
@@ -32,7 +32,7 @@ Jede Farmwelt hat in allen Dimensionen einen eigenen Spawn. Dieser ist durch ein
 
 ### Die Overworld
 
-In der Overworld kannst du einfach von der Plattform springen und du erhältst den Effekt **Langsamer Fall**. Des Weiteren befinden sich auf der Plattform ein Endportal, um ins End zu gelangen und ein Netherportal, um in den Nether zu gelangen.
+In der Overworld kannst du einfach von der Plattform springen und du erhältst den Effekt **Langsamer Fall**. Des Weiteren befinden sich auf der Plattform ein Endportal, um ins End zu gelangen, und ein Netherportal, um in den Nether zu gelangen.
 
 Sobald du außerhalb des Spawn-Bereichs landest, wird der Effekt **Langsamer Fall** wieder entfernt.
 
@@ -53,13 +53,13 @@ Es befindet sich hier ebenfalls ein Netherportal, um in die Overworld zurückzug
 
 ### Das End
 
-Der End-Spawn befindet sich in der Mitte der Hauptinsel des Ends. Auch hier erhältst du den Effekt **Langsamer Fall**, jedoch musst du dort einige hundert Blöcke weit bauen, um in das sogenannte erweiterte End zu gelangen. Damit du das nicht machen musst, stehen an zwei Ecken End-Gateways zur Verfügung, welche den Spieler in das erweiterte End teleportieren.
+Der End-Spawn befindet sich in der Mitte der Hauptinsel des Ends. Auch hier erhältst du den Effekt **Langsamer Fall**, jedoch musst du dort einige hundert Blöcke weit bauen, um in das sogenannte erweiterte End zu gelangen. Damit du das nicht machen musst, stehen an zwei Ecken End-Gateways zur Verfügung, die den Spieler in das erweiterte End teleportieren.
 
 An einer anderen Ecke befindet sich ein kleines 1-Block-Endportal, mit dem du zurück in die Overworld gelangen kannst.
 
 #### Änderungen
 
-* Die Droprate der Shulker-Schalen ist reduzierter als im Singleplayer.
+* Die Droprate der Shulker-Schalen ist geringer als im Singleplayer.
 * Die AI der Shulker ist angepasst (keine Teleportation).
 * Der Enderdrache ist nicht vorhanden.
-* Es sind keine Elytren in den Endcitys
+* Es sind keine Elytren in den Endcitys.

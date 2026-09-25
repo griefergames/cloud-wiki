@@ -6,15 +6,15 @@ description: Das bunte Farbenspiel.
 
 Das Ziel des Spiels ist es, möglichst viele Runden auf der richtigen Farbe zu überstehen. Auf der Spielfläche werden rundenbasiert zufällige Muster und Formen generiert.
 
-### **Spawn-Punkte** <a href="#hbw6285ps3ye" id="hbw6285ps3ye"></a>
+## Spawn-Punkte
 
-Für eine Color Battle-Map wird nur **ein** Spawn-Punkt benötigt. Die Spieler starten gemeinsam an einem Spawn-Punkt und werden nicht verteilt. Ebenfalls kann ein Pre-Spawn gesetzt werden, an dem die Spieler vor Beginn des Spieles starten.
+Für eine Color-Battle-Map wird nur **ein** [Spawn-Punkt](./#spender-dropper) benötigt. Die Spieler starten gemeinsam an diesem Spawn-Punkt und werden nicht verteilt. Zusätzlich kann ein [Pre-Spawn](./#werfer-dispenser) gesetzt werden, an dem die Spieler vor Beginn des Spiels warten.
 
-### **Die Spielfläche** <a href="#saesnaj1w8mq" id="saesnaj1w8mq"></a>
+## Die Spielfläche
 
-<figure><img src="../../../../.gitbook/assets/0.png" alt=""><figcaption><p>Übersicht der Color Battle-Spielfläche</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/0.png" alt=""><figcaption><p>Übersicht der Color-Battle-Spielfläche</p></figcaption></figure>
 
-Die Spielfläche wird durch zwei <img src="../../../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> **Redstoneblöcke** markiert. Diese geben die Fläche an, wo sich später das Muster für das Spiel automatisch setzt. Entsprechend müssen diese in die gegenüberliegenden Ecken platziert werden und die Spielfläche muss ausreichend groß sein.
+Die Spielfläche wird durch zwei <img src="../../../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> **Redstoneblöcke** markiert. Sie geben die Fläche an, auf der später automatisch das Muster für das Spiel gesetzt wird. Die beiden Blöcke müssen daher in gegenüberliegende Ecken platziert werden, und die Spielfläche muss ausreichend groß sein.
 
 {% hint style="info" %}
 Je nach Größe der Fläche variiert die maximale Spielerzahl der Map.

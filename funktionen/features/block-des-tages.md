@@ -6,13 +6,13 @@ Mit dem Block des Tages kannst du mit etwas Glück beim Farmen kleine Zusatzgewi
 
 In diesem Beispiel ist Seltsamer Sand der Block des Tages.
 
-Jedes Mal, wenn du in der Farmwelt einen natürlich generierten Block dieser Art abbaust, besteht eine kleine Chance, dass du eine zusätzliche Belohnung erhältst. Also ein gute Möglichkeit, sich beim Farmen von Material ein wenig etwas dazu zu verdienen.
+Jedes Mal, wenn du in der Farmwelt einen natürlich generierten Block dieser Art abbaust, besteht eine kleine Chance, dass du eine zusätzliche Belohnung erhältst. Also eine gute Möglichkeit, sich beim Farmen von Material ein wenig dazuzuverdienen.
 
 Wenn du eine zusätzliche Belohnung erhältst, wirst du mit einer Nachricht im Chat darüber informiert.
 
 <div align="center"><img src="../../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1) (1).png" alt=""></div>
 
-### Mögliche Gewinne
+## Mögliche Gewinne
 
 Es gibt viele verschiedene Gewinne, die der Block des Tages enthalten kann.
 
@@ -23,16 +23,16 @@ Es gibt viele verschiedene Gewinne, die der Block des Tages enthalten kann.
 Zusätzlich gibt es Event-Tage, an denen auch gleichzeitig mehrere Gewinne enthalten sein können.
 
 {% hint style="info" %}
-Wie oft du einen Gewinn am Tag erhalten kannst ist ebenfalls unterschiedlich. Du wirst jedoch informiert, sobald du die maximale Anzahl an Belohnungen des Tages erreicht hast.\
+Wie oft du am Tag einen Gewinn erhalten kannst, ist ebenfalls unterschiedlich. Du wirst jedoch informiert, sobald du die maximale Anzahl an Belohnungen des Tages erreicht hast.\
 _(Ein Tag beginnt um 4 Uhr zum Server-Neustart)_
 {% endhint %}
 
 {% hint style="danger" %}
-Die Chance ist bei jedem natürlich generierten Block der abgebaut wird dieselbe. Es ist reine Glückssache, ob oder wie schnell du eine Belohnung findest. Es kann der erste Block sein, es kann aber auch viele tausend Blöcke dauern. Also überlege dir, wie lange du farmen möchtest.
+Die Chance ist bei jedem abgebauten, natürlich generierten Block dieselbe. Es ist reine Glückssache, ob oder wie schnell du eine Belohnung findest. Es kann der erste Block sein, es kann aber auch viele Tausend Blöcke dauern. Also überlege dir, wie lange du farmen möchtest.
 {% endhint %}
 
 {% hint style="success" %}
-Der Abbau mit speziellen Tools (wie z.B. 3x3 Tools) ist möglich. Es werden alle abgebauten Blöcke des Tools gezählt.
+Der Abbau mit speziellen Tools (z. B. 3x3-Tools) ist möglich. Es werden alle abgebauten Blöcke des Tools gezählt.
 {% endhint %}
 
 ## Statistiken
@@ -41,6 +41,6 @@ Links im Interface des NPC-Menüs kannst du deine persönlichen Statistiken eins
 
 <p align="center"><img src="../../.gitbook/assets/unknown (2) (1) (1) (1) (1) (1) (1).png" alt=""><br></p>
 
-Rechts werden die globalen Statistiken angezeigt, darunter wie viel Geld, Kristalle und Items die Spieler bereits durch den Block des Tages erhalten haben, einschließlich der Top 28 Spieler, die du durch Anklicken einsehen kannst.
+Rechts werden die globalen Statistiken angezeigt, darunter wie viel Geld, Kristalle und Items die Spieler bereits durch den Block des Tages erhalten haben, einschließlich der Top 28 Spieler, die du durch Anklicken einsehen kannst.
 
 <div align="center"><img src="../../.gitbook/assets/unknown (3) (1) (1) (1) (1).png" alt=""> <img src="../../.gitbook/assets/unknown (4) (1) (1) (1) (1).png" alt=""></div>

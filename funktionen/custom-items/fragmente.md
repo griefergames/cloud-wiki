@@ -1,16 +1,16 @@
 # Fragmente
 
-**Fragment-Items** können verwendet werden, um bestimmte Belohnungen im Spiel zu erhalten. Sie sind einlösbare Items, die man einzeln einlösen muss, um z. B. Kristalle, Item oder andere Belohnungen zu bekommen.
+**Fragment-Items** können verwendet werden, um bestimmte Belohnungen im Spiel zu erhalten. Sie sind einlösbare Items, die man einzeln einlösen muss, um z. B. Kristalle, Items oder andere Belohnungen zu bekommen.
 
 <p align="center"><img src="../../.gitbook/assets/unknown (1) (1) (1) (1).png" alt=""></p>
 
-Diese Fragmente haben immer eine bestimmte Chance das beschriebene Item zu erhalten oder ein zufälliges Item aus einem Pool zu erhalten.
+Diese Fragmente haben immer eine bestimmte Chance, das beschriebene Item oder ein zufälliges Item aus einem Pool zu erhalten.
 
-Mit Glück erhält man die Blohnung aus dem Fragment, mit Pech verschwindet das Item.
+Mit Glück erhält man die Belohnung aus dem Fragment, mit Pech verschwindet das Item.
 
-### Wie funktioniert das Item
+## So funktioniert das Item
 
-1. Fragment in der Hand halten und mit Rechtsklicken.
+1. Fragment in der Hand halten und per Rechtsklick einlösen.
 2. Nach dem Einlösen erhält man mit einer Chance die angegebene Belohnung.
 
 {% hint style="info" %}

@@ -1,5 +1,7 @@
 # Grundstücksrechte
 
+Auf deinem Grundstück kannst standardmäßig nur du bauen. Mit den folgenden Befehlen kannst du anderen Spielern Rechte geben, sie wieder entziehen oder ihnen den Zutritt verweigern.
+
 ## Helfer hinzufügen <a href="#helfer-hinzufugen" id="helfer-hinzufugen"></a>
 
 Grundstücks-Helfer können auf deinem Grundstück bauen (Blöcke setzen, abbauen & interagieren), solange du auf dem jeweiligen Citybuild-Server online bist. Diese Spieler haben keinen Zugriff auf die Grundstückseinstellungen.
@@ -22,7 +24,9 @@ Anschließend bestätigen beide Spieler, dass die kompletten Grundstücksrechte 
 
 Befehl: `/setowner confirm`
 
+{% hint style="warning" %}
 Geh vorsichtig mit dem Vergeben von Rechten um und gib sie nur an Leute, denen du vertraust.
+{% endhint %}
 
 ## Rechte entfernen <a href="#rechte-entfernen" id="rechte-entfernen"></a>
 
@@ -44,7 +48,7 @@ Ein Spieler war vom Grundstück ausgeschlossen und soll es wieder betreten könn
 
 Befehl: `/p undeny <Spieler>` oder `/p undeny *`
 
-Hierbei gilt das Selbe, wie beim Ausschließen mit `*` – es erhält wieder jeder Spieler Zutritt zum Grundstück.
+Hierbei gilt dasselbe wie beim Ausschließen mit `*` – es erhält wieder jeder Spieler Zutritt zum Grundstück.
 
 Der Befehl `/p undeny` ist ein Alias für den Befehl `/p remove`.
 

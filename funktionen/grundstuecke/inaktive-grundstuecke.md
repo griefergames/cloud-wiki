@@ -1,16 +1,16 @@
 ---
-description: Funktion und Ablauf des Checkplot-System
+description: Funktion und Ablauf des Checkplot-Systems
 ---
 
 # Grundstücke inaktiver Spieler beantragen
 
-Wer kennt es nicht, man möchte sein Grundstück erweitern oder mergen und im Weg ein so gut wie leeres Grundstück von einem Spieler, den man noch nie gesehen hat.
+Wer kennt es nicht, man möchte sein Grundstück erweitern oder mergen, und im Weg liegt ein so gut wie leeres Grundstück von einem Spieler, den man noch nie gesehen hat.
 
-Mit dem `/checkplot` System ist es möglich, inaktive Grundstücke zu beantragen.
+Mit dem `/checkplot`-System ist es möglich, inaktive Grundstücke zu beantragen.
 
 ## Beantragen eines Grundstücks
 
-Um ein Grundstück zu beantragen stelle dich auf das Grundstück und gib `/checkplot` ein. Dann öffnet sich eine Übersicht des aktuellen Grundstücks.
+Um ein Grundstück zu beantragen, stelle dich auf das Grundstück und gib `/checkplot` ein. Dann öffnet sich eine Übersicht des aktuellen Grundstücks.
 
 <figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Checkplot-Ansicht</p></figcaption></figure>
 
@@ -18,7 +18,7 @@ Um ein Grundstück zu beantragen stelle dich auf das Grundstück und gib `/check
 Wenn ein Grundstück nicht betreten werden kann, stelle dich neben das Grundstück und gib dort `/checkplot` ein.
 {% endhint %}
 
-In dieser Ansicht, werden dir die Details, die für oder gegen einen Antrag sprechen, angezeigt.
+In dieser Ansicht werden dir die Details, die für oder gegen einen Antrag sprechen, angezeigt.
 
 1. **Besitzer des Grundstücks**\
    Hier wird der Besitzer des Grundstücks, der Alias des Grundstücks und der Zeitpunkt, wann der Spieler zuletzt online war, angezeigt.
@@ -29,13 +29,13 @@ In dieser Ansicht, werden dir die Details, die für oder gegen einen Antrag spre
 4. **Information zum Antragsteller (dir)**\
    Hier wird angezeigt, wie viele Checkplot-Anträge aktuell von dir gelistet sind.
 
-Je nachdem, ob die angezeigte Information einen Antrag ermöglicht oder nicht ermöglicht, wird in der Info folgendes angezeigt:
+Je nachdem, ob die angezeigte Information einen Antrag ermöglicht oder nicht ermöglicht, wird in der Info Folgendes angezeigt:
 
 ![](<../../.gitbook/assets/image (27).png>) ![](<../../.gitbook/assets/image (29) (3).png>)
 
 Wenn der Antrag möglich ist, wird unten rechts ein <img src="../../.gitbook/assets/image (26).png" alt="" data-size="line"> **Schild** angezeigt. Ist der Antrag nicht möglich, wird eine <img src="../../.gitbook/assets/image (24).png" alt="" data-size="line"> **Barriere** angezeigt.
 
-Mit einem Klick auf das Schild und einer Bestätigung, kannst du nun den Antrag einreichen.
+Mit einem Klick auf das Schild und einer anschließenden Bestätigung kannst du den Antrag einreichen.
 
 ## Bearbeitung des Antrags
 
@@ -43,11 +43,11 @@ Den Status deiner Anträge kannst du jederzeit mit `/checkplot list` einsehen.
 
 <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Liste der Anträge</p></figcaption></figure>
 
-Die Checkplot-Anträge werden mindestens einmal in der Woche bearbeitet. Das heißt, dass du darüber zeitnah eine Nachricht erhältst, ob du das Grundstück übernehmen kannst.
+Die Checkplot-Anträge werden mindestens einmal in der Woche bearbeitet. Du erhältst also zeitnah eine Nachricht darüber, ob du das Grundstück übernehmen kannst.
 
 ## Übernehmen des Grundstücks
 
-Um das Grundstück eines angenommen Antrags zu erhalten, gehe auf das entsprechende Grundstück und gib `/checkplot` ein. An der Stelle des <img src="../../.gitbook/assets/image (26).png" alt="" data-size="line"> Schildes befindet sich nun eine <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> **Tür**, mit der das Grundstück in Besitz genommen werden kann.
+Um das Grundstück eines angenommenen Antrags zu erhalten, gehe auf das entsprechende Grundstück und gib `/checkplot` ein. An der Stelle des <img src="../../.gitbook/assets/image (26).png" alt="" data-size="line"> Schildes befindet sich nun eine <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> **Tür**, mit der das Grundstück in Besitz genommen werden kann.
 
 Danach bestätigst du die Aktion und das Grundstück wird <mark style="color:green;">**gelöscht**</mark> und an dich überschrieben.
 

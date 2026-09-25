@@ -1,6 +1,6 @@
 # 👥 Clan-System
 
-In einem Clan kann man sich mit anderen Spielern zusammen tun, um gemeinsam zu spielen, sich gegenseitig zu unterstützen und gemeinsame Ziele zu erreichen.
+In einem Clan kann man sich mit anderen Spielern zusammentun, um gemeinsam zu spielen, sich gegenseitig zu unterstützen und gemeinsame Ziele zu erreichen.
 
 Ein Clan besteht aus einem Clan-Leiter und mindestens einem Clan-Mitglied. Clan-Mitglieder können vom Clan-Leiter auch zum Clan-Moderator befördert werden.
 
@@ -11,8 +11,8 @@ Jeder Spieler kann einen Clan für 100.000$ erstellen.
 {% endhint %}
 
 {% hint style="warning" %}
-Sonderrechte (bspw. Zusätzliche Clan-Mitglieder, Clan-Farbcodes, Clan-Sondercodes) werden dem derzeitigen Clan hinterlegt und können nicht in einen neuen Clan mitgenommen werden.\
-\
+Sonderrechte (z. B. zusätzliche Clan-Mitglieder, Clan-Farbcodes, Clan-Sondercodes) werden dem derzeitigen Clan hinterlegt und können nicht in einen neuen Clan mitgenommen werden.
+
 Die Items können von jedem Mitglied des Clans eingelöst werden.
 {% endhint %}
 
@@ -31,7 +31,7 @@ Die Items können von jedem Mitglied des Clans eingelöst werden.
 | /clan guthaben                    | Zeigt das Guthaben der Clan-Bank an        | ![](<../../.gitbook/assets/image (82).png>)                                                                               |
 | /clan sethome \<NAME>             | Setze ein Clan-Home                        |                                                                                                                           |
 | /clan delhome \<NAME>             | Löscht ein Clan-Home                       |                                                                                                                           |
-| /clan home \<NAME>                | Teleportiert zu dem ausgewähltem Clan-Home |                                                                                                                           |
+| /clan home \<NAME>                | Teleportiert zum ausgewählten Clan-Home    |                                                                                                                           |
 | /clan homes                       | Zeigt eine Übersicht der Clan-Homes an     | ![](<../../.gitbook/assets/image (104).png>)                                                                              |
 
 {% hint style="info" %}
@@ -56,7 +56,7 @@ Die vorgegebenen Rollen sind dabei nur ein Vorschlag. Ihr könnt sie jederzeit n
 Ihr könnt jederzeit **neue Rollen erstellen** und nicht mehr benötigte Rollen wieder löschen.
 
 {% hint style="info" %}
-Jeder Rolle muss mindestens einem Mitglied zugewiesen sein, bevor ihr eine neue Rolle erstellen könnt.
+Jede Rolle muss mindestens einem Mitglied zugewiesen sein, bevor ihr eine neue Rolle erstellen könnt.
 {% endhint %}
 
 ### Rechte der Clan-Rollen verwalten
@@ -72,4 +72,4 @@ Für jede Rolle könnt ihr individuell festlegen, welche Rechte sie besitzen sol
 * Clan-Homes verwalten
 * Clan-Konto verwalten
 
-So könnte man z.B. festlegen, dass nur Clan-Admins Rollen verwalten dürfen, während Clan-Supporter lediglich Einladungen verwalten können.
+So könnte man z. B. festlegen, dass nur Clan-Admins Rollen verwalten dürfen, während Clan-Supporter lediglich Einladungen verwalten können.

@@ -16,7 +16,7 @@ Achtung: Einmal platziert kann die Gaming-Station nicht wieder abgebaut werden.
 
 ## Spiele-Disks
 
-Für jedes Spiel gibt es eine Spiele-Disk in Form einer Schallplatte. Diese können wie eine normale Schallplatte in die Gaming-Station eingelegt werden. Es kann immer nur ein Spiel in einer Gaming-Station gleichzeitig hinterlegt sein.
+Für jedes Spiel gibt es eine Spiele-Disk in Form einer Schallplatte. Sie wird wie eine normale Schallplatte in die Gaming-Station eingelegt. In einer Gaming-Station kann immer nur ein Spiel gleichzeitig hinterlegt sein.
 
 Folgende Spiele stehen aktuell zur Verfügung:
 
@@ -29,17 +29,17 @@ Folgende Spiele stehen aktuell zur Verfügung:
 
 Für manche Spiele können Spielsteine verwendet werden (z. B. 4-Gewinnt). Die Spielsteinsammlung kann oben rechts im Menü eingesehen und der gewünschte Spielstein gewählt werden.
 
-<div align="center"><img src="../../.gitbook/assets/unknown (7) (1).png" alt=""></div>
+<figure><img src="../../.gitbook/assets/unknown (7) (1).png" alt=""><figcaption><p>Beispiel: Spielstein Kies</p></figcaption></figure>
 
-Die Spielsteine in Form von Blöcken droppen mit einer kleinen Wahrscheinlichkeit bei jedem Abbau des Blocks. Diese können also beim Farmen in der Farmwelt zwischendurch erhalten werden. Somit sind diese Spielsteine von der Seltenheit abhängig von dem Vorkommen in den Farmwelten.
+Spielsteine in Form von Blöcken droppen mit einer kleinen Wahrscheinlichkeit bei jedem Abbau des jeweiligen Blocks. Du kannst sie also nebenbei beim Farmen in der Farmwelt erhalten. Wie selten ein Spielstein ist, hängt somit davon ab, wie häufig der Block in den Farmwelten vorkommt.
 
-Zusätzlich gibt es Items, welche nicht abgebaut werden können. Diese können durch verschiedene andere Mechaniken erhalten werden, wie z. B. einer MiniGame-Kiste oder dem [Amin-Shop](die-handler.md).
+Zusätzlich gibt es Spielsteine aus Items, die nicht abgebaut werden können. Diese erhältst du über andere Wege, z. B. aus einer MiniGame-Kiste oder im [Amin-Shop](die-handler.md#amin-shop).
 
 #### Einlösen eines Spielsteins
 
 1. Halte den Spielstein in der Hand.
 2. Mit Rechtsklick löst du den Spielstein ein.
-3. Nach der Einlösung kannst du den Block als Spielfigur bei einer[ Gaming-Station](https://wiki.griefergames.live/funktionen/features/gaming-station) verwenden.
+3. Nach der Einlösung kannst du den Block als Spielfigur an einer Gaming-Station verwenden.
 
 {% hint style="info" %}
 Jeder Spielstein kann nur einmal eingelöst werden.

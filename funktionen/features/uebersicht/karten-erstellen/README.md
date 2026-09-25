@@ -9,7 +9,7 @@ Jeder Spieler hat die Möglichkeit, seine eigenen MiniGame-Maps zu erstellen, zu
 <figure><img src="../../../../.gitbook/assets/image (6) (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Im Folgenden finden sich die allgemeinen Informationen und eine Anleitung zum Erstellen von Plot-Maps. Für spielbezogene Anforderungen und Infos sollte die entsprechende Seite des Spiels besucht werden. Ist keine Seite des Spiels vorhanden, sind gesonderte Anforderungen zusätzlich zu den allgemeinen zu beachten.
+Im Folgenden findest du die allgemeinen Informationen und eine Anleitung zum Erstellen von Plot-Maps. Spielbezogene Anforderungen und Infos findest du auf der jeweiligen Unterseite des Spiels. Auch wenn für ein Spiel keine eigene Seite vorhanden ist, können zusätzlich zu den allgemeinen Anforderungen gesonderte Anforderungen gelten.
 {% endhint %}
 
 ## Die Vorbereitung
@@ -18,13 +18,13 @@ Um eine neue Map für ein MiniGame zu erstellen, solltest du dich zuerst informi
 
 ### Größe des Grundstücks
 
-Bevor du also mit dem Bau der Map startest, solltest du dich informieren, welche Plot-Größe für das MiniGame möglich bzw. benötigt ist. Diese kann je nach MiniGame variieren.
+Bevor du mit dem Bau der Map startest, solltest du prüfen, welche Plot-Größe für das MiniGame möglich bzw. nötig ist. Diese variiert je nach MiniGame.
 
 <figure><img src="../../../../.gitbook/assets/javaw_rgKx0bWbGs.gif" alt=""><figcaption><p>Menüführung zur Plot-Größe</p></figcaption></figure>
 
 <table><thead><tr><th>MiniGame</th><th data-type="number">Min. Plot-Größe</th><th data-type="number">Max. Plot-Größe</th></tr></thead><tbody><tr><td>Lasertag</td><td>1</td><td>9</td></tr><tr><td>TNT-Run</td><td>1</td><td>9</td></tr><tr><td>Elytra-Flug</td><td>1</td><td>16</td></tr><tr><td>Escape</td><td>1</td><td>16</td></tr><tr><td>Color Battle</td><td>1</td><td>9</td></tr><tr><td>Builder Battle</td><td>1</td><td>4</td></tr><tr><td>TNT-Dodgeball</td><td>2</td><td>9</td></tr><tr><td>Mobarena</td><td>2</td><td>9</td></tr><tr><td>Schneeballschlacht</td><td>1</td><td>9</td></tr></tbody></table>
 
-Informationen zur Plot-Größe befinden sich ebenfalls im Menü, um eine neue Map zu erstellen.
+Informationen zur Plot-Größe findest du außerdem im Menü **Neue Map erstellen**.
 
 ## MiniGame-Markierungen
 
@@ -32,33 +32,33 @@ Informationen zur Plot-Größe befinden sich ebenfalls im Menü, um eine neue Ma
 Jedes MiniGame kann zusätzlich zu den Standardmarkierungen noch weitere besitzen.
 {% endhint %}
 
-Für ein MiniGame werden ein paar Informationen benötigt, wie zum Beispiel wo die Spieler spawnen sollen, ob es einen Bereich "vor dem Spiel" gibt und es Bezugspunkte für das Spiel selbst gibt.
+Für ein MiniGame werden ein paar Informationen benötigt, zum Beispiel, wo die Spieler spawnen sollen, ob es einen Bereich „vor dem Spiel“ gibt und welche Bezugspunkte es für das Spiel selbst gibt.
 
-Diese Punkte werden bei den MiniGames mit Blöcken markiert, welche im späteren Verlauf durch das System ersetzt werden.
+Diese Punkte werden mit bestimmten Blöcken markiert, die später beim Generieren der Map vom System ersetzt werden.
 
-### <img src="../../../../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> **Spender (Dropper)**
+### <img src="../../../../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> Spender (Dropper)
 
-Mit Spendern werden die Spawn-Punkte für die Spieler markiert. Je nach MiniGame ist ein Spawn-Punkt erforderlich oder eine Vielzahl an Spawn-Punkten. **Die Ausrichtung der Spender gibt dabei die Blickrichtung der Spieler beim Spawn an.**
+Mit Spendern werden die Spawn-Punkte für die Spieler markiert. Je nach MiniGame ist ein einzelner Spawn-Punkt oder eine Vielzahl an Spawn-Punkten erforderlich. **Die Ausrichtung der Spender gibt dabei die Blickrichtung der Spieler beim Spawn an.**
 
 {% hint style="warning" %}
 Wenn mehrere Spawn-Punkte gesetzt werden können, wird meist anhand der Spawn-Anzahl die **mögliche Spielerzahl** der Map berechnet.
 {% endhint %}
 
 {% hint style="info" %}
-Wird der Spender in **ignore\_location** umbenannt, wird dieser nicht als Spawn-Punkt eingelesen, sondern als Spender-Block im Spiel verbleiben.
+Wird der Spender (z. B. per Amboss) in `ignore_location` umbenannt, wird er nicht als Spawn-Punkt eingelesen, sondern bleibt als normaler Spender-Block im Spiel erhalten.
 {% endhint %}
 
 ### <img src="../../../../.gitbook/assets/image (3) (2) (2).png" alt="" data-size="line"> Werfer (Dispenser)
 
-Für die meisten Spiele kann ein Vorab-Spawnpunkt gesetzt werden. An diesem Punkt spawnen die Spieler beim Betreten auf den Server und warten dort auf den Start des Spiels. **Die Ausrichtung der Werfer gibt dabei die Blickrichtung der Spieler beim Spawn an.**
+Für die meisten Spiele kann ein Vorab-Spawn-Punkt (Pre-Spawn) gesetzt werden. An diesem Punkt spawnen die Spieler beim Betreten des Servers und warten dort auf den Start des Spiels. **Die Ausrichtung der Werfer gibt dabei die Blickrichtung der Spieler beim Spawn an.**
 
 {% hint style="info" %}
-Wird der Werfer in **ignore\_location** umbenannt, wird dieser nicht als Spawn-Punkt eingelesen, sondern als Spender-Block im Spiel verbleiben.
+Wird der Werfer (z. B. per Amboss) in `ignore_location` umbenannt, wird er nicht als Spawn-Punkt eingelesen, sondern bleibt als normaler Werfer-Block im Spiel erhalten.
 {% endhint %}
 
 ### <img src="../../../../.gitbook/assets/image (9) (2).png" alt="" data-size="line"> Sicherheitskamera
 
-Durch das Platzieren von Sicherheitskameras in der Map können Zuschauerpunkte gesetzt werden. Als Zuschauer eines MiniGames kann man sich zwischen den Kameras hin und her bewegen, um dem Spiel beizuwohnen.
+Durch das Platzieren von Sicherheitskameras in der Map können Zuschauerpunkte gesetzt werden. Als Zuschauer eines MiniGames kann man zwischen den Kameras hin und her wechseln, um das Spiel zu verfolgen.
 
 ## Plot-Map-Menü
 
@@ -67,7 +67,7 @@ Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="
 <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Plot-Map-Informationen</p></figcaption></figure>
 
 * **Bereit:** Gibt an, ob die Map spielbereit ist. Ist eine Map nicht spielbereit, wird diese ggf. noch vorbereitet oder enthält Fehler.
-* **Bewertung:** Hier ist die Zusammenfassung deiner Map-Bewertungen zusehen, wenn die Map bereits bewertet wurde.
+* **Bewertung:** Hier ist die Zusammenfassung deiner Map-Bewertungen zu sehen, wenn die Map bereits bewertet wurde.
 * <mark style="color:red;">**Fehler:**</mark> Hier werden Fehler der Map angezeigt, welche beim Generieren der Map festgestellt wurden. Beispiel: <img src="../../../../.gitbook/assets/image (38) (1).png" alt="" data-size="line">
 * **Community-Map:** Zeigt an, ob deine Map als Community-Map für alle verfügbar ist bzw. wie der Status deiner Einsendung ist.
 
@@ -77,7 +77,7 @@ Um eine neue Map einzureichen oder eine eingereichte Map zu aktualisieren, drüc
 
 <figure><img src="../../../../.gitbook/assets/image (20) (2).png" alt=""><figcaption><p>Ansicht "Neue Map erstellen"</p></figcaption></figure>
 
-Wähle dort zuerst das Spiel aus, indem du auf das Spiel-Icon klickst. Beim Klick wird zum nächsten Spiel umgeschaltet. Im zweiten Slot wird die Information zur Grundstücksgröße angezeigt. Der Dritte gibt an, ob die Map erstellt werden kann oder nicht.
+Wähle dort zuerst das Spiel aus, indem du auf das Spiel-Icon klickst. Beim Klick wird zum nächsten Spiel umgeschaltet. Im zweiten Slot wird die Information zur Grundstücksgröße angezeigt, der dritte Slot gibt an, ob die Map erstellt werden kann oder nicht.
 
 <figure><img src="../../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Fehlermeldung beim Erstellen des Grundstücks</p></figcaption></figure>
 
@@ -85,14 +85,14 @@ Kannst du die Map erstellen, wird die Anzeige grün und mit einem Klick auf den 
 
 <figure><img src="../../../../.gitbook/assets/image (39) (1) (1).png" alt="" width="281"><figcaption><p>Button zum Erstellen des Grundstücks als Map</p></figcaption></figure>
 
-Danach kopiert das MiniGame-System dein Grundstück, welches durch zwei Chatausgaben angezeigt wird:
+Danach kopiert das MiniGame-System dein Grundstück. Das wird durch zwei Chatausgaben angezeigt:
 
 <figure><img src="../../../../.gitbook/assets/image (33).png" alt="" width="372"><figcaption><p>Chatausgabe "Map erstellen"</p></figcaption></figure>
 
 Sobald die MiniGame-Map erstellt wurde, beginnt das System im Hintergrund zu arbeiten und die Map vorzubereiten. Der Status kann dann im Plot-Map-Menü verfolgt werden.
 
 {% hint style="danger" %}
-**Achtung:** Es kann zu jedem Grundstück nur eine Map pro MiniGame existieren. Die Map wird anhand der Plot-ID identifiziert und somit kann die Map auch nach dem ersten Einreichen durch "Map neu erstellen" aktualisiert werden.
+**Achtung:** Es kann zu jedem Grundstück nur eine Map pro MiniGame existieren. Die Map wird anhand der Plot-ID identifiziert. Dadurch kann sie auch nach dem ersten Einreichen über „Neue Map erstellen“ aktualisiert werden.
 {% endhint %}
 
 {% hint style="info" %}
@@ -101,7 +101,7 @@ Die Verbindung zwischen Grundstück und MiniGame-Map wird bei erfolgreich angeno
 
 ### Informationen der Map bearbeiten
 
-Um Informationen deiner Map, wie zum Beispiel den Namen zu bearbeiten, klicke im Plot-Map-Menü auf die gewünschte Map.
+Um Informationen deiner Map, wie zum Beispiel den Namen, zu bearbeiten, klicke im Plot-Map-Menü auf die gewünschte Map.
 
 <figure><img src="../../../../.gitbook/assets/image (26) (2) (1).png" alt=""><figcaption><p>Map-Einstellungen</p></figcaption></figure>
 

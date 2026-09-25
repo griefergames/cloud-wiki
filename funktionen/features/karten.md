@@ -1,10 +1,10 @@
 # 🗺️ Karten
 
-## /createkarte - Das Recht
-
 Motivkarten zu bauen braucht Zeit, Material und eine Menge Erfahrung.
 
-Wäre es da nicht schön sein Wunschmotiv schnell und einfach als Karte verfügbar zu haben und sein Heim damit zu dekorieren? Hier hilft der Kartengenerator!
+Wäre es da nicht schön, sein Wunschmotiv schnell und einfach als Karte verfügbar zu haben und sein Heim damit zu dekorieren? Hier hilft der Kartengenerator! Auf dieser Seite erfahrt ihr, wie ihr mit dem Befehl `/createkarte` aus einer eigenen Bilddatei eine Minecraft-Karte erstellt.
+
+## Das Recht für /createkarte
 
 Um den Kartengenerator nutzen zu können, benötigt man das entsprechende Recht.
 
@@ -12,39 +12,39 @@ Um den Kartengenerator nutzen zu können, benötigt man das entsprechende Recht.
 Derzeit ist dieses Recht nur begrenzt verfügbar und aus den Winter-Kisten erhältlich.
 {% endhint %}
 
-Hat man das Recht gewonnen und eingelöst, erhält man die Berechtigung den Befehl `/createkarte` zu verwenden.
+Hat man das Recht gewonnen und eingelöst, erhält man die Berechtigung, den Befehl `/createkarte` zu verwenden.
 
-### /createkarte - Was geht, was nicht?
+## Was geht, was nicht?
 
 Der Kartengenerator hat einige Einschränkungen.
 
-* Der Befehl hat einen Cooldown von 7 Tagen
-* Die erstellten Karten haben ein AntiCopy vom Server (lässt sich nicht entfernen).
+* Der Befehl hat einen Cooldown von 7 Tagen.
+* Die erstellten Karten haben einen Kopierschutz (AntiCopy) vom Server, der sich nicht entfernen lässt.
 * Die maximale Kartengröße beträgt 36 Teile und die Karte muss rechteckig sein.
   * Die Karte kann auch eine kleinere Größe haben und somit aus weniger Teilen bestehen.\
     Dies ermöglicht auch die Erstellung von Karten im Format 3x4 oder 4x4.
-  * 36 Kartenteile sind auch in anderer Anordnung möglich, solange sie rechteckig ist.\
+  * 36 Kartenteile sind auch in anderer Anordnung möglich, solange die Karte rechteckig ist.\
     Dies ermöglicht beispielsweise auch Karten im Format 3x12, 4x9 oder 6x6.
 
-### /createkarte - Das Motiv vorbereiten
+## Das Motiv vorbereiten
 
 Der Kartengenerator nimmt eine vorgefertigte Grafik (Bilddatei) und wandelt diese in eine Minecraftkarte um.
 
-Um sicherzustellen, dass der korrekte Farbraum und die Kartengröße ermittelt werden kann, benötigt es hierfür bestimmte Vorarbeit.
+Damit der Farbraum und die Kartengröße korrekt ermittelt werden können, ist etwas Vorarbeit nötig.
 
-Die Bilddatei muss eine Größe aufweisen welche sich in Höhe/Breite jeweils durch 128 Pixel teilen lässt.\
-128 Pixel werden für ein Kartenteil benötigt. Eine Grafik für eine Karte mit 6x6 Kartenteilen benötigt also beispielsweise eine Größe von 768 x 768 px. Eine Bilddatei für eine 3x4-Karte wäre 384 x 512 px breit.
+Höhe und Breite der Bilddatei müssen sich jeweils durch 128 Pixel teilen lassen, denn ein Kartenteil umfasst 128 x 128 Pixel. Eine Grafik für eine Karte mit 6x6 Kartenteilen benötigt also beispielsweise eine Größe von 768 x 768 px, eine Bilddatei für eine 3x4-Karte 384 x 512 px.
 
-Minecraft beherrscht in der 1.8 nur eine begrenzte Anzahl an Farben. Ist eine Farbe nicht umsetzbar wird per Annäherung ein entsprechender Farbwert ermittelt. Dies geschieht automatisch und muss nicht vorher in der Bilddatei angepasst werden.\
+Minecraft-Karten können nur eine begrenzte Anzahl an Farben darstellen. Ist eine Farbe nicht umsetzbar, wird per Annäherung ein passender Farbwert ermittelt. Das geschieht automatisch und muss nicht vorher in der Bilddatei angepasst werden.
+
 Jedoch führt dieser Vorgang zu einem Qualitätsverlust und kann ggf. zu "falschen" Farbwerten in der Karte führen.
 
-### /createkarte - Das Motiv hochladen
+## Das Motiv hochladen
 
-Habt ihr eure Bilddatei vorbereitet und auf die korrekte Größe gebracht, müsst ihr diese im Internet hochladen, um sie für den Generator verfügbar zu machen. Hierfür wird der Dienst ImgBB vom Anbieter Imgur verwendet.
+Habt ihr eure Bilddatei vorbereitet und auf die korrekte Größe gebracht, müsst ihr diese im Internet hochladen, um sie für den Generator verfügbar zu machen. Hierfür wird der Dienst ImgBB verwendet.
 
-Die Karte wird von euch also auf der Seite [https://imgbb.com/](https://imgbb.com/) hochgeladen.
+Ladet die Bilddatei also auf der Seite [https://imgbb.com/](https://imgbb.com/) hoch.
 
-Im nächsten Schritt benötigt ihr den Direktlink zur Grafik. Öffnet hierfür den "Betrachter-Link", welchen ihr auf der Seite erhaltet in einem neuen Tab/Fenster.
+Im nächsten Schritt benötigt ihr den Direktlink zur Grafik. Öffnet hierfür den „Betrachter-Link“, den ihr auf der Seite erhaltet, in einem neuen Tab/Fenster.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,10 +56,10 @@ Führt erneut einen Rechtsklick auf das Bild durch und wählt aus, dass ihr die 
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Der zuletzt abgerufene Link enthält den Direktlink zu dem von euch hochgeladenen Bild und hat eine entsprechende Datei-Endung (`.jpg`, `.png`, `.gif`, etc.)
+Der kopierte Link ist der Direktlink zu eurem hochgeladenen Bild und endet auf eine entsprechende Datei-Endung (`.jpg`, `.png`, `.gif` etc.).
 
-### /createkarte - Die Karte erstellen
+## Die Karte erstellen
 
-Im letzten Schritt könnt ihr die Karte auf unserem Netzwerk erstellen. Gebt hierfür den Befehl `/createkarte <Link>` ein. Den Platzhalter \<Link> ersetzt ihr dann mit der kopierten Adresse der Bilddatei.
+Im letzten Schritt könnt ihr die Karte auf unserem Netzwerk erstellen. Gebt hierfür den Befehl `/createkarte <Link>` ein. Den Platzhalter `<Link>` ersetzt ihr dabei durch die kopierte Adresse der Bilddatei.
 
-Ihr erhaltet die entsprechenden Karten (je nach Größe des hochgeladenen Motivs) in euer Inventar. Beachtet, dass ihr genügend Platz in Hotbar und Inventar habt, um alle Kartenteile entgegen zu nehmen.
+Ihr erhaltet die entsprechenden Karten (je nach Größe des hochgeladenen Motivs) in euer Inventar. Achtet darauf, dass ihr genügend Platz in Hotbar und Inventar habt, um alle Kartenteile entgegenzunehmen.

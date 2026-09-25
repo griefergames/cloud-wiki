@@ -1,6 +1,6 @@
 # Köpfe-Vergrößerer
 
-Mit dem Köpfe-Vergrößerer kannst du jeden platzierten Kopf auf Blockgröße anwachsen lassen, perfekt für Dekorationen oder besondere Effekte. Das Item kann man 10 mal benutzen, bevor es kaputt geht.
+Mit dem Köpfe-Vergrößerer kannst du jeden platzierten Kopf auf Blockgröße anwachsen lassen, perfekt für Dekorationen oder besondere Effekte. Das Item kann man 10-mal benutzen, bevor es kaputtgeht.
 
 <p align="center"><img src="../../.gitbook/assets/unknown (7) (1) (1) (1).png" alt=""></p>
 

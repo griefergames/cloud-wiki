@@ -6,8 +6,8 @@ Mit dem **Sankt-Patricks-Stab** kannst du bestimmte Blockzustände verändern. D
 
 ## So funktioniert das Item
 
-1. Linksklick auf einen Block: Damit wählst du den ausgewählten Blockzustand aus und siehst gleichzeitig, wie dieser aktuell eingestellt ist.
-2. Rechtsklick: Ändert den gewählten Zustand von true auf false oder umgekehrt.
+1. Linksklick auf einen Block: Damit wählst du einen Blockzustand aus und siehst gleichzeitig, wie dieser aktuell eingestellt ist.
+2. Rechtsklick: Ändert den gewählten Zustand von `true` auf `false` oder umgekehrt.
 3. Die Änderung ist nur kosmetisch – der Block verhält sich weiterhin wie im Normalzustand.
 
 ### Beispiel: Ofen
@@ -22,4 +22,4 @@ Beim Rechtsklick auf den Ofen änderst du den Zustand „lit“ auf true. Dadurc
 
 Wenn du erneut mit Rechtsklick auf den Ofen klickst, setzt du den Zustand „lit“ wieder auf false. Der Ofen erscheint dadurch aus, selbst wenn der Block eigentlich unverändert bleibt.
 
-![](<../../.gitbook/assets/unknown (3) (1) (1) (1).png>)<br>
+![](<../../.gitbook/assets/unknown (3) (1) (1) (1).png>)

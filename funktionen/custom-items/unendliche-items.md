@@ -1,5 +1,5 @@
 ---
-description: Unendlich Nutzbare Items / Infinity Tools
+description: Unendlich nutzbare Items / Infinity Tools
 ---
 
 # Unendliche Items
@@ -9,5 +9,5 @@ description: Unendlich Nutzbare Items / Infinity Tools
 Unendliche Items verbrauchen sich nicht bei der Nutzung und können unendlich oft verwendet werden.
 
 {% hint style="danger" %}
-Achtung: Unendliche Eimer funktionieren nicht in Spendern, Werfern, Öfen etc. unendlich, sondern nur bei der Nutzung durch den Spieler
+Achtung: Unendliche Eimer funktionieren nicht in Spendern, Werfern, Öfen etc. unendlich, sondern nur bei der Nutzung durch den Spieler.
 {% endhint %}

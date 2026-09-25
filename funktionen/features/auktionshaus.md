@@ -14,15 +14,15 @@ Das Grundprinzip ist einfach: **Ware einstellen, warten, bieten lassen, kassiere
 
 <div align="center"><figure><img src="../../.gitbook/assets/image (60).png" alt="" width="174"><figcaption><p>Übersicht</p></figcaption></figure></div>
 
-Ihr bekommt standardmäßig alle Auktionen angezeigt, aufsteigend nach der Restzeit der Auktion. Ihr erhaltet alle wichtigen Informationen zu einer Auktion direkt auf dem Item.
+Ihr bekommt standardmäßig alle Auktionen angezeigt, aufsteigend sortiert nach ihrer Restzeit. Ihr erhaltet alle wichtigen Informationen zu einer Auktion direkt auf dem Item.
 
 Hier habt ihr nun mehrere Optionen:
 
 * **Klick auf ein Item:** Öffnet die Auktion dieses Items
-* ![](<../../.gitbook/assets/image (65).png>)**Auktionshistorie:** Zeigt alle ausgelaufenen Auktionen der letzten 30 Tage
+* ![](<../../.gitbook/assets/image (65).png>) **Auktionshistorie:** Zeigt alle ausgelaufenen Auktionen der letzten 30 Tage
 * ![](<../../.gitbook/assets/image (68).png>) **Meine beobachteten Auktionen:** Hier befinden sich alle Auktionen, bei denen ihr geboten habt
-* ![](<../../.gitbook/assets/image (69).png>)**Filter:** Hier können bestimmte Materialien oder Kategorien gefiltert werden
-* ![](<../../.gitbook/assets/image (71).png>)**Eigene Auktionen:** Hier befinden sich eure eigenen Auktionen und hier können neue Auktionen erstellt werden.
+* ![](<../../.gitbook/assets/image (69).png>) **Filter:** Hier können bestimmte Materialien oder Kategorien gefiltert werden
+* ![](<../../.gitbook/assets/image (71).png>) **Eigene Auktionen:** Hier befinden sich eure eigenen Auktionen, und hier können neue Auktionen erstellt werden.
 
 ## Bieten
 
@@ -39,12 +39,12 @@ Mit einem Gebot wird der Betrag direkt geboten und der Auktionspreis erhöht sic
 Mit einem Gebotslimit erhöht sich der Betrag nur so weit, dass ihr Höchstbietender seid. Danach bietet das Gebotslimit automatisch für euch weiter, bis das Limit erreicht ist.
 
 {% hint style="warning" %}
-In beiden Fällen wird der **gebotene Betrag direkt von eurem Konto abgezogen**. Ihr erhaltet dieses zum Ende der Auktion zurück (bzw. das zu viel Gezahlte bei einem Limit). Das Geld kann während der Auktion nur entnommen werden, während man _**nicht**_ Höchstbietender ist.
+In beiden Fällen wird der **gebotene Betrag direkt von eurem Konto abgezogen**. Ihr erhaltet ihn zum Ende der Auktion zurück (bzw. das zu viel Gezahlte bei einem Limit). Das Geld kann während der Auktion nur entnommen werden, während man _**nicht**_ Höchstbietender ist.
 {% endhint %}
 
 ### Geld abholen
 
-Wurdet ihr Überboten und möchtet nicht weiter mitbieten, könnt ihr auch noch während der Auktion euer Geld wieder abholen. Hierfür geht ihr in die einzelne Auktion und drückt den Button "Geld abholen".
+Wurdet ihr überboten und möchtet nicht weiter mitbieten, könnt ihr auch noch während der Auktion euer Geld wieder abholen. Hierfür geht ihr in die einzelne Auktion und drückt den Button "Geld abholen".
 
 Wenn eine Auktion endet, werden alle Gelder an die nicht erfolgreichen Bieter zurückgezahlt. Ebenso werden ggf. Überschüsse des Gewinners eines Gebotslimits ausgezahlt.
 
@@ -54,10 +54,10 @@ Diese Transaktionen finden automatisch im Hintergrund statt. Solltest du nicht o
 
 ### Item abholen
 
-Hast du eine Auktion gewonnen _(oder ist dein Item nicht verkauft worden)_ kannst du das Item in der Auktion abholen. Dazu öffne die gewünschte Auktion (über beobachtete Auktionen, Auktionshistorie oder Meine Auktionen) und klicke auf ![](<../../.gitbook/assets/image (54).png>), um das Item zu erhalten.
+Hast du eine Auktion gewonnen _(oder ist dein Item nicht verkauft worden)_, kannst du das Item in der Auktion abholen. Dazu öffne die gewünschte Auktion (über beobachtete Auktionen, Auktionshistorie oder Meine Auktionen) und klicke auf ![](<../../.gitbook/assets/image (54).png>), um das Item zu erhalten.
 
 {% hint style="info" %}
-Du brauchst einen freien Inventarplatz für das Item, auch wenn du bereits ein gleiches Item davon im Inventar hast.
+Du brauchst einen freien Inventarplatz für das Item, auch wenn du bereits ein gleiches Item im Inventar hast.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -68,12 +68,12 @@ Die auslaufenden Auktionen werden alle **15 Minuten** verarbeitet. Es befinden s
 
 Jeder Spieler kann eine neue Auktion erstellen. Dazu wähle im Hauptmenü ![](<../../.gitbook/assets/image (50).png>) Eigene Auktionen. Von dort kann über ![](<../../.gitbook/assets/image (51).png>) eine neue Auktion erstellt werden.
 
-Wähle ein Item aus deinem Inventar, welches du im Auktionshaus anbieten möchtest.\
-_&#x44;ieses erscheint dann oben als angezeigtes Item._
+Wähle ein Item aus deinem Inventar, das du im Auktionshaus anbieten möchtest.\
+_Dieses erscheint dann oben als angezeigtes Item._
 
 ### Startpreis festlegen
 
-Du kannst der Auktion einen Startpreis geben. Die Auktion startet dann automatisch auf diesem Preis und ab dort kann geboten werden. Standardmäßig ist der Startpreis auf 0 Dollar, somit ist das niedrigste Gebot 1 Dollar.
+Du kannst der Auktion einen Startpreis geben. Die Auktion startet dann automatisch auf diesem Preis und ab dort kann geboten werden. Standardmäßig liegt der Startpreis bei 0 Dollar, somit ist das niedrigste Gebot 1 Dollar.
 
 ### Sofortkaufpreis festlegen
 
@@ -81,10 +81,10 @@ Wird in einer Auktion ein Sofortkaufpreis hinterlegt, ist es möglich, das Item 
 
 ### Laufzeit festlegen
 
-Hier kann angegeben werden, wie lange die Auktion im Auktionshaus bleiben soll. Nach Ablauf der Laufzeit gewinnt der Höchstbietende die Auktion. Man sollte also darauf achten, wie lange man die Auktion einstellen will, da ggf. der Höchstbietende sonst lange Zeit auf den Gewinn der Auktion warten muss. **Das Erreichen des Sofortkaufpreises beendet die Auktion sofort.**
+Hier kann angegeben werden, wie lange die Auktion im Auktionshaus bleiben soll. Nach Ablauf der Laufzeit gewinnt der Höchstbietende die Auktion. Man sollte also darauf achten, wie lange man die Auktion einstellt, da der Höchstbietende sonst ggf. lange auf seinen Gewinn warten muss. **Das Erreichen des Sofortkaufpreises beendet die Auktion sofort.**
 
 Folgende Laufzeitstufen gibt es:\
-1 Stunde, 3 Stunden, 6 Stunden, 12 Stunden, 24 Stunden _**(Standard)**_, 48 Stunden _(2 Tage)_, 120 Stunden _(5 Tage)_ , 168 Stunden _(7 Tage)_
+1 Stunde, 3 Stunden, 6 Stunden, 12 Stunden, 24 Stunden _**(Standard)**_, 48 Stunden _(2 Tage)_, 120 Stunden _(5 Tage)_, 168 Stunden _(7 Tage)_
 
 ### Auktion bestätigen & erstellen
 
@@ -108,7 +108,7 @@ Je höher das Item also bereits geboten wurde, desto teurer wird das Zurückzieh
 
 <figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
-Die Auktionshistorie zeigt die Auktionen der letzten 30 Tage an. Hier können auch Auktionen angesehen werden, in welchen man nicht involviert (bieten, verkaufen) war.
+Die Auktionshistorie zeigt die Auktionen der letzten 30 Tage an. Hier können auch Auktionen angesehen werden, an denen man nicht beteiligt war (bieten, verkaufen).
 
 {% hint style="info" %}
 Zusätzlich zu den letzten 30 Tagen befinden sich hier auch ältere Auktionen, bei denen noch Werte (Items, Geld) zum Abholen vorhanden sind.
@@ -118,7 +118,7 @@ Zusätzlich zu den letzten 30 Tagen befinden sich hier auch ältere Auktionen, b
 
 In einigen Menüs stehen ![](<../../.gitbook/assets/image (56).png>) Filter zur Verfügung.
 
-Hier kann per Klick auf ein Item im Inventar auf einen Item-Typ gefiltert werden. (Z. B. Feder -> Zeigt auch Fly+-Flags oder Fly-Perks an). Zusätzlich kann per Klick auf den Filter-Button eine vorgegebene Kategorie gewählt werden. Im Filtermenü kann mit Klick auf den ![](<../../.gitbook/assets/image (58).png>) Kein-Filter-Button, ein gesetzter Filter (auch Item-Typ-Filter) aufgehoben werden.
+Hier kann per Klick auf ein Item im Inventar auf einen Item-Typ gefiltert werden (z. B. Feder → zeigt auch Fly+-Flags oder Fly-Perks an). Zusätzlich kann per Klick auf den Filter-Button eine vorgegebene Kategorie gewählt werden. Im Filtermenü kann mit einem Klick auf den ![](<../../.gitbook/assets/image (58).png>) Kein-Filter-Button ein gesetzter Filter (auch Item-Typ-Filter) aufgehoben werden.
 
 <figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption><p>Filtermenü</p></figcaption></figure>
 
@@ -130,12 +130,12 @@ Die folgenden Filter stehen aktuell zur Verfügung:
 * **Werkzeuge:** Filtert alle Items, die Werkzeuge sind.
 * **Köpfe:** Filtert alle Items, die Köpfe sind.
 * **Prefixe:** Filtert alle Items, die Prefixe sind.
-* **Perks:** Filtert alle Items, die im Bereich [Perks ](perks.md)einlösbar sind.
+* **Perks:** Filtert alle Items, die im Bereich [Perks](perks.md) einlösbar sind.
 * **Rand-Items & Wand-Items:** Filtert alle Items, die Wand-/Rand-Items sind.
 * **Verzaubert:** Filtert alle Items, die verzaubert sind (enthält auch Werkzeuge etc.).
 
 {% hint style="info" %}
-Items können sich in mehreren Kategorien gleichzeitig befinden. (Z. B. ist ein Prefix sowohl ein Prefix, als auch verzaubert oder befindet sich je nach Item in weiteren Kategorien.)
+Items können sich in mehreren Kategorien gleichzeitig befinden (z. B. ist ein Prefix sowohl ein Prefix als auch verzaubert oder befindet sich je nach Item in weiteren Kategorien).
 {% endhint %}
 
 {% hint style="success" %}

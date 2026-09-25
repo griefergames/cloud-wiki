@@ -12,14 +12,14 @@ Durch das Erledigen der Aufgaben erhältst du Adventure-Coins, die du im Amin-Sh
 
 ## Tägliche, wöchentliche & monatliche Aufgaben
 
-Die Aufgaben, die du beim Adventurer bekommst, unterscheiden sich zuerst einmal in tägliche, wöchentliche und monatliche Aufgaben. Diese werden immer gegen Ende des Tages/Woche/Monat zurückgesetzt.
+Die Aufgaben, die du beim Adventurer bekommst, unterscheiden sich zuerst einmal in tägliche, wöchentliche und monatliche Aufgaben. Diese werden immer zum Ende des Tages, der Woche bzw. des Monats zurückgesetzt.
 
 ![](<../../.gitbook/assets/1 (2) (1) (1).png>)
 
 Um eine Aufgabe anzunehmen, klicke auf die gewünschte Aufgabe. Danach erfülle die geforderte Aufgabe und klicke erneut auf die Aufgabe, um die [Adventure Coins](../waehrungen/) abzuholen.
 
 {% hint style="info" %}
-Achte immer darauf, ob die Aufgabe wirklich angenommen ist. Auch für Monster töten-Aufgaben muss die Aufgabe angenommen werden, bevor sie zählt.
+Achte immer darauf, ob die Aufgabe wirklich angenommen ist. Auch bei Monster-töten-Aufgaben muss die Aufgabe angenommen werden, bevor sie zählt.
 {% endhint %}
 
 ## Aufgabenarten
@@ -36,23 +36,23 @@ Mit einem weiteren Klick auf die Aufgabe lieferst du alle Items des gewünschten
 {% endtab %}
 
 {% tab title="Monster töten-Aufgaben" %}
-Du erhältst die Aufgabe, eine bestimmte Anzahl eines Mobs zu töten. Für diese Aufgabe erhältst du kein Schwert. Sobald die Aufgabe erledigt ist, wird dir dieses im Chat angezeigt und du kannst zum Adventurer zurückkehren.
+Du erhältst die Aufgabe, eine bestimmte Anzahl eines Mobs zu töten. Für diese Aufgabe erhältst du kein Schwert. Sobald die Aufgabe erledigt ist, wird dir das im Chat angezeigt und du kannst zum Adventurer zurückkehren.
 {% endtab %}
 {% endtabs %}
 
-Die Dauer der Aufgaben hängt unter anderem davon ab, ob du passende Items bereits im Lager, ein Home in einem Biom oder auch Glück hast, diese Items in der [Farmwelt](../spielmodus-citybuild/die-farmwelten.md) zu finden.
+Die Dauer der Aufgaben hängt unter anderem davon ab, ob du passende Items bereits im Lager oder ein Home in einem passenden Biom hast – oder ob du Glück hast, diese Items in der [Farmwelt](../spielmodus-citybuild/die-farmwelten.md) zu finden.
 
 {% hint style="info" %}
 Mit passender Vorbereitung (Items im Lager, Home bei einem Biom o. Ä.) sind die täglichen Aufgaben mit _**ca. 15 - 30 Minuten**_ bemessen. Es gibt auch Ausreißer, die schneller gehen oder länger brauchen.\
-Die wöchentlichen und monatlichen brauchen meist mehr Zeit, da ein längerer Zeitraum zur Verfügung steht.
+Die wöchentlichen und monatlichen Aufgaben brauchen meist mehr Zeit, da ein längerer Zeitraum zur Verfügung steht.
 {% endhint %}
 
 ## Belohnungen
 
-Als Belohnungen bekommst du für das Abschließen der Aufgaben folgende Belohnungen:
+Für das Abschließen der Aufgaben bekommst du folgende Belohnungen:
 
 * Tägliche Aufgabe: <mark style="color:orange;">**1 Adventure Coin**</mark> (Reset um 0:00 Uhr)
-* Wöchentliche Aufagbe: <mark style="color:orange;">**6 Adventure Coins**</mark> (Reset am Montag um 0:00 Uhr)
+* Wöchentliche Aufgabe: <mark style="color:orange;">**6 Adventure Coins**</mark> (Reset am Montag um 0:00 Uhr)
 * Monatliche Aufgabe: <mark style="color:orange;">**14 Adventure Coins**</mark> (Reset am 1. Tag des Monats um 0:00 Uhr)
 
 {% hint style="info" %}
@@ -61,6 +61,6 @@ Zusätzlich besteht die Chance, MysteryMod-Cosmetics oder Kristalle zu erhalten.
 
 ### Amin-Shop
 
-Beim Amin-Shop sind Items für Adventure Coins kaufbar. Diese Items im Shop wechseln täglich durch. Mehr zu den Händlern unter [Die Händler](die-handler.md).
+Beim Amin-Shop sind Items für Adventure Coins kaufbar. Das Angebot im Shop wechselt täglich. Mehr zu den Händlern unter [Die Händler](die-handler.md).
 
 ![](<../../.gitbook/assets/2 (1) (1).png>)

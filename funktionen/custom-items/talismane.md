@@ -1,12 +1,12 @@
 # Talismane
 
-Talismane sind besondere Totems, die deinem Spieler verschiedene Boni und Fähigkeiten verleihen, solange sie in der Offhand gehalten werden, und dich beim Tod wie ein Totem schützen, bevor sie verschwinden.
+Talismane sind besondere Totems, die deinem Spieler verschiedene Boni und Fähigkeiten verleihen, solange sie in der Offhand gehalten werden. Außerdem schützen sie dich beim Tod wie ein Totem, bevor sie verschwinden.
 
 <div align="center"><img src="../../.gitbook/assets/unknown (2) (1).png" alt=""></div>
 
 ## Übersicht der Talismane
 
-### Talisman der Erkunderer
+### Talisman der Erkunder
 
 **Fokus:** Mobilität & Bewegung
 
@@ -24,7 +24,7 @@ Hat [zufällige Item-Werte](../features/zufallige-item-werte.md), welche die Eff
 
 ![](<../../.gitbook/assets/unknown (2) (1) (1).png>)
 
-Erhöht die Abbaugeschwindigkeit von Blöcken, damit du effizienter abbauenkannst.
+Erhöht die Abbaugeschwindigkeit von Blöcken, damit du effizienter abbauen kannst.
 
 {% hint style="info" %}
 Hat [zufällige Item-Werte](../features/zufallige-item-werte.md), welche die Effektivität variieren lassen.

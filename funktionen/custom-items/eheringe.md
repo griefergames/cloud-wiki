@@ -1,6 +1,6 @@
 # Eheringe
 
-Eheringe können beim [Amin-Shop](../features/die-handler.md) am Spawn für[ Adventure-Coins](../waehrungen/) gekauft werden. Sie ermöglichen es Spielern, zu heiraten, indem ein Spieler dem anderen einen Antrag stellt und beide diesen bestätigen. Nach erfolgreicher Hochzeit erhalten beide Spieler einen signierten Ehering!
+Eheringe können beim [Amin-Shop](../features/die-handler.md) am Spawn für [Adventure-Coins](../waehrungen/) gekauft werden. Sie ermöglichen es Spielern, zu heiraten, indem ein Spieler dem anderen einen Antrag stellt und beide diesen bestätigen. Nach erfolgreicher Hochzeit erhalten beide Spieler einen signierten Ehering!
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -14,6 +14,6 @@ Eheringe können beim [Amin-Shop](../features/die-handler.md) am Spawn für[ Adv
 <p align="center"><img src="../../.gitbook/assets/unknown (9).png" alt=""></p>
 
 {% hint style="danger" %}
-Spieler, die bereits einen Ehering im Inventar oder in der EC haben, können nicht erneut heiraten; es erscheint eine Nachricht im Chat, und um dies zu umgehen, muss der Ring z. B. in eine Truhe gelegt werden.
+Spieler, die bereits einen Ehering im Inventar oder in der Endertruhe haben, können nicht erneut heiraten – es erscheint dann eine Nachricht im Chat. Um dies zu umgehen, muss der Ring z. B. in eine Truhe gelegt werden.
 {% endhint %}
 

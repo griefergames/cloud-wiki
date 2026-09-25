@@ -4,7 +4,7 @@ Bei den Karten für TNT-Run kommt es vor allem auf einen Block an: <img src="../
 
 ## Spawn-Punkte
 
-Für eine TNT-Run Map wird nur **ein** [Spawn-Punkt](./#spender-dropper) benötigt. Die Spieler starten gemeinsam an einem Spawn-Punkt und werden nicht verteilt.
+Für eine TNT-Run-Map wird nur **ein** [Spawn-Punkt](./#spender-dropper) benötigt. Die Spieler starten gemeinsam an einem Spawn-Punkt und werden nicht verteilt.
 
 ## Die TNT-Schichten
 
@@ -13,12 +13,13 @@ Für eine TNT-Run Map wird nur **ein** [Spawn-Punkt](./#spender-dropper) benöti
 Die verschiedenen Ebenen werden anhand der platzierten <img src="../../../../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">**TNT-Blöcke**</mark> erkannt. Es wird mindestens **eine TNT-Ebene** benötigt, nach oben sind keine Grenzen gesetzt.
 
 {% hint style="info" %}
-Das System bildet aus jeder Y-Schicht, in der sich ein TNT-Block befindet einen Layer. Werden z. B. Treppen o. Ä. aus TNT verbaut, wird für jede Stufe ein Layer erkannt.
+Das System bildet aus jeder Y-Schicht, in der sich ein TNT-Block befindet, eine eigene Ebene. Werden z. B. Treppen o. Ä. aus TNT verbaut, wird für jede Stufe eine eigene Ebene erkannt.
 {% endhint %}
 
-Eine TNT-Schicht besteht unten immer aus <img src="../../../../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">TNT</mark>. Der Block über dem TNT ist frei wählbar und muss nicht aus Sand o.ä. bestehen. Hier sind auch Muster aus verschiedenen Blöcken möglich. Es ist ebenfalls erlaubt halbe Blöcke - wie Stufen - zu verwenden. Es sollte jedoch darauf geachtet werden, unter dem Spawn-Punkt einen vollen Block zu verbauen.
+Eine TNT-Schicht besteht unten immer aus <img src="../../../../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">TNT</mark>. Der Block über dem TNT ist frei wählbar und muss nicht aus Sand o. Ä. bestehen. Hier sind auch Muster aus verschiedenen Blöcken möglich. Ebenfalls erlaubt sind halbe Blöcke wie Stufen. Unter dem Spawn-Punkt sollte jedoch ein voller Block verbaut werden.
 
 {% hint style="danger" %}
-Unter der letzten TNT-Schicht muss sich mindestens 5 Schichten Luft befinden, damit die Spieler aus dem Level fallen können.\
+Unter der letzten TNT-Schicht müssen sich mindestens 5 Schichten Luft befinden, damit die Spieler aus dem Level fallen können.
+
 Der Generator entfernt **Grobe Erde und Bedrock** unter der letzten Schicht TNT automatisch.
 {% endhint %}

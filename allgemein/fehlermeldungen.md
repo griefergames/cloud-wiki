@@ -25,13 +25,13 @@ layout:
 
 Du möchtest einen Fehler melden, der mit dem 1.8-Netzwerk, Cloud-Netzwerk, der Bedrock Edition oder unseren Web-Diensten zusammenhängt?
 
-Erstelle dafür eine Meldung im dafür vorgesehenen [Discord-Channel](https://discord.com/channels/325017098592059392/1283079587080966297) auf unserem [Discord-Server](https://discord.griefergames.net/).\
-Die Bearbeitung der Fehlermeldung kann je nach Priorität des Fehlers variieren.
+Erstelle dafür eine Meldung im dafür vorgesehenen [Discord-Channel](https://discord.com/channels/325017098592059392/1283079587080966297) auf unserem [Discord-Server](https://discord.griefergames.net/). Wie schnell eine Fehlermeldung bearbeitet wird, hängt von der Priorität des Fehlers ab.
 
-Wirklich kritische Fehler, die nicht öffentlich kommuniziert werden sollten, können uns auch im Ticket-System ([Discord](https://discord.gg/abge) oder [Web](https://ticket.griefergames.de/)) gemeldet werden.\
+Wirklich kritische Fehler, die nicht öffentlich kommuniziert werden sollten, können uns auch im Ticket-System ([Discord](https://discord.gg/abge) oder [Web](https://ticket.griefergames.de/)) gemeldet werden.
+
 Meldungen zur Server-Performance können ebenfalls als Fehlermeldung auf dem Discord erstellt werden.
 
-### Infos zu Fehlermeldungen im Discord:
+### Infos zu Fehlermeldungen im Discord
 
 **Welches Label wählt man wann aus?**
 
@@ -44,13 +44,13 @@ Gebt uns bitte so viele Informationen wie möglich an, die für den Fehler relev
 
 **Was bedeuten die Status-Labels?**
 
-* :white\_check\_mark: **Behoben**: Der Fehler wurde erfolgreich behoben
-* :white\_check\_mark: **Erledigt**: Der Fehler wurde bereits gemeldet oder das Problem anderweitig gelöst
-* :bug: **Fehler**: Der Fehler konnte erfolgreich reproduziert werden und wurde zur weiteren Besprechung intern weitergeleitet
-* :hourglass:**Warten auf Antwort**: Wir haben die Fehlermeldung beantwortet, eine Rückmeldung ist aber noch ausstehend
-* :x: **Kein Fehler**: Es handelt sich um keinen Fehler unseres Server-Netzwerks, den wir beheben können
+* ✅ **Behoben**: Der Fehler wurde erfolgreich behoben.
+* ✅ **Erledigt**: Der Fehler wurde bereits gemeldet oder das Problem anderweitig gelöst.
+* 🐛 **Fehler**: Der Fehler konnte erfolgreich reproduziert werden und wurde zur weiteren Besprechung intern weitergeleitet.
+* ⌛ **Warten auf Antwort**: Wir haben die Fehlermeldung beantwortet, eine Rückmeldung ist aber noch ausstehend.
+* ❌ **Kein Fehler**: Es handelt sich um keinen Fehler unseres Server-Netzwerks, den wir beheben können.
 
-Uns ist das Melden von Fehlern sehr wichtig. Grundsätzlich gilt, dass lieber eine Fehlermeldung zu viel als eine zu wenig verfasst wird.
+Uns ist das Melden von Fehlern sehr wichtig. Grundsätzlich gilt: Lieber eine Fehlermeldung zu viel als eine zu wenig.
 
 <details>
 

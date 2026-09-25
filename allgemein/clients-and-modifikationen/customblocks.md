@@ -44,7 +44,7 @@ Dieses installiert, falls nicht vorhanden, den Fabric Loader und fügt die Custo
 </details>
 
 {% hint style="danger" %}
-LabyMod kopiert die Mod-Dateien in einen Extra-Ordner. Wenn du also eine Datei mit der selben Version setzt, musst du die passende Datei aus dem Ordner `LabyMod\labymod-neo\fabric\1.20.1\remap\` löschen.\
+LabyMod kopiert die Mod-Dateien in einen Extra-Ordner. Wenn du also eine Datei mit derselben Version setzt, musst du die passende Datei aus dem Ordner `LabyMod\labymod-neo\fabric\1.20.1\remap\` löschen.\
 Für die Blöcke ist diese Datei relevant: _**mysterymod\_customblocks-1.0.2-\[...].jar**_
 {% endhint %}
 
@@ -74,8 +74,8 @@ Für die Installation ohne Clients wie LabyMod wird der **Fabric Loader** benöt
 <summary>Fabric Loader-Installation</summary>
 
 1. Lade dir den Fabric Loader Installer von [https://fabricmc.net/use/installer/](https://fabricmc.net/use/installer/) herunter.
-2. Führe den Installer aus und installiere die passende Minecraft-Version zum Cloud-Netzwerk. Die Loader-Version kann auf der neusten Version beibehalten werden:![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
-3. Navigiere nun in deinen Minecraft Ordner `%appdata%/.minecraft` und navigiere dort in den Ordner `mods`
+2. Führe den Installer aus und installiere die passende Minecraft-Version zum Cloud-Netzwerk. Die Loader-Version kann auf der neuesten Version beibehalten werden: ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+3. Navigiere nun in deinen Minecraft-Ordner `%appdata%/.minecraft` und dort in den Ordner `mods`.
 4. Ziehe die [**CustomBlocks**](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks/files/all?page=1\&pageSize=20\&gameVersionTypeId=4)-Datei und die [**Fabric API**](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?page=1\&pageSize=20\&gameVersionTypeId=4) in diesen Mods-Ordner.
 5. Starte dein Spiel neu und du hast die GrieferGames CustomBlocks installiert!
 
@@ -87,4 +87,4 @@ Die CustomBlocks für ältere Minecraft-Versionen findest du im [1.8 Wiki](https
 
 ## Du brauchst Hilfe?
 
-Solltest du beispielsweise Probleme oder generelle Fragen zu der Installation von CustomBlocks haben, kannst du den Discord von GrieferGames über den folgenden Link beitreten und dort nach Hilfe fragen: [https://discord.griefergames.net/](https://discord.griefergames.net/)
+Solltest du beispielsweise Probleme oder generelle Fragen zu der Installation von CustomBlocks haben, kannst du dem Discord von GrieferGames über den folgenden Link beitreten und dort nach Hilfe fragen: [https://discord.griefergames.net/](https://discord.griefergames.net/)

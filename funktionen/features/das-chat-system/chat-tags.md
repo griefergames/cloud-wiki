@@ -2,13 +2,13 @@
 
 Mit den **Chat-Tags** könnt ihr verschiedene Inhalte direkt im Chat verlinken und für andere Spieler sichtbar machen. Die Tags funktionieren außerdem in eurem **Status** und in **privaten Nachrichten**.
 
-Verfügbare Chat-Tags
+## Verfügbare Chat-Tags
 
-| Chat-Tag | Erklärung                           | Verfügbar für.. |
+| Chat-Tag | Erklärung                           | Verfügbar für   |
 | -------- | ----------------------------------- | --------------- |
-| %inv%    |  Zeigt Inventar des Spielers        | Alle            |
+| %inv%    | Zeigt das Inventar des Spielers     | Alle            |
 | %ec%     | Zeigt die Enderchest                | Alle            |
-| %armor   | Zeigt die aktuelle Rüstung          | Alle            |
+| %armor%  | Zeigt die aktuelle Rüstung          | Alle            |
 | %profil% | Verlinkt das Profil                 | Alle            |
 | %item%   | Verlinkt das aktuell gehaltene Item | Alle            |
 
@@ -17,16 +17,18 @@ Mit einem Spielernamen hinter dem Tag könnt ihr auch andere Spieler verlinken:
 
 > `%inv:Spielername%`
 
-So könnt ihr beispielsweise im Chat auf das Inventar eines anderen Spielers aufmerksam machen.&#x20;
+So könnt ihr beispielsweise im Chat auf das Inventar eines anderen Spielers aufmerksam machen.
 {% endhint %}
 
-### Einlösbares Rechte:
+## Einlösbare Rechte
+
+Diese Tags stehen nur mit einem entsprechenden einlösbaren Recht zur Verfügung:
 
 * **`%plot%`**\
-  Teilt eines eurer Grundstück (auf dem ihr steht)
+  Teilt das Grundstück, auf dem ihr gerade steht.
 * **`%here%`**\
-  Andere Spieler können sich darüber direkt zum Standort teleportieren!
+  Andere Spieler können sich darüber direkt zu eurem Standort teleportieren!
 
 {% hint style="info" %}
-Bei allen Tags(außer`%here%`) ist es möglich zusätzlich andere Spieler zu verlinken. -> `%inv:nutzername%` bzw. `%plot:alias/nutzername%`
+Bei allen Tags (außer `%here%`) ist es möglich, zusätzlich andere Spieler zu verlinken, z. B. `%inv:nutzername%` bzw. `%plot:alias/nutzername%`.
 {% endhint %}

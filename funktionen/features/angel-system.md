@@ -6,7 +6,7 @@ description: Nutze Köder, um viele weitere Fische zu angeln.
 
 Um Fische des erweiterten Angel-Systems zu angeln, musst du eine Angel deiner Wahl mit einem Köder versehen. Dann kannst du viele neue Fische aus dem Wasser ziehen.
 
-Eine Übersicht über die verschiedenen Bestandteile erhälst du über `/angeln`.
+Eine Übersicht über die verschiedenen Bestandteile erhältst du über `/angeln`.
 
 {% hint style="danger" %}
 Das Angeln funktioniert nur in der Farmwelt.
@@ -16,10 +16,10 @@ Das Angeln funktioniert nur in der Farmwelt.
 
 ## Wie funktioniert das System?
 
-Wenn du mit einem Köder angelst kannst du weitere Fische aus dem Wasser ziehen. Welche Fische du angeln kannst hängt von verschiedenen Faktoren ab:
+Wenn du mit einem Köder angelst, kannst du weitere Fische aus dem Wasser ziehen. Welche Fische du angeln kannst, hängt von verschiedenen Faktoren ab:
 
 * Verwendeter Köder
-* Biom in dem geangelt wird (Biom des Köders, nicht des Spielers entscheidend)
+* Biom, in dem geangelt wird (entscheidend ist das Biom des Köders, nicht das des Spielers)
 * Erreichte Köderstufe des Spielers
 
 ## Angel-System Menü
@@ -28,18 +28,18 @@ Mit dem Befehl `/angeln` kommst du in das Menü des Angel-Systems.
 
 Dort findest du die folgenden Informationen:
 
-* Dein Aktuelles Angel-Level
-* Anzahl deiner Geangelten Fische
+* Dein aktuelles Angel-Level
+* Anzahl deiner geangelten Fische
 * Die verschiedenen Köder
 * Die verschiedenen Fische
-* Die verschiedenen "Sonstiges Angelbares"
-* Die Fische die man bereits geangelt hat
+* Die verschiedenen „Sonstiges Angelbares“
+* Die Fische, die man bereits geangelt hat
 
 ## Köder
 
 Köder sind nötig, um das erweiterte Angel-System zu nutzen und die neuen Fische zu angeln. Ohne Köder funktioniert das Angeln weiterhin wie in Vanilla Minecraft. Je besser der Köder ist und je höher sein Level, desto bessere Fische kannst du angeln.
 
-<h3 align="center"><img src="../../.gitbook/assets/unknown (12).png" alt=""></h3>
+<div align="center"><img src="../../.gitbook/assets/unknown (12).png" alt=""></div>
 
 ### Köder erhalten / kaufen
 
@@ -63,7 +63,7 @@ Ein neuer Köder ersetzt immer den bisherigen Köder auf der Angel. Du erhältst
 
 Wenn du im Angel-Menü mit der Maus über deinen Spielerkopf hoverst, zeigt der Tooltip dein **Angel-Level** und die Anzahl der geangelten Fische an.
 
-Ein höheres Angel-Level schaltet dir bessere Köder frei, die ein bestimmtes Angel- Level voraussetzen. Dein Level Fortschritt steigt mit jedem geangelten Fisch.
+Ein höheres Angel-Level schaltet dir bessere Köder frei, die ein bestimmtes Angel-Level voraussetzen. Dein Level-Fortschritt steigt mit jedem geangelten Fisch.
 
 ## Fische
 
@@ -73,7 +73,7 @@ Fische unterscheiden sich durch den benötigten Köder, das erforderliche Angel-
 
 ### Vorkommen der Fische
 
-Fische können in verschiedenen Biomnen vorkommen. Ebenso können sie nur mit bestimmten Ködern gefangen werden und teilweise auch erst nach Erreichen eines Köderlevels. Diese Übersicht ist im Menü der Fische zu sehen und in der Detail-Ansicht des Fisches.
+Fische können in verschiedenen Biomen vorkommen. Ebenso können sie nur mit bestimmten Ködern gefangen werden und teilweise auch erst nach Erreichen eines Köderlevels. Diese Übersicht ist im Menü der Fische und in der Detailansicht des Fisches zu sehen.
 
 <div align="center"><img src="../../.gitbook/assets/unknown (17).png" alt=""></div>
 
@@ -85,13 +85,13 @@ Jeder gefangene Fisch zählt als Erfahrung für deinen verwendeten Köder. Ebenf
 
 ## Andere Dinge aus dem Wasser
 
-Zusätzlich zu Fischen, können auch andere Dinge aus dem Wasser gezogen werden. Unter "Geangeltes Diverses" findest du eine Übersicht über die Gegenstände, die du bereits geangelt hast.
+Zusätzlich zu Fischen können auch andere Dinge aus dem Wasser gezogen werden. Unter „Geangeltes Diverses“ findest du eine Übersicht über die Gegenstände, die du bereits geangelt hast.
 
 <div align="center"><img src="../../.gitbook/assets/unknown (19).png" alt=""></div>
 
 ## Der Fischhändler
 
-Am [Spawn ](../spielmodus-citybuild/der-spawn.md)und als [Plot-NPC](../grundstuecke/plot-npc.md) findest du den Fischhändler.
+Am [Spawn](../spielmodus-citybuild/der-spawn.md) und als [Plot-NPC](../grundstuecke/plot-npc.md) findest du den Fischhändler.
 
 Beim Fischhändler kannst du Fische verkaufen und dir eine Topliste der Spieler im Angeln ansehen.
 
@@ -99,7 +99,7 @@ Beim Fischhändler kannst du Fische verkaufen und dir eine Topliste der Spieler 
 
 Fische können nach dem Angeln beim Fischhändler verkauft werden. Dafür bietet der Händler verschiedene Preise pro Fisch an. Die Preise sind in **Preis pro 100g** angegeben.
 
-Der Gewinn variiert also je nach dem, wie schwer deine Fische sind.
+Der Gewinn variiert also je nachdem, wie schwer deine Fische sind.
 
 {% hint style="danger" %}
 Der Verkauf der Fische ist aktuell noch nicht aktiv bzw. du erhältst kein Geld für den Verkauf der Fische.
@@ -107,7 +107,7 @@ Der Verkauf der Fische ist aktuell noch nicht aktiv bzw. du erhältst kein Geld 
 
 <figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
-Klicke auf das $-Symbol, um alle Fische in deinem Inventar zu verkaufen
+Klicke auf das $-Symbol, um alle Fische in deinem Inventar zu verkaufen.
 
 ### Angelstatistiken
 
@@ -125,4 +125,4 @@ Es gibt drei verschiedene Wertungen:
 
 Zwischendurch können beim Angeln ein paar unvorhergesehene Dinge passieren.
 
-Folge den Anweisungen und den auf dem Bildschirm angezeigten Schritten, um den Fisch erfolgreich zu fangen. Achte darauf, dass du die richtige Zeit und die richtige Technik anwendest, damit der Fisch beißt. Manchmal musst du den Winkel oder den richtigen Moment abpassen, um das Beste aus deiner Angel herauszuholen. Pass jedoch auf, manchmal lassen sich auch Creeper oder Wächter an der Angel erwischen!
+Folge den Anweisungen und den auf dem Bildschirm angezeigten Schritten, um den Fisch erfolgreich zu fangen. Achte auf das richtige Timing und die richtige Technik, damit der Fisch beißt. Manchmal musst du den Winkel oder den richtigen Moment abpassen, um das Beste aus deiner Angel herauszuholen. Pass jedoch auf, manchmal lassen sich auch Creeper oder Wächter an der Angel erwischen!

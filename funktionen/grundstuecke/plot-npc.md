@@ -14,11 +14,11 @@ Achtung: Plot-NPCs werden beim Zurücksetzen oder Löschen des Grundstücks eben
 
 ## Zugriff auf den NPC
 
-Bei einigen "Berufen" möchte man den Zugriff ja auch für Spieler ermöglichen. Der Plot-NPC ist ohne weitere Einstellung von allen Spielern nutzbar, welche Rechte auf dem Grundstück haben. Möchtest du den NPC auch für andere Spieler freigeben, so muss die Flag **npc-interaction** auf **true** gesetzt werden. Das machst du mit dem folgenden Befehl `/p flag set npc-interaction true`
+Bei einigen „Berufen“ möchte man den Zugriff auch für andere Spieler ermöglichen. Der Plot-NPC ist ohne weitere Einstellung von allen Spielern nutzbar, welche Rechte auf dem Grundstück haben. Möchtest du den NPC auch für andere Spieler freigeben, so muss die Flag **npc-interaction** auf **true** gesetzt werden. Das machst du mit dem folgenden Befehl: `/p flag set npc-interaction true`
 
-## NPC-Einstellungen
+## NPC einrichten
 
-Um den NPC einzustellen, kann der NPC beim Ducken mit Rechtsklick angeklickt werden. Dann öffnet sich das Einstellungsfenster. Ebenfalls ist es möglich, mit dem Befehl `/plotnpc` eine Übersicht der auf dem Grundstück befindlichen NPCs zu öffnen und die Einstellungen darüber zu öffnen.
+Um den NPC einzustellen, kann der NPC beim Ducken mit Rechtsklick angeklickt werden. Dann öffnet sich das Einstellungsfenster. Ebenfalls ist es möglich, mit dem Befehl `/plotnpc` eine Übersicht der auf dem Grundstück befindlichen NPCs zu öffnen und von dort aus die Einstellungen aufzurufen.
 
 {% hint style="info" %}
 Der Plot-NPC kann nur vom Grundstücksbesitzer verwaltet werden.
@@ -29,21 +29,21 @@ Der Plot-NPC kann nur vom Grundstücksbesitzer verwaltet werden.
 Im Einstellungsmenü befinden sich folgende Optionen:
 
 * Art des NPCs ändern (Spieler oder verschiedene Tiere & Monster)
-* NPC-Einstellungen (z. B. Skin, Pose oder ob sich nährene Spieler angesehen werden sollen)
+* NPC-Einstellungen (z. B. Skin, Pose oder ob der NPC Spieler in der Nähe ansehen soll)
 * Name des NPCs (legt den Anzeigenamen über dem Kopf fest)
 * NPC-Funktion (legt den "Beruf" des NPCs fest, welcher ausgeführt werden soll)
 * NPC-Position (Verschieben des NPCs und Anpassung z. B. der Blickrichtung)
 
 ### NPC-Arten / -Skins
 
-Standardmäßig ist ein Plot-NPC ein Spieler, welcher den Skin des Besitzers trägt. Neben der Option eines Spielers, stehen auch weitere Tiere & Monster zur Verfügung, welche in diesem Menü ausgewählt werden können.
+Standardmäßig ist ein Plot-NPC ein Spieler, welcher den Skin des Besitzers trägt. Neben der Option eines Spielers stehen auch weitere Tiere & Monster zur Verfügung, welche in diesem Menü ausgewählt werden können.
 
 {% hint style="info" %}
-Die Items zum Freischalten der verschiedenen Tiere können in den Farmwelten erhalten werden, indem man diese Tiere/Monster in der Farmwelt tötet. Mit einer Wahrscheinlichkeit können diese dann ein Item für die Freischaltung droppen.
+Die Items zum Freischalten der verschiedenen Tiere können in den Farmwelten erhalten werden, indem man diese Tiere/Monster in der Farmwelt tötet. Mit einer gewissen Wahrscheinlichkeit droppen sie dann ein Item für die Freischaltung.
 {% endhint %}
 
 {% hint style="success" %}
-Die NPC-Arten werden beim Einlösen permanent für den Spieler freigeschaltet und nicht nicht an einen NPC gebunden.
+Die NPC-Arten werden beim Einlösen permanent für den Spieler freigeschaltet und nicht an einen NPC gebunden.
 {% endhint %}
 
 ### NPC-Einstellungen
@@ -58,7 +58,7 @@ Nicht alle Einstellungen der Tiere/Monster sind hinzugefügt worden. Diese werde
 
 ### NPC-Funktionen
 
-Jeder NPC kann einen "Beruf" bzw. eine Funktion ausüben. Es gibt verschiedene Funktionen, die die NPCs übernehmen können. Die folgenden Funktionen gibt es aktuell:
+Jeder NPC kann einen „Beruf“ bzw. eine Funktion ausüben. Aktuell gibt es die folgenden Funktionen:
 
 <table><thead><tr><th width="198">Funktion</th><th width="358">Beschreibung</th><th>Erhalten durch</th></tr></thead><tbody><tr><td>Showcase</td><td>Ermöglicht den NPC als Showcase einer Kiste o. Ä. zu verwenden, um diese nicht freigeben zu müssen.</td><td>Freigeschaltet für jeden Spieler.</td></tr><tr><td>Händler</td><td>Ermöglicht den Zugriff auf den Händler auf dem Grundstück.</td><td>Händler sind, sofern nicht gesondert aufgeführt, für alle Spieler freigegeben.</td></tr><tr><td>Amin-Shop</td><td>Ermöglicht den Zugriff auf den Amin-Shop.</td><td>--</td></tr><tr><td>Jobs</td><td>Ermöglicht den Zugriff &#x26; Verwendung des Job-NPCs.</td><td>Case-Opening</td></tr><tr><td>MiniGames</td><td>Zugriff auf das MiniGames-Inventar (später weitere Optionen).</td><td>--</td></tr><tr><td>Abenteurer</td><td>Zugriff auf die Aufgaben des Abenteurers.</td><td>--</td></tr><tr><td>Block des Tages</td><td>Zugriff auf das Block des Tages-Menü.</td><td>--</td></tr><tr><td>Auktionshaus</td><td>Zugriff auf das Auktionshaus.</td><td>--</td></tr></tbody></table>
 

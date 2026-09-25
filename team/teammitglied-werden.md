@@ -85,7 +85,7 @@ Dann kannst du mit einer Bewerbung zum bezahlten Entwickler zeigen, was du drauf
 <summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
 
 {% hint style="info" icon="square-star" %}
-_Hier findest du die passende_ [1.8 Wiki Seite](https://wiki.griefergames.net/faq/griefergames/teammitglied-werden)_._
+_Hier findest du die passende_ [1.8 Wiki Seite](/1-8/team/teammitglied-werden)_._
 {% endhint %}
 
 </details>
