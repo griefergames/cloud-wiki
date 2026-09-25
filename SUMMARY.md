@@ -84,7 +84,6 @@
   * [🪽 Allay Lieferdienst](funktionen/features/allay-lieferdienst.md)
   * [🎣 Angel-System](funktionen/features/angel-system.md)
   * [📈 Auktionshaus](funktionen/features/auktionshaus.md)
-  * [🧭 Berufe](funktionen/features/berufe.md)
   * [🔳 Block des Tages](funktionen/features/block-des-tages.md)
   * [Bürgermeister](funktionen/features/burgermeister.md)
   * [🎁 CaseOpening](funktionen/features/case-opening.md)
