@@ -4,7 +4,7 @@ description: Rollen, die aus deinem Spielstil entstehen, mit Level, Titeln und M
 
 # 🧭 Berufe
 
-<figure class="wiki-illus"><img src="/img/wiki-illus/berufe.webp" alt="Händler, Höhlenforscher, Axtperte, Netherstrike und Aqua-Expert: Berufe entstehen aus dem, was du auf der Cloud spielst"><figcaption>Du spielst einfach, die Cloud erkennt, wer du bist: Berufe wachsen aus deinem Verhalten.</figcaption></figure>
+<figure class="wiki-illus"><img src="../../.gitbook/assets/berufe-header.jpg" alt="Händler, Höhlenforscher, Axtperte, Netherstrike und Aqua-Expert: Berufe entstehen aus dem, was du auf der Cloud spielst"><figcaption>Du spielst einfach, die Cloud erkennt, wer du bist: Berufe wachsen aus deinem Verhalten.</figcaption></figure>
 
 Berufe sind Rollen, die sich aus deinem Verhalten auf der Cloud ergeben. Du wählst keinen Beruf aus und legst dich nie fest. Das System schaut, was du spielst, und daraus entstehen deine Berufe von selbst: Wer viel handelt, wird zum Händler. Wer viel unter Tage unterwegs ist, wird zum Höhlenforscher. Wer ständig Minigames spielt, wird als Spieler erkannt.
 
