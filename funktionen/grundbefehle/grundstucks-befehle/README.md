@@ -54,7 +54,7 @@ Solltest du statt eines Spielernamens ein `*` einfügen, so gilt dieser Befehl f
 {% endhint %}
 
 {% hint style="danger" %}
-Rechte für alle Spieler zu vergeben ist nicht sonderlich ratsam und nur bedingt zu empfehlen.
+Der Befehl `/p trust *` gibt Spielern Rechte **auf dem gesamten Grundstück** und ist daher nicht empfehlenswert. Damit kannst du nicht gezielt einzelne Funktionen oder Blöcke wie Kisten für alle Spieler freigeben. Wenn du beispielsweise möchtest, dass andere Spieler nur auf eine Kiste zugreifen können, nutze dafür eine use-flag.
 {% endhint %}
 
 ### Weitere Grundstücks-Befehle
@@ -72,4 +72,3 @@ Rechte für alle Spieler zu vergeben ist nicht sonderlich ratsam und nur bedingt
 | /p setorder {Zahl}                 | Setzt das Grundstück an die ausgewählte Position deiner Grundstücksliste                                                                                                               |
 | /bewertung                         | Aktiviere die Bewertungsfunktion für dein Grundstück                                                                                                                                   |
 | /breakblock                        | Baut einen geschützten Block (z.B. Barrieren, Endportalrahmen, Grundgestein) auf deinem Grundstück ab. Der Block wird nach dem Anklicken abgebaut und geht verloren.                       |
-
