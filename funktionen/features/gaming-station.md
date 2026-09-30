@@ -44,3 +44,22 @@ Zusätzlich gibt es Spielsteine aus Items, die nicht abgebaut werden können. Di
 {% hint style="info" %}
 Jeder Spielstein kann nur einmal eingelöst werden.
 {% endhint %}
+
+## Spiel starten
+
+1. Spiele-Disk in die Gaming-Station einlegen.
+2. Mit Rechtsklick auf die Gaming-Station das Menü öffnen.
+3. Auf **Spiel starten** klicken. Du siehst alle Spieler, die an dieser Gaming-Station ebenfalls einen Gegner suchen.
+4. Einen Spieler anklicken, um ihn herauszufordern. Sobald er dich ebenfalls auswählt, beginnt das Spiel.
+
+Für jeden Zug hast du nur begrenzt Zeit. Läuft sie ab, wird das Spiel als verloren gewertet. Nach dem Spiel könnt ihr direkt eine **Revanche** spielen.
+
+{% hint style="info" %}
+Mit **Spiel-Disk auswerfen** im Menü nimmst du die Disk wieder heraus, z. B. um ein anderes Spiel einzulegen. Das geht nur, wenn du auf dem Grundstück Blöcke abbauen darfst.
+{% endhint %}
+
+## Zuschauen und Statistiken
+
+Über **Zuschauen** verfolgst du laufende Spiele an der Gaming-Station.
+
+Für jedes Spiel gibt es eine Rangliste nach **Elo**. Gewinnst du, steigt deine Elo, verlierst du, sinkt sie. Unter **Statistiken** siehst du deine Elo, deinen Platz, deine letzten Spiele und die besten Spieler. Auch bei der Gegnerwahl werden Elo und Platz jedes Spielers angezeigt.
