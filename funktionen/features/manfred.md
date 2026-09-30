@@ -26,7 +26,7 @@ Manni kauft eine Vielzahl von Gegenständen von Spielern, aber immer nur einen b
 
 Manni erscheint zufällig auf den Grundstücken der Spieler. Er erscheint nur, wenn mindestens ein Spieler auf dem Grundstück anwesend ist. Bei seiner Ankunft benachrichtigt er die anwesenden Spieler. Er erscheint in der Nähe des Mittelpunkts des Grundstücks (`/p middle`).
 
-**Wichtig:** Manni folgt einem festen Spawn-Zeitplan. Er erscheint jede Stunde zur Minute 16, 36 und 56, also alle 20 Minuten. Kurz danach wird er beim nächsten Durchlauf des Mob-Removers wieder entfernt.
+**Wichtig:** Manni folgt einem festen Spawn-Zeitplan. Er erscheint jede Stunde zur Minute 16, 36 und 56, also alle 20 Minuten. Er bleibt zwischen **10 und 22 Minuten** auf dem Grundstück und zieht dann weiter. Hat er sein ganzes Geld schon vorher ausgegeben, verschwindet er früher.
 
 {% hint style="info" %}
 Manni erscheint **nicht** auf Grundstücken, auf denen alle Spieler gesperrt sind (`/p deny *`).
@@ -34,7 +34,11 @@ Manni erscheint **nicht** auf Grundstücken, auf denen alle Spieler gesperrt sin
 
 ### Handeln mit Manni
 
-Jeder Spieler, der sich auf dem Grundstück befindet, wenn Manni erscheint, kann mit ihm handeln. Spieler haben die Wahl, einzelne Gegenstände, komplette Stacks oder ihr gesamtes Inventar zu verkaufen. Manni kauft so lange, bis sein Geld ausgegeben ist.
+Jeder Spieler, der sich auf dem Grundstück befindet, wenn Manni erscheint, kann mit ihm handeln. Spieler haben die Wahl, einen einzelnen Gegenstand, einen kompletten Stack oder alle passenden Gegenstände aus ihrem Inventar zu verkaufen.
+
+Seinen Preis legt Manni bei jedem Besuch neu fest: Pro Gegenstand zahlt er zwischen **250 und 1.250 Dollar**. Insgesamt hat er **12.000 bis 21.000 Dollar** dabei und kauft so lange, bis sein Geld ausgegeben ist.
+
+Verzauberte Gegenstände und Gegenstände mit einer Beschreibung (Lore) kauft Manni nicht an.
 
 <figure><img src="../../.gitbook/assets/image (6) (2) (1) (1).png" alt="" width="174"><figcaption></figcaption></figure>
 
