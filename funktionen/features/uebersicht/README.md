@@ -61,3 +61,20 @@ In der MiniGame-Lobby stehen verschiedene Aktionen zur Verfügung:
   Einige Spieler wie beispielsweise Streamer oder Teammitglieder haben die Möglichkeit, hier im Chat die Lobby zu bewerben.
 * <img src="../../../.gitbook/assets/image (23) (1) (1) (2).png" alt="" data-size="line"> **Rundenstart**\
   Mit diesem Knopf kann die Runde gestartet werden. Das ist nur in privaten Lobbys möglich, da dort das Spiel nicht automatisch startet. In öffentlichen Runden startet das Spiel automatisch.
+
+## Private Lobby erstellen
+
+Unter **Private Lobby** trittst du den Lobbys anderer Spieler bei oder erstellst über „Private Lobby erstellen“ deine eigene Runde. Dabei legst du fest:
+
+* welches MiniGame gespielt wird
+* ob die Lobby offen oder privat ist
+* wie viele Spieler maximal mitspielen können
+* ob mit einem Einsatz gespielt wird
+
+Für das Erstellen bezahlst du wahlweise **500 Dollar**, **1 Adventure-Coin** oder **1 Lobby-Token**. Lobby-Tokens erhältst du als Gegenstand, den du durch Benutzen einlöst.
+
+Mit `/minigame invite <Spieler>` lädst du andere Spieler in deine Lobby ein.
+
+{% hint style="danger" %}
+Wird mit Einsatz gespielt, bezahlt jeder Spieler den Betrag beim Beitreten. Der gesamte Einsatz geht an die Gewinner der Runde. Verlässt du die Lobby über „Lobby verlassen“, bevor die Runde beginnt, erhältst du deinen Einsatz zurück.
+{% endhint %}
