@@ -81,3 +81,13 @@ Steigert deine Rüstung, Rüstungshärte, Standfestigkeit und Angriffsschaden, v
 {% hint style="info" %}
 Hat [zufällige Item-Werte](../features/zufallige-item-werte.md), welche die Effektivität variieren lassen.
 {% endhint %}
+
+### Stab der Lagune (Mobaura-Talisman)
+
+**Fokus:** Kreaturen auf Abstand halten
+
+Solange du den **Stab der Lagune** in der Hand hältst, werden Tiere und Monster im Umkreis von **5 Blöcken** automatisch von dir weggestoßen. Andere Spieler sind davon nicht betroffen.
+
+{% hint style="info" %}
+Anders als die übrigen Talismane wirkt der Stab der Lagune in der Haupthand und in der Zweithand.
+{% endhint %}
