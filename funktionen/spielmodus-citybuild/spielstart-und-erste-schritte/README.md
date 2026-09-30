@@ -4,7 +4,7 @@
 
 Du hast dich also auf unseren [Server verbunden](../../../auf-den-server-joinen/) und in unserer Lobby entschieden, auf unserem Cloud-Netzwerk zu starten.
 
-Eine Übersicht über die grundlegenden Befehle zum Start findest du auf den Karten rund um den Spawn. Zusätzlich kannst du die wichtigsten Befehle auch jederzeit über den Befehl `/anfang` abrufen.
+Eine Übersicht über die grundlegenden Befehle zum Start findest du auf den Karten rund um den Spawn. Zusätzlich kannst du die wichtigsten Befehle auch jederzeit über den Befehl `/anfang` im [Hilfe-System](hilfe-system.md) abrufen.
 
 ## Dein erstes Grundstück
 
@@ -17,6 +17,8 @@ Auf deinem Grundstück kannst nur du bauen und mit Blöcken interagieren. Das ka
 ## Starterpaket
 
 Beim ersten Betreten des Netzwerks erhältst du außerdem ein Starterpaket aus verschiedenen Items, das sich in deinem Inventar befindet. Du kannst diese Items verwenden, um dich grundlegend auszurüsten, Werkzeuge herzustellen und deine nächsten Schritte vorzubereiten.
+
+Nach etwa **10 Minuten** Spielzeit öffnet sich eine kurze Umfrage, in der du angibst, wie du auf GrieferGames aufmerksam geworden bist. Als Dankeschön erhältst du ein Diamantschwert, eine Diamantspitzhacke, eine Diamantaxt, eine Diamantschaufel, einen goldenen Apfel und einige Tränke. Hast du die Umfrage geschlossen, kannst du sie mit `/umfrage` erneut öffnen. Teilnehmen kannst du nur einmal.
 
 ## Ab in die Farmwelt
 
