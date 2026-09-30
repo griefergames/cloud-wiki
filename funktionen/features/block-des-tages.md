@@ -6,7 +6,7 @@ Mit dem Block des Tages kannst du mit etwas Glück beim Farmen kleine Zusatzgewi
 
 In diesem Beispiel ist Seltsamer Sand der Block des Tages.
 
-Jedes Mal, wenn du in der Farmwelt einen natürlich generierten Block dieser Art abbaust, besteht eine kleine Chance, dass du eine zusätzliche Belohnung erhältst. Also eine gute Möglichkeit, sich beim Farmen von Material ein wenig dazuzuverdienen.
+Jedes Mal, wenn du in der [Farmwelt](../spielmodus-citybuild/die-farmwelten.md) (auch im Nether und im End) einen natürlich generierten Block dieser Art abbaust, besteht eine kleine Chance, dass du eine zusätzliche Belohnung erhältst. Also eine gute Möglichkeit, sich beim Farmen von Material ein wenig dazuzuverdienen.
 
 Wenn du eine zusätzliche Belohnung erhältst, wirst du mit einer Nachricht im Chat darüber informiert.
 
@@ -22,8 +22,10 @@ Es gibt viele verschiedene Gewinne, die der Block des Tages enthalten kann.
 
 Zusätzlich gibt es Event-Tage, an denen auch gleichzeitig mehrere Gewinne enthalten sein können.
 
+Passt ein gewonnenes Item nicht mehr in dein Inventar, bringt es dir der [Allay-Lieferdienst](allay-lieferdienst.md).
+
 {% hint style="info" %}
-Wie oft du am Tag einen Gewinn erhalten kannst, ist ebenfalls unterschiedlich. Du wirst jedoch informiert, sobald du die maximale Anzahl an Belohnungen des Tages erreicht hast.\
+Wie oft du am Tag einen Gewinn erhalten kannst, ist ebenfalls unterschiedlich. In der Chat-Nachricht zu jedem Gewinn siehst du, wie viele der möglichen Belohnungen des Tages du schon gefunden hast (z. B. **\[2/5]**).\
 _(Ein Tag beginnt um 4 Uhr zum Server-Neustart)_
 {% endhint %}
 
@@ -37,10 +39,10 @@ Der Abbau mit speziellen Tools (z. B. 3x3-Tools) ist möglich. Es werden alle ab
 
 ## Statistiken
 
-Links im Interface des NPC-Menüs kannst du deine persönlichen Statistiken einsehen, darunter wie viel Geld, Kristalle und Items du bereits durch den Block des Tages erhalten hast.
+Mit einem Klick auf **Statistiken** im NPC-Menü öffnest du die Statistiken. Links siehst du deine persönliche Statistik, darunter wie oft du den Block des Tages gefunden hast und wie viel Geld, Kristalle und Items du dadurch bereits erhalten hast.
 
 <p align="center"><img src="../../.gitbook/assets/unknown (2) (1) (1) (1) (1) (1) (1).png" alt=""><br></p>
 
-Rechts werden die globalen Statistiken angezeigt, darunter wie viel Geld, Kristalle und Items die Spieler bereits durch den Block des Tages erhalten haben, einschließlich der Top 28 Spieler, die du durch Anklicken einsehen kannst.
+Rechts findest du das **Ranking** mit deinem Punktestand, deinem aktuellen Platz und den globalen Statistiken, darunter wie viel Geld, Kristalle und Items die Spieler bereits durch den Block des Tages erhalten haben. Mit einem Klick darauf siehst du die Top 28 Spieler.
 
 <div align="center"><img src="../../.gitbook/assets/unknown (3) (1) (1) (1) (1).png" alt=""> <img src="../../.gitbook/assets/unknown (4) (1) (1) (1) (1).png" alt=""></div>
