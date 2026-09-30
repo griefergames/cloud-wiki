@@ -23,11 +23,15 @@ In dieser Ansicht werden dir die Details, die für oder gegen einen Antrag sprec
 1. **Besitzer des Grundstücks**\
    Hier wird der Besitzer des Grundstücks, der Alias des Grundstücks und der Zeitpunkt, wann der Spieler zuletzt online war, angezeigt.
 2. **Informationen zur Spielzeit**\
-   Hier wird angezeigt, wann das Grundstück beantragt werden kann, je nachdem, ob es bebaut ist oder nicht.
+   Hier wird angezeigt, ab wann das Grundstück übernommen werden kann. Ein **unbebautes** Grundstück kann **1 Monat** nach dem letzten Login des Besitzers übernommen werden, ein **bebautes** Grundstück in der Regel erst nach **3 Monaten**.
 3. **Informationen zur Nachbarschaft**\
-   Hier wird angezeigt, ob du in der Nachbarschaft ein oder mehrere Grundstücke besitzt.
+   Hier wird angezeigt, wie weit dein nächstes eigenes Grundstück entfernt ist. Einen Antrag kannst du nur stellen, wenn dir ein Grundstück gehört, das höchstens **3 Grundstücke** entfernt liegt.
 4. **Information zum Antragsteller (dir)**\
-   Hier wird angezeigt, wie viele Checkplot-Anträge aktuell von dir gelistet sind.
+   Hier wird angezeigt, wie viele Checkplot-Anträge aktuell von dir gelistet sind. Du kannst höchstens **5** offene Anträge gleichzeitig haben.
+
+{% hint style="warning" %}
+Verbundene (gemergte) Grundstücke und Grundstücke auf Spawn-Servern können nicht über `/checkplot` beantragt werden.
+{% endhint %}
 
 Je nachdem, ob die angezeigte Information einen Antrag ermöglicht oder nicht ermöglicht, wird in der Info Folgendes angezeigt:
 
@@ -45,14 +49,20 @@ Den Status deiner Anträge kannst du jederzeit mit `/checkplot list` einsehen.
 
 Die Checkplot-Anträge werden mindestens einmal in der Woche bearbeitet. Du erhältst also zeitnah eine Nachricht darüber, ob du das Grundstück übernehmen kannst.
 
+Solange dein Antrag noch nicht abgeschlossen ist, kannst du ihn in der Checkplot-Ansicht des Grundstücks über „**Checkplot-Antrag löschen**“ zurückziehen.
+
 ## Übernehmen des Grundstücks
 
 Um das Grundstück eines angenommenen Antrags zu erhalten, gehe auf das entsprechende Grundstück und gib `/checkplot` ein. An der Stelle des <img src="../../.gitbook/assets/image (26).png" alt="" data-size="line"> Schildes befindet sich nun eine <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> **Tür**, mit der das Grundstück in Besitz genommen werden kann.
 
 Danach bestätigst du die Aktion und das Grundstück wird <mark style="color:green;">**gelöscht**</mark> und an dich überschrieben.
 
+{% hint style="danger" %}
+Nach der Annahme hast du **14 Tage** Zeit, das Grundstück zu übernehmen. Danach wird der Antrag automatisch abgelehnt.
+{% endhint %}
+
 {% hint style="warning" %}
-Bitte beachte die Preisangabe des Checkplot-Antrags. In der Regel werden beim Übernehmen eines Grundstücks **10.000 Dollar** fällig. Dort können keine Grundstücksgutscheine verwendet werden.
+Beim Übernehmen gelten dieselben Kosten wie bei `/p claim`: Besitzt du bereits **4 oder mehr** Grundstücke, werden **10.000 Dollar** fällig. Grundstücksgutscheine können hier nicht verwendet werden. Hast du dein Grundstückslimit erreicht, kannst du das Grundstück nicht übernehmen.
 {% endhint %}
 
 {% hint style="info" %}
