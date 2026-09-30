@@ -60,7 +60,7 @@ Man kann sich nur auf seinem **Haupt-Citybuild** zur Wahl stellen und auch nur d
 {% hint style="warning" %}
 Damit du zum Helfer gewählt werden kannst, musst du mindestens 30 Tage auf dem Citybuild-Server als Bürger eingetragen sein.
 
-Damit du andere Spieler zum Helfer wählen kannst, musst du mindestens 14 Tage auf dem Citybuild-Server als Bürger eingetragen sein.
+Damit du andere Spieler zum Helfer wählen kannst, musst du mindestens 14 Tage auf dem Citybuild-Server als Bürger eingetragen sein und mindestens **200 Spielstunden** haben.
 {% endhint %}
 
 Eine Eintragung ist einmal monatlich über den [Bürgermeister](../burgermeister.md) am Spawn möglich.
