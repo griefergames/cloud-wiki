@@ -8,6 +8,8 @@ description: Informationen zu den eigenen Farmwelten der Cloud
 
 Das Cloud-Netzwerk hat mehrere Farmwelten, welche komplett eigenständige Welten sind. Die Server unterscheiden sich in der Anordnung der Biome, Strukturen und Elemente. Kurz gesagt: Jede Welt hat ihre eigenen Seeds.
 
+Jede Farmwelt reicht in allen Dimensionen **20.000 Blöcke** weit in jede Richtung vom Spawn. Dort liegt die Weltgrenze.
+
 {% hint style="info" %}
 Die Farmwelten werden **jeden Monat in der Nacht vom 3. auf den 4. Tag** zurückgesetzt und alle Homes in den Farmwelten gelöscht.
 {% endhint %}
@@ -16,8 +18,10 @@ Die Farmwelten werden **jeden Monat in der Nacht vom 3. auf den 4. Tag** zurück
 
 Um in die Farmwelt zu gelangen, kann der Befehl `/farm` verwendet werden. Des Weiteren kann das Farm-Menü auch über die Hilfe unter `/?` oder durch das Farm-Portal am Spawn erreicht werden.
 
+Im Farm-Menü wählst du, ob du in die **Overworld**, den **Nether** oder das **End** möchtest. Den Farm-Server sucht das System automatisch für dich aus. Wählst du Nether oder End, landest du direkt am Spawn dieser Dimension.
+
 {% hint style="info" %}
-Ab dem [**Griefer-Rang**](../grundbefehle/range/griefer-rang.md) kann unter `/farm` auch der gewünschte Farm-Server gewählt werden. Ansonsten steht nur die automatische Auswahl durch das System zur Verfügung.
+Ab dem [**Griefer-Rang**](../grundbefehle/range/griefer-rang.md) kann unter `/farm` auch der gewünschte Farm-Server gewählt werden. Bei jedem Server siehst du, wie viele **Spieler** gerade dort sind und wie seine **Auslastung** ist. Über „Farm-Server betreten“ kommst du weiterhin zur Wahl der Dimension mit automatischer Serverauswahl.
 {% endhint %}
 
 Damit du erkennst, in welcher Farmwelt du dich befindest, wird in der Tabliste über den Spielern die aktuelle Region angezeigt.
@@ -30,11 +34,17 @@ Damit du erkennst, in welcher Farmwelt du dich befindest, wird in der Tabliste �
 
 Jede Farmwelt hat in allen Dimensionen einen eigenen Spawn. Dieser ist durch eine Spawn-Protection geschützt, in welcher keine Blöcke platziert oder abgebaut werden können.
 
+Im Spawn-Bereich erhältst du keinen Schaden und bekommst keinen Hunger. Fällst du dort ins Void, stirbst du nicht und wirst auf die Plattform in der Overworld teleportiert.
+
 ### Die Overworld
 
 In der Overworld kannst du einfach von der Plattform springen und du erhältst den Effekt **Langsamer Fall**. Des Weiteren befinden sich auf der Plattform ein Endportal, um ins End zu gelangen, und ein Netherportal, um in den Nether zu gelangen.
 
 Sobald du außerhalb des Spawn-Bereichs landest, wird der Effekt **Langsamer Fall** wieder entfernt.
+
+{% hint style="info" %}
+Eigene Netherportale kannst du in den Farmwelten nicht entzünden. Nutze die Portale auf der Plattform, die du mit `/warp Plattform` erreichst.
+{% endhint %}
 
 #### Änderungen
 
