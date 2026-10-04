@@ -96,6 +96,7 @@
   * [🪙 Adventure-System](funktionen/features/adventure-system.md)
   * [🪽 Allay Lieferdienst](funktionen/features/allay-lieferdienst.md)
   * [🎣 Angel-System](funktionen/features/angel-system.md)
+  * [↕️ Aufzüge & Teleporter](funktionen/features/aufzuege-und-teleporter.md)
   * [📈 Auktionshaus](funktionen/features/auktionshaus.md)
   * [🔳 Block des Tages](funktionen/features/block-des-tages.md)
   * [Bürgermeister](funktionen/features/burgermeister.md)
