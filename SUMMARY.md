@@ -54,6 +54,7 @@
 * [💰 Währungen](funktionen/waehrungen/README.md)
   * [In-Game-Geld $](funktionen/waehrungen/in-game-geld-usd.md)
 * [⚔️ Besondere Items](funktionen/custom-items/README.md)
+  * [Attribut-Tränke](funktionen/custom-items/attribut-traenke.md)
   * [Automatisches Schmelzen](funktionen/custom-items/automatisches-schmelzen.md)
   * [BIRTH-Items](funktionen/custom-items/birth-items.md)
   * [Builders Wand](funktionen/custom-items/builders-wand.md)
