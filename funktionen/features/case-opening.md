@@ -88,3 +88,25 @@ Jede Woche am Montag um 0:00 Uhr setzt sich der Zug zurück und ihr bekommt ganz
 ![Beispiel für ein Angebot im Angebotszug](../../.gitbook/assets/1CC6F614-9637-4659-913C-23439DCCF4B3.png)
 
 Den Angebotszug könnt ihr am Spawn direkt neben dem CaseOpening finden. Dort könnt ihr zunächst nur das erste Angebot kaufen, die restlichen erst danach in der gezeigten Reihenfolge.
+
+## [#](#fragmente)Fragmente
+
+**Fragment-Items** können verwendet werden, um bestimmte Belohnungen im Spiel zu erhalten. Sie sind einlösbare Items, die man einzeln einlösen muss, um z. B. Kristalle, Items oder andere Belohnungen zu bekommen.
+
+<div align="center"><figure><img src="../../.gitbook/assets/unknown--1---1---1---1-.png" alt="Bild"><figcaption></figcaption></figure></div>
+
+Diese Fragmente haben immer eine bestimmte Chance, das beschriebene Item oder ein zufälliges Item aus einem Pool zu erhalten.
+
+Mit Glück erhält man die Belohnung aus dem Fragment, mit Pech verschwindet das Item.
+
+{% hint style="info" %}
+Fragmente müssen einzeln eingelöst werden.
+{% endhint %}
+
+### [#](#chrono-fragmente)Chrono-Fragmente
+
+**Chrono-Fragmente** gibt es in 6 verschiedenen Ausführungen. Hast du alle 6 zusammen, vereinst du sie zu einem **Strahlenden Chrono-Kristall**.
+
+{% hint style="warning" %}
+Doppelte Chrono-Fragmente zählen nicht. Im Werker (Crafter) lässt sich der Chrono-Kristall nicht herstellen.
+{% endhint %}

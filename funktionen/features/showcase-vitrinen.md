@@ -31,3 +31,5 @@ Die Vitrine ist unter anderem im **Amin-Shop** im Tausch gegen **Adventure-Coins
 {% hint style="info" %}
 Eine **Vitrine** kann mit einer Spitzhacke mit **Behutsamkeit** abgebaut werden. Dabei bleibt die Vitrine als Item erhalten und kann anschließend erneut platziert werden.
 {% endhint %}
+
+Einrichten können die Vitrine nur der Grundstücksbesitzer und vertraute Spieler. Alle anderen Spieler öffnen mit einem Rechtsklick eine Ansicht des ausgestellten Items und sehen dort alle Details, z. B. Verzauberungen und Beschreibung.
