@@ -85,6 +85,7 @@
   * [Super-Werkzeuge](funktionen/custom-items/super-werkzeuge.md)
   * [Shulksauger](funktionen/custom-items/shulksauger.md)
   * [Talismane](funktionen/custom-items/talismane.md)
+  * [Überraschungs-Spawn-Ei](funktionen/custom-items/ueberraschungs-spawn-ei.md)
   * [Unendliche Items](funktionen/custom-items/unendliche-items.md)
   * [Upgradebare Tools](funktionen/custom-items/upgradebare-tools.md)
   * [Verfluchter Stab](funktionen/custom-items/verfluchter-stab.md)
