@@ -20,7 +20,7 @@ Hier habt ihr nun mehrere Optionen:
 
 * **Klick auf ein Item:** Öffnet die Auktion dieses Items
 * ![](<../../.gitbook/assets/image (65).png>) **Auktionshistorie:** Zeigt alle ausgelaufenen Auktionen der letzten 30 Tage
-* ![](<../../.gitbook/assets/image (68).png>) **Meine beobachteten Auktionen:** Hier befinden sich alle Auktionen, bei denen ihr geboten habt
+* ![](<../../.gitbook/assets/image (68).png>) **Meine beobachteten Auktionen:** Hier befinden sich alle Auktionen, bei denen ihr geboten habt. Auktionen, bei denen ihr noch Geld oder ein Item abholen könnt, stehen ganz oben. Abgelaufene Auktionen könnt ihr über den Filter-Knopf ausblenden.
 * ![](<../../.gitbook/assets/image (69).png>) **Filter:** Hier können bestimmte Materialien oder Kategorien gefiltert werden
 * ![](<../../.gitbook/assets/image (71).png>) **Eigene Auktionen:** Hier befinden sich eure eigenen Auktionen, und hier können neue Auktionen erstellt werden.
 
@@ -60,16 +60,35 @@ Hast du eine Auktion gewonnen _(oder ist dein Item nicht verkauft worden)_, kann
 Du brauchst einen freien Inventarplatz für das Item, auch wenn du bereits ein gleiches Item im Inventar hast.
 {% endhint %}
 
-{% hint style="warning" %}
-Die auslaufenden Auktionen werden alle **15 Minuten** verarbeitet. Es befinden sich also zeitweise ausgelaufene Auktionen in der Übersicht.
+{% hint style="info" %}
+Ausgelaufene Auktionen werden **jede Minute** abgeschlossen. Bis dahin kann eine beendete Auktion noch kurz in der Übersicht stehen.
 {% endhint %}
 
 ## Auktion erstellen
 
 Jeder Spieler kann eine neue Auktion erstellen. Dazu wähle im Hauptmenü ![](<../../.gitbook/assets/image (50).png>) Eigene Auktionen. Von dort kann über ![](<../../.gitbook/assets/image (51).png>) eine neue Auktion erstellt werden.
 
+{% hint style="info" %}
+Standardmäßig kannst du bis zu **10 Auktionen** gleichzeitig laufen lassen. Ist die Grenze erreicht, kannst du erst wieder eine neue Auktion erstellen, wenn eine deiner Auktionen beendet oder zurückgezogen ist.
+{% endhint %}
+
 Wähle ein Item aus deinem Inventar, das du im Auktionshaus anbieten möchtest.\
 _Dieses erscheint dann oben als angezeigtes Item._
+
+### Welche Items kann ich einstellen?
+
+Die meisten Items kannst du direkt einstellen. Für Shulkerkisten und Bündel gelten besondere Regeln:
+
+| Item | Einstellen möglich? |
+| --- | --- |
+| Leere Shulkerkiste | Ja |
+| Shulkerkiste mit Inhalt | Nein |
+| Bündel mit mindestens einem einlösbaren Item (mit Sicherheitscode) | Ja |
+| Bündel ohne einlösbares Item | Nein |
+
+{% hint style="info" %}
+Möchtest du den Inhalt einer Shulkerkiste verkaufen, leere sie vorher und stelle die Items einzeln ein. Ist ein Item nicht erlaubt, erscheint beim Auswählen die Meldung „Du kannst dieses Item nicht verkaufen.“
+{% endhint %}
 
 ### Startpreis festlegen
 
@@ -78,6 +97,8 @@ Du kannst der Auktion einen Startpreis geben. Die Auktion startet dann automatis
 ### Sofortkaufpreis festlegen
 
 Wird in einer Auktion ein Sofortkaufpreis hinterlegt, ist es möglich, das Item für den Preis sofort zu kaufen. Ebenfalls wird das Item für diesen Preis automatisch verkauft, sobald ein Gebot diesen Preis erreicht. Somit wird das Item höchstens zu diesem Sofortkaufpreis verkauft.
+
+Der Sofortkaufpreis muss höher sein als der Startpreis. Mit 0 Dollar schaltest du den Sofortkauf ab.
 
 ### Laufzeit festlegen
 
@@ -90,7 +111,9 @@ Folgende Laufzeitstufen gibt es:\
 
 Wenn alle gewünschten Einstellungen getroffen sind, kann die Auktion mit Klick auf "Bestätigen" erstellt werden.
 
-Je nach Einstellung fällt dort eine **Gebühr** für das Erstellen der Auktion von **10 %** an. Dafür ausschlaggebend ist der höchste eingestellte Preis (Mindestpreis, Sofortkaufpreis). Diese Gebühr muss beim Erstellen gezahlt werden und wird nicht erstattet, falls das Item nicht verkauft wird.
+Je nach Einstellung fällt dort eine **Gebühr** für das Erstellen der Auktion von **10 %** an. Dafür ausschlaggebend ist der höchste eingestellte Preis (Startpreis, Sofortkaufpreis). Die Gebühr beträgt mindestens **10 Dollar** und höchstens **10.000 Dollar**.
+
+Diese Gebühr muss beim Erstellen gezahlt werden und wird nicht erstattet, falls das Item nicht verkauft wird.
 
 ## Auktion zurückziehen
 
@@ -100,8 +123,8 @@ Dann kannst du die Auktion zurückziehen.
 Gehe dazu in deine Auktion und klicke auf ![](<../../.gitbook/assets/image (53).png>), um die Auktion zurückzuziehen.
 
 {% hint style="danger" %}
-Es fällt eine **Strafgebühr** von **10 % auf das aktuelle Gebot** an!\
-Je höher das Item also bereits geboten wurde, desto teurer wird das Zurückziehen.
+Es fällt eine **Strafgebühr** von **10 % auf das aktuelle Gebot** an, höchstens aber **10.000 Dollar**!\
+Je höher das Item also bereits geboten wurde, desto teurer wird das Zurückziehen. Hat noch niemand geboten, zählt dein Startpreis.
 {% endhint %}
 
 ## Auktionshistorie
