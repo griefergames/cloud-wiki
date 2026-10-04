@@ -9,4 +9,4 @@ Der <mark style="color:blue;">Titan</mark>-Rang kann nur im Shop gekauft werden,
 * In hellblauer Fettschrift im Chat schreiben mit `/b`
 * 6 Homes setzen mit `/sethome`
 * Items [signieren](../signieren-von-items.md) mit `/sign <Text>`
-* [Clan](../../features/clan-system.md) darf 7 Mitglieder mehr haben (inkl. Premium, Ultra, Legende)
+* Ein [Clan](../../features/clan-system.md), den du gründest, hat Platz für **7** Mitglieder (du selbst mitgezählt)
