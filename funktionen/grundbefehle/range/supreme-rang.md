@@ -12,4 +12,9 @@ Der <mark style="color:purple;">Supreme</mark>-Rang ist ein exklusiver **Event-R
 * Skin ändern mit `/skin <Spielername>`
 * [Clan](../../features/clan-system.md) darf 12 Mitglieder mehr haben (inkl. der vorherigen Rang-Vorteile)
 * Zugriff auf die extra Slots beim [Rand- und Wand-Händler](../../features/die-handler.md) (Supreme-Slot)
+* Besucherstatistik deines [Grundstücks](../../grundstuecke/README.md) ansehen mit `/p visitors`
+
+{% hint style="info" %}
+Auf deinem eigenen Grundstück öffnet `/p visitors` das Menü **Grundstücksbesucher** mit den Besucherzahlen von heute, diesem Monat, dem letzten Monat und insgesamt. Bei den Monaten und der Gesamtzahl siehst du auch, wie viele Besucher neu waren. Darunter zeigt das Menü die Köpfe der Spieler, die heute zuletzt da waren.
+{% endhint %}
 
