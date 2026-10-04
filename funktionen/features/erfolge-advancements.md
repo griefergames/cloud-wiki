@@ -1,6 +1,6 @@
 # 💪 Erfolge / Advancements
 
-In der Erfolgsansicht (_Standard-Tastenbelegung:_ **L**) findest du statt der Standarderfolge von Minecraft **eigene** Erfolge des GrieferGames Cloud-Netzwerks.
+In der Erfolgsansicht (_Standard-Tastenbelegung:_ **L**) findest du statt der Standarderfolge von Minecraft **eigene** Erfolge des GrieferGames Cloud-Netzwerks. In der Bedrock-Version öffnest du die Erfolge mit `/advancements`.
 
 <figure><img src="../../.gitbook/assets/image (22) (1) (1) (1).png" alt=""><figcaption><p>Erfolge auf dem Cloud-Netzwerk</p></figcaption></figure>
 
@@ -18,9 +18,13 @@ Die Erfolge sind aktuell in vier Seiten unterteilt:
 
 _Die ersten "Erfolge" bzw. Knotenpunkte mit dem Namen der Kategorie können nicht abgeschlossen werden._
 
+Es gibt außerdem Erfolge für deine Spielzeit auf dem Server (ab **250 Stunden**) und für den [GrieferPass](battle-pass-griefer-pass.md), z. B. für das Erreichen von Level 50 und Level 100.
+
 ## Belohnungen
 
 Für einige Erfolge gibt es auch Belohnungen. Diese werden entweder automatisch vergeben oder du erhältst eine neue Belohnungstruhe unter `/rewards`. Die Belohnung steht dauerhaft zur Verfügung, du musst dich also nicht beeilen, sie abzuholen.
+
+Offene Belohnungen bringt dir auch der [Allay-Lieferdienst](allay-lieferdienst.md). Unter `/rewards` kannst du über „Abgeholte Belohnungen“ außerdem Gegenstände abholen, die du beim ersten Mal vergessen hast.
 
 {% hint style="info" %}
 Teilweise werden Belohnungen erst später hinzugefügt. Diese erhältst du auch dann, wenn du den Erfolg bereits früher abgeschlossen hast.
