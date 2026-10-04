@@ -56,6 +56,7 @@
 * [⚔️ Besondere Items](funktionen/custom-items/README.md)
   * [Attribut-Tränke](funktionen/custom-items/attribut-traenke.md)
   * [Automatisches Schmelzen](funktionen/custom-items/automatisches-schmelzen.md)
+  * [Betonmischer](funktionen/custom-items/betonmischer.md)
   * [BIRTH-Items](funktionen/custom-items/birth-items.md)
   * [Builders Wand](funktionen/custom-items/builders-wand.md)
   * [Debug-Stick / St. Patricks-Stab](funktionen/custom-items/debug-stick-st.-patricks-stab.md)
