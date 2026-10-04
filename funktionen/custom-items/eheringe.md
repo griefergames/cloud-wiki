@@ -6,10 +6,15 @@ Eheringe können beim [Amin-Shop](../features/die-handler.md) am Spawn für [Adv
 
 ## So funktioniert das Item
 
-1. Ein Spieler muss den Ehering im Inventar haben.
+1. Ein Spieler muss den Ehering in der Hand halten.
 2. Mit Rechtsklick auf den anderen Spieler kann ein Heiratsantrag gestellt werden.
-3. Es öffnet sich ein Bestätigungsmenü, in dem beide Spieler den Antrag bestätigen oder ablehnen müssen.
-4. Nach der Bestätigung erhalten beide Spieler einen signierten Ehering.
+3. Es öffnet sich ein Bestätigungsmenü, in dem der Antrag abgeschickt wird.
+4. Der andere Spieler erhält eine Nachricht im Chat. Mit einem Klick darauf oder mit `/heiratsantrag` öffnet er sein Bestätigungsmenü und nimmt den Antrag an oder lehnt ihn ab.
+5. Nach der Bestätigung erhalten beide Spieler einen signierten Ehering.
+
+{% hint style="danger" %}
+Der Ehering wird verbraucht, sobald der Antrag abgeschickt ist. Lehnt der andere Spieler ab oder verlässt einer von euch vorher den Server (auch durch einen Regionswechsel), gibt es den Ehering nicht zurück.
+{% endhint %}
 
 <p align="center"><img src="../../.gitbook/assets/unknown (9).png" alt=""></p>
 
