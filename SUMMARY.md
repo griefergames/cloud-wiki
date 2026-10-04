@@ -76,6 +76,7 @@
   * [Limitierte Gegenstandsnutzung](funktionen/features/limtierte-gegenstandsnutzung.md)
   * [Magische Leine](funktionen/custom-items/magische-leine.md)
   * [Paxel](funktionen/custom-items/paxel.md)
+  * [Rezept-Werker](funktionen/custom-items/rezept-werker.md)
   * [Schneekanone / Frost-Stab](funktionen/custom-items/schneekanone-frost-stab.md)
   * [Schneider / Abbau-Spielmodus](funktionen/custom-items/schneider-abbau-spielmodus.md)
   * [Spezial-TNT](funktionen/custom-items/spezial-tnt.md)
