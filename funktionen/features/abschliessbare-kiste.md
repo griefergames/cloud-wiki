@@ -8,15 +8,21 @@ Mit **Abschließbaren Kisten** ist es möglich, für einzelne Kisten schnell Rec
 
 <figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
-Abschließbare Kisten können über die Werkbank mit Obsidian, Eisen und einem Haken hergestellt werden.
+Abschließbare Kisten können über die Werkbank aus **4 Eisenblöcken**, **3 Obsidian**, einem **Haken** und der gewünschten Kiste hergestellt werden.
 
 Aktuell können die Kisten als Truhe, Redstone-Truhe oder Fass hergestellt werden.
 
 ## Funktionsweise
 
-Die Truhe kann einfach auf dem Grundstück platziert werden.
+Die Truhe kann einfach auf dem Grundstück platziert werden. Öffnen können sie nur der Grundstücksbesitzer und die Spieler, die er für diese Kiste freigibt. Die Grundstücksrechte spielen dabei keine Rolle.
 
-Per Sneaken + Rechtsklick kann das Verwaltungsmenü der Kiste geöffnet werden. Dort können die Rechte für diese Truhe verwaltet sowie Benachrichtigungen aktiviert und deaktiviert werden.
+{% hint style="warning" %}
+* Abschließbare Kisten können nur auf eigenen Grundstücken platziert werden.
+* Eine abschließbare Kiste lässt sich nur mit einer weiteren abschließbaren Kiste zu einer Doppelkiste verbinden. Eine normale Kiste kann nicht direkt daneben platziert werden.
+* Unterhalb von Y -62 können abschließbare Kisten nicht platziert werden.
+{% endhint %}
+
+Per Sneaken + Rechtsklick mit leerer Hand kann der Grundstücksbesitzer das Verwaltungsmenü der Kiste öffnen. Dort können die Rechte für diese Truhe verwaltet sowie Benachrichtigungen aktiviert und deaktiviert werden.
 
 ### Rechte
 
@@ -31,6 +37,8 @@ Spieler können für die Truhe sowohl permanent als auch zeitweise freigegeben w
 3. Auf der Uhr kann die „Zeit-Einheit“ (oder Permanent) gewählt werden.
 4. Mit den Auf- & Ab-Pfeilen kann dann die gewünschte Zeit ausgewählt werden _(Permanent hat keine Zeit)_.
 5. Sobald alle notwendigen Informationen eingegeben wurden, ändert sich das <img src="../../.gitbook/assets/image (109).png" alt="" data-size="line"> zu einem <img src="../../.gitbook/assets/image (110).png" alt="" data-size="line"> und der Eintrag kann mit einem Klick darauf gespeichert werden.
+
+Unter **Spieler mit Zugriff** sind alle freigegebenen Spieler aufgelistet, bei zeitweisem Zugriff auch die verbleibende Zeit. Mit einem Rechtsklick auf einen Spieler wird ihm der Zugriff wieder entzogen.
 
 ### Benachrichtigung
 
