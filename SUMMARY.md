@@ -60,6 +60,7 @@
   * [BIRTH-Items](funktionen/custom-items/birth-items.md)
   * [Blöckewandler-Schuhe](funktionen/custom-items/bloeckewandler-schuhe.md)
   * [Builders Wand](funktionen/custom-items/builders-wand.md)
+  * [Chunk-Löscher](funktionen/custom-items/chunk-loescher.md)
   * [Debug-Stick / St. Patricks-Stab](funktionen/custom-items/debug-stick-st.-patricks-stab.md)
   * [Eheringe](funktionen/custom-items/eheringe.md)
   * [Einmalige Gegenstandsreparatur](funktionen/custom-items/einmalige-gegenstandsreparatur.md)
