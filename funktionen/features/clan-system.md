@@ -2,16 +2,16 @@
 
 In einem Clan kann man sich mit anderen Spielern zusammentun, um gemeinsam zu spielen, sich gegenseitig zu unterstützen und gemeinsame Ziele zu erreichen.
 
-Ein Clan besteht aus einem Clan-Leiter und mindestens einem Clan-Mitglied. Clan-Mitglieder können vom Clan-Leiter auch zum Clan-Moderator befördert werden.
+Wer einen Clan gründet, erhält die Owner-Rolle. Welche Aufgaben und Rechte die übrigen Mitglieder haben, legt ihr über die [Clan-Rollen](clan-system.md#clan-rollen) fest.
 
-Die maximale Anzahl von Mitgliedern des Clans ist abhängig vom [Rang des Clan-Leiters](https://wiki.griefergames.live/funktionen/grundbefehle/range) und kann mit speziellen Items zusätzlich erhöht werden.
+Die maximale Anzahl von Mitgliedern richtet sich nach dem [Rang](../grundbefehle/range/README.md) des Spielers, der den Clan gründet. Sie wird bei der Gründung festgelegt und kann danach mit speziellen Items zusätzlich erhöht werden.
 
 {% hint style="info" %}
 Jeder Spieler kann einen Clan für 100.000$ erstellen.
 {% endhint %}
 
 {% hint style="warning" %}
-Sonderrechte (z. B. zusätzliche Clan-Mitglieder, Clan-Farbcodes, Clan-Sondercodes) werden dem derzeitigen Clan hinterlegt und können nicht in einen neuen Clan mitgenommen werden.
+Sonderrechte (z. B. zusätzliche Clan-Mitglieder, zusätzliche Clan-Homes, Clan-Farbcodes, Clan-Sondercodes) werden dem derzeitigen Clan hinterlegt und können nicht in einen neuen Clan mitgenommen werden.
 
 Die Items können von jedem Mitglied des Clans eingelöst werden.
 {% endhint %}
@@ -38,6 +38,35 @@ Die Items können von jedem Mitglied des Clans eingelöst werden.
 Ein Clan wird nicht von der Administration übertragen. Bereits vergebene Clan-Namen werden nicht neu vergeben.
 {% endhint %}
 
+{% hint style="danger" %}
+Verlasst ihr als letzter Spieler mit der Owner-Rolle den Clan, wird der Clan gelöscht. Das kann nicht rückgängig gemacht werden. Soll der Clan bestehen bleiben, weist vorher einem anderen Mitglied die Owner-Rolle zu.
+{% endhint %}
+
+## Clan-Name und Clan-Tag
+
+Bei der Gründung legt ihr einen **Clan-Namen** und einen **Clan-Tag** fest. Der Clan-Tag erscheint im Chat vor den Namen eurer Mitglieder.
+
+* Der Clan-Name darf höchstens **32 Zeichen** lang sein, der Clan-Tag höchstens **6 Zeichen**.
+* Als Sonderzeichen sind nur #, \_ und . erlaubt.
+* Farben und Formatierungen im Clan-Tag schaltet ihr mit den besonderen Clan-Items „Bunte Clan-Tags“ und „Clan-Tag-Sondercodes“ frei. Im Clan-Namen sind sie nicht möglich.
+
+Name und Tag könnt ihr später in den Einstellungen unter `/clan` ändern, sofern eure Rolle das passende Recht hat. Nach der Gründung und nach jeder Änderung geht das erst wieder nach **24 Stunden**.
+
+## Clan-Konto
+
+Einzahlen und das Guthaben ansehen können alle Mitglieder. Geld abheben und mit `/clan moneylog` die letzten **30 Buchungen** ansehen können nur Rollen mit dem Recht „Clan-Konto verwalten“.
+
+## Clan-Homes
+
+Clan-Homes können alle Mitglieder nutzen. Setzen und löschen dürfen sie nur Rollen mit dem Recht „Clan-Homes verwalten“.
+
+* Ein Clan kann zunächst **3 Clan-Homes** besitzen. Mit einem speziellen Item lässt sich die Anzahl dauerhaft erhöhen.
+* Der Name eines Clan-Homes darf höchstens **25 Zeichen** lang sein.
+
+{% hint style="warning" %}
+Clan-Homes lassen sich nur dort setzen, wo auch normale Homes erlaubt sind.
+{% endhint %}
+
 ## Clan-Rollen
 
 Mit den **Clan-Rollen** könnt ihr selbst entscheiden, wer in eurem Clan welche Aufgaben und Rechte übernehmen darf. So könnt ihr euer Clan-System ganz nach euren eigenen Vorstellungen aufbauen.
@@ -59,6 +88,10 @@ Ihr könnt jederzeit **neue Rollen erstellen** und nicht mehr benötigte Rollen 
 Jede Rolle muss mindestens einem Mitglied zugewiesen sein, bevor ihr eine neue Rolle erstellen könnt.
 {% endhint %}
 
+{% hint style="warning" %}
+Die Owner-Rolle ist immer die höchste Rolle und kann nicht gelöscht werden. Die Rolle, die neue Mitglieder automatisch erhalten (zu Beginn „Member“), lässt sich ebenfalls nicht löschen. Andere Rollen könnt ihr nur löschen, wenn ihnen kein Mitglied mehr zugewiesen ist.
+{% endhint %}
+
 ### Rechte der Clan-Rollen verwalten
 
 Für jede Rolle könnt ihr individuell festlegen, welche Rechte sie besitzen soll. Aktuell können folgende Rechte vergeben werden:
@@ -73,3 +106,7 @@ Für jede Rolle könnt ihr individuell festlegen, welche Rechte sie besitzen sol
 * Clan-Konto verwalten
 
 So könnte man z. B. festlegen, dass nur Clan-Admins Rollen verwalten dürfen, während Clan-Supporter lediglich Einladungen verwalten können.
+
+{% hint style="info" %}
+Rollen zuweisen und Mitglieder kicken könnt ihr nur bei Mitgliedern, deren Rolle unter eurer eigenen steht.
+{% endhint %}
