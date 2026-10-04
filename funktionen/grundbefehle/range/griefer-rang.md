@@ -10,5 +10,5 @@ Der Griefer-Rang kann im Shop gekauft werden und ist dauerhaft. Er beinhaltet al
 * Alle 14 Tage zwei [Kopf-Kisten](../../features/case-opening.md) geschenkt mit `/freekiste`
 * 3\. [Hologramm](../../grundstuecke/hologramme.md)-Zeile freigeschaltet
 * Farmserver frei aussuchen mit `/farm`
-* [Clan](../../features/clan-system.md) darf 9 Mitglieder mehr haben (inkl. Premium, Ultra, Legende & Titan)
+* Ein [Clan](../../features/clan-system.md), den du gründest, hat Platz für **9** Mitglieder (du selbst mitgezählt)
 * Zugriff auf die extra Slots beim [Rand- und Wand-Händler](../../features/die-handler.md) (Griefer-Slot)
