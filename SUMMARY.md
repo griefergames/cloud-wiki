@@ -58,6 +58,7 @@
   * [Automatisches Schmelzen](funktionen/custom-items/automatisches-schmelzen.md)
   * [Betonmischer](funktionen/custom-items/betonmischer.md)
   * [BIRTH-Items](funktionen/custom-items/birth-items.md)
+  * [Blöckewandler-Schuhe](funktionen/custom-items/bloeckewandler-schuhe.md)
   * [Builders Wand](funktionen/custom-items/builders-wand.md)
   * [Debug-Stick / St. Patricks-Stab](funktionen/custom-items/debug-stick-st.-patricks-stab.md)
   * [Eheringe](funktionen/custom-items/eheringe.md)
