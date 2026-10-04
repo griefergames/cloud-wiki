@@ -41,6 +41,7 @@
     * [Fly+ Flag](funktionen/grundstuecke/flags-setzen/fly+-flag.md)
     * [Forcefield Flag](funktionen/grundstuecke/flags-setzen/forcefield-flag.md)
     * [Ofen-Booster Flag](funktionen/grundstuecke/flags-setzen/ofen-booster-flag.md)
+    * [Witherbar Flag](funktionen/grundstuecke/flags-setzen/witherbar-flag.md)
   * [Grundstücksrechte](funktionen/grundstuecke/grundstucksrechte.md)
   * [Hilfe benutzen](funktionen/grundstuecke/hilfe-benutzen.md)
   * [Hologramme](funktionen/grundstuecke/hologramme.md)
