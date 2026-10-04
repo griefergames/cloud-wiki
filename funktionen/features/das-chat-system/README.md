@@ -59,9 +59,11 @@ Falls du nicht direkt angeschrieben werden willst, kannst du das mit dem Befehl 
 
 Wenn dich die Nachrichten eines Spielers stören, kannst du diese auch ausblenden. Dafür gibst du einfach `/ignore <NAME>` im Chat ein. Nun siehst du keine Chatnachrichten dieses Spielers mehr.
 
+Außerdem sind **private Nachrichten** zwischen dir und diesem Spieler in beide Richtungen gesperrt. Schreibt er dir mit `/msg` oder `/r`, kommt seine Nachricht nicht bei dir an und er erhält den Hinweis, dass du ihn ignorierst. Auch du kannst ihm keine private Nachricht schicken, solange er auf deiner Ignore-Liste steht.
+
 Du siehst jedoch weiterhin andere Aktionen des Spielers (z. B. Statusnachricht, Abstimmungen etc.).
 
-Wenn du die Chat-Nachrichten des Spielers wieder sehen willst, gibst du den gleichen Befehl noch einmal ein.
+Wenn du die Chat-Nachrichten des Spielers wieder sehen und private Nachrichten mit ihm austauschen willst, gibst du den gleichen Befehl noch einmal ein.
 
 Mit `/ignore` siehst du eine Liste aller Spieler, die du ignoriert hast.
 
