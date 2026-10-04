@@ -81,6 +81,7 @@
   * [Schneider / Abbau-Spielmodus](funktionen/custom-items/schneider-abbau-spielmodus.md)
   * [Spezial-TNT](funktionen/custom-items/spezial-tnt.md)
   * [Schreiter-Angel](funktionen/custom-items/schreiter-angel.md)
+  * [Shulksauger](funktionen/custom-items/shulksauger.md)
   * [Talismane](funktionen/custom-items/talismane.md)
   * [Unendliche Items](funktionen/custom-items/unendliche-items.md)
   * [Upgradebare Tools](funktionen/custom-items/upgradebare-tools.md)
