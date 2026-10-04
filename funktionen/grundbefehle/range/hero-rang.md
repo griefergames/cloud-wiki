@@ -8,6 +8,7 @@ Der <mark style="color:yellow;">Hero</mark>-Rang ist der höchste Rang, den ein 
 * Spielernamen im Chat werden mit @ davor angezeigt und weiß markiert <img src="../../../.gitbook/assets/unknown (25).png" alt="" data-size="line">
 * In goldener Fettschrift im Chat schreiben mit `/b`
 * Alle 30 Tage einen Ultra-Rang dauerhaft verschenken mit `/ultra <Name>`
+* [Clan](../../features/clan-system.md) darf 20 Mitglieder mehr haben (inkl. der vorherigen Rang-Vorteile)
 * Spezieller Beitrittssound, wenn dein [Status](../status-beim-joinen.md) beim Joinen gesendet wird
 * Eine hervorgehobene Nachricht an das gesamte GrieferGames-Netzwerk (1.8 & Cloud) senden mit `/globalbroadcast <Nachricht>`
 
@@ -15,9 +16,13 @@ Der <mark style="color:yellow;">Hero</mark>-Rang ist der höchste Rang, den ein 
 Beim Anklicken eines Heros erhält ein Spieler einmalig eine zufällige Anzahl an Kristallen.
 {% endhint %}
 
+{% hint style="info" %}
+Beim Verschenken mit `/ultra <Name>` muss der Spieler auf demselben Server online sein und darf den Ultra-Rang noch nicht besitzen. Er wird danach vom Server getrennt und muss sich neu verbinden. Wann du wieder verschenken kannst, siehst du im [Hilfe-System](../../spielmodus-citybuild/spielstart-und-erste-schritte/hilfe-system.md) unter den Abklingzeiten.
+{% endhint %}
+
 ## Einlösen des Hero-Rang-Items
 
 <p align="center"><img src="../../../.gitbook/assets/unknown (26).png" alt=""><br></p>
 
-Halte das Hero-Rang-Item in der Hand und **rechtsklicke**, um den Rang dauerhaft zu aktivieren. Nach erfolgreicher Einlösung hast du permanent den Hero-Rang.
+Halte das Hero-Rang-Item in der Hand und **rechtsklicke**, um den Rang dauerhaft zu aktivieren. Nach erfolgreicher Einlösung hast du permanent den Hero-Rang. Du wirst danach vom Server getrennt. Sobald du dich neu verbindest, ist der Rang aktiv.
 
