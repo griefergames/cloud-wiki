@@ -10,6 +10,10 @@ Auf dem Cloud-Netzwerk gibt es verschiedene Währungen, die unterschiedliche Ver
 * <mark style="color:red;">**Accountgebunden**</mark> – Diese Währung kann **nicht** mit anderen Spielern gehandelt werden.
 * <mark style="color:blue;">**Shop-Währung**</mark> – Diese Währung ist über den GrieferGames-Shop erhältlich.
 
+{% hint style="info" %}
+Eine Übersicht über all deine Guthaben findest du in der **Brieftasche** im [Hilfe-System](../spielmodus-citybuild/spielstart-und-erste-schritte/hilfe-system.md) (`/?`). Dort siehst du unter anderem dein Bargeld, dein Bankguthaben, deine Kristalle und deine Prestige-Tokens.
+{% endhint %}
+
 ## In-Game-Geld $
 
 <mark style="color:green;">**Handelbar**</mark> – **Die Hauptwährung im Spiel ist die In-Game-Währung "Dollar" ($).**
@@ -36,7 +40,13 @@ Es gibt aktuell 3 Aufgabenarten:
 
 <mark style="color:blue;">**Shop-Währung**</mark> – **Währung zum Kaufen von Kisten im** [**Case-Opening**](../features/case-opening.md)**.**
 
-Die Kristalle können lediglich im [Shop](https://shop.griefergames.net) von GrieferGames gekauft werden. Mit Kristallen ist es möglich, sich im Menü vom [Case-Opening](../features/case-opening.md) Kisten zu kaufen, welche dann geöffnet werden können.
+Die Kristalle kannst du im [Shop](https://shop.griefergames.net) von GrieferGames oder direkt im Spiel über den [In-Game Store](../features/case-opening.md#in-game-store) kaufen. Mit Kristallen ist es möglich, sich im Menü vom [Case-Opening](../features/case-opening.md) Kisten zu kaufen, welche dann geöffnet werden können.
+
+Mit `/kristalle` siehst du deinen aktuellen Kristall-Kontostand.
+
+Im **Kristalllog** (`/kristalllog` oder `/kristallprotokoll`) siehst du, wann du in den letzten **30 Tagen** Kristalle erhalten oder ausgegeben hast, jeweils mit Datum, Uhrzeit, Menge und Grund. Erhaltene Kristalle sind grün markiert, ausgegebene rot.
+
+Eine Statistik im selben Menü zeigt dir, wie viele Kristalle du in diesen 30 Tagen insgesamt erhalten und ausgegeben hast.
 
 Zusätzlich kannst du dir durch einige Features wie [Adventure-Aufgaben](../features/adventure-system.md) oder [Block des Tages](../features/block-des-tages.md) kleine Kristall-Beträge verdienen.
 
