@@ -34,6 +34,10 @@ Klicke in deinem Inventar einen Block an, um diesen hinzuzufügen. Klicke im obe
 
 Es gibt Flags, bei denen ein Wert hinterlegt werden kann – wie z. B. die `time`-Flag oder die `greeting`-Flag. Hier können Texte oder andere Werte wie Zahlen etc. hinterlegt werden.
 
-{% hint style="danger" %}
-Diese Flags können aktuell nicht im Menü verwaltet werden, sondern müssen mit dem Befehl `/p flag set <Flag-Name> <Wert>` gesetzt werden _(z. B. `/p flag set time 6000`)_.
+{% hint style="warning" %}
+Die meisten dieser Flags müssen mit dem Befehl `/p flag set <Flag-Name> <Wert>` gesetzt werden _(z. B. `/p flag set time 6000`)_. Bei Text-Flags wie `greeting` zeigt dir das Menü nach einem Klick den passenden Befehl im Chat an.
 {% endhint %}
+
+### Musik (music-Flag)
+
+Ab dem [**Legende-Rang**](../../grundbefehle/range/legende-rang.md) kannst du die `music`-Flag direkt im Menü einstellen. Klicke dort auf die gewünschte Schallplatte, um die Musik auf deinem Grundstück zu aktivieren. Mit der Barriere entfernst du die Flag wieder.
