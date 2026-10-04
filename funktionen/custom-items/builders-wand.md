@@ -10,4 +10,11 @@ Die Builders Wand erleichtert das Bauen, indem sie Wände oder Strukturen um bis
 2. Klicke rechts auf einen Block, während du genug Blöcke desselben Typs im Inventar hast.
 3. Die Struktur wird abhängig von der Richtung des Klicks automatisch verlängert oder hochgezogen. (Es werden nur die Blöcke aus deinem Inventar verbraucht.)
 
+Neue Blöcke werden nur dort gesetzt, wo vorher Luft war.
+Wie viele Blöcke deine Builders Wand auf einmal setzen kann, steht auf dem Item. Ist die angeklickte Fläche größer, wird kein einziger Block gesetzt und du bekommst eine Meldung im Chat.
+
+{% hint style="success" %}
+Laub, das du mit der Builders Wand setzt, zerfällt nicht.
+{% endhint %}
+
 {% embed url="https://www.youtube.com/watch?v=EIgWkKLxhNc" %}
