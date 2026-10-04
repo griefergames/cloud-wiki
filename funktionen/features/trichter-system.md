@@ -16,6 +16,8 @@ Die Häufigkeit, mit der die Trichter auf GrieferGames ticken, ist reduziert.
 
 Ein Trichter tickt standardmäßig alle <mark style="color:red;">**8 Ticks**</mark> und verschiebt dabei <mark style="color:red;">**1 Item**</mark>. Auf GrieferGames tickt ein Trichter alle <mark style="color:green;">**80 Ticks**</mark> und verschiebt dabei <mark style="color:green;">**12 Items**</mark>. Wird in einem Tick kein Item verschoben, wartet der Trichter ebenfalls <mark style="color:green;">**80 Ticks**</mark>, bevor er erneut prüft, ob ein neues Item vorhanden ist.
 
+Auch Trichterloren nehmen auf GrieferGames nur alle <mark style="color:green;">**80 Ticks**</mark> Items auf.
+
 ## Die neuen Trichter-Optionen
 
 Machst du beim Sneaken einen Rechtsklick auf einen platzierten Trichter, öffnet sich ein Optionsmenü für diesen Trichter.
@@ -62,6 +64,8 @@ Radius 0 deaktiviert das Einsammeln von Items aus der Luft.
 
 {% hint style="info" %}
 Trichter können mit allen Blöcken verbunden werden, die ein Inventar haben – also mit allen Blöcken, in die ein Trichter auch standardmäßig weiterleiten kann.
+
+Belieferst du einen [Rezept-Werker](../custom-items/rezept-werker.md), landet jede Zutat automatisch im passenden Feld des eingestellten Rezepts.
 {% endhint %}
 
 Um einen Trichter zu verbinden, klicke auf <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> und anschließend mit leerer Hand per Rechtsklick auf den Block, der verbunden werden soll.
@@ -106,6 +110,8 @@ Diese Option ist ausschließlich zum Verteilen von Items auf verschiedene Anlage
 Für eine anderweitige Verwendung musst du im Ticket-System eine Einzelfallgenehmigung anfragen.
 {% endhint %}
 
+Als Quelle über dem Trichter eignen sich auch andere Behälter, z. B. eine Kiste oder ein Ofen. Ein weiterer Trichter ist als Quelle nicht möglich.
+
 Die Aufteilung kann bis zu 10 Ziele mit gleicher Geschwindigkeit beliefern. Mit jedem weiteren Ziel wird die Geschwindigkeit pro Ziel etwas langsamer.
 
 Die Items werden "im Kreis" an die Ziele verteilt. Ist ein Ziel voll, wird es übersprungen und im nächsten Tick normal das nächste Ziel beliefert.
@@ -137,6 +143,13 @@ Um ein Material für den Trichter zu filtern, kann das Material im Hauptmenü au
 Mit einem Klick auf das gefilterte Material oder <img src="../../.gitbook/assets/image (37) (2).png" alt="" data-size="line"> öffnet sich das Filter-Menü mit den folgenden Optionen.
 
 <figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption><p>Filter-Übersicht</p></figcaption></figure>
+
+### Whitelist und Blacklist
+
+Unten rechts im Filter-Menü wechselst du den **Trichter-Modus**:
+
+* **Whitelist:** Der Trichter nimmt nur Items auf, die zu deinen Filtern passen.
+* **Blacklist:** Der Trichter nimmt alle Items auf, außer denen, die zu deinen Filtern passen.
 
 ### Verzauberungsfilter
 
@@ -182,10 +195,28 @@ Die folgenden Optionen der Signierung können eingestellt werden:
 Der Text der Signierung muss die eingestellten Zeichen bzw. den eingestellten Text nur enthalten, aber nicht vollständig übereinstimmen.
 {% endhint %}
 
+Zusätzlich steht der Filter "keine Signatur" für Items ohne Signierung zur Verfügung.
+
 ### Beschreibungsfilter
 
-Dieser Abschnitt folgt bald. Auf der Cloud ist dieser Filter aufgrund der internationalisierten (übersetzten) Beschreibungen aktuell nicht möglich.
+Mit dem <mark style="color:orange;">**Beschreibungsfilter**</mark> legst du Texte fest, die in der Beschreibung eines Items enthalten sein müssen. Über „Weiteren Text hinzufügen“ ergänzt du weitere Texte. Dann müssen alle Texte in der Beschreibung vorkommen.
+
+Zusätzlich steht der Filter "keine Beschreibung" für Items ohne Beschreibung zur Verfügung.
+
+{% hint style="warning" %}
+Viele Beschreibungen werden auf der Cloud übersetzt angezeigt. Solche Texte erkennt der Filter unter Umständen nicht.
+{% endhint %}
 
 ### Namensfilter
 
-Dieser Abschnitt folgt bald. Auf der Cloud ist dieser Filter aufgrund der internationalisierten (übersetzten) Namen aktuell nicht eindeutig.
+Mit dem <mark style="color:orange;">**Namensfilter**</mark> nimmt der Trichter nur umbenannte Items auf. Legst du zusätzlich einen Namen fest, muss der Name des Items genau damit übereinstimmen. Den Namen gibst du nach einem Klick im Chat ein.
+
+### Ressourcenpaket-Filter
+
+Mit dem <mark style="color:orange;">**Ressourcenpaket-Filter**</mark> filterst du Items mit einer besonderen Optik aus dem [Ressourcenpaket](../ressourcenpaket.md). Du kannst unter anderem festlegen, ob nur platzierbare oder nur nicht platzierbare Items durchgelassen werden.
+
+Zusätzlich steht der Filter "kein Ressourcenpaket" für Items ohne besondere Optik zur Verfügung.
+
+### Sicherheitscode-Filter
+
+Mit dem <mark style="color:orange;">**Sicherheitscode-Filter**</mark> nimmt der Trichter nur Items mit Sicherheitscode auf, z. B. einlösbare Items. Mit dem Filter "kein Sicherheitscode" nimmt er nur Items ohne Sicherheitscode auf.
