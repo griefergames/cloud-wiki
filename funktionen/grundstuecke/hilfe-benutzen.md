@@ -19,3 +19,13 @@ Im Hilfe-Menü kannst du das Biom einfach per Menü-Klick wechseln und du siehst
 ## Flags verwalten
 
 Auch die Flags deines Grundstücks kannst du im Hilfe-Menü unter Grundstücke → Flag-Verwaltung einstellen. Mehr dazu unter [Flags setzen](flags-setzen/README.md).
+
+## Spieler verwalten
+
+Auf deinem eigenen Grundstück findest du im Hilfe-Menü die Listen **Vertraute Spieler**, **Mitglieder** (Helfer) und **Verbotene Spieler**. Mit einem Klick auf einen Spielerkopf entfernst du den Spieler gezielt aus dieser einen Liste.
+
+Neue Spieler fügst du weiterhin per Befehl hinzu. Ein Klick auf „**Spieler hinzufügen**“ zeigt dir den passenden Befehl im Chat an. Mehr dazu unter [Grundstücksrechte](grundstucksrechte.md).
+
+{% hint style="info" %}
+Einträge, die für alle Spieler gelten (`*`), werden in diesen Listen nicht angezeigt.
+{% endhint %}
