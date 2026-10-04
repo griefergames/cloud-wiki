@@ -65,6 +65,7 @@
   * [Eheringe](funktionen/custom-items/eheringe.md)
   * [Einmalige Gegenstandsreparatur](funktionen/custom-items/einmalige-gegenstandsreparatur.md)
   * [Fragmente](funktionen/custom-items/fragmente.md)
+  * [Gefängnis-frei-Karte](funktionen/custom-items/gefaengnis-frei-karte.md)
   * [Gegenstandsrettung](funktionen/features/gegenstandsrettung.md)
   * [Items mit Zufallswerten](funktionen/custom-items/items-mit-zufallswerten.md)
   * [Köpfe-Säbel](funktionen/custom-items/kopfe-sabel.md)
