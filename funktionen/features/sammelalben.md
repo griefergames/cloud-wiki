@@ -2,7 +2,13 @@
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Übersicht einer Sammlung</p></figcaption></figure>
 
-In den Sammelalben können Karten (oder auch andere Gegenstände) gesammelt werden. Eine Sammlung besteht dabei aus maximal 18 normalen Karten, 18 besonderen Karten und einer epischen Karte.
+In den Sammelalben können Karten und andere Sammelgegenstände gesammelt werden, z. B. Köpfe aus der [Köpfe-Kiste](case-opening.md) oder Plüschtiere. Eine Kartensammlung besteht dabei aus maximal 18 normalen Karten, 18 besonderen Karten und einer epischen Karte.
+
+## Sammelalbum öffnen
+
+Dein Sammelalbum öffnest du mit `/sammelalbum` oder `/album`. In der Übersicht siehst du zuerst die Sammlungen, die du bereits begonnen hast. Über den **Filter** unten im Menü lässt du dir alle Sammlungen anzeigen.
+
+Mit `/sammelalbum <Spieler>` siehst du dir das Album eines anderen Spielers an. Karten hineinlegen oder herausnehmen kannst du dort nicht.
 
 ## Karten in die Sammlung legen & entfernen
 
