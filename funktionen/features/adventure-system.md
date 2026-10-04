@@ -29,6 +29,10 @@ Es gibt aktuell drei verschiedene Arten von Aufgaben, die sich wie folgt spezifi
 {% tabs %}
 {% tab title="Abbau-Aufgaben" %}
 Du erhältst ein Tool, mit dem du eine bestimmte Anzahl eines Blocks abbauen musst. Beim Abbauen mit diesem Tool wird der Block zerstört. _(Das Tool kann nur von dir und nur für den bestimmten Block verwendet werden.)_
+
+Hast du genug abgebaut, klicke die Aufgabe erneut an, um das Tool abzugeben. Das Tool muss dafür in deinem Inventar sein.
+
+Hast du das Tool nicht im Inventar, erhältst du mit diesem Klick ein neues. Dein Fortschritt wird auf dem Tool gespeichert, mit dem neuen Tool beginnst du deshalb wieder bei 0.
 {% endtab %}
 
 {% tab title="Liefer-Aufgaben" %}
@@ -56,7 +60,11 @@ Für das Abschließen der Aufgaben bekommst du folgende Belohnungen:
 * Monatliche Aufgabe: <mark style="color:orange;">**14 Adventure Coins**</mark> (Reset am 1. Tag des Monats um 0:00 Uhr)
 
 {% hint style="info" %}
-Zusätzlich besteht die Chance, MysteryMod-Cosmetics oder Kristalle zu erhalten.
+Zusätzlich besteht die Chance auf [Kristalle](../waehrungen/):
+
+* Tägliche Aufgabe: Chance auf 1 bis 8 Kristalle
+* Wöchentliche Aufgabe: Chance auf 12 bis 24 Kristalle
+* Monatliche Aufgabe: immer 60 bis 74 Kristalle
 {% endhint %}
 
 ### Amin-Shop
@@ -64,3 +72,9 @@ Zusätzlich besteht die Chance, MysteryMod-Cosmetics oder Kristalle zu erhalten.
 Beim Amin-Shop sind Items für Adventure Coins kaufbar. Das Angebot im Shop wechselt täglich. Mehr zu den Händlern unter [Die Händler](die-handler.md).
 
 ![](<../../.gitbook/assets/2 (1) (1).png>)
+
+## Statistiken
+
+Im Menü des Adventurers findest du deine **persönlichen Statistiken**. Dort siehst du, wie viele tägliche, wöchentliche und monatliche Aufgaben du erledigt und wie viele Adventure Coins du damit verdient hast.
+
+Unter **Ranking** siehst du deinen Punktestand und deinen aktuellen Platz. Mit einem Klick darauf werden dir die Spieler mit dem höchsten Punktestand angezeigt.
