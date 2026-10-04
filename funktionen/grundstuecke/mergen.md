@@ -1,8 +1,9 @@
 ---
-description: Verbinden von Grundstücken
+description: >-
+  Funktion und Hinweise zum Mergen
 ---
 
-# Mergen
+# Grundstücke verbinden
 
 Du hast die Möglichkeit, mehrere deiner Grundstücke zu verbinden und ein großes Grundstück daraus zu erstellen.
 
@@ -24,6 +25,10 @@ Um Probleme oder Fehler zu vermeiden, gibt es ein paar Punkte, die du vor dem Me
   Durch das Verbinden der Grundstücke wird die Straße zwischen den Grundstücken zu deinem Grundstück hinzugefügt. Es kann also passieren, dass Wasser oder Lava nach dem Vorgang fließen.
 * **Alias temporär entfernen**\
   Manchmal passiert es, dass ein Alias auf nur einem Grundstück zurückbleibt. Deshalb empfehlen wir, den Alias für den Merge-Vorgang temporär zu entfernen und danach neu zu setzen.
+* **Farm-Sammler danach neu einrichten**\
+  Beim Mergen werden die Einstellungen der [Farm-Sammler](farm-sammler.md) zurückgesetzt. Merke dir vorher, welche Lager du für welches Material hinterlegt hattest.
+* **Flags aus Flag-Items prüfen**\
+  Flags, die du mit einem Item aktiviert hast (z. B. [Fly+](flags-setzen/fly+-flag.md)), können beim Mergen verloren gehen. Wieder aktivieren lassen sie sich dann nur mit einem neuen Item.
 
 {% hint style="danger" %}
 Ränder, Wände sowie Streamer- & Admin-Ränder verschwinden beim Merge-Vorgang.
@@ -34,6 +39,10 @@ Ränder, Wände sowie Streamer- & Admin-Ränder verschwinden beim Merge-Vorgang.
 Beim Merge-Vorgang selbst ist es wichtig zu beachten, wie man wo steht.
 
 Um Grundstücke zu mergen, muss der Befehl `/merge` eingegeben werden und die Ausführung mit `/merge confirm` bestätigt werden.
+
+{% hint style="info" %}
+Mit einem **Merge-Gutschein** führst du einen Merge-Vorgang durch, ohne die 50.000 Dollar zu bezahlen. Stelle dich dafür auf dein Grundstück, schaue in die gewünschte Richtung und benutze den Gutschein.
+{% endhint %}
 
 ### Die Blickrichtung
 
