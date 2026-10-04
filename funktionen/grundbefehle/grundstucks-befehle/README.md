@@ -13,6 +13,7 @@ Die meisten Grundstücks-Befehle beginnen mit `/p` (Kurzform von `/plot`). Mehr 
 | /p auto    | Erhalte ein zufällig gewähltes freies Grundstück                    |
 | /p claim   | Erhalte das freie Grundstück, auf welchem du dich aktuell befindest |
 | /checkplot | Grundstück eines inaktiven Spielers beantragen                      |
+| /checkplot list | Status deiner Checkplot-Anträge anzeigen |
 
 ### Grundstücks-Teleport
 
@@ -32,6 +33,10 @@ Die meisten Grundstücks-Befehle beginnen mit `/p` (Kurzform von `/plot`). Mehr 
 | /merge                            | [Grundstücke verbinden](../../grundstuecke/mergen.md)                                                                               |
 | /p clear                          | <p>Grundstück in den Ursprungszustand versetzen <br></p><p><strong>Achtung!</strong> Bei einem Merge werden die Grundstücke getrennt!</p> |
 | <p>/p delete<br>/p reset</p>      | Grundstück löschen und freigeben                                                                                                          |
+| /p collectors                     | [Farm-Sammler](../../grundstuecke/farm-sammler.md) deines Grundstücks einrichten |
+| /p visitors                       | Besucherstatistik deines Grundstücks anzeigen (ab [Supreme-Rang](../range/supreme-rang.md)) |
+| /plotholo                         | [Hologramme](../../grundstuecke/hologramme.md) auf dem Grundstück verwalten |
+| /plotnpc                          | [Plot-NPCs](../../grundstuecke/plot-npc.md) auf dem Grundstück verwalten |
 
 ### Rechte verwalten
 
@@ -64,11 +69,14 @@ Der Befehl `/p trust *` gibt Spielern Rechte **auf dem gesamten Grundstück** un
 | /setowner {Spielername}            | Starte eine Überschreibung deines Grundstücks an einen anderen Spieler                                                                                                                 |
 | /setowner confirm                  | Bestätige die Überschreibung eines Grundstücks                                                                                                                                         |
 | /setowner deny                     | Lehne die Überschreibung eines Grundstückes ab                                                                                                                                         |
+| /setowner cancel                   | Brich eine gesendete Überschreibung wieder ab |
 | /p description {Text}              | Füge deinem Grundstück eine Beschreibung hinzu                                                                                                                                         |
 | /p description                     | Entferne die Beschreibung des Grundstücks                                                                                                                                              |
 | /p alias set {Text}                | <p>Gib dem Grundstück einen Namen (Alias)<br><br><strong>Achtung!</strong> Es können keine Namen von Spielern genutzt werden, welche bereits auf dem Server angemeldet sind/waren.</p> |
 | <p>/p chat on<br>/p chat off</p>   | <p>Schreibe im Grundstücks-Chat<br>Schreibe im Normalchat</p>                                                                                                                          |
+| /pchat {Nachricht}                 | Schreibe eine einzelne Nachricht direkt in den Grundstücks-Chat |
 | /p flag set {Flag} {true/false/ID} | [Grundstücks-Flag](../../grundstuecke/flags-setzen/README.md) setzen                                                                                                                          |
 | /p setorder {Zahl}                 | Setzt das Grundstück an die ausgewählte Position deiner Grundstücksliste                                                                                                               |
-| /bewertung                         | Aktiviere die Bewertungsfunktion für dein Grundstück                                                                                                                                   |
 | /breakblock                        | Baut einen geschützten Block (z.B. Barrieren, Endportalrahmen, Grundgestein) auf deinem Grundstück ab. Der Block wird nach dem Anklicken abgebaut und geht verloren.                       |
+| /plotpay * {Betrag}                | Überweise jedem Spieler auf dem Grundstück, auf dem du stehst, den Betrag (mindestens 10 Dollar pro Spieler). Dafür benötigst du die **Plot-Pay-All-Rechte**. |
+| /spawnplot                         | Melde ein inaktives oder unbebautes [Spawn-Grundstück](../../grundstuecke/spawn-grundstucke.md) |
