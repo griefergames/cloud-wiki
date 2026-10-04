@@ -24,6 +24,8 @@ Ist kein Auftrag mit demselben Preis mehr vorhanden, wird nicht automatisch für
 
 Um Informationen zu den Ankäufern zu erhalten, mache einen Rechtsklick auf ein Item. Dann siehst du die Liste aller aktuellen Angebote mit Spieler, Preis und Zeitpunkt des Angebots.
 
+Mit dem **Filter** unten im Menü findest du schnell die Aufträge für ein bestimmtes Item. Klicke dafür das Item in deinem Inventar an. Ein Klick auf den Filter hebt ihn wieder auf.
+
 ## Neues Angebot einstellen
 
 Wenn du selbst ein Angebot erstellen möchtest, um Items anzukaufen, klicke im Menü der Jobbörse auf den Button **Meine Aufträge** <img src="../../.gitbook/assets/image (23) (1) (1) (1).png" alt="" data-size="line">.
@@ -59,3 +61,17 @@ Wähle danach unter **Menge wählen** die Anzahl der Stacks, die du ankaufen mö
 Wählst du eine eigene Anzahl, musst du die **Menge in Stacks in den Chat** eingeben. Danach öffnet sich das Menü automatisch erneut.
 
 Sind Item, Preis und Menge gewählt, wird unten rechts statt des roten Symbols ein grüner Haken angezeigt, mit dem du den Auftrag erstellst (siehe Abbildungen oben).
+
+Beim Erstellen wird der gesamte Auftragswert sofort von deinem Konto abgebucht. Dazu kommt eine Gebühr von **10 %**. Beides siehst du vor dem Bestätigen am grünen Haken.
+
+## Aufträge verwalten
+
+Unter **Meine Aufträge** siehst du zu jedem Auftrag, wie viele Stacks schon geliefert wurden und wie viele zum Abholen bereitliegen. Aufträge, bei denen Items zum Abholen bereitliegen, werden verzaubert dargestellt.
+
+Mit einem Klick auf den Auftrag holst du die gelieferten Items ab. Sie werden als volle Stacks in dein Inventar gelegt, solange dort Platz ist.
+
+Mit einem Rechtsklick und anschließender Bestätigung brichst du einen Auftrag ab. Für die noch nicht gelieferten Stacks erhältst du dein Geld zurück, abzüglich einer Gebühr von **10 %**. Bereits gelieferte Items kannst du danach weiterhin abholen.
+
+{% hint style="warning" %}
+Aufträge laufen nicht unbegrenzt. Wurde ein Auftrag nach **30 Tagen** noch gar nicht beliefert, wird er automatisch abgebrochen. Alle anderen Aufträge werden nach **60 Tagen** abgebrochen. Du erhältst das übrige Geld abzüglich der Gebühr zurück.
+{% endhint %}
