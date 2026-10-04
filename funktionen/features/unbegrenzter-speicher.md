@@ -14,7 +14,7 @@ In einem unbegrenzten Speicher können bis zu **2.147.483.647 Einheiten** eines 
 
 Die Verwendung mit Trichtern ist ganz normal möglich. Dabei werden die ersten 26 Slots normal befüllt, der letzte Slot bleibt frei. Items, die dort abgelegt werden, wandern in das zusätzliche Lager.
 
-Die gelagerte Menge wird im Titel unter „Storage:“ angezeigt. Sie aktualisiert sich erst, wenn das Lager erneut geöffnet wird. Ab 10.000 Items wird die Menge auf volle Tausend abgerundet dargestellt.
+Die gelagerte Menge wird im Titel unter „Storage:“ angezeigt. Sie aktualisiert sich erst, wenn das Lager erneut geöffnet wird. Ab 10.000 Items wird die Menge in Tausend abgerundet dargestellt (z. B. „12k“), ab 10 Millionen Items in Millionen (z. B. „15m“).
 
 Items aus dem zusätzlichen Lager können per Trichter entnommen werden. Außerdem rutschen sie in die sichtbaren Slots nach, sobald du Items per Shift-Klick aus dem Lager nimmst oder das Lager aktualisierst, indem du ein Item aus deiner Hand hineinlegst.
 
@@ -50,15 +50,19 @@ Die Herstellung des unbegrenzten Speichers ist mit den [CustomBlock](../../allge
 Stellst du den unbegrenzten Speicher mit Kisten der [CustomBlocks](../../allgemein/clients-and-modifikationen/customblocks.md) her, dann kannst du diese auch separat mit der Use-Flag freigeben.
 {% endhint %}
 
-## Verfügbare Items
+## Anzeige am Speicher
 
-Unbegrenzte Speicher können für fast alle Items erstellt werden. Einzelne Items – wie z. B. Leuchtfeuer – sind jedoch ausgeschlossen.
+Mit dem Item **Unendliches Lager - Display-Aktivierung** lässt du vor einem unbegrenzten Speicher anzeigen, welches Item darin lagert und wie viel davon. Halte das Item dazu in der Hand und klicke damit auf den Speicher.
+
+{% hint style="info" %}
+Jeder unbegrenzte Speicher kann nur eine Anzeige haben. Die angezeigte Menge wird nicht bei jeder Änderung sofort aktualisiert.
+{% endhint %}
 
 ### Ausnahmen
 
-Folgende Items stehen nicht zur Verfügung: Treppen, Stufen, Türen, Knöpfe, Zäune, Zauntore, Falltüren, Druckplatten und Leuchtfeuer.
+Folgende Items stehen nicht zur Verfügung: Leuchtfeuer, Spawner, Spawn-Eier, Shulker-Kisten und Shulker-Schalen, Bündel, Drachenei, Elytren, Knospender Amethyst, Verstärkter Tiefenschiefer, befallene Blöcke, Fässer sowie Blöcke der [CustomBlocks](../../allgemein/clients-and-modifikationen/customblocks.md).
 
-Außerdem kann für Items, die zusätzliche Informationen benötigen (wie z. B. Tränke oder Verzauberungsbücher), kein unbegrenzter Speicher erstellt werden.
+Außerdem kann für Items, die zusätzliche Informationen benötigen (wie z. B. Tränke, getränkte Pfeile, Verzauberungsbücher, beschriebene Bücher, Karten, Ziegenhörner, Seltsame Suppe oder Eimer mit Axolotl bzw. Tropenfisch), kein unbegrenzter Speicher erstellt werden.
 
 ## Abbau
 
@@ -79,6 +83,10 @@ Spielsteine werden von Trichterfiltern und Ähnlichem als das ursprüngliche Ite
 ### Verzauberte Items
 
 Das Einlagern verzauberter Items per Trichter wird blockiert. Das kann ggf. dazu führen, dass der Trichter-Slot blockiert wird.
+
+### Beschädigte Items
+
+Beschädigte Werkzeuge, Waffen oder Rüstungsteile werden nicht in den zusätzlichen Speicher übernommen.
 
 ### Freigabe-Flags („use“)
 
