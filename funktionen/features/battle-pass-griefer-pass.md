@@ -52,11 +52,29 @@ Damit es am Ende einer Pass-Season nicht zu stressig wird, gibt es in den letzte
 
 Einige Aufgaben können mehrmals abgeschlossen werden, wie diese tägliche Aufgabe. Die Anzeige „Fortschritt“ zeigt den Stand der aktuellen Wiederholung und wird nach dem Abschließen der Aufgabe wieder auf 0 gesetzt.
 
+#### Gleiche Aufgaben
+
+Kommt dieselbe Aufgabe mehrmals vor, zählt dein Fortschritt immer nur für eine davon. Zuerst wird die tägliche Aufgabe erledigt, danach die Aufgabe aus der früheren Woche.
+
+Solange die erste Aufgabe offen ist, werden die gleichen Aufgaben in der Liste rot angezeigt.
+
+### Aufgaben verfolgen
+
+Klicke in der Aufgabenliste auf eine offene Aufgabe, um sie zu verfolgen. Oben auf deinem Bildschirm erscheint dann eine Leiste mit der Aufgabe und deinem aktuellen **Fortschritt**.
+
+Es kann immer nur eine Aufgabe gleichzeitig verfolgt werden. Ein erneuter Klick auf die Aufgabe beendet das Verfolgen. Ist die Aufgabe abgeschlossen, verschwindet die Leiste automatisch.
+
 ## Belohnungen
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-Im Battle Pass stehen verschiedene Belohnungen zur Verfügung, welche mit Erreichen des jeweiligen Pass-Levels freigeschaltet werden.
+Im Battle Pass stehen verschiedene Belohnungen zur Verfügung, welche mit Erreichen des jeweiligen Pass-Levels freigeschaltet werden. Mit einem Klick auf eine freigeschaltete Belohnung holst du sie ab.
+
+Als Belohnungen gibt es z. B. Items, Geld, [Kristalle](../waehrungen/) und Kisten für das [Case-Opening](case-opening.md). Bei der Belohnung **Saisonale Kiste** erhältst du immer die Kiste, die beim Abholen gerade aktuell ist.
+
+{% hint style="warning" %}
+Für Items brauchst du freie Plätze im Inventar. Ist dein Inventar zu voll, kannst du die Belohnung erst abholen, wenn du Platz geschaffen hast.
+{% endhint %}
 
 ### Standard-Pass-Belohnungen
 
