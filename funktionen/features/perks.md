@@ -16,6 +16,26 @@ Im Hauptmenü findest du eine Übersicht über die existierenden Perks. Wenn du 
 
 <figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Perk-Beschreibung (Plot-Fliegen)</p></figcaption></figure>
 
+Zu den Perks gehören unter anderem:
+
+| Perk                | Wirkung                                                                                                                                                                     |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Plot-Fliegen        | Fliegen auf deinen eigenen Grundstücken und auf Grundstücken, auf denen du vertraut bist. Auf Grundstücken mit [Fly+ Flag](../grundstuecke/flags-setzen/fly+-flag.md) ebenfalls. |
+| Kein Fallschaden    | Du bekommst keinen Fallschaden mehr.                                                                                                                                        |
+| Kein Hunger         | Du bekommst keinen Hunger mehr.                                                                                                                                             |
+| Geschwindigkeit     | Du bist schneller auf dem Server unterwegs.                                                                                                                                 |
+| Gunst des Delfins   | Du kannst im Wasser schneller schwimmen.                                                                                                                                    |
+| Keep XP             | Du behältst deine XP und Level, wenn du stirbst.                                                                                                                            |
+| Keep Inventory      | Du behältst dein Inventar beim Tod.                                                                                                                                         |
+| Telekinese          | Gegenstände werden beim Abbauen und Töten automatisch eingesammelt.                                                                                                         |
+| Shulker-Anzeige     | Du kannst Shulker-Kisten aus dem Inventar heraus öffnen, ohne sie zu platzieren (siehe unten).                                                                              |
+| Schneller abbauen   | Du erhältst einen Abbau-Boost.                                                                                                                                              |
+| Leuchten            | Du erhältst den Leuchten-Effekt.                                                                                                                                            |
+| Mehr Herzen         | Du erhältst mehr Herzen.                                                                                                                                                    |
+| Kein Elytra-Schaden | Du erhältst keinen Schaden, wenn du mit der Elytra gegen einen Block fliegst.                                                                                               |
+| Nachtsicht          | Du erhältst den Nachtsicht-Effekt.                                                                                                                                          |
+| Feuerresistenz      | Du bist in Feuer und Lava durch Feuerresistenz besser geschützt.                                                                                                            |
+
 ### Perks einlösen / erhalten
 
 Die Perks können über einlösbare Items erhalten und verlängert werden.
@@ -45,6 +65,14 @@ An jedem Tag, an dem du das Perk aktivierst oder dich mit aktiviertem Perk einlo
 {% hint style="info" %}
 Aktivierst du ein Perk also nachts um 23 Uhr, beträgt die Laufzeit für diesen Tag nur noch eine Stunde. Bei einem Login nach 0 Uhr wird ein weiterer Tag abgezogen.
 {% endhint %}
+
+Am letzten Tag der Laufzeit erhältst du beim Einloggen einen Hinweis im Chat. Ist die Laufzeit abgelaufen, wird das Perk automatisch deaktiviert.
+
+## Shulker-Anzeige benutzen
+
+Mit aktiver **Shulker-Anzeige** öffnest du eine Shulker-Kiste mit einem Rechtsklick auf die Kiste in deinem Inventar. Öffnest du dafür nur dein eigenes Inventar, kannst du den Inhalt direkt bearbeiten.
+
+Hast du gerade eine Truhe oder ein anderes Menü geöffnet, kannst du den Inhalt der Shulker-Kiste nur ansehen.
 
 ## Einstellungen Shulker-View + Litematica
 
