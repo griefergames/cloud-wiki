@@ -51,6 +51,7 @@
   * [Mobs auf dem Grundstück](funktionen/grundstuecke/mobs-auf-dem-grundstuck.md)
   * [Grundstücke verschieben & erweitern](funktionen/grundstuecke/grundstucke-verschieben-and-erweitern.md)
   * [Spawn-Grundstücke](funktionen/grundstuecke/spawn-grundstucke.md)
+  * [Immobilienbörse](funktionen/grundstuecke/immobilienboerse.md)
 * [💰 Währungen](funktionen/waehrungen/README.md)
   * [In-Game-Geld $](funktionen/waehrungen/in-game-geld-usd.md)
 * [⚔️ Besondere Items](funktionen/custom-items/README.md)
