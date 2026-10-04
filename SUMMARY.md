@@ -88,6 +88,7 @@
   * [Upgradebare Tools](funktionen/custom-items/upgradebare-tools.md)
   * [Verfluchter Stab](funktionen/custom-items/verfluchter-stab.md)
   * [Versunkene Kanone](funktionen/custom-items/versunkene-kanone.md)
+  * [Verzauberungs-Upgrade / Verzauberungs-Entferner](funktionen/custom-items/verzauberungs-upgrade-und-entferner.md)
 * [❤️ Features](funktionen/features/README.md)
   * [🗝️ Abschließbare Kiste](funktionen/features/abschliessbare-kiste.md)
   * [🪙 Adventure-System](funktionen/features/adventure-system.md)
