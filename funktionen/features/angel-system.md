@@ -24,7 +24,7 @@ Wenn du mit einem Köder angelst, kannst du weitere Fische aus dem Wasser ziehen
 
 ## Angel-System Menü
 
-Mit dem Befehl `/angeln` kommst du in das Menü des Angel-Systems.
+Mit dem Befehl `/angeln` öffnest du dein **Angeltagebuch**, das Menü des Angel-Systems.
 
 Dort findest du die folgenden Informationen:
 
@@ -32,7 +32,7 @@ Dort findest du die folgenden Informationen:
 * Anzahl deiner geangelten Fische
 * Die verschiedenen Köder
 * Die verschiedenen Fische
-* Die verschiedenen „Sonstiges Angelbares“
+* Den geangelten Müll
 * Die Fische, die man bereits geangelt hat
 
 ## Köder
@@ -75,6 +75,10 @@ Fische unterscheiden sich durch den benötigten Köder, das erforderliche Angel-
 
 Fische können in verschiedenen Biomen vorkommen. Ebenso können sie nur mit bestimmten Ködern gefangen werden und teilweise auch erst nach Erreichen eines Köderlevels. Diese Übersicht ist im Menü der Fische und in der Detailansicht des Fisches zu sehen.
 
+{% hint style="info" %}
+Über **Ansicht filtern** in der Fisch-Übersicht lässt du dir nur die Fische anzeigen, die in deinem aktuellen Biom gefangen werden können. Ebenso kannst du nur gefangene oder nur noch unentdeckte Fische anzeigen lassen.
+{% endhint %}
+
 <div align="center"><img src="../../.gitbook/assets/unknown (17).png" alt=""></div>
 
 ### Gefangene Fische
@@ -85,7 +89,7 @@ Jeder gefangene Fisch zählt als Erfahrung für deinen verwendeten Köder. Ebenf
 
 ## Andere Dinge aus dem Wasser
 
-Zusätzlich zu Fischen können auch andere Dinge aus dem Wasser gezogen werden. Unter „Geangeltes Diverses“ findest du eine Übersicht über die Gegenstände, die du bereits geangelt hast.
+Zusätzlich zu Fischen können auch andere Dinge aus dem Wasser gezogen werden. Unter „Geangelter Müll“ findest du eine Übersicht über die Gegenstände, die du bereits geangelt hast. Was du noch nicht gefangen hast, wird dort als „Unbekannter Müll“ angezeigt.
 
 <div align="center"><img src="../../.gitbook/assets/unknown (19).png" alt=""></div>
 
