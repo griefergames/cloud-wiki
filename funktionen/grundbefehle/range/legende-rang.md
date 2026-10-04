@@ -7,8 +7,12 @@ Der <mark style="color:red;">Legende</mark>-Rang kann nur im Shop gekauft werden
 * Hellroter [Prefix](../../features/prefixe.md) im Chat
 * 5 Homes setzen mit `/sethome`
 * [Clan](../../features/clan-system.md) darf 4 Mitglieder mehr haben (inkl. Premium, Ultra)
-* Musik auf dem Grundstück abspielen lassen mit `/p flag set music`
+* Musik auf dem Grundstück abspielen lassen mit `/p flag set music <Schallplatte>`
 * Benachrichtigung erhalten, wenn jemand dein Grundstück betritt mit `/p flag set notify-enter true`
 * Benachrichtigung erhalten, wenn jemand dein Grundstück verlässt mit `/p flag set notify-leave true`
 * Individuelle Grußnachricht senden, wenn jemand dein Grundstück betritt mit `/p flag set greeting`
+
+{% hint style="info" %}
+Die Musik kannst du auch im Hilfe-Menü auswählen. Öffne dazu auf deinem Grundstück `/?` → „Grundstücke“ → „Flag-Verwaltung“ → „music-Flag“ und klicke die gewünschte Schallplatte an. Mehr dazu unter [Flags setzen](../../grundstuecke/flags-setzen/README.md).
+{% endhint %}
 
