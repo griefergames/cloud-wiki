@@ -30,3 +30,32 @@ Du musst deine Belohnung nicht sofort einlösen, wir sammeln sie für dich. Vote
 Pro täglicher Abstimmung erhält dein Account eine [Vote-Kiste](case-opening.md#die-vote-kiste).
 
 Zusätzlich zu deiner täglichen Vote-Kiste kannst du in den [Erfolgen](erfolge-advancements.md) weitere Belohnungen für kontinuierliches Voten erhalten.
+
+## Vote-Streak
+
+Votest du an mehreren Tagen hintereinander, baust du eine **Vote-Streak** auf. Deine Streak gilt für das 1.8- und das Cloud-Netzwerk gemeinsam.
+
+Am [Spawn](../spielmodus-citybuild/der-spawn.md) findest du den NPC **Vote-System**. Dort siehst du deine aktuelle Streak, deine höchste Streak und deine gesamten Votes. Außerdem kannst du dort deine Vote-Kisten öffnen.
+
+Unter **Vote-Streak** siehst du die Belohnungen für eine bestimmte Anzahl an Votes hintereinander. Hast du eine Stufe erreicht, klicke sie an, um die Belohnung abzuholen.
+
+| Streak | Belohnung                                                          |
+| ------ | ------------------------------------------------------------------ |
+| 10     | 500 Dollar und 1 Vote-Kiste                                        |
+| 25     | 1.000 Dollar und 3 Köpfe-Kisten                                    |
+| 50     | 5.000 Dollar und 5 Köpfe-Kisten                                    |
+| 100    | 10.000 Dollar und 5 Platin-Kisten                                  |
+| 250    | 15.000 Dollar und 1.500 [Kristalle](../waehrungen/)                |
+| 500    | 20.000 Dollar und 1.750 Kristalle                                  |
+| 750    | 25.000 Dollar und 2.000 Kristalle                                  |
+| 1.000  | 32.500 Dollar und 2.250 Kristalle                                  |
+| 1.250  | 40.000 Dollar und 2.500 Kristalle                                  |
+| 1.500  | 50.000 Dollar und 2.750 Kristalle                                  |
+| 1.750  | 75.000 Dollar und 3.000 Kristalle                                  |
+| 2.000  | 100.000 Dollar und 3.500 Kristalle                                 |
+| 2.500  | 200.000 Dollar und 4.000 Kristalle                                 |
+| 3.000  | 250.000 Dollar und 5.000 Kristalle                                 |
+
+{% hint style="info" %}
+Hast du deine Streak verloren, kannst du sie mit einem **Vote-Streak-Retter** wiederherstellen. Dafür musst du zuerst wieder voten. Der Retter stellt deine höchste Streak der letzten **30 Tage** wieder her.
+{% endhint %}
