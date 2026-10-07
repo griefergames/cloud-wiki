@@ -67,7 +67,7 @@ Das Plot-Map-Menü befindet sich im Hauptmenü der `/minigames` unter <img src="
 <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Plot-Map-Informationen</p></figcaption></figure>
 
 * **Bereit:** Gibt an, ob die Map spielbereit ist. Ist eine Map nicht spielbereit, wird diese ggf. noch vorbereitet oder enthält Fehler.
-* **Bewertung:** Hier ist die Zusammenfassung deiner Map-Bewertungen zu sehen, wenn die Map bereits bewertet wurde.
+* **Bewertung:** Hier ist die Zusammenfassung deiner Map-Bewertungen zu sehen, wenn die Map bereits bewertet wurde. Bewertet wird eine eingereichte Map von den Spielern am Ende einer Runde über die Bewertungsgegenstände in ihrer Hotbar.
 * <mark style="color:red;">**Fehler:**</mark> Hier werden Fehler der Map angezeigt, welche beim Generieren der Map festgestellt wurden. Beispiel: <img src="../../../../.gitbook/assets/image (38) (1).png" alt="" data-size="line">
 * **Community-Map:** Zeigt an, ob deine Map als Community-Map für alle verfügbar ist bzw. wie der Status deiner Einsendung ist.
 
@@ -109,6 +109,7 @@ Um Informationen deiner Map, wie zum Beispiel den Namen, zu bearbeiten, klicke i
 * **Game-Icon:** Info zum gewählten Spiel (kann nicht geändert werden)
 * **Map-Icon:** Zeigt das Icon der Plot-Map an (kann über Auswahl eines Items im Inventar geändert werden)
 * **Kartentisch:** Community-Map-Status bzw. Einreichen als Community-Map
+* **Kettenbefehlsblock:** Map testen. Damit öffnest du eine kostenlose private Test-Lobby mit deiner Map. Der Knopf erscheint, sobald die Map spielbereit ist und solange sie noch keine Community-Map ist.
 * **Barriere:** Map löschen
 
 ### Als Community-Map einreichen
