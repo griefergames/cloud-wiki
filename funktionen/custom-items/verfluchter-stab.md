@@ -6,8 +6,17 @@ Der Verfluchte Stab ist unberechenbar: Er kann einem anvisierten Spieler 20 Seku
 
 ## So funktioniert das Item
 
-1. Rechtsklicke mit dem Stab auf einen Spieler.
-2. Der Spieler erhält einen zufälligen Effekt.
+1. Ziele mit dem Stab auf einen Spieler. Er darf bis zu **50 Blöcke** entfernt sein.
+2. Rechtsklicke mit dem Stab.
+3. Der Spieler erhält einen zufälligen Effekt.
+
+{% hint style="info" %}
+Triffst du keinen Spieler, wird keine Nutzung verbraucht.
+{% endhint %}
+
+{% hint style="warning" %}
+Auf Grundstücken funktioniert der Stab nur, wenn du dort Besitzer oder hinzugefügt bist oder die PvP-Flag aktiviert ist. Außerhalb von Grundstücken, z. B. auf der Straße, funktioniert er auf dem Citybuild nicht. In der Farmwelt kannst du ihn überall benutzen.
+{% endhint %}
 
 ## Mögliche Effekte
 
