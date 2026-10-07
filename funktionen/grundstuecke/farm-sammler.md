@@ -14,6 +14,17 @@ Im Menü sind alle verfügbaren Materialien zu sehen. Ist ein Sammler aktiviert,
 
 Das System sammelt automatisch die Items auf, welche natürlich oder durch Block-zu-Block-Interaktion (Kolben, Flugmaschinen etc.) droppen – quasi ein „magischer Trichter“ für das gesamte Grundstück.
 
+Aktuell gibt es Sammler für folgende Farm-Items:
+
+* Kaktus
+* Bambus
+* Zuckerrohr
+* Melonenscheiben
+* Seetang
+* Moosblöcke und Moosteppiche
+* Blasse Moosblöcke und blasse Moosteppiche
+* Harzklumpen
+
 Ist ein Sammler aktiviert, droppen diese Items nicht mehr, sondern werden direkt in das dafür hinterlegte Lager geführt. Folgendes muss jedoch beachtet werden:
 
 {% hint style="danger" %}
@@ -33,8 +44,16 @@ Items, die durch **Spieler-Interaktion** (z.B. selbst abbauen) abgebaut werden, 
 Das Einsammeln wird pro Material aktiviert. Stelle dich dafür vor dein gewünschtes Lager und öffne das Sammler-Menü mit `/p collectors` und führe für das gewünschte Material folgende Schritte aus:
 
 1. Klicke das gewünschte Material im Menü an
-2. Klicke (am besten mit Rechtsklick) auf das Lager (Truhe, Fass etc.), in das die Items fließen sollen
+2. Klicke innerhalb von **30 Sekunden** (am besten mit Rechtsklick) auf das Lager (Truhe, Fass etc.), in das die Items fließen sollen
 3. Fertig! Das war schon alles.
+
+{% hint style="info" %}
+Das Sammler-Menü kann nur der Besitzer des Grundstücks öffnen.
+{% endhint %}
+
+{% hint style="warning" %}
+Wenn du das Grundstück mergst, leerst oder löschst, werden alle Sammler-Einstellungen zurückgesetzt. Die Sammler musst du danach neu einrichten.
+{% endhint %}
 
 ### Sammler deaktivieren
 
