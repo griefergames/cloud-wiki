@@ -11,8 +11,8 @@ Um den Säbel auf einem Grundstück zu nutzen, muss dort die PvP-Flag aktiviert 
 ## So funktioniert das Item
 
 1. Stelle sicher, dass auf dem Grundstück die PvP-Flag auf `true` gesetzt ist.
-2. Linksklick auf den Spieler, von dem du den Kopf haben möchtest, während du den Säbel in der Hand hältst.
-3. Der Kopf landet automatisch in deinem Inventar.
+2. Linksklick auf den Spieler, von dem du den Kopf haben möchtest, während du den Säbel in der Hand hältst. Der Schlag verursacht keinen Schaden.
+3. Der Kopf landet automatisch in deinem Inventar. Ist es voll, fällt er vor dir auf den Boden.
 4. Jeder Treffer verringert die Haltbarkeit des Säbels um 1.
 
 {% hint style="info" %}
