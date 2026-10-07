@@ -14,10 +14,10 @@ Jedes Level steht dabei für eine Effizienz-Stufe. In diesem Fall ist das maxima
 
 ## Blöcke hinzufügen
 
-Durch das Abbauen eines neuen Blocks wird dieser Block automatisch auf Level 0 zum Tool hinzugefügt.
+Durch das Abbauen eines neuen Blocks wird dieser Block automatisch auf Level 0 zum Tool hinzugefügt. Das klappt nur, wenn das Tool das passende Werkzeug für den Block ist. Mit einer Spitzhacke kannst du also z. B. keine Erde hinzufügen.
 
 {% hint style="info" %}
-Auf ein Tool kann nur eine bestimmte Anzahl an Blöcken oder Blockgruppen hinzugefügt werden. Standardmäßig sind diese auf 7 begrenzt.
+Auf ein Tool kann nur eine bestimmte Anzahl an Blöcken oder Blockgruppen hinzugefügt werden. Standardmäßig sind diese auf 7 begrenzt. Die Grenze deines Tools steht auf dem Item.
 {% endhint %}
 
 ## Blöcke leveln
