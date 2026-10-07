@@ -14,7 +14,7 @@ Um ein Item zu signieren, halte es in der Hand und füge mit dem Befehl `/sign <
 
 <figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption><p>Beispiel-Signierung eines Items</p></figcaption></figure>
 
-* Jedes Item kann immer nur eine Signatur besitzen. Diese kann nur vom Besitzer mit `/unsign` wieder entfernt werden.
+* Jedes Item kann immer nur eine Signatur besitzen. Diese kann nur der Spieler, der sie gesetzt hat, mit `/unsign` wieder entfernen.
 * Das Limit der Signierung beträgt 65 Zeichen, Farbcodes zählen dabei **nicht** mit.
 
 ### Farbig und fett signieren
@@ -35,9 +35,21 @@ Möchtest du Hexadezimal-Farben fett schreiben, muss vor jeder Farbe die Formati
 
 ## Farbverlauf-Signierung
 
-Mit dem zusätzlichen Recht "Farbverlauf-Signierung" kann mit dem Befehl `/signgradient` ein Text mit einem Farbverlauf signiert werden. Dabei müssen Start- und Endfarbe im Hexadezimalformat hinterlegt werden.
+Mit dem zusätzlichen Recht "Farbverlauf-Signierung" kann mit dem Befehl `/signgradient` ein Text mit einem Farbverlauf signiert werden. Dabei müssen Start- und Endfarbe im Hexadezimalformat hinterlegt werden. Im Text selbst dürfen keine Farbcodes stehen.
 
 `/signgradient 00FF00 FF0000 Das ist eine signierte Zeile mit Verlauf`
+
+## Ganzes Inventar signieren
+
+Mit dem zusätzlichen Recht **„Ganzes Inventar signieren“** signierst du mit `/signinv <Nachricht>` alle Items in deinem Inventar auf einmal. Rüstung und Zweithand werden dabei nicht signiert.
+
+Mit `/unsigninv` entfernst du deine Signaturen von allen Items in deinem Inventar wieder.
+
+Hast du zusätzlich die Farbverlauf-Signierung, kannst du mit `/signinvgradient <Startfarbe> <Endfarbe> <Nachricht>` das ganze Inventar mit einem Farbverlauf signieren.
+
+{% hint style="info" %}
+Items, die bereits von einem anderen Spieler signiert wurden, bleiben unverändert. Im Chat siehst du, wie viele Items signiert wurden und wie viele nicht.
+{% endhint %}
 
 ## 2. Zeile signieren
 
@@ -45,6 +57,6 @@ Im [Case-Opening](../features/case-opening.md) kann das Recht gewonnen werden, u
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>2. Zeile signieren-Item aus dem Case-Opening</p></figcaption></figure>
 
-Um eine zweite Zeile hinzuzufügen, kann das Item noch einmal mit `/sign <Text>` signiert werden. Eine zweite Zeile kann nur hinzugefügt werden, wenn die erste Signatur von dir selbst stammt.
+Um eine zweite Zeile hinzuzufügen, kann das Item noch einmal mit `/sign <Text>` signiert werden. Eine zweite Zeile kann nur hinzugefügt werden, wenn die erste Signatur von dir selbst stammt. Auch mit `/signinv` wird bei deinen bereits signierten Items die zweite Zeile ergänzt.
 
 Das Datum der Signatur wird dabei aktualisiert. Der Name (inkl. Rang) bleibt erhalten.
