@@ -17,6 +17,10 @@ In der unteren Reihe befinden sich die folgenden Buttons:
 * <img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> **Plot-Maps**\
   Öffnet den Bereich für [Plot-Maps](karten-erstellen/) _(nur auf Citybuild-Regionen verfügbar)_.
 
+{% hint style="info" %}
+Es ist nicht notwendig, sein Inventar vor dem Start eines Minigames zu leeren. Gegenstände auf dem Citybuild bleiben dort sicher erhalten und werden nicht mitgenommen. In den MiniGames startet man automatisch mit einem leeren bzw. spielspezifischen Inventar. Bei der Rückkehr auf den Citybuild erhält man das ursprüngliche Inventar vollständig wieder.
+{% endhint %}
+
 ## Permanente MiniGames
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Permanente MiniGames im Menü</p></figcaption></figure>

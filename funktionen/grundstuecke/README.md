@@ -1,6 +1,7 @@
 # 🏡 Grundstücke
 
-Auf GrieferGames kann jeder Spieler eigene Grundstücke besitzen. Hier findest du die wichtigsten Befehle; weitere Themen wie Rechte, Flags oder das Verbinden von Grundstücken findest du auf den Unterseiten dieses Bereichs.
+Auf GrieferGames kann jeder Spieler eigene Grundstücke besitzen. Hier findest du die wichtigsten Befehle; weitere Themen wie Rechte, Flags oder das Verbinden von Grundstücken findest du auf den Unterseiten dieses Bereichs. 
+Auf den Grundstücken kann von Ebene **Y = -64** bis zur **maximalen Bauhöhe von Y = 319** gebaut werden.
 
 ## Grundbefehle
 

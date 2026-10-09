@@ -12,6 +12,10 @@ Wenn du eine zusätzliche Belohnung erhältst, wirst du mit einer Nachricht im C
 
 <div align="center"><img src="../../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1) (1).png" alt=""></div>
 
+{% hint style="warning" %}
+**Account-Limit:**   Man darf den Block des Tages mit **maximal 5 Accounts pro Tag** nutzen. Die Nutzung von mehr als 5 Accounts ist laut Regelwerk verboten.
+{% endhint %}
+
 ## Mögliche Gewinne
 
 Es gibt viele verschiedene Gewinne, die der Block des Tages enthalten kann.
