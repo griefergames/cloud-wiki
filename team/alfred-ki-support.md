@@ -1,6 +1,7 @@
 ---
 hidden: true
 ---
+
 # Alfred
 
 **Alfred** ist der **KI-Hilfsassistent** der Cloud und der 1.8.
