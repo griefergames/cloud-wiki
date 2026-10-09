@@ -29,7 +29,7 @@ Mit den Buttons <img src="../../.gitbook/assets/image (5) (3).png" alt="" data-s
 
 ## Prefixe erhalten
 
-Prefixe gibt es über verschiedene Systeme auf der Cloud. Sie können in verschiedenen Kisten des [Case-Openings](case-opening.md), beim [Adventure-Händler](die-handler.md#amin-shop) oder auch durch [Erfolge](erfolge-advancements.md) erhalten werden.
+Prefixe gibt es über verschiedene Systeme auf der Cloud. Sie können in verschiedenen Kisten des [Case-Openings](#/funktionen/features/case-opening) oder beim [Adventure-Händler](#/funktionen/features/die-handler#amin-shop) erhalten werden.
 
 ## Prefix-Invertierer für Verlaufs-Prefixe
 
