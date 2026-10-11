@@ -62,6 +62,8 @@ Alle diese Tränke braust du aus einem Seltsamen Trank:
 **Ein Trank ist entweder verlängert oder verstärkt, nicht beides!** Mit Redstone-Staub wirken z. B. Feuerresistenz oder Schnelligkeit 8 statt 3 Minuten. Leuchtsteinstaub bringt Stufe II, die Wirkung hält dafür kürzer. 
 {% endhint %}
 
+<div align="center"><figure><img src="../../.gitbook/assets/BrauRezepte1.png" alt="Bild"><figcaption>Grafische Übersicht zum Brauen von Tränken</figcaption></figure></div>
+
 **Goldene Karotte** und **Glitzernde Melonenscheibe** stellst du aus einer Karotte bzw. Melonenscheibe und 8 Goldklumpen her. Magmacreme droppen Magmawürfel, oder du stellst sie aus Lohenstaub und einem Schleimball her.
 
 ## Umkehren mit dem Fermentierten Spinnenauge
