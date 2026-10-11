@@ -10,6 +10,7 @@
   * [..in der Bedrock-Edition](auf-den-server-joinen/mit-der-bedrock-edition.md)
   * [...schlägt fehl](auf-den-server-joinen/...schlagt-fehl.md)
 * [🤝 Team](team/README.md)
+  * [Alfred](team/alfred-ki-support.md)
   * [Teammitglied werden](team/teammitglied-werden.md)
   * [Ehemalige Teammitglieder](team/ehemalige-teammitglieder-and-helfer.md)
 
