@@ -86,7 +86,7 @@ Neben den normalen Tränken zum Trinken kannst du deine gebrauten Tränke im Bra
 Normalerweise erhältst du Drachenatem nur im Kampf gegen den Enderdrachen. Da es in den Farmwelten (Das Ende) auf GrieferGames jedoch keinen Enderdrachen gibt, kannst du Drachenatem dort nicht auf dem klassischen Weg farmen – Verweiltränke und getränkte Pfeile lassen sich daher nicht regulär über die Farmwelt erspielen.
 {% endhint %}
 
-# Wurftränke
+#### Wurftränke
 * **Herstellung:** Braue **Schwarzpulver** in einen beliebigen Trank.
 * **Wirkung:** Statt den Trank zu trinken, kannst du ihn werfen. Beim Aufprall wirkt der Effekt in einem Radius von bis zu **4 Blöcken** auf alle Spieler und Kreaturen – **auch auf dich selbst!**
 * **Dauer:** Je näher ein Ziel am Aufprallpunkt steht, desto länger hält der Effekt an.
