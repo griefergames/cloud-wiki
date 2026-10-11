@@ -4,7 +4,7 @@ description: Auf welcher Höhe welches Erz liegt und wie du am schnellsten Diama
 
 # ⛏️ Erze & Diamanten finden
 
-<div align="left"><figure><img src="../../.gitbook/assets/titelbild--2-.jpg" alt="Bild"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/titelbild--2-.jpg" alt="Bild"><figcaption></figcaption></figure></div>
 
 Erze liegen in Minecraft nicht überall gleich häufig. Jedes Erz hat seinen eigenen Höhenbereich, und meist eine Höhe, auf der es besonders oft vorkommt. Wer dort sucht, findet deutlich mehr. Hier steht, wo du suchen solltest.
 
