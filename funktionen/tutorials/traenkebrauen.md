@@ -4,8 +4,6 @@ description: Tränke brauen mit Braustand und Lohenstaub, die wichtigsten Rezept
 
 # 🧪 Tränke brauen
 
-<div align="center"><figure><img src="../../.gitbook/assets/titelbild.jpg" alt="Bild"><figcaption></figcaption></figure></div>
-
 Tränke braust du auf der Cloud wie im normalen Minecraft. Hier erfährst du unter anderem, was du dafür brauchst und welche Zutat welchen Trank ergibt .
 
 ## Braustand und Lohenstaub
@@ -61,8 +59,6 @@ Alle diese Tränke braust du aus einem Seltsamen Trank:
 {% hint style="info" %}
 **Ein Trank ist entweder verlängert oder verstärkt, nicht beides!** Mit Redstone-Staub wirken z. B. Feuerresistenz oder Schnelligkeit 8 statt 3 Minuten. Leuchtsteinstaub bringt Stufe II, die Wirkung hält dafür kürzer. 
 {% endhint %}
-
-<div align="center"><figure><img src="../../.gitbook/assets/Traenke.png" alt="Bild"><figcaption>Grafische Übersicht der Tränke</figcaption></figure></div>
 
 **Goldene Karotte** und **Glitzernde Melonenscheibe** stellst du aus einer Karotte bzw. Melonenscheibe und 8 Goldklumpen her. Magmacreme droppen Magmawürfel, oder du stellst sie aus Lohenstaub und einem Schleimball her.
 
