@@ -4,6 +4,8 @@ description: Auf welcher Höhe welches Erz liegt und wie du am schnellsten Diama
 
 # ⛏️ Erze & Diamanten finden
 
+<div align="left"><figure><img src="../../.gitbook/assets/titelbild--2-.jpg" alt="Bild"><figcaption></figcaption></figure></div>
+
 Erze liegen in Minecraft nicht überall gleich häufig. Jedes Erz hat seinen eigenen Höhenbereich, und meist eine Höhe, auf der es besonders oft vorkommt. Wer dort sucht, findet deutlich mehr. Hier steht, wo du suchen solltest.
 
 ## Deine Höhe herausfinden
@@ -16,7 +18,7 @@ Die Welt reicht von Y -64 ganz unten bis Y 320 ganz oben. Ab etwa Y 0 abwärts b
 
 Je breiter der Balken, desto mehr Erz liegt auf dieser Höhe. Diamanten, Redstone und Gold findest du tief unten, Smaragde und viel Eisen hoch oben in Bergen.
 
-<div align="center"><figure><img src="../../.gitbook/assets/erze-hoehen.png" alt="Bild"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/erze-hoehen.png" alt="Bild"><figcaption>Je breiter der Balken, desto mehr Erz liegt auf dieser Höhe. Diamanten, Redstone und Gold findest du tief unten, Smaragde und viel Eisen hoch oben in Bergen</figcaption></figure></div>
 
 | Erz | Kommt vor zwischen | Am häufigsten | Tipp |
 | :--- | :--- | :--- | :--- |
