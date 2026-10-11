@@ -1,5 +1,9 @@
 # Escape
 
+{% hint style="warning" %}
+Mit der 26.2 wurde das Schild-System geändert und wird nun ohne die Befehlsblöcke verwendet!
+{% endhint %}
+
 Escape ist ein vielseitiges Minispiel, das für verschiedene kleine Spielmodi verwendet werden kann, zum Beispiel:
 
 * Escape Room
@@ -83,10 +87,11 @@ Viele Einzelspieler-Escape-Maps nutzen Befehlsblöcke, um die Möglichkeiten zu 
 
 ![Platzierter Escape-Befehl](<../../../../.gitbook/assets/5 (1).png>)
 
-Befehle auf der Karte können mit einem <img src="../../../../.gitbook/assets/6.png" alt="" data-size="line"> **goldenen Befehlsblock** (CustomBlock, Ersatzblock Befehlsblock) und einem darauf stehenden <img src="../../../../.gitbook/assets/7.png" alt="" data-size="line"> **Schild** erstellt werden.
+Befehle auf der Karte können mit <img src="../../../../.gitbook/assets/7.png" alt="" data-size="line"> **Schildern** erstellt werden. Es funktionieren alle Schilder, welche mit Vorder- & Rückseite beschriftet werden können.
+Also z.B. keine Wand-Schilder.
 
 {% hint style="info" %}
-Die platzierten Blöcke & Schilder werden nicht ersetzt – sie sollten also außerhalb des Sichtfeldes der Spieler platziert werden.
+Die Schilder werden nicht ersetzt – sie sollten also außerhalb des Sichtfeldes der Spieler platziert werden.
 {% endhint %}
 
 Auf der Vorderseite des Schilds steht ein „Trigger“ und auf der Rückseite eine „Aktion“.
@@ -126,10 +131,6 @@ Das **Argument 3** (letzte Zeile) gibt bei allen Triggern an, wie oft der Trigge
 _Wird keine Zahl angegeben, kann der Trigger beliebig oft ausgeführt werden._
 {% endhint %}
 
-{% hint style="info" %}
-Trigger, welche den Befehlsblock betreffen – wie z. B. **\[REDSTONE]** – müssen am Befehlsblock ausgelöst werden, nicht am Schild.
-{% endhint %}
-
 ### <mark style="color:purple;">Befehlsaktionen</mark>
 
 Befehlsaktionen sind definierte Schlagworte für Aktionen, die als Reaktion auf einen Trigger ausgeführt werden. Die Aktionen werden auf der Rückseite des Schildes wie folgt notiert:
@@ -161,7 +162,7 @@ Die folgenden Aktionen stehen zur Verfügung:
 | \[CANCELTIPP]    | Entfernt einen verfügbaren Tipp wieder                                                                                                                                                                                                                          | 1: Tipp-Tag                                                                                                                                                                                                                                                                                                   |
 
 {% hint style="info" %}
-Argumente, die **Koordinaten** angeben, müssen immer **relativ zur Position des Befehlsblocks** angegeben werden und nicht in Citybuild-Koordinaten. Das gilt für die X-, Y- und Z-Achse.
+Argumente, die **Koordinaten** angeben, müssen immer **relativ zur Position des Schilds** angegeben werden und nicht in Citybuild-Koordinaten. Das gilt für die X-, Y- und Z-Achse.
 
 **Beispiel:** _Liegt die gewünschte X-Koordinate auf dem CB bei 254 und befindet sich der Befehlsblock auf der CB-X-Koordinate 200, ist der einzutragende Wert 54._
 {% endhint %}
