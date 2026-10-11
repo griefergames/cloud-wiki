@@ -4,6 +4,8 @@ description: Tränke brauen mit Braustand und Lohenstaub, die wichtigsten Rezept
 
 # 🧪 Tränke brauen
 
+<div align="left"><figure><img src="../../.gitbook/assets/titelbild.jpg" alt="Bild"><figcaption></figcaption></figure></div>
+
 Tränke braust du auf der Cloud wie im normalen Minecraft. Hier erfährst du unter anderem, was du dafür brauchst und welche Zutat welchen Trank ergibt .
 
 ## Braustand und Lohenstaub
