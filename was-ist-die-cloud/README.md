@@ -10,7 +10,7 @@ Die **Cloud** ist das Netzwerk von GrieferGames, das immer auf der neuesten Mine
 * gemeinsame Events mit Belohnungen auf beiden Netzwerken
 
 {% hint style="info" %}
-Die aktuelle Server-Version der Cloud ist die **1.21.4**.
+Die aktuelle Server-Version der Cloud ist die **26.2**.
 {% endhint %}
 
 ## Woher kommt der Name "Cloud"?
