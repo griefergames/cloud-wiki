@@ -143,6 +143,7 @@
   * [Reparatur Verzauberung](funktionen/mechanik-aenderungen/reparatur-verzauberung.md)
 * [🔎 Tutorials](funktionen/tutorials/README.md)
   * [Tränke brauen](funktionen/tutorials/traenkebrauen.md)
+  * [Verzaubern & Reparieren](funktionen/tutorials/verzaubernundreparieren.md)
 
 ## ALLGEMEIN
 
