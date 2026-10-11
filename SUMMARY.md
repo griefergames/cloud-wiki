@@ -141,6 +141,8 @@
   * [Bergungskompass](funktionen/mechanik-aenderungen/bergungskompass.md)
   * [Pigman-Farmen](funktionen/mechanik-aenderungen/pigman-farmen.md)
   * [Reparatur Verzauberung](funktionen/mechanik-aenderungen/reparatur-verzauberung.md)
+* [🔎 Tutorials](funktionen/tutorials/README.md)
+  * [Tränke brauen](funktionen/tutorials/traenkebrauen.md)
 
 ## ALLGEMEIN
 
