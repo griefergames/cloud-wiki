@@ -107,7 +107,7 @@ Flüche lassen sich weder mit dem Schleifstein noch mit dem Verzauberungs-Entfer
 | **Dornen** | Wer dich angreift, bekommt selbst Schaden. Nur auf Rüstung. |
 | **Reparatur** | Repariert den Gegenstand mit Erfahrung (siehe oben). |
 
-## [#](#überschrift)Extras auf GrieferGames
+## Extras auf GrieferGames
 
 - [Verzauberungs-Upgrade & Verzauberungs-Entferner](https://wiki.griefergames.net/cloud/funktionen/custom-items/verzauberungs-upgrade-und-entferner): eine Verzauberung um eine Stufe erhöhen oder einzeln entfernen
 - [Gegenstandsrettung](https://wiki.griefergames.net/cloud/funktionen/features/gegenstandsrettung): schützt Werkzeuge vor dem Kaputtgehen und repariert sie dabei
