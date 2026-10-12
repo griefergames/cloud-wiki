@@ -1,7 +1,7 @@
 # Escape
 
 {% hint style="warning" %}
-Mit der 26.2 wurde das Schild-System geändert und wird nun ohne die Befehlsblöcke verwendet!
+Mit Minecraft 26.2 wurde das Schild-System umgestellt und kommt ohne Befehlsblöcke aus. Es werden jetzt alle Schilder geladen, und relative Koordinaten beziehen sich auf das Schild. Bestehende Karten funktionieren größtenteils weiter, prüfe deine Karte nach dem Upgrade aber einmal durch.
 {% endhint %}
 
 Escape ist ein vielseitiges Minispiel, das für verschiedene kleine Spielmodi verwendet werden kann, zum Beispiel:
@@ -164,7 +164,7 @@ Die folgenden Aktionen stehen zur Verfügung:
 {% hint style="info" %}
 Argumente, die **Koordinaten** angeben, müssen immer **relativ zur Position des Schilds** angegeben werden und nicht in Citybuild-Koordinaten. Das gilt für die X-, Y- und Z-Achse.
 
-**Beispiel:** _Liegt die gewünschte X-Koordinate auf dem CB bei 254 und befindet sich der Befehlsblock auf der CB-X-Koordinate 200, ist der einzutragende Wert 54._
+**Beispiel:** _Liegt die gewünschte X-Koordinate auf dem CB bei 254 und befindet sich das Schild auf der CB-X-Koordinate 200, ist der einzutragende Wert 54._
 {% endhint %}
 
 ## Das Tipp-System
