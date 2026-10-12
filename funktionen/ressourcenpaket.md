@@ -33,7 +33,7 @@ Wir wollen möglichst wenig in eure eigenen Texturen eingreifen und beschränken
 * Anpassung von Inventar-Menüs (Hintergrund, Buttons etc.)
 * Animationen in der Tabliste
 * Einbringung kleiner grafischer Elemente (z. B. das Scoreboard-Logo)
-* Einzelne Items aus [CustomBlocks](../allgemein/clients-and-modifikationen/customblocks.md) (z. B. Portalgun für das Minigame "Lasertag")
+* Einzelne Items und Blöcke der früheren [CustomBlocks](../allgemein/clients-and-modifikationen/customblocks.md)-Mod (z. B. Portalgun für das Minigame „Lasertag“ und seit Minecraft 26.2 übernommene Deko-Blöcke)
 * Einzelne Änderungen von Spezial-Item-Optiken zur Hervorhebung
 * Custom-Rüstungen / Cosmetics
 * Kosmetische Blöcke / Deko-Blöcke
