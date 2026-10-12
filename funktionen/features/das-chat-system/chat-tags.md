@@ -20,6 +20,12 @@ Mit einem Spielernamen hinter dem Tag könnt ihr auch andere Spieler verlinken:
 So könnt ihr beispielsweise im Chat auf das Inventar eines anderen Spielers aufmerksam machen.
 {% endhint %}
 
+{% hint style="info" %}
+Beim Tag `%item%` könnt ihr statt des Items in der Hand auch ein Item aus einem bestimmten Slot zeigen. Dafür schreibt ihr die Slot-Nummer hinter den Tag:
+
+> `%item:4%` zeigt das Item in Slot 4.
+{% endhint %}
+
 ## Einlösbare Rechte
 
 Diese Tags stehen nur mit einem entsprechenden einlösbaren Recht zur Verfügung:
