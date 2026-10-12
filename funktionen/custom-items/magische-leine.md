@@ -18,6 +18,12 @@ Magische Leinen können beim [Amin-Shop](../features/die-handler.md) am Spawn f�
 Um einem Mob auf dem Plot einen Namen zu geben, muss dieser in der Farmwelt mit einem Namensschild benannt und anschließend eingefangen werden.
 {% endhint %}
 
+{% hint style="success" %}
+Beim Einfangen werden viele Eigenschaften des Mobs gespeichert und beim Freilassen übernommen, z. B. Variante, Farbe oder Ausrüstung. Junge Tiere bleiben nach dem Freilassen jung und wachsen auf dem Grundstück nicht mehr.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/magische-leine-jungtier.png" alt="Ein junges Tier, das mit der Magischen Leine auf ein Grundstück gebracht wurde"><figcaption><p>Jungtiere bleiben auf dem Grundstück jung</p></figcaption></figure>
+
 {% hint style="warning" %}
 * Mobs können nur in der Farmwelt gefangen und ausschließlich in der Plot-Welt freigelassen werden.
 * Nach dem Freilassen des Mobs verschwindet die Leine.
