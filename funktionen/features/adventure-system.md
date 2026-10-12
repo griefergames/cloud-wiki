@@ -24,7 +24,7 @@ Achte immer darauf, ob die Aufgabe wirklich angenommen ist. Auch bei Monster-tö
 
 ## Aufgabenarten
 
-Es gibt aktuell drei verschiedene Arten von Aufgaben, die sich wie folgt spezifizieren:
+Es gibt aktuell fünf verschiedene Arten von Aufgaben:
 
 {% tabs %}
 {% tab title="Abbau-Aufgaben" %}
@@ -35,8 +35,22 @@ Hast du genug abgebaut, klicke die Aufgabe erneut an, um das Tool abzugeben. Das
 Hast du das Tool nicht im Inventar, erhältst du mit diesem Klick ein neues. Dein Fortschritt wird auf dem Tool gespeichert, mit dem neuen Tool beginnst du deshalb wieder bei 0.
 {% endtab %}
 
+{% tab title="Angel-Aufgaben" %}
+Du erhältst eine Angel, mit der du eine bestimmte Anzahl eines Items angeln musst. Die Angel kann nur von dir für diese Aufgabe verwendet werden. Angelst du ein anderes Item, zählt der Fang nicht und du behältst ihn nicht.
+
+Der Fortschritt steht auf der Angel und wird dir nach jedem passenden Fang im Chat angezeigt. Ist die Menge erreicht, klicke die Aufgabe erneut an, um die Angel abzugeben. Die Angel muss dafür in deinem Inventar sein.
+
+Hast du die Angel nicht im Inventar, erhältst du mit diesem Klick eine neue. Dein Fortschritt wird auf der Angel gespeichert, mit der neuen Angel beginnst du deshalb wieder bei 0.
+
+{% hint style="info" %}
+Für die Angel brauchst du einen freien Slot im Inventar. Ist dein Inventar voll, kannst du die Aufgabe nicht annehmen.
+{% endhint %}
+{% endtab %}
+
 {% tab title="Liefer-Aufgaben" %}
 Mit einem weiteren Klick auf die Aufgabe lieferst du alle Items des gewünschten Materials in deinem Inventar an den Adventurer. Sobald die volle Menge geliefert ist, ist die Aufgabe abgeschlossen.
+
+Liefer-Aufgaben können Blöcke, hergestellte Items oder Drops von Monstern verlangen. Welche Items möglich sind, siehst du direkt an der Aufgabe.
 {% endtab %}
 
 {% tab title="Monster töten-Aufgaben" %}
