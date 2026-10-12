@@ -18,7 +18,7 @@ Wie viele Materialien du einstellen kannst, steht auf dem Shulksauger. Die Mater
 
 ## So funktioniert das Item
 
-Hast du den Shulksauger im Inventar, landen aufgesammelte Items der eingestellten Materialien direkt in der Shulker-Kiste. Passt nicht alles hinein, kommt der Rest wie gewohnt in dein Inventar.
+Hast du den Shulksauger im Inventar, landen aufgesammelte Items der eingestellten Materialien direkt in der Shulker-Kiste. Passt nicht alles hinein, kommt der Rest wie gewohnt in dein Inventar. Ein Shulksauger kann auch von einem **Werfer** platziert werden.
 
 {% hint style="warning" %}
 Der Shulksauger sammelt nur, solange in deinem Inventar noch Platz für die Items wäre. Ist dein Inventar komplett voll, bleiben die Items liegen.
