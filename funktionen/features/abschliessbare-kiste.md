@@ -10,11 +10,13 @@ Mit **Abschließbaren Kisten** ist es möglich, für einzelne Kisten schnell Rec
 
 Abschließbare Kisten können über die Werkbank aus **4 Eisenblöcken**, **3 Obsidian**, einem **Haken** und der gewünschten Kiste hergestellt werden.
 
-Aktuell können die Kisten als Truhe, Redstone-Truhe oder Fass hergestellt werden.
+Die Kisten können als Truhe, Redstone-Truhe, Fass oder **Kupfertruhe** hergestellt werden.
+
+<figure><img src="../../.gitbook/assets/abschliessbare-kupfertruhe.png" alt="Abschließbare Kiste aus einer Kupfertruhe auf einem Grundstück"><figcaption><p>Seit Minecraft 26.2 auch als Kupfertruhe möglich</p></figcaption></figure>
 
 ## Funktionsweise
 
-Die Truhe kann einfach auf dem Grundstück platziert werden. Öffnen können sie nur der Grundstücksbesitzer und die Spieler, die er für diese Kiste freigibt. Die Grundstücksrechte spielen dabei keine Rolle.
+Die Truhe kann einfach auf dem Grundstück platziert werden. Öffnen können sie nur der Grundstücksbesitzer und die Spieler, die er für diese Kiste freigibt. Die Freigabe gilt nur für diese eine Kiste. Die Grundstücksrechte und Freigaben anderer Behälter spielen dabei keine Rolle.
 
 {% hint style="warning" %}
 * Abschließbare Kisten können nur auf eigenen Grundstücken platziert werden.
