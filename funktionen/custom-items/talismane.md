@@ -1,3 +1,7 @@
+---
+description: Totems mit Boni, solange sie in der Offhand liegen
+---
+
 # Talismane
 
 Talismane sind besondere Totems, die deinem Spieler verschiedene Boni und Fähigkeiten verleihen, solange sie in der Offhand gehalten werden. Außerdem schützen sie dich beim Tod wie ein Totem, bevor sie verschwinden.
@@ -90,4 +94,8 @@ Solange du den **Stab der Lagune** in der Hand hältst, werden Tiere und Monster
 
 {% hint style="info" %}
 Anders als die übrigen Talismane wirkt der Stab der Lagune in der Haupthand und in der Zweithand.
+{% endhint %}
+
+{% hint style="warning" %}
+Auf Grundstücken, auf denen du nicht getrustet bist, werden Tiere und Monster nicht weggestoßen. So bleiben fremde Tiere und Community-Farmen geschützt.
 {% endhint %}
