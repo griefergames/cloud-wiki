@@ -32,7 +32,7 @@ Items aus dem zusätzlichen Lager können per Trichter entnommen werden. Außerd
 
 ## Herstellung
 
-Das Rezept zur Herstellung eines unbegrenzten Speichers benötigt 4 Truhen, 2 Netheritbarren, 1 Enderauge, 1 Fass (oder CustomBlock-Kiste – siehe [Aussehen](unbegrenzter-speicher.md#aussehen)) und das zu lagernde Item.
+Das Rezept zur Herstellung eines unbegrenzten Speichers benötigt 4 Truhen, 2 Netheritbarren, 1 Enderauge, 1 Fass und das zu lagernde Item.
 
 <figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption><p>Herstellungsrezept</p></figcaption></figure>
 
@@ -40,19 +40,23 @@ Das Rezept zur Herstellung eines unbegrenzten Speichers benötigt 4 Truhen, 2 Ne
 Der Gegenstand oben in der Mitte bestimmt den zu lagernden Gegenstand.
 {% endhint %}
 
+{% hint style="success" %}
+Für neue Items aus einer neuen Minecraft-Version (z. B. aus 26.2) stehen automatisch unbegrenzte Speicher zur Verfügung.
+{% endhint %}
+
 ## Aussehen
 
-![](../../.gitbook/assets/4.png)
-
-Die Herstellung des unbegrenzten Speichers ist mit den [CustomBlock](../../allgemein/clients-and-modifikationen/customblocks.md)-Kisten möglich. Das ermöglicht zum Beispiel eine abwechslungsreichere Gestaltung von Lagersystemen. Für Spieler, die keine [CustomBlocks](../../allgemein/clients-and-modifikationen/customblocks.md) nutzen, werden die unbegrenzten Speicher als Fässer dargestellt.
+Unbegrenzte Speicher werden als Fässer dargestellt.
 
 {% hint style="info" %}
-Stellst du den unbegrenzten Speicher mit Kisten der [CustomBlocks](../../allgemein/clients-and-modifikationen/customblocks.md) her, dann kannst du diese auch separat mit der Use-Flag freigeben.
+Bis zum Versionsupgrade auf Minecraft 26.2 konnten unbegrenzte Speicher auch aus Kisten der [CustomBlocks](../../allgemein/clients-and-modifikationen/customblocks.md) hergestellt werden. Die Mod wurde mit dem Upgrade entfernt, neue Speicher entstehen nur noch aus Fässern.
 {% endhint %}
 
 ## Anzeige am Speicher
 
 Mit dem Item **Unendliches Lager - Display-Aktivierung** lässt du vor einem unbegrenzten Speicher anzeigen, welches Item darin lagert und wie viel davon. Halte das Item dazu in der Hand und klicke damit auf den Speicher.
+
+Mit **Sneaken + Rechtsklick** auf den Speicher kannst du die Anzeigeoption später bearbeiten.
 
 {% hint style="info" %}
 Jeder unbegrenzte Speicher kann nur eine Anzeige haben. Die angezeigte Menge wird nicht bei jeder Änderung sofort aktualisiert.
@@ -60,7 +64,7 @@ Jeder unbegrenzte Speicher kann nur eine Anzeige haben. Die angezeigte Menge wir
 
 ### Ausnahmen
 
-Folgende Items stehen nicht zur Verfügung: Leuchtfeuer, Spawner, Spawn-Eier, Shulker-Kisten und Shulker-Schalen, Bündel, Drachenei, Elytren, Knospender Amethyst, Verstärkter Tiefenschiefer, befallene Blöcke, Fässer sowie Blöcke der [CustomBlocks](../../allgemein/clients-and-modifikationen/customblocks.md).
+Folgende Items stehen nicht zur Verfügung: Leuchtfeuer, Spawner, Spawn-Eier, Shulker-Kisten und Shulker-Schalen, Bündel, Drachenei, Elytren, Knospender Amethyst, Verstärkter Tiefenschiefer, befallene Blöcke und Fässer.
 
 Außerdem kann für Items, die zusätzliche Informationen benötigen (wie z. B. Tränke, getränkte Pfeile, Verzauberungsbücher, beschriebene Bücher, Karten, Ziegenhörner, Seltsame Suppe oder Eimer mit Axolotl bzw. Tropenfisch), kein unbegrenzter Speicher erstellt werden.
 
@@ -90,4 +94,4 @@ Beschädigte Werkzeuge, Waffen oder Rüstungsteile werden nicht in den zusätzli
 
 ### Freigabe-Flags („use“)
 
-Werden die unbegrenzten Speicher mit Fässern (und nicht mit [CustomBlocks](../../allgemein/clients-and-modifikationen/customblocks.md)) hergestellt, wirkt die Freigabe-Flag für normale Fässer (`use barrel`) auch für die unbegrenzten Speicher.
+Die Freigabe-Flag für normale Fässer (`use barrel`) wirkt auch für die unbegrenzten Speicher.
