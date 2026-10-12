@@ -2,11 +2,7 @@
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-Auf dem Cloud-Netzwerk bieten wir ein **Server-Ressourcenpaket** an, mit dem wir dem Spiel, vor allem in Menüs, eine schönere Optik verpassen. Wir wollen damit die optische Qualität der vielen Menüs und UIs verbessern und ein rundes Konzept der neuen interaktiven Funktionen bieten.
-
-{% hint style="info" %}
-<mark style="color:green;">**Das Ressourcenpaket ist aktuell freiwillig.**</mark> Es kann ohne Einschränkungen auch ohne Paket gespielt werden. Wir empfehlen für ein noch schöneres Spielerlebnis jedoch, das Paket zuzulassen und zu aktivieren.
-{% endhint %}
+Auf dem Cloud-Netzwerk bieten wir ein **Server-Ressourcenpaket** an, mit dem wir dem Spiel, vor allem in Menüs, eine schönere Optik verpassen. Wir wollen damit die optische Qualität der vielen Menüs und UIs verbessern und ein rundes Konzept der neuen interaktiven Funktionen bieten. Das Server-Ressourcenpaket ist **Pflicht**.
 
 ## Einstellungen im Minecraft-Client
 
