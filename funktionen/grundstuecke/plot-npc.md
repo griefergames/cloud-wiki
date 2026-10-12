@@ -46,6 +46,10 @@ Die Items zum Freischalten der verschiedenen Tiere können in den Farmwelten erh
 Die NPC-Arten werden beim Einlösen permanent für den Spieler freigeschaltet und nicht an einen NPC gebunden.
 {% endhint %}
 
+{% hint style="info" %}
+Skins, die du noch nicht freigeschaltet hast, kannst du im Menü in einer **Vorschau** ansehen, bevor du dich für eine Freischaltung entscheidest.
+{% endhint %}
+
 ### NPC-Einstellungen
 
 Hier können je nach NPC-Art verschiedene Einstellungen getroffen werden. Für einen "Spieler-NPC" stehen zum Beispiel der Skin oder die Pose zur Verfügung.
@@ -53,14 +57,14 @@ Hier können je nach NPC-Art verschiedene Einstellungen getroffen werden. Für e
 Die Option **Spieler ansehen** legt fest, ob der NPC den Spieler anschaut oder weiter in seiner Position verbleibt.
 
 {% hint style="info" %}
-Nicht alle Einstellungen der Tiere/Monster sind hinzugefügt worden. Diese werden bei entsprechender Nachfrage (beispielsweise im Forum) hinzugefügt.
+Mit Minecraft 26.2 sind viele neue Einstellungen für Tiere und Monster dazugekommen, auch für die neuen Mobs und Varianten. Der Großteil davon steht allen Spielern zur Verfügung. Einstellungen, die zur gewählten NPC-Art nicht passen, werden im Menü trotzdem angezeigt, wirken sich dann aber nicht aus.
 {% endhint %}
 
 ### NPC-Funktionen
 
 Jeder NPC kann einen „Beruf“ bzw. eine Funktion ausüben. Aktuell gibt es die folgenden Funktionen:
 
-<table><thead><tr><th width="198">Funktion</th><th width="358">Beschreibung</th><th>Erhalten durch</th></tr></thead><tbody><tr><td>Showcase</td><td>Ermöglicht den NPC als Showcase einer Kiste o. Ä. zu verwenden, um diese nicht freigeben zu müssen.</td><td>Freigeschaltet für jeden Spieler.</td></tr><tr><td>Händler</td><td>Ermöglicht den Zugriff auf den Händler auf dem Grundstück.</td><td>Händler sind, sofern nicht gesondert aufgeführt, für alle Spieler freigegeben.</td></tr><tr><td>Amin-Shop</td><td>Ermöglicht den Zugriff auf den Amin-Shop.</td><td>--</td></tr><tr><td>Jobs</td><td>Ermöglicht den Zugriff &#x26; Verwendung des Job-NPCs.</td><td>Case-Opening</td></tr><tr><td>MiniGames</td><td>Zugriff auf das MiniGames-Inventar (später weitere Optionen).</td><td>--</td></tr><tr><td>Abenteurer</td><td>Zugriff auf die Aufgaben des Abenteurers.</td><td>--</td></tr><tr><td>Block des Tages</td><td>Zugriff auf das Block des Tages-Menü.</td><td>--</td></tr><tr><td>Auktionshaus</td><td>Zugriff auf das Auktionshaus.</td><td>--</td></tr></tbody></table>
+<table><thead><tr><th width="198">Funktion</th><th width="358">Beschreibung</th><th>Erhalten durch</th></tr></thead><tbody><tr><td>Showcase</td><td>Ermöglicht den NPC als Showcase einer Kiste o. Ä. zu verwenden, um diese nicht freigeben zu müssen.</td><td>Freigeschaltet für jeden Spieler.</td></tr><tr><td>Händler</td><td>Ermöglicht den Zugriff auf den Händler auf dem Grundstück.</td><td>Händler sind, sofern nicht gesondert aufgeführt, für alle Spieler freigegeben.</td></tr><tr><td>Amin-Shop</td><td>Ermöglicht den Zugriff auf den Amin-Shop.</td><td>--</td></tr><tr><td>Jobs</td><td>Ermöglicht den Zugriff &#x26; Verwendung des Job-NPCs.</td><td>Case-Opening</td></tr><tr><td>MiniGames</td><td>Zugriff auf das MiniGames-Inventar (später weitere Optionen).</td><td>--</td></tr><tr><td>Abenteurer</td><td>Zugriff auf die Aufgaben des Abenteurers.</td><td>--</td></tr><tr><td>Block des Tages</td><td>Zugriff auf das Block des Tages-Menü.</td><td>--</td></tr><tr><td>Auktionshaus</td><td>Zugriff auf das Auktionshaus.</td><td>--</td></tr><tr><td>Immobilienbörse</td><td>Zugriff auf die <a href="immobilienboerse.md">Immobilienbörse</a>.</td><td>--</td></tr><tr><td>Transmog</td><td>Überträgt die Optik eines Items auf ein anderes Item oder entfernt sie wieder.</td><td>--</td></tr></tbody></table>
 
 #### Einstellungen in der Funktion
 
