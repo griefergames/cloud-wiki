@@ -77,7 +77,7 @@ Möchtest du **nur eine einzelne** Verzauberung entfernen, statt alle, nutze den
 
 ## Reparatur (Mending)
 
-Gegenstände mit Reparatur reparieren sich mit Erfahrung. Jede Erfahrungskugel, die du einsammelst, geht zuerst in die Reparatur eines solchen Gegenstands. Das funktioniert mit allem, was du in der Hand, in der Zweithand oder als Rüstung trägst. Ein Erfahrungspunkt repariert zwei Haltbarkeitspunkte.Reparatur bekommst du nicht am Zaubertisch. Du findest sie als verzaubertes Buch beim Handel mit beim** Handel mit Bibliothekar-Dorfbewohnern**, beim **Angeln** oder in **Truhen** von Strukturen.
+Gegenstände mit Reparatur reparieren sich mit Erfahrung. Jeder Erfahrungspunkt, den du einsammelst, geht zuerst in die Reparatur eines solchen Gegenstands. Das funktioniert mit allem, was du in der Hand, in der Zweithand oder als Rüstung trägst. Ein Erfahrungspunkt repariert zwei Haltbarkeitspunkte. Reparatur bekommst du nicht am Zaubertisch. Du findest sie als verzaubertes Buch beim Handel mit beim** Handel mit Bibliothekar-Dorfbewohnern**, beim **Angeln** oder in **Truhen** von Strukturen.
 
 {% hint style="warning" %}
 Hat ein Gegenstand eine Verzauberung über der höchsten Standardstufe, z. B. Schutz 10 oder Effizienz 7, wirkt Reparatur in der Regel nicht. Solche Gegenstände tragen meist den Fluch des Reparaturverlusts. Mehr dazu unter [Reparatur Verzauberung](https://wiki.griefergames.net/cloud/funktionen/mechanik-aenderungen/reparatur-verzauberung).

@@ -1,5 +1,5 @@
 ---
-description: >-
+description: 
   Funktion und Hinweise zum Mergen
 ---
 
@@ -7,13 +7,15 @@ description: >-
 
 Du hast die Möglichkeit, mehrere deiner Grundstücke zu verbinden und ein großes Grundstück daraus zu erstellen.
 
-<figure class="wiki-illus"><img src="/img/wiki-illus/grundstuecke-verbinden-cloud.webp" alt="Beim Mergen werden zwei gleich große Grundstücke samt der Straße dazwischen zu einem Grundstück verbunden."><figcaption>Beim Mergen werden zwei gleich große Grundstücke samt der Straße dazwischen zu einem Grundstück verbunden.</figcaption></figure>
+![Beim Mergen werden zwei gleich große Grundstücke samt der Straße dazwischen zu einem Grundstück verbunden.](/img/wiki-illus/grundstuecke-verbinden-cloud.webp)Beim Mergen werden Grundstücke samt der Straße dazwischen zu einem Grundstück verbunden.
 
 {% hint style="info" %}
 Das Mergen auf Citybuild-Spawn-Regionen ist nicht möglich.
 {% endhint %}
 
 Um Grundstücke verbinden zu können, müssen diese nebeneinander liegen. Jeder Merge-Vorgang kostet <mark style="color:orange;">50.000 Dollar</mark>. Pro Merge-Vorgang wird immer eine Richtung zusammengefügt. Es werden also für quadratische Grundstücke in der Regel _**3 Merge-Vorgänge**_ benötigt.
+
+Ein Grundstück ist 45 x 45 Blöcke groß. Die Straße ist – inklusive Rand – 9 Blöcke breit. Ein 4er-Merge wäre also z. B. 99 x 99 Blöcke groß und ein 16er-Merge 207 x 207 Blöcke.
 
 ## Die richtige Vorbereitung
 
