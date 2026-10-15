@@ -65,7 +65,7 @@ Folgende Animationen stehen aktuell zur Verfügung:
   Lässt einen Verlaufs-Prefix zwischen den Farben pulsieren.
 
 {% hint style="danger" %}
-Achtung: Die Prefixanimationen werden durch das [Ressourcenpaket](../ressourcenpaket.md) ermöglicht. Hast du dieses nicht aktiviert, siehst du keine Prefixanimationen.
+Achtung: Die Prefixanimationen werden durch das [Ressourcenpaket](#/funktionen/ressourcenpaket) ermöglicht.  Das Ressourcenpaket ist seit dem Versionsupgrade auf die Version [26.2 - Chaos Cubed](https://wiki.griefergames.net/cloud/was-ist-die-cloud/versionsupgrade/26.2-chaos-cubed) Pflicht.
 {% endhint %}
 
 ## Prefix-Ränge
