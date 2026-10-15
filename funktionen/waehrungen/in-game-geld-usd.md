@@ -8,7 +8,7 @@ description: Übersicht über die Nutzung und die Befehle
 
 Hauptsächlich kannst du dir Dollar auf dem Server verdienen, indem du mit anderen Spielern [handelst](../features/handel.md), einen Shop eröffnest und dort an andere Spieler verkaufst oder auch indem du Aufträge des [Job-Systems](../features/job-system.md) für andere Spieler erledigst.
 
-Zum Start erhältst du nach Abschluss des [Mentorenprogramms](../features/mentorenprogramm.md) ein wenig Startgeld, indem du [Erfolge / Advancements](../features/erfolge-advancements.md) abschließt.
+Zum Start erhältst du ein wenig Startgeld, indem du [Erfolge / Advancements](#/funktionen/features/erfolge-advancements) abschließt.
 
 ## Befehle
 
