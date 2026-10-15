@@ -146,7 +146,7 @@
   * [Erze & Diamanten finden](funktionen/tutorials/erzeunddiamantenfinden.md)
   * [Tränke brauen](funktionen/tutorials/traenkebrauen.md)
   * [Verzaubern & Reparieren](funktionen/tutorials/verzaubernundreparieren.md)
-  * [⌨️ Nützliche Tasten & Anzeigen](funktionen/tutorials/nuetzliche-tasten.md)
+  * [Nützliche Tasten & Anzeigen](funktionen/tutorials/nuetzliche-tasten.md)
 
 ## ALLGEMEIN
 
