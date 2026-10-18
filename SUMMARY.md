@@ -148,7 +148,7 @@
   * [Verzaubern & Reparieren](funktionen/tutorials/verzaubernundreparieren.md)
   * [Nützliche Tasten & Anzeigen](funktionen/tutorials/nuetzliche-tasten.md)
   * [Dorfbewohner & Handel](funktionen/tutorials/dorfbewohner-handel.md)
-  * [🐴 Tiere zähmen & züchten](funktionen/tutorials/tiere-zuechten.md)
+  * [Tiere zähmen & züchten](funktionen/tutorials/tiere-zuechten.md)
 
 ## ALLGEMEIN
 
