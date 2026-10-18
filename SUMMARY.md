@@ -147,6 +147,7 @@
   * [Tränke brauen](funktionen/tutorials/traenkebrauen.md)
   * [Verzaubern & Reparieren](funktionen/tutorials/verzaubernundreparieren.md)
   * [Nützliche Tasten & Anzeigen](funktionen/tutorials/nuetzliche-tasten.md)
+  * [🧑‍🌾 Dorfbewohner & Handel](funktionen/tutorials/dorfbewohner-handel.md)
 
 ## ALLGEMEIN
 
