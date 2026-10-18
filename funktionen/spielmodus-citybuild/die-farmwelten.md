@@ -53,17 +53,27 @@ Eigene Netherportale kannst du in den Farmwelten nicht entzünden. Nutze die Por
 
 ### Der Nether
 
-Im Nether ist der Spawn-Bereich genauso groß wie die Spawn-Plattform. Somit kann am Ende der Plattform abgebaut und platziert werden, um sich von dort in den Nether zu bewegen.
+Auf der Cloud erreichst du den Nether über die Farmwelten. Gib dazu einfach `/farm` ein und wähle im Menü den Nether aus – so landest du direkt am Nether-Spawn. Alternativ kannst du auch durch das Netherportal auf der Spawn-Plattform der Overworld gehen, zu der du mit `/warp Plattform` gelangst.
 
-Es befindet sich hier ebenfalls ein Netherportal, um in die Overworld zurückzugelangen.
+<div align="center"><figure><img src="../../.gitbook/assets/IrUhtFT.png" alt="Bild"><figcaption></figcaption></figure></div>
+
+Rund um den Nether-Spawn liegt ein Schutzbereich, der exakt so groß ist wie die Plattform selbst. Innerhalb dieses Bereichs bekommst du keinen Schaden. Direkt am Rand der Plattform endet dieser Schutz: Ab hier kannst du Blöcke abbauen und platzieren, um dir einen Weg weiter in den Nether zu bahnen. Am Spawn befindet sich natürlich auch ein Netherportal, um jederzeit sicher in die Overworld zurückgelangen zu können.
+
+{% hint style="danger" %}
+**Achtung bei Lava und Feuer!**
+Stirbst du im Nether in Lava oder Feuer, wird **keine Todeskiste** generiert. Deine Items fallen dann ganz normal zu Boden und verbrennen sofort. Schutz davor bietet beispielsweise das Perk *Feuerresistenz* (siehe **Perks**). 
+{% endhint %}
 
 #### Änderungen
 
-* Die Netherdecke ist nicht betretbar.
+- Die Netherdecke oberhalb der Grundgestein-Schicht ist gesperrt und nicht betretbar.
+- Eigene Netherportale lassen sich in den Farmwelten nicht entzünden. Nutze für die Reise immer die Portale auf der Plattform.
 
 ### Das End
 
 Der End-Spawn befindet sich in der Mitte der Hauptinsel des Ends. Auch hier erhältst du den Effekt **Langsamer Fall**, jedoch musst du dort einige hundert Blöcke weit bauen, um in das sogenannte erweiterte End zu gelangen. Damit du das nicht machen musst, stehen an zwei Ecken End-Gateways zur Verfügung, die den Spieler in das erweiterte End teleportieren.
+
+<div align="center"><figure><img src="../../.gitbook/assets/rSysRdV.jpg" alt="Bild"><figcaption></figcaption></figure></div>
 
 An einer anderen Ecke befindet sich ein kleines 1-Block-Endportal, mit dem du zurück in die Overworld gelangen kannst.
 
