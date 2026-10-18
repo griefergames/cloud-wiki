@@ -71,15 +71,35 @@ Stirbst du im Nether in Lava oder Feuer, wird **keine Todeskiste** generiert. De
 
 ### Das End
 
-Der End-Spawn befindet sich in der Mitte der Hauptinsel des Ends. Auch hier erhältst du den Effekt **Langsamer Fall**, jedoch musst du dort einige hundert Blöcke weit bauen, um in das sogenannte erweiterte End zu gelangen. Damit du das nicht machen musst, stehen an zwei Ecken End-Gateways zur Verfügung, die den Spieler in das erweiterte End teleportieren.
+Das End ist die dritte Dimension von Minecraft: schwebende Inseln aus Endstein über dem Nichts, dazu Endermen, Endstädte und Shulker. Auf der Cloud erreichst du das End ganz einfach über die Farmwelten:
 
 <div align="center"><figure><img src="../../.gitbook/assets/rSysRdV.jpg" alt="Bild"><figcaption></figcaption></figure></div>
 
-An einer anderen Ecke befindet sich ein kleines 1-Block-Endportal, mit dem du zurück in die Overworld gelangen kannst.
+- Gib `/farm` ein und wähle im Menü das End. Du landest direkt am End-Spawn. Auch `/warp end` funktioniert.
+- Alternativ kannst du durch das Endportal auf der Plattform der Overworld gehen. 
 
-#### Änderungen
+Der End-Spawn liegt mitten auf der großen Hauptinsel. Sie besteht aus Endstein und schwebt über dem absoluten Nichts. Im direkten Spawn-Bereich bist du geschützt: Du erhältst dort den Effekt **Langsamer Fall** und bekommst keinen Schaden. Fällst du am Spawn ins Nichts, stirbst du nicht, sondern landest sicher wieder auf der Plattform in der Overworld.
+
+Damit du dich nicht erst Hunderte Blöcke weit durch die Leere bauen musst, stehen direkt am Spawn praktische Portale zur Verfügung:
+- An zwei Ecken der Spawn-Plattform findest du **End-Gateways**. Sie teleportieren dich direkt in das erweiterte (äußere) End.
+- An einer anderen Ecke befindet sich ein kleines 1-Block-Endportal, mit dem du jederzeit zurück in die Overworld gelangst.
+
+Hinter den Gateways liegen viele große und kleine Inseln – das sogenannte erweiterte End. Dort findest du Choruspflanzen, Massen an Endermen und vor allem die begehrten Endstädte. 
+**Aber Vorsicht:** Hier gibt es keinen Schutz mehr! Wer hier ins Nichts fällt, stirbt und verliert seine Items.
+
+Endstädte (auch Endsiedlungen genannt) sind markante, hohe Türme aus lila Purpurblöcken und Endsteinziegeln, die von leuchtenden Endstäben erhellt werden. Oben in den Türmen stehen Truhen mit wertvoller Beute. Manchmal schwebt direkt daneben auch ein Endschiff.
+
+## Besonderheiten auf GrieferGames
+
+Da das End ein Teil der Farmwelten ist, gibt es hier einige entscheidende Unterschiede zum Singleplayer (siehe auch im Beitrag **[Mechanik-Änderungen](https://wiki.griefergames.net/cloud/funktionen/mechanik-aenderungen)**):
 
 * Die Droprate der Shulker-Schalen ist geringer als im Singleplayer.
 * Die AI der Shulker ist angepasst (keine Teleportation).
 * Der Enderdrache ist nicht vorhanden.
 * Es sind keine Elytren in den Endcitys.
+
+{% hint style="warning" %}
+Da **Shulker** nicht natürlich nachspawnen oder sich vermehren, funktionieren klassische Shulker-Farmen auf der Cloud nicht.
+*
+*In **Shulker-Kisten** kannst du keine Bücher legen. Baust du eine Kiste ab, landet sie direkt in deinem Inventar. 
+{% endhint %}
