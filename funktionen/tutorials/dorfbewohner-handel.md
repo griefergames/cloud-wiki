@@ -85,8 +85,8 @@ Ein Plünderer mit einem Banner auf dem Kopf ist ein Illager-Anführer. Tötest 
 
 Betrittst du damit ein Dorf, beginnt kurz darauf ein Überfall: Mehrere Wellen aus Illagern und Hexen greifen das Dorf an. Besiegst du alle, wirst du zum *Held des Dorfes*. Willst du erst gar keinen Überfall auslösen, trink vorher einfach Milch. Das entfernt den Effekt.
 
-## [#](#dorfbewohner-auf-griefergames)Änderungen auf GrieferGames
+## Änderungen auf GrieferGames
 
 - **Farmwelt:** In der Overworld der Farmwelten ist die AI (Künstliche Intelligenz) der Dorfbewohner etwas reduziert und ihre Anzahl ist begrenzt, um Lags zu vermeiden.
 - **Boote und Loren:** Sitzt ein Dorfbewohner in der Farmwelt in einem Fahrzeug, ist seine AI komplett ausgeschaltet. Dort kann er nicht arbeiten und bekommt keine neuen Angebote (füllt sein rotes X nicht auf). Lass ihn aussteigen, dann ist die AI wieder an.
-- **Grundstücke:** Mit der **Magischen Leine** fängst du einen Dorfbewohner in der Farmwelt und lässt ihn auf deinem Grundstück frei. Dort ist er **nur Deko** und hat keine Funktion. Soll er einen Namen tragen, benenne ihn unbedingt vor dem Einfangen mit einem Namensschild. Mehr unter ****[**Mobs auf dem Grundstück**.](https://wiki.griefergames.net/cloud/funktionen/grundstuecke/mobs-auf-dem-grundstuck)
+- **Grundstücke:** Mit der **Magischen Leine** fängst du einen Dorfbewohner in der Farmwelt und lässt ihn auf deinem Grundstück frei. Dort ist er **nur Deko** und hat keine Funktion. Soll er einen Namen tragen, benenne ihn unbedingt vor dem Einfangen mit einem Namensschild. Mehr unter [**Mobs auf dem Grundstück**.](https://wiki.griefergames.net/cloud/funktionen/grundstuecke/mobs-auf-dem-grundstuck)
