@@ -50,6 +50,45 @@ Die NPC-Arten werden beim Einlösen permanent für den Spieler freigeschaltet un
 Skins, die du noch nicht freigeschaltet hast, kannst du im Menü in einer **Vorschau** ansehen, bevor du dich für eine Freischaltung entscheidest.
 {% endhint %}
 
+#### Transmog
+
+Mit Transmog überträgst du die Optik eines Items auf ein anderes. Werte, Verzauberungen und der Name bleiben am Basis-Item. Geändert wird nur das Aussehen.
+Im Hauptmenü wählst du Optik anwenden. Danach siehst du drei Felder: das Basis-Item, das Transmog-Item und das Ergebnis.
+
+<div align="center"><figure><img src="../../.gitbook/assets/K54bYqI.png" alt="Bild"><figcaption></figcaption></figure></div>
+
+1. Klicke im Inventar auf das Item, dessen Optik verändert werden soll. Es landet im Feld Basis-Item.
+2. Klicke auf das Item, dessen Optik übernommen werden soll. Es landet im Feld Transmog-Item.
+3. Prüfe die Vorschau im Feld Ergebnis.
+4. Klicke auf das Ergebnis und bestätige im nächsten Fenster.
+5. Ein Klick auf ein belegtes Feld leert es wieder. Sind beide Felder belegt, musst du zuerst eines leeren, bevor du ein anderes Item wählst. Dasselbe Item kann nicht in beiden Feldern liegen.
+
+Übernommen werden nur sichtbare Optik-Komponenten, die vom normalen Material abweichen:
+
+- das Item-Modell
+- die CustomModelData
+- der Rüstungsbesatz (Trim)
+- das Aussehen beim Anlegen, sofern das Basis-Item selbst angelegt werden kann
+
+{% hint style="warning" %}
+Das Transmog-Item wird bei der Übertragung verbraucht. Liegt ein Stapel im Slot, wird ein Item davon entfernt.
+Nicht jede Kombination ist möglich. Das Menü zeigt dann Nicht möglich. Rüstung übernimmt das Aussehen beim Anlegen nur von einem Item, das selbst eine Anlege-Optik mitbringt. Sonst wäre das neue Aussehen beim Tragen nicht sichtbar.
+{% endhint %}
+
+Mit Optik entfernen setzt du einzelne Optik-Komponenten eines Items auf den Standard des Materials zurück. Das Item selbst bleibt erhalten, und es wird kein zweites Item verbraucht.
+
+1. Klicke im Inventar auf das Item, dessen Optik zurückgesetzt werden soll.
+2. Wähle unten die Komponenten aus, die du entfernen willst. Bereits veränderte Komponenten sind vorausgewählt.
+3. Prüfe die Vorschau und bestätige.
+
+
+Zur Auswahl stehen ItemModel, CustomModelData, Trim und Equippable. Komponenten, die auf dem Item nicht verändert sind, lassen sich nicht auswählen. Hat das Item gar keine veränderte Optik, kannst du es nicht einlegen.
+
+{% hint style="info" %}
+Beim Zurücksetzen von Equippable bleibt Rüstung Rüstung und Papier bleibt Papier. Es wird nur die abweichende Optik entfernt.
+{% endhint %}
+
+
 ### NPC-Einstellungen
 
 Hier können je nach NPC-Art verschiedene Einstellungen getroffen werden. Für einen "Spieler-NPC" stehen zum Beispiel der Skin oder die Pose zur Verfügung.
