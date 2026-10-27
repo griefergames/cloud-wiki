@@ -118,7 +118,7 @@ Kupfertüren und Kupferfalltüren bringst du eine Stufe weiter, indem du sie zus
 
 In der Steinsäge kannst du Stämme und Holz direkt weiterverarbeiten, ohne vorher Bretter herzustellen.
 
-Du kannst Stämme und Holz dort auch entrinden. Aus **1 Stamm** wird **1 entrindeter Stamm**, aus **1 Holz** wird **1 entrindetes Holz**.
+Du kannst Stämme und Holz dort auch entrinden. Aus **1 Stamm** wird **1 entrindeter Stamm**, aus **1 Holz** wird **1 entrindetes Holz**. Das gilt auch für Karmesin- und Wirrstämme, die zugehörigen Hyphen und für Bambusblöcke.
 
 | Aus 1 Stamm | Menge |
 | ----------- | ----- |
@@ -140,5 +140,5 @@ Du kannst Stämme und Holz dort auch entrinden. Aus **1 Stamm** wird **1 entrind
 Aus 1 Brett erhältst du in der Steinsäge wahlweise 2 Stufen, 2 Stöcke, 1 Knopf, 1 Leiter oder 1 Schüssel.
 
 {% hint style="info" %}
-Nicht jede Holzart hat jedes Ergebnis. Aus Karmesin- und Wirrstämmen gibt es z. B. kein Boot und keine entrindete Variante.
+Nicht jede Holzart hat jedes Ergebnis. Aus Karmesin- und Wirrstämmen gibt es z. B. kein Boot.
 {% endhint %}
